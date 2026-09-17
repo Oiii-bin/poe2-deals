@@ -1,0 +1,62 @@
+name: Daily health check
+
+# 每日體檢：官方兩個資料源 + jsDelivr 鏡像 + 線上站點。
+# 任一環節異常就讓 workflow 失敗（GitHub 會寄信給 repo owner），達到「自動維護」的告警效果。
+#
+# 想改監控的站點網址：repo → Settings → Secrets and variables → Actions → Variables
+# 新增 SITE_URL；沒設就用下面這個預設備援值。
+on:
+  schedule:
+    - cron: "42 22 * * *"   # 每天 UTC 22:42 ≈ 北京 06:42
+  workflow_dispatch: {}
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Check all sources and the live site
+        env:
+          SITE_URL: ${{ vars.SITE_URL || 'https://ce400e38d7244c9089e927ddf.app.workbuddy.link' }}
+        run: |
+          node -e '
+            const SITE = process.env.SITE_URL;
+            const targets = [
+              ["官方 PoE2 商城 API", "https://pathofexile2.com/api/shop-microtransactions?game=poe2", "json"],
+              ["官方 PoE1 特價頁",   "https://www.pathofexile.com/shop/category/specials", "html"],
+              ["社群源 usaginest",   "https://poe.usaginest.com/poe2_special.json", "json"],
+              ["jsDelivr 鏡像",      "https://cdn.jsdelivr.net/gh/Oiii-bin/poe2-deals@main/fallback.json", "json"],
+              ["線上站點 /api/items", SITE + "/api/items", "json"],
+            ];
+            const fails = [];
+            (async () => {
+              for (const [name, url, kind] of targets) {
+                const t0 = Date.now();
+                try {
+                  const r = await fetch(url, { redirect: "follow", signal: AbortSignal.timeout(30000) });
+                  const ms = Date.now() - t0;
+                  if (!r.ok) { fails.push(name + " HTTP " + r.status); console.log("FAIL " + name + " HTTP " + r.status); continue; }
+                  if (kind === "json") {
+                    const j = await r.json();
+                    const n = Array.isArray(j.items) ? j.items.length : Array.isArray(j.data) ? j.data.length : 0;
+                    console.log("OK   " + name + "  " + ms + "ms  items=" + n + (j.sourceUrl ? "  source=" + j.sourceUrl : ""));
+                    if (!n) fails.push(name + " 回傳 0 筆");
+                  } else {
+                    const txt = await r.text();
+                    const ok = txt.includes("new Category(");
+                    console.log((ok ? "OK   " : "FAIL ") + name + "  " + ms + "ms  " + (txt.length/1024).toFixed(0) + "KB  Category=" + ok);
+                    if (!ok) fails.push(name + " 抓不到商品資料");
+                  }
+                } catch (e) {
+                  fails.push(name + " " + e.message);
+                  console.log("FAIL " + name + "  " + e.message);
+                }
+              }
+              console.log("\n=== 結果 ===");
+              if (fails.length) { console.log("❌ " + fails.length + " 項異常："); fails.forEach(f => console.log("   - " + f)); process.exit(1); }
+              console.log("✅ 全部正常");
+            })();
+          '
