@@ -1,0 +1,22 @@
+# ===== 運行時自動產生（勿提交）=====
+translations.cache.json
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ===== 測試 / 暫存 =====
+_fbtest.json
+*.tmp
+_*.json
+
+# ===== 作業系統 / 編輯器 =====
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
+
+# 調查期暫存（官方 SPA chunk，勿提交）
+chunks/

@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>流放2 · 即時折扣站</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Ctext y='52' font-size='52'%3E%E2%9A%94%EF%B8%8F%3C/text%3E%3C/svg%3E">
+<link rel="preconnect" href="https://web.poecdn.com" crossorigin>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <span class="logo">⚔️</span>
+    <div>
+      <h1>流放之路2 · 即時折扣站</h1>
+      <p class="sub">Path of Exile 官方商城每日折扣 · 自動刷新</p>
+    </div>
+  </div>
+  <div class="status">
+    <span id="updated" class="updated">載入中…</span>
+    <button id="bell" class="btn-bell" title="降價提醒">🔔 <span id="bellCount">0</span></button>
+    <button id="favBell" class="btn-bell" title="我的收藏（點擊查看已收藏商品）">⭐ <span id="favBellCount">0</span></button>
+    <button id="refresh" class="btn-refresh" title="手動刷新">↻ 刷新</button>
+  </div>
+</header>
+
+<div class="controls">
+  <input id="search" class="search" type="text" placeholder="🔍 搜尋物品名稱…" autocomplete="off">
+  <div class="seg" id="gameToggle">
+    <button data-game="all" class="active">全部商城</button>
+    <button data-game="PoE2">POE 2</button>
+    <button data-game="PoE1">POE 1</button>
+  </div>
+  <div class="seg" id="sortBy">
+    <button data-sort="off" class="active">折扣高→低</button>
+    <button data-sort="price">價格低→高</button>
+    <button data-sort="name">名稱 A→Z</button>
+  </div>
+  <div class="seg" id="langToggle">
+    <button data-lang="en" class="active">EN</button>
+    <button data-lang="zh">中文</button>
+  </div>
+  <span id="count" class="count"></span>
+</div>
+
+<section class="countdown" id="countdown">
+  <div class="cd-main">
+    <span class="cd-label">距離 <b id="cdName">…</b> 上線</span>
+    <div class="cd-clock" id="cdClock">--:--:--:--</div>
+  </div>
+  <div class="cd-row">
+    <span class="cd-label2">🏷️ 距離折扣刷新</span>
+    <span class="cd-clock2" id="discountClock">--:--:--:--</span>
+  </div>
+  <div class="cd-list" id="cdList"></div>
+</section>
+
+<section class="alerts hidden" id="alerts">
+  <div class="alerts-head">
+    <span>🔥 降價提醒（<span id="alertCount">0</span>）— 比您上次看到的更便宜</span>
+    <button id="clearAlerts">清除全部</button>
+  </div>
+  <div class="alerts-body" id="alertsBody"></div>
+</section>
+
+<section class="alerts fav-alerts hidden" id="favAlerts">
+  <div class="alerts-head">
+    <span>⭐ 收藏折扣提醒（<span id="favAlertCount">0</span>）— 您收藏的東西降價了</span>
+    <button id="clearFavAlerts">清除全部</button>
+  </div>
+  <div class="alerts-body" id="favAlertsBody"></div>
+</section>
+
+<nav id="cats" class="cats" aria-label="分類篩選"></nav>
+
+<main id="grid" class="grid">
+  <div class="loading">正在抓取即時折扣…</div>
+</main>
+
+<footer class="foot">
+  <span>資料來源：Path of Exile 官方商城折扣（經第三方即時彙整）</span>
+  <span>· 點卡片即跳轉官方購買頁</span>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

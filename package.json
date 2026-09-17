@@ -1,1 +1,13 @@
-probe
+{
+  "name": "poe2-deals",
+  "version": "1.0.0",
+  "private": true,
+  "description": "流放之路2 官方商城即時折扣站（零依賴 Node 服務）",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
