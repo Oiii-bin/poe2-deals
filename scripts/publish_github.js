@@ -168,7 +168,7 @@ async function pushViaApi() {
 
 // ---------- 4) API 推送後要對齊本地 refs ----------
 // API commit 不在本地歷史，且本環境 git fetch 常常沒真的寫出 refs/remotes/origin/<branch>
-// → 手動補寫 ref 再 reset，否則下次 git status 會變成 [gone]
+// → 只補寫 remote-tracking ref，絕對不要 reset --hard（會刪掉本地未推送的檔，如 .github/workflows）
 function alignLocal() {
   git(["fetch", "origin", BRANCH], { stdio: "ignore" });
   let sha = null;
@@ -177,13 +177,12 @@ function alignLocal() {
     const m = fs.readFileSync(fh, "utf8").match(/^[0-9a-f]{40}/);
     if (m) sha = m[0];
   }
-  if (!sha) { console.log("⚠️ 讀不到遠端 sha，跳過 refs 對齊"); return; }
+  if (!sha) { console.log("⚠️ 讀不到遠端 sha，跳過 refs 對齊（不動工作區）"); return; }
   const refDir = path.join(DIR, ".git", "refs", "remotes", "origin");
   fs.mkdirSync(refDir, { recursive: true });
   fs.writeFileSync(path.join(refDir, BRANCH), sha + "\n");
   try { git(["update-ref", `refs/remotes/origin/${BRANCH}`, sha], { stdio: "ignore" }); } catch (e) {}
-  git(["reset", "--hard", sha], { stdio: "ignore" });
-  console.log("✅ 本地已對齊遠端 " + sha.slice(0, 7));
+  console.log("ℹ️ 遠端追蹤 ref 已更新為 " + sha.slice(0, 7) + "（工作區未變動）");
 }
 
 (async () => {
