@@ -1,0 +1,93 @@
+name: Refresh PoE2 fallback snapshot
+
+# 定期從「官方 GGG 商城」重新產生 fallback.json 快照並提交。
+#
+# 三個作用：
+#  1) 伺服器端容錯：所有來源臨時掛掉時，部署環境用倉庫內這份快照兜底。
+#  2) 備援來源：提交後 jsDelivr 會快取此檔
+#     （cdn.jsdelivr.net/gh/Oiii-bin/poe2-deals@main/fallback.json），
+#     成為 server.js DATA_SOURCES 的社群之後的第 2 個來源。
+#     ⚠️ 實測部署環境連不到 raw.githubusercontent.com，但連得到 cdn.jsdelivr.net，
+#        所以備援一定要走 jsDelivr，不要用 raw。
+#  3) 保持倉庫活躍：GitHub 對 60 天無活動的倉庫會自動停用排程 Actions。
+#
+# ⚠️ 排程 Actions 在尖峰時可能延遲數十分鐘，屬正常現象。
+on:
+  schedule:
+    # 每 6 小時跑一次（UTC 01/07/13/19 時 17 分 ≈ 北京 09/15/21/03 時 17 分）
+    - cron: "17 1,7,13,19 * * *"
+  workflow_dispatch: {}   # 也可在 Actions 頁面手動觸發
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Build snapshot from OFFICIAL GGG shop
+        id: official
+        continue-on-error: true
+        run: node scrape_official.js -o fallback.json
+        # scrape_official.js 打兩個官方公開端點（都免登入）：
+        #   • pathofexile2.com/api/shop-microtransactions?game=poe2  → 644 件，含 special:{start,end}
+        #   • pathofexile.com/shop/category/specials（SSR 頁面）      → 補 PoE1 專屬外觀
+        # 成功即寫入 repo 根目錄的 fallback.json。失敗不中斷，往下用第三方備援。
+
+      - name: Union community source to fill gaps
+        continue-on-error: true
+        run: |
+          # 官方源偶爾漏掉組合包內容物（社群源會拆成單件列出）→ 聯集補進來
+          node -e "
+            const fs = require('fs');
+            const off = JSON.parse(fs.readFileSync('fallback.json', 'utf8'));
+            fetch('https://poe.usaginest.com/poe2_special.json').then(r => r.json()).then(u => {
+              const seen = new Set(off.items.map(x => x.english && x.english.name));
+              const extra = (u.items || []).filter(x => x.english && x.english.name && !seen.has(x.english.name));
+              off.items = off.items.concat(extra);
+              fs.writeFileSync('fallback.json', JSON.stringify(off, null, 2));
+              console.log('聯集後 items=' + off.items.length + '（官方 ' + (off.items.length - extra.length) + ' + 社群補 ' + extra.length + '）');
+            }).catch(e => console.log('社群源略過：' + e.message));
+          "
+
+      - name: Fallback to community source if official scrape failed
+        if: steps.official.outcome == 'failure'
+        run: |
+          echo "⚠️ 官方爬蟲失敗，改用社群源 usaginest"
+          curl -fsSL --retry 3 --retry-delay 5 --max-time 30 \
+            "https://poe.usaginest.com/poe2_special.json" -o fallback.json
+
+      - name: Validate JSON before committing
+        run: |
+          node -e "
+            const fs = require('fs');
+            const j = JSON.parse(fs.readFileSync('fallback.json', 'utf8'));
+            if (!Array.isArray(j.items) || j.items.length === 0) {
+              console.error('❌ fallback.json 沒有 items，放棄提交');
+              process.exit(1);
+            }
+            const bad = j.items.filter(x => !x.english?.name || !(x.price?.discount < x.price?.original));
+            if (bad.length) {
+              console.error('❌ 有 ' + bad.length + ' 筆資料異常（無名稱或無折扣），放棄提交');
+              process.exit(1);
+            }
+            console.log('✅ 快照有效：date=' + j.date + ' items=' + j.items.length
+              + ' 帶結束時間=' + j.items.filter(x => x.specialEnd).length);
+          "
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add fallback.json
+          if git diff --cached --quiet; then
+            echo "fallback.json 無變動，略過提交"
+          else
+            git commit -m "chore: refresh PoE2 fallback snapshot ($(date -u +%Y-%m-%dT%H:%M)Z)"
+            git push
+          fi
