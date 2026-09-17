@@ -170,7 +170,7 @@ async function pushViaApi() {
 // API commit 不在本地歷史，且本環境 git fetch 常常沒真的寫出 refs/remotes/origin/<branch>
 // → 只補寫 remote-tracking ref，絕對不要 reset --hard（會刪掉本地未推送的檔，如 .github/workflows）
 function alignLocal() {
-  git(["fetch", "origin", BRANCH], { stdio: "ignore" });
+  try { git(["fetch", "origin", BRANCH], { stdio: "ignore" }); } catch (e) {}
   let sha = null;
   const fh = path.join(DIR, ".git", "FETCH_HEAD");
   if (fs.existsSync(fh)) {
