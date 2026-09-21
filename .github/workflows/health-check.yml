@@ -24,6 +24,12 @@ jobs:
         run: |
           node -e '
             const SITE = process.env.SITE_URL;
+            // 官方站有 Cloudflare，裸 fetch 會被擋 403；加瀏覽器標頭才能拿到真實頁面。
+            const HEADERS = {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+              "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+              "Accept-Language": "en-US,en;q=0.9",
+            };
             const targets = [
               ["官方 PoE2 商城 API", "https://pathofexile2.com/api/shop-microtransactions?game=poe2", "json"],
               ["官方 PoE1 特價頁",   "https://www.pathofexile.com/shop/category/specials", "html"],
@@ -36,7 +42,7 @@ jobs:
               for (const [name, url, kind] of targets) {
                 const t0 = Date.now();
                 try {
-                  const r = await fetch(url, { redirect: "follow", signal: AbortSignal.timeout(30000) });
+                  const r = await fetch(url, { redirect: "follow", signal: AbortSignal.timeout(30000), headers: HEADERS });
                   const ms = Date.now() - t0;
                   if (!r.ok) { fails.push(name + " HTTP " + r.status); console.log("FAIL " + name + " HTTP " + r.status); continue; }
                   if (kind === "json") {
