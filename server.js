@@ -343,13 +343,23 @@ function crossCompat(category, game) {
 // ⚠️ 這裡刻意做成「同步、零網路呼叫」：翻譯只讀現有快取，缺的就先出英文。
 //    舊版把翻譯（可長達數十秒）包在整體逾時裡，導致「上游有新資料、卻因為翻譯慢而整包被丟棄、
 //    永遠退回備用快照」。現在改成：新資料立即回傳，翻譯由 kickTranslate() 在背景慢慢補。
+//
+// 翻譯優先順序（2026-09-21 修正「點中文沒翻譯」根因）：
+//   官方臺服繁中 (twName/twDesc) ＞ 機翻快取 (transCache) ＞ 精確詞庫 (ZH_OVERRIDE/ZH_DESC) ＞ 原文。
+//   官方繁中是 GGG 臺服域 pathofexile.tw 直接給的權威譯名（scrape_official.js 以 id 對照 EN 帶入），
+//   品質遠勝機翻、且符合「絕不偽造翻譯」原則；機翻只作為官方源沒涵蓋時的備援。
+function hasCJK(s) { return typeof s === "string" && /[一-鿿]/.test(s); }
 function normalizeSync(json) {
-  const base = (json.items || []).map((it) => {
+  const zh = (t) => (t ? transCache[t] || ZH_OVERRIDE[t] || ZH_DESC[t] || t : t);
+  const items = (json.items || []).map((it) => {
     const original = Number(it.price?.original) || 0;
     const discount = Number(it.price?.discount) || 0;
     const pct = original > 0 ? Math.round((1 - discount / original) * 100) : 0;
     const game = detectGame(it);
     const category = classify(it.english?.name || "");
+    // 官方臺服繁中對照：只接受「真的含中文字」的值，避免空值/異常值蓋掉機翻
+    const twName = hasCJK(it.twName) ? it.twName : null;
+    const twDesc = hasCJK(it.twDesc) ? it.twDesc : null;
     return {
       name: it.english?.name || "未知物品",
       description: it.english?.description || "",
@@ -364,11 +374,11 @@ function normalizeSync(json) {
       // 官方 API 會帶 special:{start,end}（本輪特價的精確結束時間），前端用它做精確倒計時；
       // 社群源沒有這個欄位 → 為 null，前端退回「每日固定時間」估算。
       specialEnd: it.specialEnd || null,
+      // 官方繁中 ＞ 機翻快取 ＞ 詞庫 ＞ 原文
+      zhName: twName || zh(it.english?.name),
+      zhDesc: twDesc || zh(it.english?.description),
     };
   }); // 不再過濾：PoE1 / PoE2 都保留，由前端分區顯示
-  // 翻譯只讀快取（ZH_OVERRIDE / ZH_DESC 在首次翻譯時就已寫入快取，這裡再兜一層保險）
-  const zh = (t) => (t ? transCache[t] || ZH_OVERRIDE[t] || ZH_DESC[t] || t : t);
-  const items = base.map((it) => ({ ...it, zhName: zh(it.name), zhDesc: zh(it.description) }));
   return { date: json.date || new Date().toISOString(), items };
 }
 
@@ -452,9 +462,11 @@ async function fetchSource() {
   if (cache.data && now - cache.ts < CACHE_TTL_SEC * 1000) return cache.data;
 
   // 1) 官方 GGG 商城（主要）
-  let official = null, officialErr = null;
+  let official = null, officialErr = null, twMap = null;
   try {
-    official = (await officialScraper.run({})).out;
+    const res = await officialScraper.run({});
+    official = res.out;
+    twMap = res.twMap; // 臺服繁中對照表（id + 英文名兩張），社群源補譯要用
   } catch (e) {
     officialErr = String((e && e.message) || e);
     console.warn("⚠️ 官方商城源失敗：" + officialErr);
@@ -465,6 +477,10 @@ async function fetchSource() {
     const r = await fetchUpstreamJSON();
     social = r.json;
     socialUrl = r.url;
+    // 社群源商品多半沒有 GGG id，用英文名去臺服目錄補上官方繁中（優於機翻）
+    if (social && twMap) {
+      social = Object.assign({}, social, { items: officialScraper.enrichWithTw(social.items || [], twMap) });
+    }
   } catch (e) {
     socialErr = String((e && e.message) || e);
     if (officialErr) console.warn("⚠️ 社群源也失敗：" + socialErr);
