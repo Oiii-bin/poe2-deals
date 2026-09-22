@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-22 07:24:33",
+  "date": "2026-09-22 15:05:21",
   "items": [
     {
       "english": {
@@ -9,6 +9,7 @@
       "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9IYXJsZXF1aW5BcHBhcml0aW9uSGlkZW91dERlY29yYXRpb24ifV0/9bf92c61cd/HarlequinApparitionHideoutDecoration.png",
       "link": "https://www.pathofexile.com/shop/item/HarlequinApparitionEnvironmentDecoration",
       "source": "poe1",
+      "kind": "discount",
       "price": {
         "original": 40,
         "discount": 15
@@ -24,6 +25,7 @@
       "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9SaW5nbWFzdGVyRmlyZXdvcmtzRW52aXJvbm1lbnREZWNvcmF0aW9uIn1d/bc16bc577c/RingmasterFireworksEnvironmentDecoration.png",
       "link": "https://www.pathofexile.com/shop/item/RingmasterFireworksEnvironmentDecoration",
       "source": "poe1",
+      "kind": "discount",
       "price": {
         "original": 40,
         "discount": 15
@@ -39,6 +41,7 @@
       "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9IYXJsZXF1aW5TcGVjdGF0b3JzIn1d/292298ee4e/HarlequinSpectators.png",
       "link": "https://www.pathofexile.com/shop/item/HarlequinSpectators",
       "source": "poe1",
+      "kind": "discount",
       "price": {
         "original": 50,
         "discount": 20
@@ -54,6 +57,7 @@
       "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9SaW5nbWFzdGVyU3BlY3RhdG9ycyJ9XQ/7c15d6ace8/RingmasterSpectators.png",
       "link": "https://www.pathofexile.com/shop/item/RingmasterSpectators",
       "source": "poe1",
+      "kind": "discount",
       "price": {
         "original": 50,
         "discount": 20
@@ -69,6 +73,7 @@
       "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9IYXJsZXF1aW5CdWlsZGluZ1N1cHBsaWVzIn1d/d4ea3b50dc/HarlequinBuildingSupplies.png",
       "link": "https://www.pathofexile.com/shop/item/HarlequinBuildingSupplies",
       "source": "poe1",
+      "kind": "discount",
       "price": {
         "original": 60,
         "discount": 25
@@ -84,6 +89,7 @@
       "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9SaW5nbWFzdGVyQnVpbGRpbmdTdXBwbGllcyJ9XQ/3558cec02d/RingmasterBuildingSupplies.png",
       "link": "https://www.pathofexile.com/shop/item/RingmasterBuildingSupplies",
       "source": "poe1",
+      "kind": "discount",
       "price": {
         "original": 60,
         "discount": 25
@@ -99,6 +105,7 @@
       "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9DaGFyYWN0ZXIvSGFybGVxdWluQ2hhcmFjdGVyRWZmZWN0In1d/a3c653daaa/HarlequinCharacterEffect.png",
       "link": "https://www.pathofexile.com/shop/item/HarlequinCharacterEffect",
       "source": "poe1",
+      "kind": "discount",
       "price": {
         "original": 210,
         "discount": 105
@@ -114,6 +121,7 @@
       "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Gb290cHJpbnRzL0hhcmxlcXVpbkZvb3RwcmludHMifV0/91252fd17c/HarlequinFootprints.png",
       "link": "https://www.pathofexile.com/shop/item/HarlequinFootprintsEffect",
       "source": "poe1",
+      "kind": "discount",
       "price": {
         "original": 80,
         "discount": 40
@@ -129,6 +137,7 @@
       "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvUGV0cy9DeXJXaGVlbE1vbmtleVBldCJ9XQ/7fedcdc6e8/CyrWheelMonkeyPet.png",
       "link": "https://www.pathofexile.com/shop/item/HarlequinMonkeyPet",
       "source": "poe1",
+      "kind": "discount",
       "price": {
         "original": 160,
         "discount": 80
@@ -144,6 +153,7 @@
       "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvUGV0cy9KdWdnbGluZ1BpbnNQZXQifV0/53135ed426/JugglingPinsPet.png",
       "link": "https://www.pathofexile.com/shop/item/HarlequinPrankstersPet",
       "source": "poe1",
+      "kind": "discount",
       "price": {
         "original": 30,
         "discount": 15
@@ -159,6 +169,7 @@
       "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9DaGFyYWN0ZXIvUmluZ21hc3RlckNoYXJhY3RlckVmZmVjdCJ9XQ/d3eecefc4a/RingmasterCharacterEffect.png",
       "link": "https://www.pathofexile.com/shop/item/RingmasterCharacterEffect",
       "source": "poe1",
+      "kind": "discount",
       "price": {
         "original": 210,
         "discount": 105
@@ -174,6 +185,7 @@
       "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvUGV0cy9SaW5nbWFzdGVyQ2lyY3VzSmVzdGVyUGV0In1d/9e82f2cad7/RingmasterCircusJesterPet.png",
       "link": "https://www.pathofexile.com/shop/item/RingmasterCircusJesterPet",
       "source": "poe1",
+      "kind": "discount",
       "price": {
         "original": 160,
         "discount": 80
@@ -189,6 +201,7 @@
       "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Gb290cHJpbnRzL1JpbmdtYXN0ZXJGb290cHJpbnRzIn1d/f392594dd9/RingmasterFootprints.png",
       "link": "https://www.pathofexile.com/shop/item/RingmasterFootprintsEffect",
       "source": "poe1",
+      "kind": "discount",
       "price": {
         "original": 80,
         "discount": 40
@@ -204,6 +217,7 @@
       "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvUGV0cy9SaW5nbWFzdGVyUGFyYWtlZXRQZXQifV0/3b0b8bea23/RingmasterParakeetPet.png",
       "link": "https://www.pathofexile.com/shop/item/RingmasterParakeetPet",
       "source": "poe1",
+      "kind": "discount",
       "price": {
         "original": 30,
         "discount": 15
@@ -219,6 +233,7 @@
       "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Bcm1vdXJTZXQvSGFybGVxdWluQXJtb3VyIn1d/88211852e7/HarlequinArmour.png",
       "link": "https://www.pathofexile.com/shop/item/HarlequinArmourPack",
       "source": "poe1",
+      "kind": "discount",
       "price": {
         "original": 420,
         "discount": 230
@@ -234,6 +249,7 @@
       "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Bcm1vdXJTZXQvUmluZ21hc3RlckFybW91ciJ9XQ/bb23e51323/RingmasterArmour.png",
       "link": "https://www.pathofexile.com/shop/item/RingmasterArmourPack",
       "source": "poe1",
+      "kind": "discount",
       "price": {
         "original": 420,
         "discount": 230
@@ -249,6 +265,7 @@
       "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9IYXJsZXF1aW5XaW5ncyJ9XQ/5dae059420/HarlequinWings.png",
       "link": "https://www.pathofexile.com/shop/item/HarlequinWings",
       "source": "poe1",
+      "kind": "discount",
       "price": {
         "original": 320,
         "discount": 180
@@ -264,6 +281,7 @@
       "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9SaW5nbWFzdGVyV2luZ3MifV0/e8d776ae2a/RingmasterWings.png",
       "link": "https://www.pathofexile.com/shop/item/RingmasterWings",
       "source": "poe1",
+      "kind": "discount",
       "price": {
         "original": 320,
         "discount": 180
@@ -279,6 +297,7 @@
       "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9IYXJsZXF1aW5DbG9hayJ9XQ/614a8df351/HarlequinCloak.png",
       "link": "https://www.pathofexile.com/shop/item/HarlequinCloak",
       "source": "poe1",
+      "kind": "discount",
       "price": {
         "original": 230,
         "discount": 130
@@ -294,6 +313,7 @@
       "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9SaW5nbWFzdGVyQ2xvYWsifV0/872e7582f7/RingmasterCloak.png",
       "link": "https://www.pathofexile.com/shop/item/RingmasterCloak",
       "source": "poe1",
+      "kind": "discount",
       "price": {
         "original": 230,
         "discount": 130
@@ -309,6 +329,7 @@
       "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vSGFybGVxdWluV2VhcG9uU2tpbiJ9XQ/54e7869183/HarlequinWeaponSkin.png",
       "link": "https://www.pathofexile.com/shop/item/HarlequinWeapon",
       "source": "poe1",
+      "kind": "discount",
       "price": {
         "original": 180,
         "discount": 105
@@ -324,6 +345,7 @@
       "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vd2VhcG9uX0hhcmxlcXVpbiJ9XQ/78e8383b38/weapon_Harlequin.png",
       "link": "https://www.pathofexile.com/shop/item/HarlequinWeaponEffect",
       "source": "poe1",
+      "kind": "discount",
       "price": {
         "original": 180,
         "discount": 105
@@ -339,6 +361,7 @@
       "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vUmluZ21hc3RlcldlYXBvblNraW4ifV0/48fe560764/RingmasterWeaponSkin.png",
       "link": "https://www.pathofexile.com/shop/item/RingmasterWeapon",
       "source": "poe1",
+      "kind": "discount",
       "price": {
         "original": 180,
         "discount": 105
@@ -354,6 +377,7 @@
       "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vd2VhcG9uX1JpbmdtYXN0ZXIifV0/1c02994d84/weapon_Ringmaster.png",
       "link": "https://www.pathofexile.com/shop/item/RingmasterWeaponEffect",
       "source": "poe1",
+      "kind": "discount",
       "price": {
         "original": 180,
         "discount": 105
@@ -369,6 +393,7 @@
       "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9IYXJsZXF1aW5MZWFwU2xhbSJ9XQ/a7a6b6305a/HarlequinLeapSlam.png",
       "link": "https://www.pathofexile.com/shop/item/HarlequinLeapSlamEffect",
       "source": "poe1",
+      "kind": "discount",
       "price": {
         "original": 110,
         "discount": 65
@@ -384,6 +409,7 @@
       "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9SaW5nbWFzdGVyV2hpcmxpbmdCbGFkZXMifV0/580f88aca1/RingmasterWhirlingBlades.png",
       "link": "https://www.pathofexile.com/shop/item/RingmasterWhirlingBladesEffect",
       "source": "poe1",
+      "kind": "discount",
       "price": {
         "original": 110,
         "discount": 65
@@ -399,6 +425,7 @@
       "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9BdXJhcy9IYXJsZXF1aW5BdXJhRWZmZWN0In1d/de1f610cdf/HarlequinAuraEffect.png",
       "link": "https://www.pathofexile.com/shop/item/HarlequinAuraEffect",
       "source": "poe1",
+      "kind": "discount",
       "price": {
         "original": 125,
         "discount": 75
@@ -414,6 +441,7 @@
       "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9IYXRzL0hhcmxlcXVpbkhhdCJ9XQ/c40bf147b1/HarlequinHat.png",
       "link": "https://www.pathofexile.com/shop/item/HarlequinHat",
       "source": "poe1",
+      "kind": "discount",
       "price": {
         "original": 100,
         "discount": 60
@@ -429,6 +457,7 @@
       "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Qb3J0YWxzL0hhcmxlcXVpblBvcnRhbEVmZmVjdCJ9XQ/f5275a7a21/HarlequinPortalEffect.png",
       "link": "https://www.pathofexile.com/shop/item/HarlequinPortalEffect",
       "source": "poe1",
+      "kind": "discount",
       "price": {
         "original": 150,
         "discount": 90
@@ -444,6 +473,7 @@
       "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9BdXJhcy9SaW5nbWFzdGVyQXVyYUVmZmVjdCJ9XQ/d809ce04b5/RingmasterAuraEffect.png",
       "link": "https://www.pathofexile.com/shop/item/RingmasterAuraEffect",
       "source": "poe1",
+      "kind": "discount",
       "price": {
         "original": 125,
         "discount": 75
@@ -459,6 +489,7 @@
       "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9IYXRzL1JpbmdtYXN0ZXJIYXQifV0/8231756dfc/RingmasterHat.png",
       "link": "https://www.pathofexile.com/shop/item/RingmasterHat",
       "source": "poe1",
+      "kind": "discount",
       "price": {
         "original": 100,
         "discount": 60
@@ -474,12 +505,2933 @@
       "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Qb3J0YWxzL1JpbmdtYXN0ZXJQb3J0YWxFZmZlY3QifV0/5a31b90782/RingmasterPortalEffect.png",
       "link": "https://www.pathofexile.com/shop/item/RingmasterPortalEffect",
       "source": "poe1",
+      "kind": "discount",
       "price": {
         "original": 150,
         "discount": 90
       },
       "twName": "時空之門．猛獸馴師",
       "twDesc": "將你所開啟的傳送門替換為猛獸馴師的時空之門。"
+    },
+    {
+      "english": {
+        "name": "Abyssal Dodge Roll Effect",
+        "description": "Adds an abyssal effect when you dodge roll."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9jaGFyYWN0ZXItZWZmZWN0cy9BYnlzc0RvZGdlUm9sbEVmZmVjdCIsInJlYWxtIjoicG9lMiJ9XQ/a370cbad78/AbyssDodgeRollEffect.webp",
+      "link": "https://pathofexile2.com/shop/item/abyssal-dodge-roll-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 70,
+        "discount": 70
+      },
+      "twName": "閃避翻滾．深淵",
+      "twDesc": "為你的閃避翻滾添加深淵特效。"
+    },
+    {
+      "english": {
+        "name": "Abyssal Phoenix Pet",
+        "description": "This blazing bird will glide alongside you on your adventures."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9wZXRzL1Bob2VuaXhQZXRHcmVlbiIsInJlYWxtIjoicG9lMiJ9XQ/34213f5c38/PhoenixPetGreen.webp",
+      "link": "https://pathofexile2.com/shop/item/abyssal-phoenix-pet",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 215,
+        "discount": 215
+      },
+      "twName": "寵物：深淵鳳凰",
+      "twDesc": "這隻燃著熊熊烈火的鳥會翱翔於你身旁，伴隨你的旅程。"
+    },
+    {
+      "english": {
+        "name": "Abyssal Quillbook Pet",
+        "description": "This abyssal tome floats alongside you on your adventures."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9wZXRzL0FieXNzYWxCb29rYW5kUXVpbGxQZXQiLCJyZWFsbSI6InBvZTIifV0/0520b1b6eb/AbyssalBookandQuillPet.webp",
+      "link": "https://pathofexile2.com/shop/item/abyssal-quillbook-pet",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 170,
+        "discount": 170
+      },
+      "twName": "寵物：深淵羽毛書",
+      "twDesc": "這本深淵的魔導書會漂浮在你身旁，伴隨你的旅程。"
+    },
+    {
+      "english": {
+        "name": "Afflicted Altar Stash Bundle",
+        "description": "Contains the Afflicted Altar Stash and Afflicted Altar Guild Stash Decorations. Opens to your Stash Tab with the Ritual Affinity set."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9IaWRlb3V0L0FmZmluaXR5U3Rhc2hSaXR1YWwiLCJyZWFsbSI6InBvZTIifV0/8ced4016b7/AffinityStashRitual.webp",
+      "link": "https://pathofexile2.com/shop/item/afflicted-altar-stash-bundle",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 125,
+        "discount": 125
+      },
+      "twName": "密林祭壇倉庫組合包",
+      "twDesc": "包含密林祭壇倉庫及密林祭壇公會倉庫裝飾物。會開啟至設定為祭祀相容性的倉庫頁面。"
+    },
+    {
+      "english": {
+        "name": "Alpine Plateau Hideout",
+        "description": "Adds the Alpine Plateau Hideout to your account."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9IaWRlb3V0L1BsYWluSGlkZW91dEljZSIsInJlYWxtIjoicG9lMiJ9XQ/d5205569f5/PlainHideoutIce.webp",
+      "link": "https://pathofexile2.com/shop/item/alpine-plateau-hideout",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 110,
+        "discount": 110
+      },
+      "twName": "藏身處：皚雪高原",
+      "twDesc": "為你的藏身處添加一個皚雪高原地圖裝置。"
+    },
+    {
+      "english": {
+        "name": "Ancestral Elemental Sundering Effect",
+        "description": "Replaces the standard effect on an Elemental Sundering gem with an ancestral version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9LYXJ1aUVsZW1lbnRhbFN1bmRlcmluZyIsInJlYWxtIjoicG9lMiJ9XQ/b955442dd3/KaruiElementalSundering.webp",
+      "link": "https://pathofexile2.com/shop/item/ancestral-elemental-sundering-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 70,
+        "discount": 70
+      },
+      "twName": "元素崩裂．祖靈",
+      "twDesc": "將技能「元素崩裂」的特效替換為祖靈。"
+    },
+    {
+      "english": {
+        "name": "Ancestral Explosive Spear Effect",
+        "description": "Replaces the standard effect on an Explosive Spear gem with an ancestral version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9LYXJ1aUV4cGxvc2l2ZVNwZWFyIiwicmVhbG0iOiJwb2UyIn1d/5ff79ca56c/KaruiExplosiveSpear.webp",
+      "link": "https://pathofexile2.com/shop/item/ancestral-explosive-spear-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 80,
+        "discount": 80
+      },
+      "twName": "爆炸長矛．祖靈",
+      "twDesc": "將技能「爆炸長矛」的特效替換為祖靈。"
+    },
+    {
+      "english": {
+        "name": "Ancestral Fangs of Frost Effect",
+        "description": "Replaces the standard effect on a Fangs of Frost gem with an ancestral version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9LYXJ1aUZhbmdzb2ZGcm9zdCIsInJlYWxtIjoicG9lMiJ9XQ/9f053dda3a/KaruiFangsofFrost.webp",
+      "link": "https://pathofexile2.com/shop/item/ancestral-fangs-of-frost-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 75,
+        "discount": 75
+      },
+      "twName": "刺骨寒冰．祖靈",
+      "twDesc": "將技能「刺骨寒冰」的特效替換為祖靈。"
+    },
+    {
+      "english": {
+        "name": "Ancestral Glacial Lance Effect",
+        "description": "Replaces the standard effect on a Glacial Lance gem with an ancestral version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9BbmNlc3RyYWxHbGFjaWFsTGFuY2UiLCJyZWFsbSI6InBvZTIifV0/9a5aa5b12e/AncestralGlacialLance.webp",
+      "link": "https://pathofexile2.com/shop/item/ancestral-glacial-lance-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 90,
+        "discount": 90
+      },
+      "twName": "冰川之槍．祖靈",
+      "twDesc": "將技能「冰川之槍」的特效替換為祖靈。"
+    },
+    {
+      "english": {
+        "name": "Ancestral Lightning Spear Effect",
+        "description": "Replaces the standard effect on a Lightning Spear gem with an ancestral version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9LYXJ1aUxpZ2h0bmluZ1NwZWFyIiwicmVhbG0iOiJwb2UyIn1d/7548b935f3/KaruiLightningSpear.webp",
+      "link": "https://pathofexile2.com/shop/item/ancestral-lightning-spear-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 90,
+        "discount": 90
+      },
+      "twName": "閃電長矛．祖靈",
+      "twDesc": "將技能「閃電長矛」的特效替換為祖靈。"
+    },
+    {
+      "english": {
+        "name": "Ancestral Primal Strikes Effect",
+        "description": "Replaces the standard effect on a Primal Strike gem with an ancestral version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9LYXJ1aUFuY2VzdG9yRWxlbWVudGFsU3BlYXJQcmltYWxTdHJpa2UiLCJyZWFsbSI6InBvZTIifV0/af0151fc20/KaruiAncestorElementalSpearPrimalStrike.webp",
+      "link": "https://pathofexile2.com/shop/item/ancestral-primal-strikes-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 95,
+        "discount": 95
+      },
+      "twName": "原始打擊．祖靈",
+      "twDesc": "將技能「原始打擊」的特效替換為祖靈。"
+    },
+    {
+      "english": {
+        "name": "Ancestral Spear of Solaris Effect",
+        "description": "Replaces the standard effect on a Spear of Solaris gem with an ancestral version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9BbmNlc3RyYWxTcGVhcm9mU29sYXJpcyIsInJlYWxtIjoicG9lMiJ9XQ/002b90c7c6/AncestralSpearofSolaris.webp",
+      "link": "https://pathofexile2.com/shop/item/ancestral-spear-of-solaris-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 100,
+        "discount": 100
+      },
+      "twName": "日耀長矛．祖靈",
+      "twDesc": "將技能「日耀長矛」的特效替換為先祖。"
+    },
+    {
+      "english": {
+        "name": "Ancestral Spear Skill Effect Bundle",
+        "description": "Contains the Ancestral Elemental Sundering, Explosive Spear, Fangs of Frost, Glacial Lance, Lightning Spear, Primal Strikes, Spear of Solaris, Storm Lance, and Thunderous Leap skill effects (at a discounted price)."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9LYXJ1aUZhbmdzb2ZGcm9zdCIsInJlYWxtIjoicG9lMiJ9XQ/9f053dda3a/KaruiFangsofFrost.webp",
+      "link": "https://pathofexile2.com/shop/item/ancestral-spear-skill-effect-bundle",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 500,
+        "discount": 500
+      },
+      "twName": "祖靈長矛技能特效組合包",
+      "twDesc": "包含了元素崩裂．祖靈、爆炸長矛．祖靈、刺骨寒冰．祖靈、冰川之槍．祖靈、閃電長矛．祖靈、原始打擊．祖靈、日耀長矛．祖靈、風暴之槍．祖靈，以及雷霆跳躍．祖靈技能特效（這是優惠組合）。"
+    },
+    {
+      "english": {
+        "name": "Ancestral Storm Lance Effect",
+        "description": "Replaces the standard effect on an Storm Lance gem with an ancestral version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9LYXJ1aUFuY2VzdG9yRWxlbWVudGFsU3BlYXJTdG9ybUxhbmNlIiwicmVhbG0iOiJwb2UyIn1d/35d0821dc3/KaruiAncestorElementalSpearStormLance.webp",
+      "link": "https://pathofexile2.com/shop/item/ancestral-storm-lance-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 90,
+        "discount": 90
+      },
+      "twName": "風暴之槍．祖靈",
+      "twDesc": "將技能「風暴之槍」的特效替換為祖靈。"
+    },
+    {
+      "english": {
+        "name": "Ancestral Thunderous Leap Effect",
+        "description": "Replaces the standard effect on a Thunderous Leap gem with an ancestral version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9LYXJ1aUFuY2VzdG9yRWxlbWVudGFsU3BlYXJUaHVuZGVyb3VzTGVhcCIsInJlYWxtIjoicG9lMiJ9XQ/73fb4bd3d0/KaruiAncestorElementalSpearThunderousLeap.webp",
+      "link": "https://pathofexile2.com/shop/item/ancestral-thunderous-leap-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 90,
+        "discount": 90
+      },
+      "twName": "雷霆跳躍．祖靈",
+      "twDesc": "將技能「雷霆跳躍」的特效替換為祖靈。"
+    },
+    {
+      "english": {
+        "name": "Aurora Frost Bomb Effect",
+        "description": "Replaces the standard effect on a Frost Bomb gem with an aurora version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9hbHRlcm5hdGUtc2tpbGwtZWZmZWN0cy9BdXJvcmFGcm9zdEJvbWIiLCJyZWFsbSI6InBvZTIifV0/3c55f4fe9a/AuroraFrostBomb.webp",
+      "link": "https://pathofexile2.com/shop/item/aurora-frost-bomb-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 110,
+        "discount": 110
+      },
+      "twName": "寒霜爆．絢爛極光",
+      "twDesc": "將技能「寒霜爆」的特效替換為極光。"
+    },
+    {
+      "english": {
+        "name": "Aurora Glacial Lance Effect",
+        "description": "Replaces the standard effect on a Glacial Lance gem with an aurora version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9hbHRlcm5hdGUtc2tpbGwtZWZmZWN0cy9BdXJvcmFHbGFjaWFsTGFuY2UiLCJyZWFsbSI6InBvZTIifV0/19ddc87f62/AuroraGlacialLance.webp",
+      "link": "https://pathofexile2.com/shop/item/aurora-glacial-lance-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 110,
+        "discount": 110
+      },
+      "twName": "冰川之槍．絢爛極光",
+      "twDesc": "將技能「冰川之槍」的特效替換為極光。"
+    },
+    {
+      "english": {
+        "name": "Aurora Herald of Ice Effect",
+        "description": "Replaces the standard effect on a Herald of Ice gem with an aurora version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9hbHRlcm5hdGUtc2tpbGwtZWZmZWN0cy9BdXJvcmFIZXJhbGRvZkljZSIsInJlYWxtIjoicG9lMiJ9XQ/f7cd325e33/AuroraHeraldofIce.webp",
+      "link": "https://pathofexile2.com/shop/item/aurora-herald-of-ice-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 80,
+        "discount": 80
+      },
+      "twName": "冰霜之捷．絢爛極光",
+      "twDesc": "將技能「冰霜之捷」的特效替換為極光。"
+    },
+    {
+      "english": {
+        "name": "Aurora Ice Shot Effect",
+        "description": "Replaces the standard effect on an Ice Shot gem with an aurora version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9hbHRlcm5hdGUtc2tpbGwtZWZmZWN0cy9BdXJvcmFJY2VTaG90IiwicmVhbG0iOiJwb2UyIn1d/596ac40ca6/AuroraIceShot.webp",
+      "link": "https://pathofexile2.com/shop/item/aurora-ice-shot-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 90,
+        "discount": 90
+      },
+      "twName": "冰霜射擊．絢爛極光",
+      "twDesc": "將技能「冰霜射擊」的特效替換為極光。"
+    },
+    {
+      "english": {
+        "name": "Aurora Ice Strike Effect",
+        "description": "Replaces the standard effect on an Ice Strike gem with an aurora version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9hbHRlcm5hdGUtc2tpbGwtZWZmZWN0cy9BdXJvcmFJY2VTdHJpa2VFZmZlY3QiLCJyZWFsbSI6InBvZTIifV0/8931722fc0/AuroraIceStrikeEffect.webp",
+      "link": "https://pathofexile2.com/shop/item/aurora-ice-strike-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 90,
+        "discount": 90
+      },
+      "twName": "霜星連擊．絢爛極光",
+      "twDesc": "將技能「霜星連擊」的特效替換為極光。"
+    },
+    {
+      "english": {
+        "name": "Blight Bow Skill Effect Bundle",
+        "description": "Contains the Blight Gas Arrow, Poisonburst Arrow, Toxic Domain, Toxic Growth, Vine Arrow and Plague Bearer skill effects (at a discounted price)."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9CbGlnaHRSYW5nZXJQb2lzb25CdW5kbGUiLCJyZWFsbSI6InBvZTIifV0/607f6f0aa8/BlightRangerPoisonBundle.webp",
+      "link": "https://pathofexile2.com/shop/item/blight-bow-skill-effect-bundle",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 330,
+        "discount": 330
+      }
+    },
+    {
+      "english": {
+        "name": "Blight Plague Bearer Effect",
+        "description": "Replaces the standard effect on a Plague Bearer gem with a blight version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Qb2lzb25QbGFndWViZWFkZXJFZmZlY3QiLCJyZWFsbSI6InBvZTIifV0/2a111c7f14/PoisonPlaguebeaderEffect.webp",
+      "link": "https://pathofexile2.com/shop/item/blight-plague-bearer-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 70,
+        "discount": 70
+      },
+      "twName": "病疫之難．凋落",
+      "twDesc": "將技能「病疫之難」的特效替換為凋落。"
+    },
+    {
+      "english": {
+        "name": "Blueflame Phoenix Pet",
+        "description": "This blazing bird will glide alongside you on your adventures."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9wZXRzL1Bob2VuaXhQZXRCbHVlIiwicmVhbG0iOiJwb2UyIn1d/2056a18c62/PhoenixPetBlue.webp",
+      "link": "https://pathofexile2.com/shop/item/blueflame-phoenix-pet",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 230,
+        "discount": 230
+      },
+      "twName": "寵物：蒼焰鳳凰",
+      "twDesc": "這隻燃著熊熊烈火的鳥會翱翔於你身旁，伴隨你的旅程。"
+    },
+    {
+      "english": {
+        "name": "Bronze Marionette Back Attachment",
+        "description": "Adds the Bronze Marionette Back Attachment to any equipped body armour."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvUG9yY2VsYWluTWFyaW9uZXR0ZXNSZXZlbmdlQmFja0F0dGFjaG1lbnQiLCJyZWFsbSI6InBvZTIifV0/c8f2d7d14e/PorcelainMarionettesRevengeBackAttachment.webp",
+      "link": "https://pathofexile2.com/shop/item/bronze-marionette-back-attachment",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 120,
+        "discount": 120
+      },
+      "twName": "背飾：黃銅縫偶",
+      "twDesc": "在你的背後附加黃銅縫偶背飾。"
+    },
+    {
+      "english": {
+        "name": "Bronze Marionette Character Skin",
+        "description": "Replaces the appearance of your character skin with the bronze marionette character skin."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9jaGFyYWN0ZXItZWZmZWN0cy9NYXJpb25ldHRlc1JldmVuZ2VTa2luQnJvbnplIiwicmVhbG0iOiJwb2UyIn1d/4dd4eabcaf/MarionettesRevengeSkinBronze.webp",
+      "link": "https://pathofexile2.com/shop/item/bronze-marionette-character-skin",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 80,
+        "discount": 80
+      },
+      "twName": "角色外觀：黃銅縫偶",
+      "twDesc": "將你的角色外觀替換為黃銅縫偶。"
+    },
+    {
+      "english": {
+        "name": "Bronze Marionette Weapon Skin",
+        "description": "Changes the appearance of any equipped Sceptre, Wand, Focus, or Staff to the Bronze Marionette Weapon Skin."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvTWFyaW9uZXR0ZXNSZXZlbmdlV2VhcG9uU2tpblBvcmNlbGFpbiIsInJlYWxtIjoicG9lMiJ9XQ/a4bc387d72/MarionettesRevengeWeaponSkinPorcelain.webp",
+      "link": "https://pathofexile2.com/shop/item/bronze-marionette-weapon-skin",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 150,
+        "discount": 150
+      },
+      "twName": "武器外觀：黃銅縫偶",
+      "twDesc": "將任何已裝備的權杖、法杖、法器、或長杖的武器外觀替換為黃銅縫偶。"
+    },
+    {
+      "english": {
+        "name": "Chaosborn Contagion Effect",
+        "description": "Replaces the standard effect on a Contagion gem with a chaosborn version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9LaW5naW50aGVtaXN0c2NvbnRhZ2lvbmVmZmVjdCIsInJlYWxtIjoicG9lMiJ9XQ/0a65f39dad/Kinginthemistscontagioneffect.webp",
+      "link": "https://pathofexile2.com/shop/item/chaosborn-contagion-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 85,
+        "discount": 85
+      },
+      "twName": "瘟疫．混沌德魯伊",
+      "twDesc": "將技能「瘟疫」的特效替換為混沌德魯伊。"
+    },
+    {
+      "english": {
+        "name": "Chaosborn Dark Effigy Effect",
+        "description": "Replaces the standard effect on a Dark Effigy gem with a chaosborn version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9LaW5nSW5UaGVNaXN0c0RhcmtFZmZpZ3kiLCJyZWFsbSI6InBvZTIifV0/7b0d0e8e5c/KingInTheMistsDarkEffigy.webp",
+      "link": "https://pathofexile2.com/shop/item/chaosborn-dark-effigy-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 85,
+        "discount": 85
+      },
+      "twName": "黑暗雕像．混沌德魯伊",
+      "twDesc": "將技能「黑暗雕像」的特效替換為混沌德魯伊。"
+    },
+    {
+      "english": {
+        "name": "Chaosborn Essence Drain Effect",
+        "description": "Replaces the standard effect on an Essence Drain gem with a chaosborn version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9LaW5nSW5UaGVNaXN0c0Vzc2VuY2VEcmFpbkVmZmVjdCIsInJlYWxtIjoicG9lMiJ9XQ/058820b7db/KingInTheMistsEssenceDrainEffect.webp",
+      "link": "https://pathofexile2.com/shop/item/chaosborn-essence-drain-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 80,
+        "discount": 80
+      },
+      "twName": "靈魂吸取．混沌德魯伊",
+      "twDesc": "將技能「靈魂吸取」的特效替換為混沌德魯伊。"
+    },
+    {
+      "english": {
+        "name": "Chaosborn Hexblast Effect",
+        "description": "Replaces the standard effect on a Hexblast gem with a chaosborn version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9LaW5nSW5UaGVNaXN0c0hleEJsYXN0RWZmZWN0IiwicmVhbG0iOiJwb2UyIn1d/7c005cb18f/KingInTheMistsHexBlastEffect.webp",
+      "link": "https://pathofexile2.com/shop/item/chaosborn-hexblast-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 85,
+        "discount": 85
+      },
+      "twName": "咒術枯萎．混沌德魯伊",
+      "twDesc": "將技能「咒術枯萎」的特效替換為混沌德魯伊。"
+    },
+    {
+      "english": {
+        "name": "Chaosborn Occult Skill Effect Bundle",
+        "description": "Contains the Chaosborn Essence Drain, Contagion, Dark Effigy, Hexblast and Profane Ritual skill effects (at a discounted price)."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9LaW5naW50aGVNaXN0c0NoYW9zU2tpbGxzQnVuZGxlIiwicmVhbG0iOiJwb2UyIn1d/3d7e2dbc22/KingintheMistsChaosSkillsBundle.webp",
+      "link": "https://pathofexile2.com/shop/item/chaosborn-occult-skill-effect-bundle",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 300,
+        "discount": 300
+      },
+      "twName": "混沌德魯伊技能特效組合包",
+      "twDesc": "包含了靈魂吸取．混沌德魯伊、瘟疫．混沌德魯伊、黑暗雕像．混沌德魯伊、咒術枯萎．混沌德魯伊、和褻瀆儀式．混沌德魯伊（這是優惠組合）。"
+    },
+    {
+      "english": {
+        "name": "Chaosborn Profane Ritual Effect",
+        "description": "Replaces the standard effect on a Profane Ritual gem with a chaosborn version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9LaW5nSW50aGVtaXN0c1Byb2ZhbmVyaXR1YWxlZmZlY3QiLCJyZWFsbSI6InBvZTIifV0/2ddcb6ac64/KingInthemistsProfaneritualeffect.webp",
+      "link": "https://pathofexile2.com/shop/item/chaosborn-profane-ritual-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 90,
+        "discount": 90
+      },
+      "twName": "褻瀆儀式．混沌德魯伊",
+      "twDesc": "將技能「褻瀆儀式」的特效替換為混沌德魯伊。"
+    },
+    {
+      "english": {
+        "name": "Chaotic Stormborne Armour Pack",
+        "description": "Contains the Chaotic Stormborne Body Armour, Stormborne Helmet, Stormborne Gloves, and Stormborne Boots (at a discounted price)."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvQmxhY2tTdG9ybWJvcm5lSHVudHJlc3NBcm1vdXJTZXQiLCJyZWFsbSI6InBvZTIifV0/225e776a0d/BlackStormborneHuntressArmourSet.webp",
+      "link": "https://pathofexile2.com/shop/item/chaotic-stormborne-armour-pack",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 340,
+        "discount": 340
+      },
+      "twName": "混沌起源風暴組合包",
+      "twDesc": "包含混沌起源風暴頭盔、鞋靴、手套和身體護甲（這是優惠組合）。"
+    },
+    {
+      "english": {
+        "name": "Chaotic Stormborne Back Attachment",
+        "description": "Adds the Chaotic Stormborne Back Attachment to your body armour."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvQ2hhb3RpY1N0b3JtYm9ybmVCYWNrQXR0YWNobWVudCIsInJlYWxtIjoicG9lMiJ9XQ/cf090b06a8/ChaoticStormborneBackAttachment.webp",
+      "link": "https://pathofexile2.com/shop/item/chaotic-stormborne-back-attachment",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 95,
+        "discount": 95
+      },
+      "twName": "背飾：混沌起源風暴",
+      "twDesc": "在你的背後附加混沌起源風暴背飾。"
+    },
+    {
+      "english": {
+        "name": "Civic Square Hideout",
+        "description": "Adds the Civic Square Hideout to your account."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9IaWRlb3V0L1BsYWluSGlkZW91dFVyYmFuIiwicmVhbG0iOiJwb2UyIn1d/22c00b9e60/PlainHideoutUrban.webp",
+      "link": "https://pathofexile2.com/shop/item/civic-square-hideout",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 115,
+        "discount": 115
+      },
+      "twName": "藏身處．紛擾街區",
+      "twDesc": "為你的藏身處添加一個紛擾街區地圖裝置。"
+    },
+    {
+      "english": {
+        "name": "Crimson Hourglass Map Device",
+        "description": "Adds a Crimson Hourglass Map Device decoration to your personal Hideout. Tracks how long it takes to complete maps, and allows you to keep a record of the times you're most proud of."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9IaWRlb3V0L1BpbmtIb3VyZ2xhc3NNYXBEZXZpY2UiLCJyZWFsbSI6InBvZTIifV0/3eb23922ef/PinkHourglassMapDevice.webp",
+      "link": "https://pathofexile2.com/shop/item/crimson-hourglass-map-device",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 220,
+        "discount": 220
+      },
+      "twName": "裝飾物：腥紅沙漏地圖裝置",
+      "twDesc": "為你的藏身處添加一個腥紅沙漏地圖裝置。會記錄你完成地圖所花的時間，並允許你保留一個你最驕傲的紀錄。"
+    },
+    {
+      "english": {
+        "name": "Crimson Sands Portal Effect",
+        "description": "Replaces the standard effect on portals you create with the Crimson Sands Portal Effect."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9jaGFyYWN0ZXItZWZmZWN0cy9SZWRIb3VyZ2xhc3NQb3J0YWwiLCJyZWFsbSI6InBvZTIifV0/90067b3c7f/RedHourglassPortal.webp",
+      "link": "https://pathofexile2.com/shop/item/crimson-sands-portal-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 170,
+        "discount": 170
+      },
+      "twName": "時空之門．腥紅飛砂",
+      "twDesc": "此角色的傳送門替換為腥紅飛砂的時空之門。"
+    },
+    {
+      "english": {
+        "name": "Curse of the Allflame Mystery Box",
+        "description": "Receive a random prize with a Curse of the Allflame theme! It'll appear inside your MTX stash, waiting to be unwrapped."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9teXN0ZXJ5L0N1cnNlb2Z0aGVBbGxmbGFtZU15c3RlcnlCb3hfU2hvcExhcmdlIiwicmVhbG0iOiJwb2UyIn1d/1f7a6e5cf6/CurseoftheAllflameMysteryBox_ShopLarge.webp",
+      "link": "https://pathofexile2.com/shop/item/curse-of-the-allflame-mystery-box",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 50,
+        "discount": 50
+      },
+      "twName": "亡焰咒海神秘寶箱",
+      "twDesc": "收到一個內含亡焰咒海主題商品的神秘寶箱！快去打開充滿驚喜的寶箱吧！"
+    },
+    {
+      "english": {
+        "name": "Curse of the Allflame Mystery Box Bundle",
+        "description": "Contains five Curse of the Allflame Mystery Boxes, each containing a random prize with a Curse of the Allflame theme."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9teXN0ZXJ5L0N1cnNlb2Z0aGVBbGxmbGFtZU15c3RlcnlCb3hfU2hvcExhcmdlIiwicmVhbG0iOiJwb2UyIn1d/1f7a6e5cf6/CurseoftheAllflameMysteryBox_ShopLarge.webp",
+      "link": "https://pathofexile2.com/shop/item/curse-of-the-allflame-mystery-box-bundle",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 250,
+        "discount": 250
+      },
+      "twName": "亡焰咒海神秘寶箱包",
+      "twDesc": "包含 5 個亡焰咒海神秘寶箱，每個可隨機獲得 1 個亡焰咒海主題商品。"
+    },
+    {
+      "english": {
+        "name": "Delirium Bow Skill Effect Bundle",
+        "description": "Contains the Delirium Escape Shot, Freezing Salvo, Freezing Mark, Ice Shot, and Ice-Tipped Arrows Skill Effects (at a discounted price)."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9EZWxpcml1bUljZVNob3QiLCJyZWFsbSI6InBvZTIifV0/c91c809adb/DeliriumIceShot.webp",
+      "link": "https://pathofexile2.com/shop/item/delirium-bow-skill-effect-bundle",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 270,
+        "discount": 270
+      },
+      "twName": "弓技能特效．譫妄組合包",
+      "twDesc": "包含了逃脫之矢．譫妄、凍結齊射．譫妄、冰凍印記．譫妄、冰鏃箭矢．譫妄以及冰霜射擊．譫妄技能特效（這是優惠組合）。"
+    },
+    {
+      "english": {
+        "name": "Delirium Escape Shot Effect",
+        "description": "Replaces the standard effect on an Escape Shot gem with a delirium version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9EZWxpcml1bUljZUFyY2hlckVzY2FwZVNob3QiLCJyZWFsbSI6InBvZTIifV0/4a42756eea/DeliriumIceArcherEscapeShot.webp",
+      "link": "https://pathofexile2.com/shop/item/delirium-escape-shot-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 95,
+        "discount": 95
+      },
+      "twName": "逃脫之矢．譫妄",
+      "twDesc": "將技能「逃脫之矢」的特效替換為譫妄。"
+    },
+    {
+      "english": {
+        "name": "Delirium Freezing Mark Effect",
+        "description": "Replaces the standard effect on a Freezing Mark gem with a delirium version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9EZWxpcml1bUljZUZyZWV6aW5nTWFyayIsInJlYWxtIjoicG9lMiJ9XQ/3d794975e1/DeliriumIceFreezingMark.webp",
+      "link": "https://pathofexile2.com/shop/item/delirium-freezing-mark-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 75,
+        "discount": 75
+      },
+      "twName": "冰凍印記．譫妄",
+      "twDesc": "將技能「冰凍印記」的特效替換為譫妄。"
+    },
+    {
+      "english": {
+        "name": "Delirium Freezing Salvo Effect",
+        "description": "Replaces the standard effect on a Freezing Salvo gem with a delirium version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9EZWxpcml1bUljZUFyY2hlckZyZWV6aW5nU2Fsdm8iLCJyZWFsbSI6InBvZTIifV0/20d7459852/DeliriumIceArcherFreezingSalvo.webp",
+      "link": "https://pathofexile2.com/shop/item/delirium-freezing-salvo-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 90,
+        "discount": 90
+      },
+      "twName": "凍結齊射．譫妄",
+      "twDesc": "將技能「凍結齊射」的特效替換為譫妄。"
+    },
+    {
+      "english": {
+        "name": "Delirium Ice Shot Effect",
+        "description": "Replaces the standard effect on an Ice Shot gem with a delirium version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9EZWxpcml1bUljZVNob3QiLCJyZWFsbSI6InBvZTIifV0/c91c809adb/DeliriumIceShot.webp",
+      "link": "https://pathofexile2.com/shop/item/delirium-ice-shot-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 90,
+        "discount": 90
+      },
+      "twName": "冰霜射擊．譫妄",
+      "twDesc": "將技能「冰霜射擊」的特效替換為譫妄。"
+    },
+    {
+      "english": {
+        "name": "Delirium Ice-Tipped Arrows Effect",
+        "description": "Replaces the standard effect on an Ice-Tipped Arrows gem with a delirium version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9EZWxpcml1bUljZUFyY2hlckljZVRpcHBlZEFycm93cyIsInJlYWxtIjoicG9lMiJ9XQ/914cb6eeeb/DeliriumIceArcherIceTippedArrows.webp",
+      "link": "https://pathofexile2.com/shop/item/delirium-ice-tipped-arrows-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 70,
+        "discount": 70
+      },
+      "twName": "冰鏃箭矢．譫妄",
+      "twDesc": "將技能「冰鏃箭矢」的特效替換為譫妄。"
+    },
+    {
+      "english": {
+        "name": "Desert Hourglass Map Device",
+        "description": "Adds a Desert Hourglass Map Device decoration to your personal Hideout. Tracks how long it takes to complete maps, and allows you to keep a record of the times you're most proud of."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9IaWRlb3V0L0hvdXJnbGFzc01hcERldmljZSIsInJlYWxtIjoicG9lMiJ9XQ/8c8d578418/HourglassMapDevice.webp",
+      "link": "https://pathofexile2.com/shop/item/desert-hourglass-map-device",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 200,
+        "discount": 200
+      },
+      "twName": "裝飾物：荒漠沙漏地圖裝置",
+      "twDesc": "為你的藏身處添加一個荒漠沙漏地圖裝置。會記錄你完成地圖所花的時間，並允許你保留一個你最驕傲的紀錄。"
+    },
+    {
+      "english": {
+        "name": "Desert Sands Portal Effect",
+        "description": "Replaces the standard effect on portals you create with the Desert Sands Portal Effect."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9jaGFyYWN0ZXItZWZmZWN0cy9Ib3VyZ2xhc3NQb3J0YWwiLCJyZWFsbSI6InBvZTIifV0/3c31c050e0/HourglassPortal.webp",
+      "link": "https://pathofexile2.com/shop/item/desert-sands-portal-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 150,
+        "discount": 150
+      },
+      "twName": "時空之門．荒漠飛砂",
+      "twDesc": "此角色的傳送門替換為荒漠飛砂的時空之門。"
+    },
+    {
+      "english": {
+        "name": "Fleshveil Marionette Armour Pack",
+        "description": "Contains the Fleshveil Marionette Helmet, Boots, Gloves, Body Armour, and Character Skin (at a discounted price)."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9idW5kbGVzL0ZsZXNodmVpbE1hcmlvbmV0dGVBcm1vdXJCdW5kbGUiLCJyZWFsbSI6InBvZTIifV0/35a208e6af/FleshveilMarionetteArmourBundle.webp",
+      "link": "https://pathofexile2.com/shop/item/fleshveil-marionette-armour-pack",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 390,
+        "discount": 390
+      },
+      "twName": "血肉縫偶組合包",
+      "twDesc": "包含了頭部外觀：血肉縫偶、腳部外觀：血肉縫偶、手部外觀：血肉縫偶、身體外觀：血肉縫偶以及角色外觀（這是優惠組合）。"
+    },
+    {
+      "english": {
+        "name": "Frigid Stormborne Armour Pack",
+        "description": "Contains the Frigid Stormborne Body Armour, Stormborne Helmet, Stormborne Gloves, and Stormborne Boots (at a discounted price)."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvV2hpdGVTdG9ybWJvcm5lSHVudHJlc3NBcm1vdXJTZXQiLCJyZWFsbSI6InBvZTIifV0/1fde086857/WhiteStormborneHuntressArmourSet.webp",
+      "link": "https://pathofexile2.com/shop/item/frigid-stormborne-armour-pack",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 325,
+        "discount": 325
+      },
+      "twName": "霜寒起源風暴組合包",
+      "twDesc": "包含霜寒起源風暴頭盔、鞋靴、手套和身體護甲（這是優惠組合）。"
+    },
+    {
+      "english": {
+        "name": "Frigid Stormborne Back Attachment",
+        "description": "Adds the Frigid Stormborne Back Attachment to your body armour."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvRnJpZ2lkU3Rvcm1ib3JuZUJhY2tBdHRhY2htZW50IiwicmVhbG0iOiJwb2UyIn1d/d1ccfa5625/FrigidStormborneBackAttachment.webp",
+      "link": "https://pathofexile2.com/shop/item/frigid-stormborne-back-attachment",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 80,
+        "discount": 80
+      },
+      "twName": "背飾：霜寒起源風暴",
+      "twDesc": "在你的背後附加霜寒起源風暴背飾。"
+    },
+    {
+      "english": {
+        "name": "Ghostlance Level-up Extra Effect",
+        "description": "Adds a ghostlance effect when you level up."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvR2hvc3RMZXZlbFVwRWZmZWN0IiwicmVhbG0iOiJwb2UyIn1d/b090fc061f/GhostLevelUpEffect.webp",
+      "link": "https://pathofexile2.com/shop/item/ghostlance-level-up-extra-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 100,
+        "discount": 100
+      },
+      "twName": "升級特效．幽靈槍矛",
+      "twDesc": "升級時增添一個幽靈槍矛效果。"
+    },
+    {
+      "english": {
+        "name": "Giant Centipede Rare Finisher Effect",
+        "description": "Imbues a weapon with the Giant Centipede Rare Finisher Effect. It amplifies the deaths of Rare Monsters you kill."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvR2lhbnRDZW50aXBlZGVSYXJlRmluaXNoZXJFZmZlY3QiLCJyZWFsbSI6InBvZTIifV0/0846bdea83/GiantCentipedeRareFinisherEffect.webp",
+      "link": "https://pathofexile2.com/shop/item/giant-centipede-rare-finisher-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 120,
+        "discount": 120
+      },
+      "twName": "終結特效：龐然蜈蚣",
+      "twDesc": "為你的武器注入終結特效：龐然蜈蚣。會增幅你擊殺稀有怪物的死亡效果。"
+    },
+    {
+      "english": {
+        "name": "Infernal Stormborne Armour Pack",
+        "description": "Contains the Infernal Stormborne Body Armour, Stormborne Helmet, Stormborne Gloves, and Stormborne Boots (at a discounted price)."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvUmVkU3Rvcm1ib3JuZUh1bnRyZXNzQXJtb3VyU2V0IiwicmVhbG0iOiJwb2UyIn1d/9144570aff/RedStormborneHuntressArmourSet.webp",
+      "link": "https://pathofexile2.com/shop/item/infernal-stormborne-armour-pack",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 350,
+        "discount": 350
+      },
+      "twName": "煉獄起源風暴組合包",
+      "twDesc": "包含煉獄起源風暴頭盔、鞋靴、手套和身體護甲（這是優惠組合）。"
+    },
+    {
+      "english": {
+        "name": "Infernal Stormborne Back Attachment",
+        "description": "Adds the Infernal Stormborne Back Attachment to your body armour."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvSW5mZXJuYWxTdG9ybWJvcm5lQmFja0F0dGFjaG1lbnQiLCJyZWFsbSI6InBvZTIifV0/ae27b6b3d2/InfernalStormborneBackAttachment.webp",
+      "link": "https://pathofexile2.com/shop/item/infernal-stormborne-back-attachment",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 85,
+        "discount": 85
+      },
+      "twName": "背飾：煉獄起源風暴",
+      "twDesc": "在你的背後附加煉獄起源風暴背飾。"
+    },
+    {
+      "english": {
+        "name": "Magus Quillbook Pet",
+        "description": "This mystical tome floats alongside you on your adventures."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9wZXRzL0Jvb2thbmRRdWlsbFBldCIsInJlYWxtIjoicG9lMiJ9XQ/e68ec43f41/BookandQuillPet.webp",
+      "link": "https://pathofexile2.com/shop/item/magus-quillbook-pet",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 150,
+        "discount": 150
+      },
+      "twName": "寵物：魔導羽毛書",
+      "twDesc": "這本神秘的魔導書會漂浮在你身旁，伴隨你的旅程。"
+    },
+    {
+      "english": {
+        "name": "Marble Soulslash Portal",
+        "description": "Replaces the standard effect on portals you create with the Marble Soulslash Portal."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9jaGFyYWN0ZXItZWZmZWN0cy9NYXJibGVQZXJzb25TcGxpdFBvcnRhbCIsInJlYWxtIjoicG9lMiJ9XQ/6efd0b8c3d/MarblePersonSplitPortal.webp",
+      "link": "https://pathofexile2.com/shop/item/marble-soulslash-portal",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 200,
+        "discount": 200
+      },
+      "twName": "時空之門．輝石魂斬",
+      "twDesc": "將你所開啟的傳送門替換為輝石魂斬的時空之門。"
+    },
+    {
+      "english": {
+        "name": "Mausoleum Hideout",
+        "description": "Adds the Mausoleum Hideout to your account."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9IaWRlb3V0L1BsYWluSGlkZW91dENyeXB0IiwicmVhbG0iOiJwb2UyIn1d/a21098eb3a/PlainHideoutCrypt.webp",
+      "link": "https://pathofexile2.com/shop/item/mausoleum-hideout",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 125,
+        "discount": 125
+      },
+      "twName": "藏身處：靜縊陵墓",
+      "twDesc": "為你的藏身處添加一個靜謐陵墓地圖裝置。"
+    },
+    {
+      "english": {
+        "name": "Obsidian Comet Effect",
+        "description": "Replaces the standard effect on a Comet gem with an obsidian version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9PYnNpZGlhbkNvbWV0IiwicmVhbG0iOiJwb2UyIn1d/d7a3627a96/ObsidianComet.webp",
+      "link": "https://pathofexile2.com/shop/item/obsidian-comet-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 100,
+        "discount": 100
+      },
+      "twName": "彗星．黑曜石",
+      "twDesc": "將技能「彗星」的特效替換為黑曜石。"
+    },
+    {
+      "english": {
+        "name": "Obsidian Elemental Skill Effect Bundle",
+        "description": "Contains the Obsidian Comet, Eye of Winter, Frost Bomb, Frost Wall, Ice Nova, and Snap skill effects (at a discounted price)."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9PYnNpZGlhbkZyb3N0V2FsbCIsInJlYWxtIjoicG9lMiJ9XQ/6a8a14ea37/ObsidianFrostWall.webp",
+      "link": "https://pathofexile2.com/shop/item/obsidian-elemental-skill-effect-bundle",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 320,
+        "discount": 320
+      },
+      "twName": "黑曜石元素技能特效組合包",
+      "twDesc": "包含了彗星．黑曜石、凜冬之眼．黑曜石、寒霜爆．黑曜石、冰牆．黑曜石、冰霜新星．黑曜石，以及霜暴．黑曜石技能特效（這是優惠組合）。"
+    },
+    {
+      "english": {
+        "name": "Obsidian Eye of Winter Effect",
+        "description": "Replaces the standard effect on an Eye of Winter gem with an obsidian version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9PYnNpZGlhbkV5ZW9mV2ludGVyRWZmZWN0IiwicmVhbG0iOiJwb2UyIn1d/2cf1148512/ObsidianEyeofWinterEffect.webp",
+      "link": "https://pathofexile2.com/shop/item/obsidian-eye-of-winter-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 80,
+        "discount": 80
+      },
+      "twName": "凜冬之眼．黑曜石",
+      "twDesc": "將技能「凜冬之眼」的特效替換為黑曜石。"
+    },
+    {
+      "english": {
+        "name": "Obsidian Frost Bomb Effect",
+        "description": "Replaces the standard effect on a Frost Bomb gem with an obsidian version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9PYnNpZGlhbkZyb3N0Qm9tYkVmZmVjdCIsInJlYWxtIjoicG9lMiJ9XQ/2ee3285e64/ObsidianFrostBombEffect.webp",
+      "link": "https://pathofexile2.com/shop/item/obsidian-frost-bomb-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 75,
+        "discount": 75
+      },
+      "twName": "寒霜爆．黑曜石",
+      "twDesc": "將技能「寒霜爆」的特效替換為黑曜石。"
+    },
+    {
+      "english": {
+        "name": "Obsidian Frost Wall Effect",
+        "description": "Replaces the standard effect on a Frost Wall gem with an obsidian version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9PYnNpZGlhbkZyb3N0V2FsbCIsInJlYWxtIjoicG9lMiJ9XQ/6a8a14ea37/ObsidianFrostWall.webp",
+      "link": "https://pathofexile2.com/shop/item/obsidian-frost-wall-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 90,
+        "discount": 90
+      },
+      "twName": "冰牆．黑曜石",
+      "twDesc": "將技能「冰牆」的特效替換為黑曜石。"
+    },
+    {
+      "english": {
+        "name": "Obsidian Ice Nova Effect",
+        "description": "Replaces the standard effect on an Ice Nova gem with an obsidian version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9PYnNpZGlhbkljZU5vdmFFZmZlY3QiLCJyZWFsbSI6InBvZTIifV0/cf7a0773f4/ObsidianIceNovaEffect.webp",
+      "link": "https://pathofexile2.com/shop/item/obsidian-ice-nova-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 90,
+        "discount": 90
+      },
+      "twName": "冰霜新星．黑曜石",
+      "twDesc": "將技能「冰霜新星」的特效替換為黑曜石。"
+    },
+    {
+      "english": {
+        "name": "Obsidian Snap Effect",
+        "description": "Replaces the standard effect on a Snap gem with an obsidian version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9PYnNpZGlhblNuYXAiLCJyZWFsbSI6InBvZTIifV0/6b1aed1b4f/ObsidianSnap.webp",
+      "link": "https://pathofexile2.com/shop/item/obsidian-snap-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 70,
+        "discount": 70
+      },
+      "twName": "霜暴．黑曜石",
+      "twDesc": "將技能「霜暴」的特效替換為黑曜石。"
+    },
+    {
+      "english": {
+        "name": "Phantasmal Cluster Grenade Effect",
+        "description": "Replaces the standard effect on a Cluster Grenade gem with a phantasmal version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TdHlnaWFuQ2x1c3RlckdyZW5hZGUiLCJyZWFsbSI6InBvZTIifV0/9736bf6e8d/StygianClusterGrenade.webp",
+      "link": "https://pathofexile2.com/shop/item/phantasmal-cluster-grenade-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 90,
+        "discount": 90
+      },
+      "twName": "集束擲彈．虛幻幽影",
+      "twDesc": "將技能「集束擲彈」的特效替換為虛幻幽影。"
+    },
+    {
+      "english": {
+        "name": "Phantasmal Crossbow Skill Effect Bundle",
+        "description": "Contains the Phantasmal Explosive Grenade, Cluster Grenade, Rapid Shot, Incendiary Shot, Explosive Shot and Siege Ballista skill effects (at a discounted price)."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TdHlnaWFuTWVyY2VuYXJ5QnVuZGxlIiwicmVhbG0iOiJwb2UyIn1d/0bcbf39e7e/StygianMercenaryBundle.webp",
+      "link": "https://pathofexile2.com/shop/item/phantasmal-crossbow-skill-effect-bundle",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 370,
+        "discount": 370
+      },
+      "twName": "虛幻幽影擲彈技能特效組合包",
+      "twDesc": "包含了爆炸擲彈、集束擲彈、疾射、烈焰射擊、爆炸箭矢、和攻城炮台的虛幻幽影技能特效（這是優惠組合）。"
+    },
+    {
+      "english": {
+        "name": "Phantasmal Elemental Skill Effect Bundle",
+        "description": "Contains the Phantasmal Ember Fusillade, Fireball, Firestorm, Flameblast, Flame Wall, Incinerate, Living Bomb, and Solar Orb skill effects (at a discounted price)."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9QaGFudGFzbWFsRW1iZXJGdWxsaXNhZGUiLCJyZWFsbSI6InBvZTIifV0/6fad2466e9/PhantasmalEmberFullisade.webp",
+      "link": "https://pathofexile2.com/shop/item/phantasmal-elemental-skill-effect-bundle",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 450,
+        "discount": 450
+      },
+      "twName": "幻影元素技能特效組合包",
+      "twDesc": "包含了餘燼齊射．幻影、火球．幻影、烈炎風暴．幻影、烈焰爆破．幻影、烈焰之牆．幻影、燒毀．幻影、活體炸彈．幻影，以及日耀球．幻影技能特效（這是優惠組合）。"
+    },
+    {
+      "english": {
+        "name": "Phantasmal Ember Fusillade Effect",
+        "description": "Replaces the standard effect on an Ember Fusillade gem with a phantasmal version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9QaGFudGFzbWFsRW1iZXJGdWxsaXNhZGUiLCJyZWFsbSI6InBvZTIifV0/6fad2466e9/PhantasmalEmberFullisade.webp",
+      "link": "https://pathofexile2.com/shop/item/phantasmal-ember-fusillade-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 85,
+        "discount": 85
+      },
+      "twName": "餘燼齊射．幻影",
+      "twDesc": "將技能「餘燼齊射」的特效替換為幻影。"
+    },
+    {
+      "english": {
+        "name": "Phantasmal Explosive Grenade Effect",
+        "description": "Replaces the standard effect on an Explosive Grenade gem with a phantasmal version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TdHlnaWFuRXhwbG9zaXZlR3JlbmFkZSIsInJlYWxtIjoicG9lMiJ9XQ/3e213f54a0/StygianExplosiveGrenade.webp",
+      "link": "https://pathofexile2.com/shop/item/phantasmal-explosive-grenade-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 90,
+        "discount": 90
+      },
+      "twName": "爆炸擲彈．虛幻幽影",
+      "twDesc": "將技能「爆炸擲彈」的特效替換為虛幻幽影。"
+    },
+    {
+      "english": {
+        "name": "Phantasmal Explosive Shot Effect",
+        "description": "Replaces the standard effect on an Explosive Shot gem with a phantasmal version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TdHlnaWFuRXhwbG9zaXZlU2hvdCIsInJlYWxtIjoicG9lMiJ9XQ/89584a2747/StygianExplosiveShot.webp",
+      "link": "https://pathofexile2.com/shop/item/phantasmal-explosive-shot-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 95,
+        "discount": 95
+      },
+      "twName": "爆炸箭矢．虛幻幽影",
+      "twDesc": "將技能「爆炸箭矢」的特效替換為虛幻幽影。"
+    },
+    {
+      "english": {
+        "name": "Phantasmal Fireball Effect",
+        "description": "Replaces the standard effect on a Fireball gem with a phantasmal version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9QaGFudGFzbWFsRmlyZWJhbGwiLCJyZWFsbSI6InBvZTIifV0/98e97b084f/PhantasmalFireball.webp",
+      "link": "https://pathofexile2.com/shop/item/phantasmal-fireball-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 75,
+        "discount": 75
+      },
+      "twName": "火球．幻影",
+      "twDesc": "將技能「火球」的特效替換為幻影。"
+    },
+    {
+      "english": {
+        "name": "Phantasmal Firestorm Effect",
+        "description": "Replaces the standard effect on a Firestorm gem with a phantasmal version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9QaGFudGFzbWFsRmlyZXN0b3JtIiwicmVhbG0iOiJwb2UyIn1d/bf39aa0264/PhantasmalFirestorm.webp",
+      "link": "https://pathofexile2.com/shop/item/phantasmal-firestorm-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 85,
+        "discount": 85
+      },
+      "twName": "烈炎風暴．幻影",
+      "twDesc": "將技能「烈炎風暴」的特效替換為幻影。"
+    },
+    {
+      "english": {
+        "name": "Phantasmal Flame Wall Effect",
+        "description": "Replaces the standard effect on a Flame Wall gem with a phantasmal version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9QaGFudGFzbWFsRmxhbWVXYWxsIiwicmVhbG0iOiJwb2UyIn1d/1970010602/PhantasmalFlameWall.webp",
+      "link": "https://pathofexile2.com/shop/item/phantasmal-flame-wall-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 85,
+        "discount": 85
+      },
+      "twName": "烈焰之牆．幻影",
+      "twDesc": "將技能「烈焰之牆」的特效替換為幻影。"
+    },
+    {
+      "english": {
+        "name": "Phantasmal Flameblast Effect",
+        "description": "Replaces the standard effect on a Flameblast gem with a phantasmal version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9QaGFudGFzbWFsRmxhbWVibGFzdCIsInJlYWxtIjoicG9lMiJ9XQ/b9e9ac2b63/PhantasmalFlameblast.webp",
+      "link": "https://pathofexile2.com/shop/item/phantasmal-flameblast-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 95,
+        "discount": 95
+      },
+      "twName": "烈焰爆破．幻影",
+      "twDesc": "將技能「烈焰爆破」的特效替換為幻影。"
+    },
+    {
+      "english": {
+        "name": "Phantasmal Incendiary Shot Effect",
+        "description": "Replaces the standard effect on an Incendiary Shot gem with a phantasmal version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TdHlnaWFuSW5jZW5kaWFyeVNob3QiLCJyZWFsbSI6InBvZTIifV0/583a059fa4/StygianIncendiaryShot.webp",
+      "link": "https://pathofexile2.com/shop/item/phantasmal-incendiary-shot-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 95,
+        "discount": 95
+      },
+      "twName": "烈焰射擊．虛幻幽影",
+      "twDesc": "將技能「烈焰射擊」的特效替換為虛幻幽影。"
+    },
+    {
+      "english": {
+        "name": "Phantasmal Incinerate Effect",
+        "description": "Replaces the standard effect on an Incinerate gem with a phantasmal version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9QaGFudGFzbWFsSW5jaW5lcmF0ZSIsInJlYWxtIjoicG9lMiJ9XQ/94f77a7913/PhantasmalIncinerate.webp",
+      "link": "https://pathofexile2.com/shop/item/phantasmal-incinerate-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 100,
+        "discount": 100
+      },
+      "twName": "燒毀．幻影",
+      "twDesc": "將技能「燒毀」的特效替換為幻影。"
+    },
+    {
+      "english": {
+        "name": "Phantasmal Living Bomb Effect",
+        "description": "Replaces the standard effect on a Living Bomb gem with a phantasmal version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9QaGFudGFzbWFsTGl2aW5nQm9tYiIsInJlYWxtIjoicG9lMiJ9XQ/4557c6c562/PhantasmalLivingBomb.webp",
+      "link": "https://pathofexile2.com/shop/item/phantasmal-living-bomb-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 85,
+        "discount": 85
+      },
+      "twName": "活體炸彈．幻影",
+      "twDesc": "將技能「活體炸彈」的特效替換為幻影。"
+    },
+    {
+      "english": {
+        "name": "Phantasmal Rapid Shot Effect",
+        "description": "Replaces the standard effect on a Rapid Shot gem with a phantasmal version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TdHlnaWFuUmFwaWRTaG90IiwicmVhbG0iOiJwb2UyIn1d/c7732068de/StygianRapidShot.webp",
+      "link": "https://pathofexile2.com/shop/item/phantasmal-rapid-shot-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 80,
+        "discount": 80
+      },
+      "twName": "疾射．虛幻幽影",
+      "twDesc": "將技能「疾射」的特效替換為虛幻幽影。"
+    },
+    {
+      "english": {
+        "name": "Phantasmal Siege Ballista Effect",
+        "description": "Replaces the standard effect on an Artillery Ballista gem with a phantasmal version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TdHlnaWFuU2llZ2VCYWxsaXN0YSIsInJlYWxtIjoicG9lMiJ9XQ/88e27e8a5b/StygianSiegeBallista.webp",
+      "link": "https://pathofexile2.com/shop/item/phantasmal-siege-ballista-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 90,
+        "discount": 90
+      },
+      "twName": "攻城炮台．虛幻幽影",
+      "twDesc": "將技能「火砲砲塔」的特效替換為虛幻幽影。"
+    },
+    {
+      "english": {
+        "name": "Phantasmal Solar Orb Effect",
+        "description": "Replaces the standard effect on a Solar Orb gem with a phantasmal version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9QaGFudGFzbWFsU29sYXJPcmIiLCJyZWFsbSI6InBvZTIifV0/2db5f7b661/PhantasmalSolarOrb.webp",
+      "link": "https://pathofexile2.com/shop/item/phantasmal-solar-orb-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 100,
+        "discount": 100
+      },
+      "twName": "日耀球．幻影",
+      "twDesc": "將技能「日耀球」的特效替換為幻影。"
+    },
+    {
+      "english": {
+        "name": "Phoenix Dodge Roll Effect",
+        "description": "Adds a phoenix effect when you dodge roll."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9jaGFyYWN0ZXItZWZmZWN0cy9QaG9lbml4RG9kZ2VSb2xsRWZmZWN0IiwicmVhbG0iOiJwb2UyIn1d/3a4ff5b0a3/PhoenixDodgeRollEffect.webp",
+      "link": "https://pathofexile2.com/shop/item/phoenix-dodge-roll-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 100,
+        "discount": 100
+      },
+      "twName": "閃避翻滾．鳳凰騰空",
+      "twDesc": "為你的閃避翻滾添加鳳凰騰空特效。"
+    },
+    {
+      "english": {
+        "name": "Phoenix Nosedive Rare Finisher Effect",
+        "description": "Imbues a weapon with the Phoenix Nosedive Rare Finisher Effect. It amplifies the deaths of Rare Monsters you kill."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvUGhvZW5peEZpbmlzaGVyRWZmZWN0IiwicmVhbG0iOiJwb2UyIn1d/de1996336f/PhoenixFinisherEffect.webp",
+      "link": "https://pathofexile2.com/shop/item/phoenix-nosedive-rare-finisher-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 130,
+        "discount": 130
+      },
+      "twName": "終結特效：鳳凰俯衝",
+      "twDesc": "為你的武器注入終結特效：鳳凰俯衝。會增幅你擊殺稀有怪物的死亡效果。"
+    },
+    {
+      "english": {
+        "name": "Phoenix Pet",
+        "description": "This blazing bird will glide alongside you on your adventures."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9wZXRzL1Bob2VuaXhQZXRSZWQiLCJyZWFsbSI6InBvZTIifV0/51742db6c7/PhoenixPetRed.webp",
+      "link": "https://pathofexile2.com/shop/item/phoenix-pet",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 200,
+        "discount": 200
+      },
+      "twName": "寵物：鳳凰",
+      "twDesc": "這隻燃著熊熊烈火的鳥會翱翔於你身旁，伴隨你的旅程。"
+    },
+    {
+      "english": {
+        "name": "Plummeting Chandelier Rare Finisher Effect",
+        "description": "Imbues a weapon with the Plummeting Chandelier Rare Finisher Effect. It amplifies the deaths of Rare Monsters you kill."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvUGx1bW1ldGluZ0NoYW5kZWxpZXJSYXJlRmluaXNoZXJFZmZlY3QiLCJyZWFsbSI6InBvZTIifV0/287a354e0b/PlummetingChandelierRareFinisherEffect.webp",
+      "link": "https://pathofexile2.com/shop/item/plummeting-chandelier-rare-finisher-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 140,
+        "discount": 140
+      },
+      "twName": "終結特效：崩落吊燈",
+      "twDesc": "為你的武器注入終結特效：崩落吊燈。會增幅你擊殺稀有怪物的死亡效果。"
+    },
+    {
+      "english": {
+        "name": "Polar Bear Shapeshift Effect",
+        "description": "When shapeshifting into a Bear, you take the appearance of a Polar Bear."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9jaGFyYWN0ZXItZWZmZWN0cy9Qb2xhckJlYXIiLCJyZWFsbSI6InBvZTIifV0/a234ed9adf/PolarBear.webp",
+      "link": "https://pathofexile2.com/shop/item/polar-bear-shapeshift-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 150,
+        "discount": 150
+      },
+      "twName": "巨熊變形外觀：北極熊",
+      "twDesc": "在你變形成巨熊時，將外觀替換為北極熊。"
+    },
+    {
+      "english": {
+        "name": "Porcelain Marionette Armour Pack",
+        "description": "Contains the Porcelain Marionette Helmet, Boots, Gloves, Body Armour, and Bronze Marionette Character Skin (at a discounted price)."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9idW5kbGVzL1BvcmNlbGFpbk1hcmlvbmV0dGVBcm1vdXJCdW5kbGUiLCJyZWFsbSI6InBvZTIifV0/2c12101117/PorcelainMarionetteArmourBundle.webp",
+      "link": "https://pathofexile2.com/shop/item/porcelain-marionette-armour-pack",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 425,
+        "discount": 425
+      },
+      "twName": "陶瓷縫偶組合包",
+      "twDesc": "包含了頭部外觀：陶瓷縫偶、腳部外觀：陶瓷縫偶、手部外觀：陶瓷縫偶、身體外觀：陶瓷縫偶以及角色外觀：黃銅縫偶（這是優惠組合）。"
+    },
+    {
+      "english": {
+        "name": "Prison Waygate Map Device",
+        "description": "Adds a Prison Waygate Map Device decoration to your personal Hideout."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9IaWRlb3V0L1ByaXNvbkhhbGx3YXlNYXBEZXZpY2UiLCJyZWFsbSI6InBvZTIifV0/48a1bc80b3/PrisonHallwayMapDevice.webp",
+      "link": "https://pathofexile2.com/shop/item/prison-waygate-map-device",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 250,
+        "discount": 250
+      },
+      "twName": "地圖裝置：牢獄廳廊",
+      "twDesc": "在你的藏身處添加一個牢獄廳廊地圖裝置。"
+    },
+    {
+      "english": {
+        "name": "Radiant Cluster Grenade Efect",
+        "description": "Replaces the standard effect on an Cluster Grenade gem with an radiant version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9EaXZpbmVDbHVzdGVyR3JlbmFkZSIsInJlYWxtIjoicG9lMiJ9XQ/c45f997bba/DivineClusterGrenade.webp",
+      "link": "https://pathofexile2.com/shop/item/radiant-cluster-grenade-efect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 85,
+        "discount": 85
+      },
+      "twName": "集束擲彈．光采聖記",
+      "twDesc": "將技能「集束擲彈」的特效替換為光采聖記。"
+    },
+    {
+      "english": {
+        "name": "Radiant Explosive Grenade Effect",
+        "description": "Replaces the standard effect on an Explosive Grenade gem with an radiant version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9EaXZpbmVFeHBsb3NpdmVHcmVuYWRlIiwicmVhbG0iOiJwb2UyIn1d/5b7d0f8dff/DivineExplosiveGrenade.webp",
+      "link": "https://pathofexile2.com/shop/item/radiant-explosive-grenade-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 80,
+        "discount": 80
+      },
+      "twName": "爆炸擲彈．光采聖記",
+      "twDesc": "將技能「爆炸擲彈」的特效替換為光采聖記。"
+    },
+    {
+      "english": {
+        "name": "Radiant Flash Grenade Effect",
+        "description": "Replaces the standard effect on an Flash Grenade gem with an radiant version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9EaXZpbmVGbGFzaEdyZW5hZGUiLCJyZWFsbSI6InBvZTIifV0/727c54f967/DivineFlashGrenade.webp",
+      "link": "https://pathofexile2.com/shop/item/radiant-flash-grenade-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 75,
+        "discount": 75
+      },
+      "twName": "閃光擲彈．光采聖記",
+      "twDesc": "將技能「閃光擲彈」的特效替換為光采聖記。"
+    },
+    {
+      "english": {
+        "name": "Radiant Gas Grenade Effect",
+        "description": "Replaces the standard effect on an Gas Grenade gem with an radiant version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9EaXZpbmVUb3hpY0dyZW5hZGUiLCJyZWFsbSI6InBvZTIifV0/05face58d2/DivineToxicGrenade.webp",
+      "link": "https://pathofexile2.com/shop/item/radiant-gas-grenade-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 70,
+        "discount": 70
+      }
+    },
+    {
+      "english": {
+        "name": "Radiant Grenade Skill Effect Bundle",
+        "description": "Contains the Radiant Flash, Oil, Gas, Voltaic, Explosive and Cluster Grenade skill effects (at a discounted price)."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9EaXZpbmVHcmVuYWRlc0J1bmRsZSIsInJlYWxtIjoicG9lMiJ9XQ/941f6e811a/DivineGrenadesBundle.webp",
+      "link": "https://pathofexile2.com/shop/item/radiant-grenade-skill-effect-bundle",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 320,
+        "discount": 320
+      },
+      "twName": "光彩聖記擲彈技能特效組合包",
+      "twDesc": "包含了閃光擲彈、燃油擲彈、毒氣擲彈、電流擲彈、爆炸擲彈、和集束擲彈的閃光聖記技能特效（這是優惠組合）。"
+    },
+    {
+      "english": {
+        "name": "Radiant Oil Grenade Effect",
+        "description": "Replaces the standard effect on an Oil Grenade gem with an radiant version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9EaXZpbmVPaWxHcmVuYWRlIiwicmVhbG0iOiJwb2UyIn1d/dfba84eba1/DivineOilGrenade.webp",
+      "link": "https://pathofexile2.com/shop/item/radiant-oil-grenade-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 85,
+        "discount": 85
+      },
+      "twName": "燃油擲彈．光采聖記",
+      "twDesc": "將技能「燃油擲彈」的特效替換為光采聖記。"
+    },
+    {
+      "english": {
+        "name": "Radiant Voltaic Grenade Effect",
+        "description": "Replaces the standard effect on a Voltaic Grenade gem with an radiant version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9EaXZpbmVWb2x0YWljR3JlbmFkZSIsInJlYWxtIjoicG9lMiJ9XQ/f219dc3232/DivineVoltaicGrenade.webp",
+      "link": "https://pathofexile2.com/shop/item/radiant-voltaic-grenade-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 70,
+        "discount": 70
+      }
+    },
+    {
+      "english": {
+        "name": "Rat Fountain Level-up Extra Effect",
+        "description": "Adds a rat fountain effect when you level up."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvUmF0TGV2ZWxVcEVmZmVjdCIsInJlYWxtIjoicG9lMiJ9XQ/3af7031b7c/RatLevelUpEffect.webp",
+      "link": "https://pathofexile2.com/shop/item/rat-fountain-level-up-extra-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 110,
+        "discount": 110
+      },
+      "twName": "升級特效．鼠潮噴泉",
+      "twDesc": "升級時增添一個鼠潮噴泉效果。"
+    },
+    {
+      "english": {
+        "name": "Rat Swarm Dodge Roll Effect",
+        "description": "Adds a rat swarm effect when you dodge roll."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9jaGFyYWN0ZXItZWZmZWN0cy9SYXREb2RnZVJvbGxFZmZlY3QiLCJyZWFsbSI6InBvZTIifV0/18f814c1e4/RatDodgeRollEffect.webp",
+      "link": "https://pathofexile2.com/shop/item/rat-swarm-dodge-roll-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 90,
+        "discount": 90
+      },
+      "twName": "閃避翻滾．鼠潮",
+      "twDesc": "為你的閃避翻滾添加鼠潮特效。"
+    },
+    {
+      "english": {
+        "name": "Relic Stash Tab",
+        "description": "Add a Relic Stash Tab to your account."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9hY2NvdW50LWZlYXR1cmVzL1JlbGljVGFiIiwicmVhbG0iOiJwb2UyIn1d/d4e9ad365f/RelicTab.webp",
+      "link": "https://pathofexile2.com/shop/item/relic-stash-tab",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 40,
+        "discount": 40
+      }
+    },
+    {
+      "english": {
+        "name": "Return of the Ancients Mystery Box",
+        "description": "Receive a random prize with a Return of the Ancients theme! It'll appear inside your MTX stash, waiting to be unwrapped."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9teXN0ZXJ5L1JldHVybm9mdGhlQW5jaWVudHNNeXN0ZXJ5Qm94X1Nob3BMYXJnZSIsInJlYWxtIjoicG9lMiJ9XQ/cb3b6ea294/ReturnoftheAncientsMysteryBox_ShopLarge.webp",
+      "link": "https://pathofexile2.com/shop/item/return-of-the-ancients-mystery-box",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 50,
+        "discount": 50
+      },
+      "twName": "上古回歸神秘寶箱",
+      "twDesc": "收到一個內含上古回歸主題商品的神秘寶箱！快去打開充滿驚喜的寶箱吧！"
+    },
+    {
+      "english": {
+        "name": "Return of the Ancients Mystery Box Bundle",
+        "description": "Contains five Return of the Ancients Mystery Boxes, each containing a random prize with a Return of the Ancients theme."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9teXN0ZXJ5L1JldHVybm9mdGhlQW5jaWVudHNNeXN0ZXJ5Qm94X1Nob3BMYXJnZSIsInJlYWxtIjoicG9lMiJ9XQ/cb3b6ea294/ReturnoftheAncientsMysteryBox_ShopLarge.webp",
+      "link": "https://pathofexile2.com/shop/item/return-of-the-ancients-mystery-box-bundle",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 250,
+        "discount": 250
+      },
+      "twName": "上古回歸神秘寶箱包",
+      "twDesc": "包含 5 個上古回歸神秘寶箱，每個可隨機獲得 1 個上古回歸主題商品。"
+    },
+    {
+      "english": {
+        "name": "Seer of the Maji Armour Pack",
+        "description": "Contains the Seer of the Maji Helmet, Boots, Gloves, Body Armour and Character Skin (at a discounted price)."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvU2Vlcm9mdGhlTWFqaUFybW91clNldCIsInJlYWxtIjoicG9lMiJ9XQ/37245bd16e/SeeroftheMajiArmourSet.webp",
+      "link": "https://pathofexile2.com/shop/item/seer-of-the-maji-armour-pack",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 450,
+        "discount": 450
+      },
+      "twName": "聖賢先知護甲組合包",
+      "twDesc": "包含了頭部外觀：聖賢先知、腳部外觀：聖賢先知、手部外觀：聖賢先知、身體外觀：聖賢先知、和角色外觀：聖賢先知（這是優惠組合）。"
+    },
+    {
+      "english": {
+        "name": "Seer of the Maji Bundle",
+        "description": "Contains the Seer of the Maji Armour Set, Staff, Level-up Effect, and Portal (at a discounted price)."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9idW5kbGVzL1NlZXJvZnRoZU1hamlCdW5kbGUiLCJyZWFsbSI6InBvZTIifV0/81ae29c1d2/SeeroftheMajiBundle.webp",
+      "link": "https://pathofexile2.com/shop/item/seer-of-the-maji-bundle",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 500,
+        "discount": 500
+      },
+      "twName": "聖賢先知組合包",
+      "twDesc": "包含了聖賢先知護甲套裝、長杖外觀：聖賢先知、升級特效．聖賢先知、和時空之門．聖賢先知（這是優惠組合）。"
+    },
+    {
+      "english": {
+        "name": "Seer of the Maji Character Skin",
+        "description": "Replaces the appearance of your character skin with the Seer of the Maji character skin."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvU2Vlcm9mdGhlTWFqaVRhdHRvb3MiLCJyZWFsbSI6InBvZTIifV0/cdeaa29e6d/SeeroftheMajiTattoos.webp",
+      "link": "https://pathofexile2.com/shop/item/seer-of-the-maji-character-skin",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 75,
+        "discount": 75
+      },
+      "twName": "角色外觀：聖賢先知",
+      "twDesc": "將你的角色外觀替換為聖賢先知。"
+    },
+    {
+      "english": {
+        "name": "Seer of the Maji Level-up Extra Effect",
+        "description": "Adds a seer of the Maji effect when you level up."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvT3JhY2xlRHJ1aWRMZXZlbFVwIiwicmVhbG0iOiJwb2UyIn1d/a5d62a49ed/OracleDruidLevelUp.webp",
+      "link": "https://pathofexile2.com/shop/item/seer-of-the-maji-level-up-extra-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 120,
+        "discount": 120
+      },
+      "twName": "升級特效：聖賢先知",
+      "twDesc": "升級時附加聖賢先知特效。"
+    },
+    {
+      "english": {
+        "name": "Seer of the Maji Portal",
+        "description": "Replaces the standard effect on portals you create with the Seer of the Maji Portal."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9jaGFyYWN0ZXItZWZmZWN0cy9PcmFjbGVEcnVpZFBvcnRhbCIsInJlYWxtIjoicG9lMiJ9XQ/1d35010047/OracleDruidPortal.webp",
+      "link": "https://pathofexile2.com/shop/item/seer-of-the-maji-portal",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 200,
+        "discount": 200
+      },
+      "twName": "時空之門．聖賢先知",
+      "twDesc": "將你所開啟的傳送門替換為聖賢先知的時空之門。"
+    },
+    {
+      "english": {
+        "name": "Seer of the Maji Staff",
+        "description": "Replaces the appearance of a Staff with the Seer of the Maji Staff."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvRHJ1aWRvZnRoZU1hamlTdGFmZiIsInJlYWxtIjoicG9lMiJ9XQ/9cab87f4bb/DruidoftheMajiStaff.webp",
+      "link": "https://pathofexile2.com/shop/item/seer-of-the-maji-staff",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 120,
+        "discount": 120
+      },
+      "twName": "長杖外觀：聖賢先知",
+      "twDesc": "將你的長杖外觀替換為聖賢先知。"
+    },
+    {
+      "english": {
+        "name": "Shattered Dodge Roll Effect",
+        "description": "Adds a shattered effect when you dodge roll."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9jaGFyYWN0ZXItZWZmZWN0cy9TaGF0dGVyZWREb2RnZVJvbGxFZmZlY3QiLCJyZWFsbSI6InBvZTIifV0/d42280ec01/ShatteredDodgeRollEffect.webp",
+      "link": "https://pathofexile2.com/shop/item/shattered-dodge-roll-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 80,
+        "discount": 80
+      },
+      "twName": "閃避翻滾．碎裂",
+      "twDesc": "為你的閃避翻滾添加碎裂特效。"
+    },
+    {
+      "english": {
+        "name": "Shattered Mirror Stash Bundle",
+        "description": "Contains the Shattered Mirror Stash and Shattered Mirror Guild Stash Decorations. Opens to your Stash Tab with the Delirium Affinity set."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9IaWRlb3V0L0FmZmluaXR5U3Rhc2hEZWxpcml1bSIsInJlYWxtIjoicG9lMiJ9XQ/c14c2a9a5c/AffinityStashDelirium.webp",
+      "link": "https://pathofexile2.com/shop/item/shattered-mirror-stash-bundle",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 135,
+        "discount": 135
+      },
+      "twName": "破碎鏡像倉庫組合包",
+      "twDesc": "包含破碎鏡像倉庫及破碎鏡像公會倉庫裝飾物。會開啟至設定為譫妄相容性的倉庫頁面。"
+    },
+    {
+      "english": {
+        "name": "Silver Marionette Back Attachment",
+        "description": "Adds the Silver Marionette Back Attachment to any equipped body armour."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvTWFyaW9uZXR0ZXNSZXZlbmdlQmFja0F0dGFjaG1lbnQiLCJyZWFsbSI6InBvZTIifV0/585c2faaac/MarionettesRevengeBackAttachment.webp",
+      "link": "https://pathofexile2.com/shop/item/silver-marionette-back-attachment",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 130,
+        "discount": 130
+      },
+      "twName": "背飾：白銀縫偶",
+      "twDesc": "在你的背後附加白銀縫偶背飾。"
+    },
+    {
+      "english": {
+        "name": "Silver Marionette Character Skin",
+        "description": "Replaces the appearance of your character skin with the silver marionette character skin."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9jaGFyYWN0ZXItZWZmZWN0cy9NYXJpb25ldHRlc1JldmVuZ2VTa2luU2lsdmVyIiwicmVhbG0iOiJwb2UyIn1d/212679867d/MarionettesRevengeSkinSilver.webp",
+      "link": "https://pathofexile2.com/shop/item/silver-marionette-character-skin",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 90,
+        "discount": 90
+      },
+      "twName": "角色外觀：白銀縫偶",
+      "twDesc": "將你的角色外觀替換為白銀縫偶。"
+    },
+    {
+      "english": {
+        "name": "Silver Marionette Weapon Skin",
+        "description": "Changes the appearance of any equipped Sceptre, Wand, Focus, or Staff to the Silver Marionette Weapon Skin."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvTWFyaW9uZXR0ZXNSZXZlbmdlV2VhcG9uU2tpbiIsInJlYWxtIjoicG9lMiJ9XQ/4eb9a6d0c8/MarionettesRevengeWeaponSkin.webp",
+      "link": "https://pathofexile2.com/shop/item/silver-marionette-weapon-skin",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 160,
+        "discount": 160
+      },
+      "twName": "武器外觀：白銀縫偶",
+      "twDesc": "將任何已裝備的權杖、法杖、法器、或長杖的武器外觀替換為白銀縫偶。"
+    },
+    {
+      "english": {
+        "name": "Snow Leopard Werewolf Shapeshift Skin",
+        "description": "When shapeshifting into a Werewolf, you take the appearance of a Snow Leopard Werewolf."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9jaGFyYWN0ZXItZWZmZWN0cy9Tbm93TGVvcGFyZFNraW4iLCJyZWFsbSI6InBvZTIifV0/c84c655327/SnowLeopardSkin.webp",
+      "link": "https://pathofexile2.com/shop/item/snow-leopard-werewolf-shapeshift-skin",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 150,
+        "discount": 150
+      },
+      "twName": "狼人變形外觀：雪豹",
+      "twDesc": "在你變形成狼人時，將外觀替換為雪豹。"
+    },
+    {
+      "english": {
+        "name": "Soulslash Portal",
+        "description": "Replaces the standard effect on portals you create with the Soulslash Portal."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9jaGFyYWN0ZXItZWZmZWN0cy9QZXJzb25TcGxpdFBvcnRhbCIsInJlYWxtIjoicG9lMiJ9XQ/642d2ab414/PersonSplitPortal.webp",
+      "link": "https://pathofexile2.com/shop/item/soulslash-portal",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 190,
+        "discount": 190
+      },
+      "twName": "時空之門．魂斬",
+      "twDesc": "將你所開啟的傳送門替換為魂斬的時空之門。"
+    },
+    {
+      "english": {
+        "name": "Spirit Warden Armour Pack",
+        "description": "Contains the Spirit Warden Helmet, Boots, Gloves, Body Armour, and Character Skin (at a discounted price)."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvSHVudHJlc3NTcGlyaXRXYWxrZXJBcm1vdXJTZXQiLCJyZWFsbSI6InBvZTIifV0/9e1ab96799/HuntressSpiritWalkerArmourSet.webp",
+      "link": "https://pathofexile2.com/shop/item/spirit-warden-armour-pack",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 430,
+        "discount": 430
+      },
+      "twName": "靈魂衛者護甲組合包",
+      "twDesc": "包含了頭部外觀：靈魂衛者、腳部外觀：靈魂衛者、手部外觀：靈魂衛者、身體外觀：靈魂衛者、和角色外觀：靈魂衛者（這是優惠組合）。"
+    },
+    {
+      "english": {
+        "name": "Spirit Warden Barrage Effect",
+        "description": "Replaces the standard effect on a Barrage gem with a spirit warden version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9IdW50cmVzc1NwaXJpdFdhbGtlckJhcnJhZ2UiLCJyZWFsbSI6InBvZTIifV0/284660d29e/HuntressSpiritWalkerBarrage.webp",
+      "link": "https://pathofexile2.com/shop/item/spirit-warden-barrage-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 70,
+        "discount": 70
+      },
+      "twName": "彈幕．靈魂衛者",
+      "twDesc": "將技能「彈幕」的特效替換為靈魂衛者。"
+    },
+    {
+      "english": {
+        "name": "Spirit Warden Buckler",
+        "description": "Replaces the appearance of any equipped buckler to the Spirit Warden Buckler."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvSHVudHJlc3NTcGlyaXRXYWxrZXJCdWNrbGVyIiwicmVhbG0iOiJwb2UyIn1d/f8ec51b72a/HuntressSpiritWalkerBuckler.webp",
+      "link": "https://pathofexile2.com/shop/item/spirit-warden-buckler",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 100,
+        "discount": 100
+      },
+      "twName": "護盾外觀：靈魂衛者",
+      "twDesc": "將你的輕盾外觀替換為靈魂衛者。"
+    },
+    {
+      "english": {
+        "name": "Spirit Warden Character Skin",
+        "description": "Replaces the appearance of your character with the Spirit Warden character skin. Use the tiers to choose between Wild, Vivid, Primal or Sacred spirit themes, or have the character skin change based on your highest attribute."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvSHVudHJlc3NTcGlyaXRXYWxrZXJUYXR0b29zIiwicmVhbG0iOiJwb2UyIn1d/708e8e92da/HuntressSpiritWalkerTattoos.webp",
+      "link": "https://pathofexile2.com/shop/item/spirit-warden-character-skin",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 90,
+        "discount": 90
+      },
+      "twName": "角色外觀：靈魂衛者",
+      "twDesc": "將你的角色外觀替換為靈魂衛者。"
+    },
+    {
+      "english": {
+        "name": "Spirit Warden Cloak",
+        "description": "Adds the Spirit Warden Cloak to your body armour."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvSHVudHJlc3NTcGlyaXRXYWxrZXJCYWNrQXR0YWNobWVudCIsInJlYWxtIjoicG9lMiJ9XQ/be49096c8a/HuntressSpiritWalkerBackAttachment.webp",
+      "link": "https://pathofexile2.com/shop/item/spirit-warden-cloak",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 60,
+        "discount": 60
+      },
+      "twName": "背飾：靈魂衛者披風",
+      "twDesc": "在你的背後附加靈魂衛者披風。"
+    },
+    {
+      "english": {
+        "name": "Spirit Warden Cull the Weak Effect",
+        "description": "Replaces the standard effect on a Cull the Weak gem with a spirit warden version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9IdW50cmVzc1NwaXJpdFdhbGtlckN1bGxUaGVXZWFrIiwicmVhbG0iOiJwb2UyIn1d/b4ef55175a/HuntressSpiritWalkerCullTheWeak.webp",
+      "link": "https://pathofexile2.com/shop/item/spirit-warden-cull-the-weak-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 85,
+        "discount": 85
+      },
+      "twName": "撲殺弱者．靈魂衛者",
+      "twDesc": "將技能「撲殺弱者」的特效替換為靈魂衛者。"
+    },
+    {
+      "english": {
+        "name": "Spirit Warden Disengage Effect",
+        "description": "Replaces the standard effect on a Disengage gem with a spirit warden version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9IdW50cmVzc1NwaXJpdFdhbGtlckRpc2VuZ2FnZSIsInJlYWxtIjoicG9lMiJ9XQ/32816ac75f/HuntressSpiritWalkerDisengage.webp",
+      "link": "https://pathofexile2.com/shop/item/spirit-warden-disengage-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 80,
+        "discount": 80
+      },
+      "twName": "脫離戰鬥．靈魂衛者",
+      "twDesc": "將技能「脫離戰鬥」的特效替換為靈魂衛者。"
+    },
+    {
+      "english": {
+        "name": "Spirit Warden Explosive Spear Effect",
+        "description": "Replaces the standard effect on a Explosive Spear gem with a spirit warden version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9IdW50cmVzc1NwaXJpdFdhbGtlckV4cGxvc2l2ZVNwZWFyIiwicmVhbG0iOiJwb2UyIn1d/371beefe2b/HuntressSpiritWalkerExplosiveSpear.webp",
+      "link": "https://pathofexile2.com/shop/item/spirit-warden-explosive-spear-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 90,
+        "discount": 90
+      },
+      "twName": "爆炸長矛．靈魂衛者",
+      "twDesc": "將技能「爆炸長矛」的特效替換為靈魂衛者。"
+    },
+    {
+      "english": {
+        "name": "Spirit Warden Glacial Lance Effect",
+        "description": "Replaces the standard effect on a Glacial Lance gem with a spirit warden version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TcGlyaXRXYWxrZXJGcmVuenlDaGFyZ2VTa2lsbEdsYWNpYWxMYW5jZSIsInJlYWxtIjoicG9lMiJ9XQ/cf574beb01/SpiritWalkerFrenzyChargeSkillGlacialLance.webp",
+      "link": "https://pathofexile2.com/shop/item/spirit-warden-glacial-lance-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 95,
+        "discount": 95
+      },
+      "twName": "冰川之槍．靈魂衛者",
+      "twDesc": "將技能「冰川之槍」的特效替換為靈魂衛者。"
+    },
+    {
+      "english": {
+        "name": "Spirit Warden Legends of Wraeclast Pack",
+        "description": "Contains the Spirit Warden Helmet, Boots, Gloves, Body Armour, Cloak, Character Skin, Level-up Effect, Portal Effect, Weapon Skin, Buckler Skin and Spirit Warden Spear Skill Effect Bundle (at a discounted price)."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9IdW50cmVzc1NwaXJpdFdhbGtlckJ1bmRsZSIsInJlYWxtIjoicG9lMiJ9XQ/dd4eb49c8d/HuntressSpiritWalkerBundle.webp",
+      "link": "https://pathofexile2.com/shop/item/spirit-warden-legends-of-wraeclast-pack",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 580,
+        "discount": 580
+      },
+      "twName": "Spirit Warden Legends of Wraeclast Pack",
+      "twDesc": "Contains the Spirit Warden Helmet, Boots, Gloves, Body Armour, Cloak, Character Skin, Level-up Effect, Portal Effect, Weapon Skin, Buckler Skin and Spirit Warden Spear Skill Effect Bundle (at a discounted price)."
+    },
+    {
+      "english": {
+        "name": "Spirit Warden Level-up Extra Effect",
+        "description": "Adds a spirit warden effect when you level up."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvU2FjcmVkVHJlZUxldmVsVXBFZmZlY3QiLCJyZWFsbSI6InBvZTIifV0/411bc86915/SacredTreeLevelUpEffect.webp",
+      "link": "https://pathofexile2.com/shop/item/spirit-warden-level-up-extra-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 100,
+        "discount": 100
+      },
+      "twName": "升級額外效果：靈魂衛者",
+      "twDesc": "升級時附加靈魂衛者特效。"
+    },
+    {
+      "english": {
+        "name": "Spirit Warden Lightning Spear Effect",
+        "description": "Replaces the standard effect on a Lightning Spear gem with a spirit warden version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TcGlyaXRXYWxrZXJGcmVuenlDaGFyZ2VTa2lsbExpZ2h0bmluZ1NwZWFyIiwicmVhbG0iOiJwb2UyIn1d/a13606d9f8/SpiritWalkerFrenzyChargeSkillLightningSpear.webp",
+      "link": "https://pathofexile2.com/shop/item/spirit-warden-lightning-spear-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 90,
+        "discount": 90
+      },
+      "twName": "閃電長矛．靈魂衛者",
+      "twDesc": "將技能「閃電長矛」的特效替換為靈魂衛者。"
+    },
+    {
+      "english": {
+        "name": "Spirit Warden Portal Effect",
+        "description": "Replaces the standard effect on portals you create with the Spirit Warden Portal Effect."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9jaGFyYWN0ZXItZWZmZWN0cy9IdW50cmVzc1NwaXJpdHdhbGtlclBvcnRhbCIsInJlYWxtIjoicG9lMiJ9XQ/ea38015144/HuntressSpiritwalkerPortal.webp",
+      "link": "https://pathofexile2.com/shop/item/spirit-warden-portal-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 180,
+        "discount": 180
+      },
+      "twName": "時空之門．靈魂衛者",
+      "twDesc": "將你所開啟的傳送門替換為靈魂衛者的時空之門。"
+    },
+    {
+      "english": {
+        "name": "Spirit Warden Spear Skill Effect Bundle",
+        "description": "Contains the Spirit Warden Barrage, Cull the Weak, Disengage, Explosive Spear, Glacial Lance, Lightning Spear, Storm Lance, and Wind Serpents Fury Skill Effects (at a discounted price)."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9IdW50cmVzc1NwaXJpdFdhbGtlckJhcnJhZ2UiLCJyZWFsbSI6InBvZTIifV0/284660d29e/HuntressSpiritWalkerBarrage.webp",
+      "link": "https://pathofexile2.com/shop/item/spirit-warden-spear-skill-effect-bundle",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 480,
+        "discount": 480
+      },
+      "twName": "靈魂衛者長矛技能特效組合包",
+      "twDesc": "包含了彈幕、撲殺弱者、脫離戰鬥、爆炸長矛、冰川之槍、風暴之槍、閃電長矛、和勁風蝮蛇之怒的靈魂衛者技能特效（這是優惠組合）。"
+    },
+    {
+      "english": {
+        "name": "Spirit Warden Storm Lance Effect",
+        "description": "Replaces the standard effect on a Storm Lance gem with a spirit warden version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9IdW50cmVzc1NwaXJpdFdhbGtlclN0b3JtTGFuY2UiLCJyZWFsbSI6InBvZTIifV0/986fa5edc2/HuntressSpiritWalkerStormLance.webp",
+      "link": "https://pathofexile2.com/shop/item/spirit-warden-storm-lance-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 90,
+        "discount": 90
+      },
+      "twName": "風暴之槍．靈魂衛者",
+      "twDesc": "將技能「風暴之槍」的特效替換為靈魂衛者。"
+    },
+    {
+      "english": {
+        "name": "Spirit Warden Weapon Skin",
+        "description": "Replaces the appearance of any equipped Spear or Quarterstaff to the Spirit Warden Weapon Skin."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvSHVudHJlc3NTcGlyaXRXYWxrZXJXZWFwb25Ta2luIiwicmVhbG0iOiJwb2UyIn1d/92bbdb7261/HuntressSpiritWalkerWeaponSkin.webp",
+      "link": "https://pathofexile2.com/shop/item/spirit-warden-weapon-skin",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 100,
+        "discount": 100
+      },
+      "twName": "武器外觀：靈魂衛者",
+      "twDesc": "將你的長矛或長杖外觀替換為靈魂衛者。"
+    },
+    {
+      "english": {
+        "name": "Spirit Warden Wind Serpents Fury Effect",
+        "description": "Replaces the standard effect on a Wind Serpents Fury gem with a spirit warden version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9IdW50cmVzc1NwaXJpdFdhbGtlcldpbmRTZXJwZW50c0Z1cnkiLCJyZWFsbSI6InBvZTIifV0/457e6ff887/HuntressSpiritWalkerWindSerpentsFury.webp",
+      "link": "https://pathofexile2.com/shop/item/spirit-warden-wind-serpents-fury-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 85,
+        "discount": 85
+      },
+      "twName": "勁風蝮蛇之怒．靈魂衛者",
+      "twDesc": "將技能「勁風蝮蛇之怒」的特效替換為靈魂衛者。"
+    },
+    {
+      "english": {
+        "name": "Stonefist Charges",
+        "description": "Replaces the default appearance of your Power, Frenzy and Endurance charges with a stonefist version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9hbHRlcm5hdGUtc2tpbGwtZWZmZWN0cy9TdG9uZWZpc3RDaGFyZ2VzIiwicmVhbG0iOiJwb2UyIn1d/c583ac7526/StonefistCharges.webp",
+      "link": "https://pathofexile2.com/shop/item/stonefist-charges",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 80,
+        "discount": 80
+      },
+      "twName": "能量球特效：石拳磐衛",
+      "twDesc": "將你的暴擊、狂怒和耐力球的特效替換為石拳磐衛。"
+    },
+    {
+      "english": {
+        "name": "Stonefist Dodge Roll Effect",
+        "description": "Adds a Stonefist effect when you dodge roll."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9DaGFyYWN0ZXIvTW9ua01hcnRpYWxBcnRpc3REb2RnZVJvbGxFZmZlY3QiLCJyZWFsbSI6InBvZTIifV0/5fccf282b6/MonkMartialArtistDodgeRollEffect.webp",
+      "link": "https://pathofexile2.com/shop/item/stonefist-dodge-roll-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 100,
+        "discount": 100
+      },
+      "twName": "閃避翻滾．石拳磐衛",
+      "twDesc": "為你的閃避翻滾添加石拳磐衛特效。"
+    },
+    {
+      "english": {
+        "name": "Stonefist Falling Thunder Effect",
+        "description": "Replaces the standard effect on a Falling Thunder gem with a stonefist version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TdG9uZWZpc3RGYWxsaW5nVGh1bmRlciIsInJlYWxtIjoicG9lMiJ9XQ/c3a065eeae/StonefistFallingThunder.webp",
+      "link": "https://pathofexile2.com/shop/item/stonefist-falling-thunder-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 100,
+        "discount": 100
+      },
+      "twName": "崩雷鳴．石拳磐衛",
+      "twDesc": "將技能「崩雷鳴」的特效替換為石拳磐衛。"
+    },
+    {
+      "english": {
+        "name": "Stonefist Frozen Locus Effect",
+        "description": "Replaces the standard effect on a Frozen Locus gem with a stonefist version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TdG9uZWZpc3RGcm96ZW5Mb2N1cyIsInJlYWxtIjoicG9lMiJ9XQ/1b1d77791d/StonefistFrozenLocus.webp",
+      "link": "https://pathofexile2.com/shop/item/stonefist-frozen-locus-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 85,
+        "discount": 85
+      },
+      "twName": "寒冰軌跡．石拳磐衛",
+      "twDesc": "將技能「寒冰軌跡」的特效替換為石拳磐衛。"
+    },
+    {
+      "english": {
+        "name": "Stonefist Glacial Cascade Effect",
+        "description": "Replaces the standard effect on a Glacial Cascade gem with a stonefist version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TdG9uZWZpc3RHbGFjaWFsQ2FzY2FkZSIsInJlYWxtIjoicG9lMiJ9XQ/4c96b4efa3/StonefistGlacialCascade.webp",
+      "link": "https://pathofexile2.com/shop/item/stonefist-glacial-cascade-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 95,
+        "discount": 95
+      },
+      "twName": "冰川之刺．石拳磐衛",
+      "twDesc": "將技能「冰川之刺」的特效替換為石拳磐衛。"
+    },
+    {
+      "english": {
+        "name": "Stonefist Shattering Palm Effect",
+        "description": "Replaces the standard effect on a Shattering Palm gem with a stonefist version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TdG9uZWZpc3RTaGF0dGVyaW5nUGFsbSIsInJlYWxtIjoicG9lMiJ9XQ/e78481461f/StonefistShatteringPalm.webp",
+      "link": "https://pathofexile2.com/shop/item/stonefist-shattering-palm-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 95,
+        "discount": 95
+      },
+      "twName": "粉碎之掌．石拳磐衛",
+      "twDesc": "將技能「粉碎之掌」的特效替換為石拳磐衛。"
+    },
+    {
+      "english": {
+        "name": "Stonefist Tempest Bell Effect",
+        "description": "Replaces the standard effect on a Tempest Bell gem with a stonefist version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TdG9uZWZpc3RUZW1wZXN0QmVsbCIsInJlYWxtIjoicG9lMiJ9XQ/177368acdb/StonefistTempestBell.webp",
+      "link": "https://pathofexile2.com/shop/item/stonefist-tempest-bell-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 110,
+        "discount": 110
+      },
+      "twName": "風暴之鐘．石拳磐衛",
+      "twDesc": "將技能「風暴之鐘」的特效替換為石拳磐衛。"
+    },
+    {
+      "english": {
+        "name": "Stonefist Vaulting Impact Effect",
+        "description": "Replaces the standard effect on a Vaulting Impact gem with a stonefist version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TdG9uZWZpc3RWYXVsdGluZ0ltcGFjdCIsInJlYWxtIjoicG9lMiJ9XQ/fb82cba153/StonefistVaultingImpact.webp",
+      "link": "https://pathofexile2.com/shop/item/stonefist-vaulting-impact-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 90,
+        "discount": 90
+      },
+      "twName": "跳躍衝擊．石拳磐衛",
+      "twDesc": "將技能「跳躍衝擊」的特效替換為石拳磐衛。"
+    },
+    {
+      "english": {
+        "name": "Stonefist Wave of Frost Effect",
+        "description": "Replaces the standard effect on a Wave of Frost gem with a stonefist version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TdG9uZWZpc3RXYXZlb2ZGcm9zdCIsInJlYWxtIjoicG9lMiJ9XQ/7a5aaa8fd3/StonefistWaveofFrost.webp",
+      "link": "https://pathofexile2.com/shop/item/stonefist-wave-of-frost-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 90,
+        "discount": 90
+      },
+      "twName": "寒冰波．石拳磐衛",
+      "twDesc": "將技能「寒冰波」的特效替換為石拳磐衛。"
+    },
+    {
+      "english": {
+        "name": "Stonefist Whirling Assault Effect",
+        "description": "Replaces the standard effect on a Whirling Assault gem with a stonefist version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TdG9uZWJlbmRlcldoaXJsaW5nQXNzYXVsdEVmZmVjdCIsInJlYWxtIjoicG9lMiJ9XQ/32acd3385d/StonebenderWhirlingAssaultEffect.webp",
+      "link": "https://pathofexile2.com/shop/item/stonefist-whirling-assault-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 100,
+        "discount": 100
+      },
+      "twName": "迴旋擊．石拳磐衛",
+      "twDesc": "將技能「迴旋擊」的特效替換為石拳磐衛。"
+    },
+    {
+      "english": {
+        "name": "Stonefist Wind Blast Effect",
+        "description": "Replaces the standard effect on a Wind Blast gem with a stonefist version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TdG9uZWZpc3RXaW5kQmxhc3QiLCJyZWFsbSI6InBvZTIifV0/bbbe1e559b/StonefistWindBlast.webp",
+      "link": "https://pathofexile2.com/shop/item/stonefist-wind-blast-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 90,
+        "discount": 90
+      },
+      "twName": "破風爆裂．石拳磐衛",
+      "twDesc": "將技能「破風爆裂」的特效替換為石拳磐衛。"
+    },
+    {
+      "english": {
+        "name": "Stormborne Weapon Skin",
+        "description": "Replaces the appearance of any equipped Spear, Quarterstaff, Shield, Buckler, Bow or Quiver to the Stormborne Weapon Skin."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvU3Rvcm1ib3JuZUh1bnRyZXNzV2VhcG9uU2tpbiIsInJlYWxtIjoicG9lMiJ9XQ/3ef6bce4d8/StormborneHuntressWeaponSkin.webp",
+      "link": "https://pathofexile2.com/shop/item/stormborne-weapon-skin",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 150,
+        "discount": 150
+      },
+      "twName": "武器外觀：起源風暴",
+      "twDesc": "將任何已裝備的長矛、細杖、盾牌、輕盾、弓、或箭袋的武器外觀替換為起源風暴。"
+    },
+    {
+      "english": {
+        "name": "The Stonefist Armour Pack",
+        "description": "Contains The Stonefist Helmet, Boots, Gloves, Body Armour, and Character Skin (at a discounted price)."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvU3RvbmVmaXN0QnVuZGxlQXJtb3VyU2tpbiIsInJlYWxtIjoicG9lMiJ9XQ/6ea8048ccc/StonefistBundleArmourSkin.webp",
+      "link": "https://pathofexile2.com/shop/item/the-stonefist-armour-pack",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 500,
+        "discount": 500
+      },
+      "twName": "石拳磐衛護甲組合包",
+      "twDesc": "包含了頭部外觀：石拳磐衛、腳部外觀：石拳磐衛、手部外觀：石拳磐衛、身體外觀：石拳磐衛、和角色外觀：石拳磐衛（這是優惠組合）。"
+    },
+    {
+      "english": {
+        "name": "The Stonefist Character Skin",
+        "description": "Replaces the appearance of your character with The Stonefist character skin."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9DaGFyYWN0ZXIvVGhlU3RvbmVmaXN0VGF0dG9vcyIsInJlYWxtIjoicG9lMiJ9XQ/0ce12e9301/TheStonefistTattoos.webp",
+      "link": "https://pathofexile2.com/shop/item/the-stonefist-character-skin",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 100,
+        "discount": 100
+      },
+      "twName": "角色外觀：石拳磐衛",
+      "twDesc": "將你的角色外觀替換為石拳磐衛。"
+    },
+    {
+      "english": {
+        "name": "The Stonefist Legends of Wraeclast Pack",
+        "description": "Contains the The Stonefist Helmet, Boots, Gloves, Body Armour, Character Skin, Charges, Dodge Roll and Stonefist Skill Effect Bundle (at a discounted price)."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TdG9uZWZpc3RCdW5kbGVHaWdhIiwicmVhbG0iOiJwb2UyIn1d/ecf45133bb/StonefistBundleGiga.webp",
+      "link": "https://pathofexile2.com/shop/item/the-stonefist-legends-of-wraeclast-pack",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 600,
+        "discount": 600
+      },
+      "twName": "The Stonefist Legends of Wraeclast Pack",
+      "twDesc": "Contains the The Stonefist Helmet, Boots, Gloves, Body Armour, Character Skin, Charges, Dodge Roll and Stonefist Skill Effect Bundle (at a discounted price)."
+    },
+    {
+      "english": {
+        "name": "The Stonefist Skill Effect Bundle",
+        "description": "Contains the Stonefist Glacial Cascade, Tempest Bell, Falling Thunder, Vaulting Impact, Wind Blast, Shattering Palm, Frozen Locus, Wave of Frost and Whirling Assault skill effects (at a discounted price)."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TdG9uZWZpc3RTa2lsbHNCdW5kbGUiLCJyZWFsbSI6InBvZTIifV0/814b139f7f/StonefistSkillsBundle.webp",
+      "link": "https://pathofexile2.com/shop/item/the-stonefist-skill-effect-bundle",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 580,
+        "discount": 580
+      },
+      "twName": "石拳磐衛技能特效組合包",
+      "twDesc": "包含了冰川之刺、風暴之鐘、崩雷鳴、跳躍衝擊、破風爆裂、粉碎之掌、寒冰軌跡、寒冰波、和迴旋擊的石拳磐衛技能特效（這是優惠組合）。"
+    },
+    {
+      "english": {
+        "name": "Thunderous Stormborne Armour Pack",
+        "description": "Contains the Thunderous Stormborne Body Armour, Stormborne Helmet, Stormborne Gloves, and Stormborne Boots (at a discounted price)."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvQmx1ZVN0b3JtYm9ybmVIdW50cmVzc0FybW91clNldCIsInJlYWxtIjoicG9lMiJ9XQ/828bb057b6/BlueStormborneHuntressArmourSet.webp",
+      "link": "https://pathofexile2.com/shop/item/thunderous-stormborne-armour-pack",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 335,
+        "discount": 335
+      },
+      "twName": "雷湧起源風暴組合包",
+      "twDesc": "包含雷湧起源風暴頭盔、鞋靴、手套和身體護甲（這是優惠組合）。"
+    },
+    {
+      "english": {
+        "name": "Thunderous Stormborne Back Attachment",
+        "description": "Adds the Thunderous Stormborne Back Attachment to your body armour."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvVGh1bmRlcm91c1N0b3JtYm9ybmVCYWNrQXR0YWNobWVudCIsInJlYWxtIjoicG9lMiJ9XQ/8d1656f8c5/ThunderousStormborneBackAttachment.webp",
+      "link": "https://pathofexile2.com/shop/item/thunderous-stormborne-back-attachment",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 90,
+        "discount": 90
+      },
+      "twName": "背飾：雷湧起源風暴",
+      "twDesc": "在你的背後附加雷湧起源風暴背飾。"
+    },
+    {
+      "english": {
+        "name": "Toad Idol of Alchemy Hideout Decoration",
+        "description": "Creates an object in your hideout. Tracks how many Orbs of Alchemy you have used."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9IaWRlb3V0L1ZhYWxGcm9nQ29ycnVwdGlvbkNvdW50ZXJHb2xkIiwicmVhbG0iOiJwb2UyIn1d/9ee505ffbc/VaalFrogCorruptionCounterGold.webp",
+      "link": "https://pathofexile2.com/shop/item/toad-idol-of-alchemy-hideout-decoration",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 80,
+        "discount": 80
+      },
+      "twName": "裝飾物：點金之蟾雕偶",
+      "twDesc": "在你的藏身處放置一個擺設。記錄你已使用的點金石數量。"
+    },
+    {
+      "english": {
+        "name": "Toad Idol of Chaos Hideout Decoration",
+        "description": "Creates an object in your hideout. Tracks how many Chaos Orbs you have used."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9IaWRlb3V0L1ZhYWxGcm9nQ29ycnVwdGlvbkNvdW50ZXJCbGFjayIsInJlYWxtIjoicG9lMiJ9XQ/7e83acf93b/VaalFrogCorruptionCounterBlack.webp",
+      "link": "https://pathofexile2.com/shop/item/toad-idol-of-chaos-hideout-decoration",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 75,
+        "discount": 75
+      },
+      "twName": "裝飾物：混沌之蟾雕偶",
+      "twDesc": "在你的藏身處放置一個擺設。記錄你已使用的混沌石數量。"
+    },
+    {
+      "english": {
+        "name": "Toad Idol of Corruption Hideout Decoration",
+        "description": "Creates an object in your hideout. Tracks how many Vaal Orbs you have used."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9IaWRlb3V0L1ZhYWxGcm9nQ29ycnVwdGlvbkNvdW50ZXJXaGl0ZSIsInJlYWxtIjoicG9lMiJ9XQ/7716249fe6/VaalFrogCorruptionCounterWhite.webp",
+      "link": "https://pathofexile2.com/shop/item/toad-idol-of-corruption-hideout-decoration",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 70,
+        "discount": 70
+      },
+      "twName": "裝飾物：汙染之蟾雕偶",
+      "twDesc": "在你的藏身處放置一個擺設。記錄你已使用的瓦爾寶珠數量。"
+    },
+    {
+      "english": {
+        "name": "Tracking Scroll of Crafting",
+        "description": "Tracks the amount of currency you have used. You can pin this scroll to your profile to display to your friends, party or guild members, and you can also link it in chat."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvVHJhY2tpbmdTY3JvbGxDcmFmdGluZyIsInJlYWxtIjoicG9lMiJ9XQ/ebfbde73e6/TrackingScrollCrafting.webp",
+      "link": "https://pathofexile2.com/shop/item/tracking-scroll-of-crafting",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 110,
+        "discount": 110
+      },
+      "twName": "追蹤卷軸．製作",
+      "twDesc": "記錄你已使用的通貨數量。你可以將此卷軸釘選至你的個人檔案，展示給你的朋友、隊伍或公會成員看，同時也可以分享至聊天欄。"
+    },
+    {
+      "english": {
+        "name": "Vaal Cache Stash Bundle",
+        "description": "Contains the Vaal Cache Stash and Vaal Cache Guild Stash Decorations. Opens to your Stash Tab with the Waystone Affinity set."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9IaWRlb3V0L0FmZmluaXR5U3Rhc2hXYXlzdG9uZXMiLCJyZWFsbSI6InBvZTIifV0/01b9718dc8/AffinityStashWaystones.webp",
+      "link": "https://pathofexile2.com/shop/item/vaal-cache-stash-bundle",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 120,
+        "discount": 120
+      },
+      "twName": "瓦爾寶匣倉庫組合包",
+      "twDesc": "包含瓦爾寶匣倉庫及瓦爾寶匣公會倉庫裝飾物。會開啟至設定為換界石相容性的倉庫頁面。"
+    },
+    {
+      "english": {
+        "name": "Vaal Quillbook Pet",
+        "description": "This vaal tome floats alongside you on your adventures."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9wZXRzL1ZhYWxCb29rYW5kUXVpbGxQZXQiLCJyZWFsbSI6InBvZTIifV0/05c6725486/VaalBookandQuillPet.webp",
+      "link": "https://pathofexile2.com/shop/item/vaal-quillbook-pet",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 160,
+        "discount": 160
+      },
+      "twName": "寵物：瓦爾羽毛書",
+      "twDesc": "這本瓦爾的魔導書會漂浮在你身旁，伴隨你的旅程。"
+    },
+    {
+      "english": {
+        "name": "Vampiric Armour Piercing Rounds Effect",
+        "description": "Replaces the standard effect on an Armour Piercing Rounds gem with a vampiric version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9WYW1waXJpY0FybW91clBpZXJjaW5nUm91bmRzIiwicmVhbG0iOiJwb2UyIn1d/626e5b06b2/VampiricArmourPiercingRounds.webp",
+      "link": "https://pathofexile2.com/shop/item/vampiric-armour-piercing-rounds-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 70,
+        "discount": 70
+      },
+      "twName": "穿甲彈藥．吸血鬼",
+      "twDesc": "將技能「穿甲彈藥」的特效替換為吸血鬼。"
+    },
+    {
+      "english": {
+        "name": "Vampiric Artillery Ballista Effect",
+        "description": "Replaces the standard effect on an Artillery Ballista gem with a vampiric version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9WYW1waXJpY0FydGlsbGVyeUJhbGxpc3RhIiwicmVhbG0iOiJwb2UyIn1d/af35a95567/VampiricArtilleryBallista.webp",
+      "link": "https://pathofexile2.com/shop/item/vampiric-artillery-ballista-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 90,
+        "discount": 90
+      },
+      "twName": "火砲砲塔．吸血鬼",
+      "twDesc": "將技能「火砲砲塔」的特效替換為吸血鬼。"
+    },
+    {
+      "english": {
+        "name": "Vampiric Emergency Reload Effect",
+        "description": "Replaces the standard effect on an Emergency Reload gem with a vampiric version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9WYW1waXJpY0VtZXJnZW5jeVJlbG9hZCIsInJlYWxtIjoicG9lMiJ9XQ/241e8ca381/VampiricEmergencyReload.webp",
+      "link": "https://pathofexile2.com/shop/item/vampiric-emergency-reload-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 30,
+        "discount": 30
+      },
+      "twName": "緊急裝填．吸血鬼",
+      "twDesc": "將技能「緊急裝填」的特效替換為吸血鬼。"
+    },
+    {
+      "english": {
+        "name": "Vampiric Flash Grenade Effect",
+        "description": "Replaces the standard effect on a Flash Grenade gem with a vampiric version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9WYW1waXJpY0ZsYXNoR3JlbmFkZSIsInJlYWxtIjoicG9lMiJ9XQ/e18afd64a2/VampiricFlashGrenade.webp",
+      "link": "https://pathofexile2.com/shop/item/vampiric-flash-grenade-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 85,
+        "discount": 85
+      },
+      "twName": "閃光擲彈．吸血鬼",
+      "twDesc": "將技能「閃光擲彈」的特效替換為吸血鬼。"
+    },
+    {
+      "english": {
+        "name": "Vampiric Fragmentation Rounds Effect",
+        "description": "Replaces the standard effect on a Fragmentation Rounds gem with a vampiric version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9WYW1waXJpY0ZyYWdtZW50YXRpb25HcmVuYWRlIiwicmVhbG0iOiJwb2UyIn1d/0a3af286a6/VampiricFragmentationGrenade.webp",
+      "link": "https://pathofexile2.com/shop/item/vampiric-fragmentation-rounds-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 80,
+        "discount": 80
+      },
+      "twName": "分裂彈藥．吸血鬼",
+      "twDesc": "將技能「分裂彈藥」的特效替換為吸血鬼。"
+    },
+    {
+      "english": {
+        "name": "Vampiric High Velocity Rounds Effect",
+        "description": "Replaces the standard effect on a High Velocity Rounds gem with a vampiric version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9WYW1waXJpY0hpZ2hWZWxvY2l0eVJvdW5kcyIsInJlYWxtIjoicG9lMiJ9XQ/3ec382bc76/VampiricHighVelocityRounds.webp",
+      "link": "https://pathofexile2.com/shop/item/vampiric-high-velocity-rounds-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 85,
+        "discount": 85
+      },
+      "twName": "高速彈藥．吸血鬼",
+      "twDesc": "將技能「高速彈藥」的特效替換為吸血鬼。"
+    },
+    {
+      "english": {
+        "name": "Vampiric Shard Scavenger Effect",
+        "description": "Replaces the standard effect on a Shard Scavenger gem with a vampiric version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9WYW1waXJpY1NoYXJkU2NhdmVuZ2VyIiwicmVhbG0iOiJwb2UyIn1d/6cb62d0482/VampiricShardScavenger.webp",
+      "link": "https://pathofexile2.com/shop/item/vampiric-shard-scavenger-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 25,
+        "discount": 25
+      },
+      "twName": "碎片清除者．吸血鬼",
+      "twDesc": "將技能「碎片清除者」的特效替換為吸血鬼。"
+    },
+    {
+      "english": {
+        "name": "Vampiric Siege Ballista Effect",
+        "description": "Replaces the standard effect on a Siege Ballista gem with a vampiric version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9WYW1waXJpY1NpZWdlQmFsbGlzdGEiLCJyZWFsbSI6InBvZTIifV0/b1f9e1b499/VampiricSiegeBallista.webp",
+      "link": "https://pathofexile2.com/shop/item/vampiric-siege-ballista-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 90,
+        "discount": 90
+      },
+      "twName": "攻城炮台．吸血鬼",
+      "twDesc": "將技能「攻城炮台」的特效替換為吸血鬼。"
+    },
+    {
+      "english": {
+        "name": "Vampiric Siege Cascade Effect",
+        "description": "Replaces the standard effect on a Siege Cascade gem with a vampiric version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9NZXJjVmFtcGlyaWNTaWVnZUNhc2NhZGUiLCJyZWFsbSI6InBvZTIifV0/b7a6b7ee19/MercVampiricSiegeCascade.webp",
+      "link": "https://pathofexile2.com/shop/item/vampiric-siege-cascade-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 95,
+        "discount": 95
+      },
+      "twName": "圍城爆發．吸血鬼",
+      "twDesc": "將技能「圍城爆發」的特效替換為吸血鬼。"
+    },
+    {
+      "english": {
+        "name": "Vastiri Plains Hideout",
+        "description": "Adds the Vastiri Plains Hideout to your account."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9IaWRlb3V0L1BsYWluSGlkZW91dERlc2VydCIsInJlYWxtIjoicG9lMiJ9XQ/beb27e7d43/PlainHideoutDesert.webp",
+      "link": "https://pathofexile2.com/shop/item/vastiri-plains-hideout",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 120,
+        "discount": 120
+      },
+      "twName": "藏身處：瓦斯提里平原",
+      "twDesc": "為你的藏身處添加一個瓦斯提里平原地圖裝置。"
+    },
+    {
+      "english": {
+        "name": "Verisium Armour Piercing Rounds Effect",
+        "description": "Replaces the standard effect on an Armour Piercing Rounds gem with a verisium version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9WZXJpc2l1bUFybW91clBpZXJjaW5nUm91bmRzIiwicmVhbG0iOiJwb2UyIn1d/2aebf981a0/VerisiumArmourPiercingRounds.webp",
+      "link": "https://pathofexile2.com/shop/item/verisium-armour-piercing-rounds-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 70,
+        "discount": 70
+      },
+      "twName": "Verisium Armour Piercing Rounds Effect",
+      "twDesc": "Replaces the standard effect on an Armour Piercing Rounds gem with a verisium version."
+    },
+    {
+      "english": {
+        "name": "Verisium Character Effect",
+        "description": "Adds the Verisium Character Effect to your belt."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9jaGFyYWN0ZXItZWZmZWN0cy9WZXJpc2l1bUNoYXJhY3RlckVmZmVjdCIsInJlYWxtIjoicG9lMiJ9XQ/51bb92416e/VerisiumCharacterEffect.webp",
+      "link": "https://pathofexile2.com/shop/item/verisium-character-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 120,
+        "discount": 120
+      },
+      "twName": "角色特效：維里西姆",
+      "twDesc": "在你的腰帶上附加角色特效。"
+    },
+    {
+      "english": {
+        "name": "Verisium Crossbow Skill Effect Bundle",
+        "description": "Contains the Verisium Siege Cascade, High Velocity Rounds, Fragmentation Rounds, Armour Piercing Rounds, Hailstorm Rounds, Glacial Bolt, Ice Shards, Permafrost Bolts, Emergency Reload, Gas Grenade, Oil Grenade, Flash Grenade, Shard Scavenger, Mortar Cannon skill effects (at a discounted price)."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9WZXJpc2l1bVNraWxsc0J1bmRsZSIsInJlYWxtIjoicG9lMiJ9XQ/cdb0d42575/VerisiumSkillsBundle.webp",
+      "link": "https://pathofexile2.com/shop/item/verisium-crossbow-skill-effect-bundle",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 600,
+        "discount": 600
+      },
+      "twName": "Verisium Crossbow Skill Effect Bundle",
+      "twDesc": "Contains the Verisium Siege Cascade, High Velocity Rounds, Fragmentation Rounds, Armour Piercing Rounds, Hailstorm Rounds, Glacial Bolt, Ice Shards, Permafrost Bolts, Emergency Reload, Gas Grenade, Oil Grenade, Flash Grenade, Shard Scavenger, Mortar Cannon skill effects (at a discounted price)."
+    },
+    {
+      "english": {
+        "name": "Verisium Emergency Reload Effect",
+        "description": "Replaces the standard effect on an Emergency Reload gem with a verisium version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9WZXJpc2l1bUVtZXJnZW5jeVJlbG9hZEVmZmVjdCIsInJlYWxtIjoicG9lMiJ9XQ/cbb8378eac/VerisiumEmergencyReloadEffect.webp",
+      "link": "https://pathofexile2.com/shop/item/verisium-emergency-reload-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 30,
+        "discount": 30
+      },
+      "twName": "緊急裝填．維里西姆",
+      "twDesc": "將技能「緊急裝填」的特效替換為維里西姆特效。"
+    },
+    {
+      "english": {
+        "name": "Verisium Flash Grenade Effect",
+        "description": "Replaces the standard effect on a Flash Grenade gem with a verisium version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9WZXJpc2l1bUZsYXNoR3JlbmFkZSIsInJlYWxtIjoicG9lMiJ9XQ/befe2e0e5e/VerisiumFlashGrenade.webp",
+      "link": "https://pathofexile2.com/shop/item/verisium-flash-grenade-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 85,
+        "discount": 85
+      },
+      "twName": "閃光擲彈．維里西姆",
+      "twDesc": "將技能「閃光擲彈」的特效替換為維里西姆特效。"
+    },
+    {
+      "english": {
+        "name": "Verisium Fragmentation Rounds Effect",
+        "description": "Replaces the standard effect on a Fragmentation Rounds gem with a verisium version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9WZXJpc2l1bUZyYWdtZW50YXRpb25Sb3VuZHMiLCJyZWFsbSI6InBvZTIifV0/7bd68e3542/VerisiumFragmentationRounds.webp",
+      "link": "https://pathofexile2.com/shop/item/verisium-fragmentation-rounds-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 75,
+        "discount": 75
+      },
+      "twName": "Verisium Fragmentation Rounds Effect",
+      "twDesc": "Replaces the standard effect on a Fragmentation Rounds gem with a verisium version."
+    },
+    {
+      "english": {
+        "name": "Verisium Gas Grenade Effect",
+        "description": "Replaces the standard effect on a Gas Grenade gem with a verisium version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9WZXJpc2l1bUdhc0dyZW5hZGVFZmZlY3QiLCJyZWFsbSI6InBvZTIifV0/c792093748/VerisiumGasGrenadeEffect.webp",
+      "link": "https://pathofexile2.com/shop/item/verisium-gas-grenade-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 80,
+        "discount": 80
+      },
+      "twName": "毒氣擲彈．維里西姆",
+      "twDesc": "將技能「毒氣擲彈」的特效替換為維里西姆特效。"
+    },
+    {
+      "english": {
+        "name": "Verisium Glacial Bolt Effect",
+        "description": "[DNT] Replaces the standard effect on a Glacial Bolt gem with a verisium version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9WZXJpc2l1bUdsYWNpYWxCb2x0IiwicmVhbG0iOiJwb2UyIn1d/cfc9ed9b65/VerisiumGlacialBolt.webp",
+      "link": "https://pathofexile2.com/shop/item/verisium-glacial-bolt-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 85,
+        "discount": 85
+      },
+      "twName": "Verisium Glacial Bolt Effect",
+      "twDesc": "[DNT] Replaces the standard effect on a Glacial Bolt gem with a verisium version."
+    },
+    {
+      "english": {
+        "name": "Verisium Hailstorm Rounds Effect",
+        "description": "Replaces the standard effect on a Hailstorm Rounds gem with a verisium version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9WZXJpc2l1bUhhaWxzdG9ybVJvdW5kcyIsInJlYWxtIjoicG9lMiJ9XQ/a5a51ea5c9/VerisiumHailstormRounds.webp",
+      "link": "https://pathofexile2.com/shop/item/verisium-hailstorm-rounds-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 85,
+        "discount": 85
+      },
+      "twName": "冰雹彈藥．維里西姆",
+      "twDesc": "將技能「冰雹彈藥」的特效替換為維里西姆特效。"
+    },
+    {
+      "english": {
+        "name": "Verisium High Velocity Rounds Effect",
+        "description": "Replaces the standard effect on a High Velocity Rounds gem with a verisium version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9WZXJpc2l1bUhpZ2hWZWxvY2l0eVJvdW5kcyIsInJlYWxtIjoicG9lMiJ9XQ/f7194335d5/VerisiumHighVelocityRounds.webp",
+      "link": "https://pathofexile2.com/shop/item/verisium-high-velocity-rounds-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 80,
+        "discount": 80
+      },
+      "twName": "高速彈藥．維里西姆",
+      "twDesc": "將技能「高速彈藥」的特效替換為維里西姆特效。"
+    },
+    {
+      "english": {
+        "name": "Verisium Ice Shards Effect",
+        "description": "Replaces the standard effect on an Ice Shards gem with a verisium version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9WZXJpc2l1bUljZVNoYXJkcyIsInJlYWxtIjoicG9lMiJ9XQ/9420309609/VerisiumIceShards.webp",
+      "link": "https://pathofexile2.com/shop/item/verisium-ice-shards-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 85,
+        "discount": 85
+      },
+      "twName": "Verisium Ice Shards Effect",
+      "twDesc": "Replaces the standard effect on an Ice Shards gem with a verisium version."
+    },
+    {
+      "english": {
+        "name": "Verisium Level-up Extra Effect",
+        "description": "Adds a verisium effect when you level up."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9hbHRlcm5hdGUtc2tpbGwtZWZmZWN0cy9WZXJpc2l1bUxldmVsVXBFZmZlY3QiLCJyZWFsbSI6InBvZTIifV0/8b68efaf46/VerisiumLevelUpEffect.webp",
+      "link": "https://pathofexile2.com/shop/item/verisium-level-up-extra-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 100,
+        "discount": 100
+      },
+      "twName": "升級特效：維里西姆",
+      "twDesc": "升級時增添一個維里西姆特效。"
+    },
+    {
+      "english": {
+        "name": "Verisium Mortar Cannon Effect",
+        "description": "Replaces the standard effect on a Mortar Cannon gem with a verisium version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9WZXJpc2l1bU1vcnRhckNhbm5vbkVmZmVjdCIsInJlYWxtIjoicG9lMiJ9XQ/a9f0e205db/VerisiumMortarCannonEffect.webp",
+      "link": "https://pathofexile2.com/shop/item/verisium-mortar-cannon-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 80,
+        "discount": 80
+      },
+      "twName": "迫擊砲．維里西姆",
+      "twDesc": "將技能「迫擊砲」的特效替換為維里西姆特效。"
+    },
+    {
+      "english": {
+        "name": "Verisium Oil Grenade Effect",
+        "description": "Replaces the standard effect on an Oil Grenade gem with a verisium version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9WZXJpc2l1bU9pbEdyZW5hZGVFZmZlY3QiLCJyZWFsbSI6InBvZTIifV0/8be6d78459/VerisiumOilGrenadeEffect.webp",
+      "link": "https://pathofexile2.com/shop/item/verisium-oil-grenade-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 85,
+        "discount": 85
+      },
+      "twName": "燃油擲彈．維里西姆",
+      "twDesc": "將技能「燃油擲彈」的特效替換為維里西姆特效。"
+    },
+    {
+      "english": {
+        "name": "Verisium Permafrost Bolts Effect",
+        "description": "Replaces the standard effect on a Permafrost Bolts gem with a verisium version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9WZXJpc2l1bVBlcm1hZnJvc3RCb2x0cyIsInJlYWxtIjoicG9lMiJ9XQ/dc78e3276f/VerisiumPermafrostBolts.webp",
+      "link": "https://pathofexile2.com/shop/item/verisium-permafrost-bolts-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 80,
+        "discount": 80
+      },
+      "twName": "永凍弩箭．維里西姆",
+      "twDesc": "將技能「永凍弩箭」的特效替換為維里西姆特效。"
+    },
+    {
+      "english": {
+        "name": "Verisium Shard Scavenger Effect",
+        "description": "Replaces the standard effect on a Shard Scavenger gem with a verisium version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9WZXJpc2l1bVNoYXJkU2NhdmVuZ2VyIiwicmVhbG0iOiJwb2UyIn1d/279486b81c/VerisiumShardScavenger.webp",
+      "link": "https://pathofexile2.com/shop/item/verisium-shard-scavenger-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 30,
+        "discount": 30
+      },
+      "twName": "碎片清除者．維里西姆",
+      "twDesc": "將技能「碎片清除者」的特效替換為維里西姆特效。"
+    },
+    {
+      "english": {
+        "name": "Verisium Siege Cascade Effect",
+        "description": "Replaces the standard effect on a Siege Cascade gem with a verisium version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9WZXJpc2l1bVNlaWVnZUNhc2NhZGUiLCJyZWFsbSI6InBvZTIifV0/b342746a74/VerisiumSeiegeCascade.webp",
+      "link": "https://pathofexile2.com/shop/item/verisium-siege-cascade-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 85,
+        "discount": 85
+      },
+      "twName": "圍城爆發．維里西姆",
+      "twDesc": "將技能「圍城爆發」的特效替換為維里西姆特效。"
+    },
+    {
+      "english": {
+        "name": "Wasteland Hourglass Map Device",
+        "description": "Adds a Wasteland Hourglass Map Device decoration to your personal Hideout. Tracks how long it takes to complete maps, and allows you to keep a record of the times you're most proud of."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9IaWRlb3V0L0JsYWNrSG91cmdsYXNzTWFwRGV2aWNlIiwicmVhbG0iOiJwb2UyIn1d/98081d45a4/BlackHourglassMapDevice.webp",
+      "link": "https://pathofexile2.com/shop/item/wasteland-hourglass-map-device",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 210,
+        "discount": 210
+      },
+      "twName": "裝飾物：廢土沙漏地圖裝置",
+      "twDesc": "為你的藏身處添加一個廢土沙漏地圖裝置。會記錄你完成地圖所花的時間，並允許你保留一個你最驕傲的紀錄。"
+    },
+    {
+      "english": {
+        "name": "Wasteland Sands Portal Effect",
+        "description": "Replaces the standard effect on portals you create with the Wasteland Sands Portal Effect."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9jaGFyYWN0ZXItZWZmZWN0cy9CbGFja0hvdXJnbGFzc1BvcnRhbCIsInJlYWxtIjoicG9lMiJ9XQ/8b92ec46bb/BlackHourglassPortal.webp",
+      "link": "https://pathofexile2.com/shop/item/wasteland-sands-portal-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 160,
+        "discount": 160
+      },
+      "twName": "時空之門．廢土飛砂",
+      "twDesc": "此角色的傳送門替換為廢土飛砂的時空之門。"
+    },
+    {
+      "english": {
+        "name": "Wings of the Phoenix Level-up Extra Effect",
+        "description": "Adds a wings of the phoenix effect when you level up. The fiery wings remain on you throughout the current area."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvUGhvZW5peExldmVsVXBFZmZlY3QiLCJyZWFsbSI6InBvZTIifV0/13276f68c7/PhoenixLevelUpEffect.webp",
+      "link": "https://pathofexile2.com/shop/item/wings-of-the-phoenix-level-up-extra-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 120,
+        "discount": 120
+      },
+      "twName": "升級特效．鳳凰展翅",
+      "twDesc": "在你升級時增添一個鳳凰展翅效果。火焰翅膀效果會在當前區域內持續保持在角色上。"
     }
   ]
 }
