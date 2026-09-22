@@ -21,7 +21,7 @@ const favAlertCountEl = document.getElementById("favAlertCount");
 const clearFavAlertsBtn = document.getElementById("clearFavAlerts");
 
 let ALL = [];
-let state = { game: "all", sort: "off", q: "", lang: "en", cat: "all" };
+let state = { game: "all", sort: "off", q: "", lang: "en", cat: "all", kind: "all" };
 let currentDrops = new Set(); // 當前處於「降價」狀態的物品 link
 let currentFavDrops = new Set(); // 當前「收藏且降價」的物品 link
 
@@ -259,6 +259,7 @@ function esc(s) {
 function applyFilter() {
   let list = ALL.filter((it) => {
     if (state.game !== "all" && it.game !== state.game) return false;
+    if (state.kind !== "all" && it.kind !== state.kind) return false; // 特价 / 新上架 篩選
     if (state.cat === "__fav" && !FAVS[it.link]) return false; // 只看收藏
     if (state.cat !== "all" && state.cat !== "__fav" && it.category !== state.cat) return false;
     if (state.q) {
@@ -276,7 +277,10 @@ function applyFilter() {
 
 // 分類篩選標籤（依當前資料動態生成，帶數量）
 function renderCats() {
-  const inScopeList = ALL.filter((it) => state.game === "all" || it.game === state.game);
+  const inScopeList = ALL.filter((it) =>
+    (state.game === "all" || it.game === state.game) &&
+    (state.kind === "all" || it.kind === state.kind)
+  );
   const inScopeLinks = new Set(inScopeList.map((it) => it.link)); // Set 比對 O(n+m)，取代原本 O(n×m) 的 some()
   const counts = {};
   for (const it of inScopeList) counts[it.category] = (counts[it.category] || 0) + 1;
@@ -298,6 +302,7 @@ function renderCats() {
 
 function cardHTML(it) {
   const save = it.price.original - it.price.discount;
+  const isNew = it.kind === "new" || it.offPct === 0; // 新上架（無折扣）不顯示錯誤的 -0% / 省 0 點
   const nameTxt = state.lang === "zh" ? (it.zhName || ZH_OVERRIDE[it.name] || it.name) : it.name;
   const descTxt = state.lang === "zh" ? (it.zhDesc || it.description) : it.description;
   const faved = !!FAVS[it.link];
@@ -312,10 +317,19 @@ function cardHTML(it) {
   // 跨代可用性 chip：依 server.js 的 crossCompat 規則（技能特效 = 該代限定；其他 = 跨代通用）
   const cc = it.crossCompat || { tag: "跨代通用", level: "both", tooltip: "" };
   const compatTag = `<span class="compat-tag c${cc.level}" title="${esc(cc.tooltip || "")}">${esc(cc.tag)}</span>`;
+  // 折扣徽章：特價顯示 -X%，新上架顯示「新上架」
+  const badge = isNew
+    ? `<span class="badge new">新上架</span>`
+    : `<span class="badge">-${it.offPct}%</span>`;
+  // 價格列：新上架只顯示單一售價（original==discount，不必劃線）
+  const priceHTML = isNew
+    ? `<span class="now">${it.price.discount}<small>點</small></span>`
+    : `<span class="now">${it.price.discount}<small>點</small></span><span class="was">${it.price.original} 點</span>`;
+  const saveLine = isNew ? "" : `<div class="save">省 ${save} 點</div>`;
   return `
   <article class="card">
     <div class="thumb">
-      <span class="badge">-${it.offPct}%</span>
+      ${badge}
       ${flame}
       <img loading="lazy" src="${esc(it.image)}" alt="${esc(nameTxt)}"
            onerror="this.classList.add('broken')">
@@ -331,12 +345,11 @@ function cardHTML(it) {
       ${descLine}
       <div class="price-row">
         <div class="price">
-          <span class="now">${it.price.discount}<small>點</small></span>
-          <span class="was">${it.price.original} 點</span>
+          ${priceHTML}
         </div>
         <button class="fav-btn ${faved ? "on" : ""}" data-link="${esc(it.link)}" data-name="${esc(it.name)}" title="${faved ? "取消收藏" : "收藏"}">${faved ? "★" : "☆"}</button>
       </div>
-      <div class="save">省 ${save} 點</div>
+      ${saveLine}
       <div class="links">
         <a class="buy" href="${esc(it.link)}" target="_blank" rel="noopener">前往購買 →</a>
         <a class="wiki" href="https://www.poewiki.net/wiki/Special:Search?search=${encodeURIComponent(it.name)}" target="_blank" rel="noopener" title="在流放之路編年史 (PoE Wiki) 搜尋此物品">📖 編年史</a>
@@ -451,6 +464,15 @@ gameToggle.addEventListener("click", (e) => {
     if (!stillExists) state.cat = "all";
   }
   renderCats(); // 分類數量要跟著商城重算
+  render();
+});
+// 特价 / 新上架 篩選（2026-09-16 新增：PoE2 商城目前多為新上架，需能只看「真折扣」）
+const kindToggle = document.getElementById("kindToggle");
+kindToggle.addEventListener("click", (e) => {
+  const b = e.target.closest("button"); if (!b) return;
+  state.kind = b.dataset.kind;
+  [...kindToggle.children].forEach((x) => x.classList.toggle("active", x === b));
+  renderCats(); // 分類數量跟著重算
   render();
 });
 catsEl.addEventListener("click", (e) => {
