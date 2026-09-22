@@ -71,7 +71,7 @@ jobs:
               console.error('❌ fallback.json 沒有 items，放棄提交');
               process.exit(1);
             }
-            const bad = j.items.filter(x => !x.english?.name || (x.kind !== "new" && !(x.price?.discount < x.price?.original)));
+            const bad = j.items.filter(x => !x.english?.name || (x.kind !== 'new' && !(x.price?.discount < x.price?.original)));
             if (bad.length) {
               console.error('❌ 有 ' + bad.length + ' 筆資料異常（無名稱或無折扣），放棄提交');
               process.exit(1);
