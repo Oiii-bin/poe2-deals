@@ -135,6 +135,10 @@ body{
   color:#fff;font-weight:800;font-size:13px;padding:4px 9px;border-radius:8px;
   box-shadow:0 2px 8px rgba(0,0,0,.4);letter-spacing:.3px;
 }
+/* 新上架徽章：藍綠色系，與折扣紅區分 */
+.badge.new{
+  background:linear-gradient(135deg,#2bb6a8,#1d7f8c);
+}
 .card .body{padding:12px 13px 14px;display:flex;flex-direction:column;gap:9px;flex:1}
 .name{font-size:13.5px;font-weight:600;line-height:1.35;color:var(--txt);min-height:38px}
 /* 卡片標籤統一收進 .tags 彈性容器：換行整齊、間距一致，不再用 margin 硬湊 */
