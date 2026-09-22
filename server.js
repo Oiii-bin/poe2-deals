@@ -371,6 +371,8 @@ function normalizeSync(json) {
       crossCompat: crossCompat(category, game),
       price: { discount, original },
       offPct: pct,
+      // kind 由 scrape_official.js 標註：discount=特價中 / new=新上架（沒折扣也收錄，供 PoE2 商城有內容）
+      kind: it.kind || (pct > 0 ? "discount" : "new"),
       // 官方 API 會帶 special:{start,end}（本輪特價的精確結束時間），前端用它做精確倒計時；
       // 社群源沒有這個欄位 → 為 null，前端退回「每日固定時間」估算。
       specialEnd: it.specialEnd || null,
