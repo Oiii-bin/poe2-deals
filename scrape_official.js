@@ -4,9 +4,12 @@
 //
 // 兩個官方源（都免登入、公開）：
 //   1. PoE2 商城 API  https://pathofexile2.com/api/shop-microtransactions?game=poe2
-//      → 644 件，JSON，支援 If-Modified-Since / 304，欄位含 special:{start,end}
+//      → 約 686 件，JSON。⚠ 實測（2026-09-22）：GGG 已移除 special:{start,end} 欄位，
+//        且所有 item 的 cost === baseCost（無任何折扣）。故 fromPoe2Api 現階段會產出 0 筆——
+//        這是 GGG 端「PoE2 商城目前沒有特價」所致，非本站 bug；GGG 上架 PoE2 特價後會自動出現。
 //   2. PoE1 商城 SSR  https://www.pathofexile.com/shop/category/specials
-//      → 頁面內嵌 new Category({items:[...]})，補足 PoE1 專屬外觀（API 只有 poe2）
+//      → 頁面內嵌 new Category({items:[...]})，補足 PoE1 專屬外觀（API 只有 poe2）；
+//        此頁才有 onSpecial===true + cost<originalCost 的真實折扣資料。
 //
 // 輸出格式與社群源 usaginest 相容（server.js 可直接吃），並額外帶 specialEnd：
 //   { date, items:[ { english:{name,description}, image, link, source,
@@ -146,6 +149,14 @@ const slugPoE2 = (n) =>
 const isDiscounted = (x, costKey, baseKey) =>
   x && typeof x[costKey] === "number" && typeof x[baseKey] === "number" && x[costKey] < x[baseKey];
 const isSellable = (x) => x && x.forsale !== false && !x.visibleOnlyInPackage;
+// 收錄規則（2026-09-16 擴充）：PoE2 商品「沒折扣也收錄」的判定
+//   • 折扣中（cost < baseCost）→ kind:"discount"
+//   • 帶 NewItems 標籤（GGG 新上架）→ kind:"new"，讓 PoE2 商城在站點上有內容
+//     （GGG 目前 PoE2 商城 API 已無任何折扣資料，若只收折扣會讓 PoE2 整區空白）
+const isNewItem = (it, v) => {
+  const tags = (v && v.tags) || it.tags || [];
+  return tags.includes("NewItems");
+};
 
 // ---------- PoE2 API ----------
 function fromPoe2Api(json, twMap) {
@@ -156,35 +167,42 @@ function fromPoe2Api(json, twMap) {
     const tw = (twMap && twMap.id.get(it.id)) || null;
     // 注意：變體的父層常是 forsale=false 的「分組容器」（例如 Toad King Portal Effect Variations），
     // 自己沒有價格，但底下的變體才是真正販售與打折的項目 → 父層不賣也要繼續展開變體。
-    if (isSellable(it) && isDiscounted(it, "cost", "baseCost")) {
+    // 收錄條件放寬：折扣中「或」帶 NewItems 標籤（新上架）都收；kind 標註類型供前端區分徽章。
+    const parentDisc = isDiscounted(it, "cost", "baseCost");
+    const parentNew = isNewItem(it);
+    if (isSellable(it) && (parentDisc || parentNew)) {
       out.push({
         name: it.name,
         description: it.description || "",
         image: it.largeImageUrl || it.imageUrl || "",
         link: "https://pathofexile2.com/shop/item/" + slugPoE2(it.name),
-        source: "poe2_normal",
+        source: parentDisc ? "poe2_normal" : "poe2_new",
         original: it.baseCost,
         discount: it.cost,
         specialEnd: end,
         tags: it.tags || [],
+        kind: parentDisc ? "discount" : "new",
         ...(tw ? { twName: tw.name, twDesc: tw.description } : {}),
       });
     }
     // 變體（同一商品的不同配色）各自有自己的價格與折扣
     for (const v of it.variants || []) {
       if (!isSellable(v)) continue;
-      if (!isDiscounted(v, "cost", "baseCost")) continue;
+      const vDisc = isDiscounted(v, "cost", "baseCost");
+      const vNew = isNewItem(it, v);
+      if (!vDisc && !vNew) continue;
       const tv = (twMap && (twMap.id.get(v.id) || twMap.id.get(it.id))) || null;
       out.push({
         name: v.name || it.name,
         description: v.description || it.description || "",
         image: v.largeImageUrl || v.imageUrl || it.largeImageUrl || it.imageUrl || "",
         link: "https://pathofexile2.com/shop/item/" + slugPoE2(v.name || it.name),
-        source: "poe2_variant",
+        source: vDisc ? "poe2_variant" : "poe2_new",
         original: v.baseCost,
         discount: v.cost,
         specialEnd: (v.special && v.special.end) || end,
         tags: v.tags || it.tags || [],
+        kind: vDisc ? "discount" : "new",
         ...(tv ? { twName: tv.name, twDesc: tv.description } : {}),
       });
     }
@@ -256,6 +274,7 @@ function merge(list2, list1) {
     image: x.image,
     link: x.link,
     source: x.source,
+    kind: x.kind || "discount",
     price: { original: x.original, discount: x.discount },
     ...(x.specialEnd ? { specialEnd: x.specialEnd } : {}),
     ...(x.twName ? { twName: x.twName, twDesc: x.twDesc } : {}),
