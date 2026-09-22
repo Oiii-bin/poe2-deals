@@ -33,13 +33,14 @@ jobs:
             const targets = [
               ["官方 PoE2 商城 API", "https://pathofexile2.com/api/shop-microtransactions?game=poe2", "json"],
               ["官方 PoE1 特價頁",   "https://www.pathofexile.com/shop/category/specials", "html"],
-              ["社群源 usaginest",   "https://poe.usaginest.com/poe2_special.json", "json"],
+              // 第 4 欄 = "soft"：HTTP 200 但 0 筆時只 WARN 不失敗（第三方上游，站點有官方源+鏡像兜底）
+              ["社群源 usaginest",   "https://poe.usaginest.com/poe2_special.json", "json", "soft"],
               ["jsDelivr 鏡像",      "https://cdn.jsdelivr.net/gh/Oiii-bin/poe2-deals@main/fallback.json", "json"],
               ["線上站點 /api/items", SITE + "/api/items", "json"],
             ];
             const fails = [];
             (async () => {
-              for (const [name, url, kind] of targets) {
+              for (const [name, url, kind, soft] of targets) {
                 const t0 = Date.now();
                 try {
                   const r = await fetch(url, { redirect: "follow", signal: AbortSignal.timeout(30000), headers: HEADERS });
@@ -48,8 +49,12 @@ jobs:
                   if (kind === "json") {
                     const j = await r.json();
                     const n = Array.isArray(j.items) ? j.items.length : Array.isArray(j.data) ? j.data.length : 0;
-                    console.log("OK   " + name + "  " + ms + "ms  items=" + n + (j.sourceUrl ? "  source=" + j.sourceUrl : ""));
-                    if (!n) fails.push(name + " 回傳 0 筆");
+                    if (!n && soft) {
+                      console.log("WARN " + name + "  " + ms + "ms  上游回傳 0 筆（官方源與鏡像仍正常，僅提醒）");
+                    } else {
+                      console.log("OK   " + name + "  " + ms + "ms  items=" + n + (j.sourceUrl ? "  source=" + j.sourceUrl : ""));
+                      if (!n) fails.push(name + " 回傳 0 筆");
+                    }
                   } else {
                     const txt = await r.text();
                     const ok = txt.includes("new Category(");
