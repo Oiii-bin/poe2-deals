@@ -1,629 +1,773 @@
 {
-  "date": "2026-09-23 19:23:11",
+  "date": "2026-09-24 01:23:28",
   "items": [
     {
       "english": {
-        "name": "Wild Scorpion Pet",
-        "description": "This blood-soaked Scorpion will skitter alongside you in your travels."
+        "name": "Overseer Candlemass Pet",
+        "description": "This curious cluster of candles will accompany you on your journeys."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvUGV0cy9XaWxkU2NvcnBpb25QZXQifV0/3cfdc74b65/WildScorpionPet.png",
-      "link": "https://www.pathofexile.com/shop/item/WildScorpionPet",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvUGV0cy9PdmVyc2VlclNtYWxsUGV0In1d/17ee4a3b84/OverseerSmallPet.png",
+      "link": "https://www.pathofexile.com/shop/item/OverseerCandlemassPet",
       "source": "poe1",
       "kind": "discount",
       "price": {
         "original": 30,
-        "discount": 15
-      },
-      "twName": "寵物：荒野狂蠍",
-      "twDesc": "這隻荒野狂蠍會跟隨你踏遍鬼島。"
-    },
-    {
-      "english": {
-        "name": "Wild Shrine",
-        "description": "Adds a Wild Shrine decoration to your personal Hideout."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9XaWxkTWVkaXVtSGlkZW91dERlY29yYXRpb24ifV0/f258c1a4c0/WildMediumHideoutDecoration.png",
-      "link": "https://www.pathofexile.com/shop/item/WildShrine",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 50,
-        "discount": 25
-      },
-      "twName": "裝飾物：荒野神殿",
-      "twDesc": "為你的藏身處添加一個荒野神殿。"
-    },
-    {
-      "english": {
-        "name": "Wild Shrine (Guild)",
-        "description": "Adds a Wild Shrine decoration to your Guild Hideout."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9XaWxkTWVkaXVtSGlkZW91dERlY29yYXRpb24ifV0/f258c1a4c0/WildMediumHideoutDecoration.png",
-      "link": "https://www.pathofexile.com/shop/item/WildShrineGuild",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 50,
-        "discount": 25
-      },
-      "twName": "裝飾物：荒野神殿 (公會)",
-      "twDesc": "為你的公會增添此裝飾物。"
-    },
-    {
-      "english": {
-        "name": "Wild Tree",
-        "description": "Adds a Wild Tree decoration to your personal Hideout."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9XaWxkQnVpbGRpbmdTdXBwbGllcyJ9XQ/89ee4fbfc6/WildBuildingSupplies.png",
-      "link": "https://www.pathofexile.com/shop/item/WildTree",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 60,
-        "discount": 30
-      },
-      "twName": "裝飾物：荒野之樹",
-      "twDesc": "為你的藏身處添加一個荒野之樹。"
-    },
-    {
-      "english": {
-        "name": "Wild Tree (Guild)",
-        "description": "Adds a Wild Tree decoration to your Guild Hideout."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9XaWxkQnVpbGRpbmdTdXBwbGllcyJ9XQ/89ee4fbfc6/WildBuildingSupplies.png",
-      "link": "https://www.pathofexile.com/shop/item/WildTreeGuild",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 60,
-        "discount": 30
-      },
-      "twName": "裝飾物：荒野之樹 (公會)",
-      "twDesc": "為你的公會增添此裝飾物。"
-    },
-    {
-      "english": {
-        "name": "Wild Wind Effect",
-        "description": "Adds a Wild Wind Effect decoration to your personal Hideout."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9XaWxkRW52aXJvbm1lbnRhbEhpZGVvdXREZWNvcmF0aW9uIn1d/6faa227b3c/WildEnvironmentalHideoutDecoration.png",
-      "link": "https://www.pathofexile.com/shop/item/WildWindEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 40,
         "discount": 20
       },
-      "twName": "裝飾物：荒野淒風",
-      "twDesc": "為你的藏身處添加一個荒野淒風。"
+      "twName": "寵物：總督燭光",
+      "twDesc": "這隻總督燭光會跟隨你踏遍鬼島。"
     },
     {
       "english": {
-        "name": "Wild Wind Effect (Guild)",
-        "description": "Adds a Wild Wind Effect decoration to your Guild Hideout."
+        "name": "Scavenger Bat Pet",
+        "description": "This bloodthirsty bat will bay for the blood of your enemies."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9XaWxkRW52aXJvbm1lbnRhbEhpZGVvdXREZWNvcmF0aW9uIn1d/6faa227b3c/WildEnvironmentalHideoutDecoration.png",
-      "link": "https://www.pathofexile.com/shop/item/WildWindEffectGuild",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 40,
-        "discount": 20
-      },
-      "twName": "裝飾物：荒野淒風 (公會)",
-      "twDesc": "為你的公會增添此裝飾物。"
-    },
-    {
-      "english": {
-        "name": "Wrangler Building Supplies",
-        "description": "Adds a Wrangler Building Supplies decoration to your personal Hideout."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9XcmFuZ2xlckJ1aWxkaW5nU3VwcGxpZXMifV0/3e76704b71/WranglerBuildingSupplies.png",
-      "link": "https://www.pathofexile.com/shop/item/WranglerBuildingSupplies",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 60,
-        "discount": 30
-      },
-      "twName": "裝飾物：牧者建築器材",
-      "twDesc": "為你的藏身處添加一個牧者建築器材。"
-    },
-    {
-      "english": {
-        "name": "Wrangler Building Supplies (Guild)",
-        "description": "Adds a Wrangler Building Supplies decoration to your Guild Hideout."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9XcmFuZ2xlckJ1aWxkaW5nU3VwcGxpZXMifV0/3e76704b71/WranglerBuildingSupplies.png",
-      "link": "https://www.pathofexile.com/shop/item/WranglerBuildingSuppliesGuild",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 60,
-        "discount": 30
-      },
-      "twName": "裝飾物：牧者建築器材 (公會)",
-      "twDesc": "為你的公會增添此裝飾物。"
-    },
-    {
-      "english": {
-        "name": "Wrangler Gold Rain",
-        "description": "Adds a Wrangler Gold Rain decoration to your personal Hideout."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9XcmFuZ2xlckVudmlyb25tZW50SGlkZW91dERlY29yYXRpb24ifV0/0bbd69ec60/WranglerEnvironmentHideoutDecoration.png",
-      "link": "https://www.pathofexile.com/shop/item/WranglerGoldRain",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 40,
-        "discount": 20
-      },
-      "twName": "裝飾物：牧者灑幣",
-      "twDesc": "為你的藏身處添加一個牧者灑幣。"
-    },
-    {
-      "english": {
-        "name": "Wrangler Gold Rain (Guild)",
-        "description": "Adds a Wrangler Gold Rain decoration to your Guild Hideout."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9XcmFuZ2xlckVudmlyb25tZW50SGlkZW91dERlY29yYXRpb24ifV0/0bbd69ec60/WranglerEnvironmentHideoutDecoration.png",
-      "link": "https://www.pathofexile.com/shop/item/WranglerGoldRainGuild",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 40,
-        "discount": 20
-      },
-      "twName": "裝飾物：牧者灑幣 (公會)",
-      "twDesc": "為你的公會增添此裝飾物。"
-    },
-    {
-      "english": {
-        "name": "Wrangler Pylon",
-        "description": "Adds a Wrangler Pylon decoration to your personal Hideout."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9XcmFuZ2xlck1lZGl1bUhpZGVvdXREZWNvcmF0aW9uIn1d/52a23fa241/WranglerMediumHideoutDecoration.png",
-      "link": "https://www.pathofexile.com/shop/item/WranglerPylon",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 50,
-        "discount": 25
-      },
-      "twName": "裝飾物：牧者雕像",
-      "twDesc": "為你的藏身處添加一個牧者雕像。"
-    },
-    {
-      "english": {
-        "name": "Wrangler Pylon (Guild)",
-        "description": "Adds a Wrangler Pylon decoration to your Guild Hideout."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9XcmFuZ2xlck1lZGl1bUhpZGVvdXREZWNvcmF0aW9uIn1d/52a23fa241/WranglerMediumHideoutDecoration.png",
-      "link": "https://www.pathofexile.com/shop/item/WranglerPylonGuild",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 50,
-        "discount": 25
-      },
-      "twName": "裝飾物：牧者雕像 (公會)",
-      "twDesc": "為你的公會增添此裝飾物。"
-    },
-    {
-      "english": {
-        "name": "Wrangler Scorpion Pet",
-        "description": "This plated Scorpion will skitter alongside you in your travels."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvUGV0cy9XcmFuZ2xlclNjb3JwaW9uUGV0In1d/394ffedae2/WranglerScorpionPet.png",
-      "link": "https://www.pathofexile.com/shop/item/WranglerScorpionPet",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvUGV0cy9TY2F2ZW5nZXJTbWFsbFBldCJ9XQ/9d8f10e102/ScavengerSmallPet.png",
+      "link": "https://www.pathofexile.com/shop/item/ScavengerBatPet",
       "source": "poe1",
       "kind": "discount",
       "price": {
         "original": 30,
-        "discount": 15
+        "discount": 20
       },
-      "twName": "寵物：邊境牧蠍",
-      "twDesc": "這隻邊境牧蠍會跟隨你踏遍鬼島。"
+      "twName": "寵物：屠殺蝙蝠",
+      "twDesc": "這隻屠殺蝙蝠會跟隨你踏遍鬼島。"
     },
     {
       "english": {
-        "name": "Wild Panther Pet",
-        "description": "This stealthy Panther will stalk behind you on your journeys."
+        "name": "Overseer Curios",
+        "description": "Adds an Overseer Curios decoration to your personal Hideout."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvUGV0cy9XaWxkUGFudGhlclBldCJ9XQ/56a8e5f5e2/WildPantherPet.png",
-      "link": "https://www.pathofexile.com/shop/item/WildPantherPet",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9PdmVyc2VlckN1cmlvcyJ9XQ/cb60244b49/OverseerCurios.png",
+      "link": "https://www.pathofexile.com/shop/item/OverseerCurios",
       "source": "poe1",
       "kind": "discount",
       "price": {
-        "original": 160,
-        "discount": 95
+        "original": 50,
+        "discount": 35
       },
-      "twName": "寵物：荒野狂豹",
-      "twDesc": "這隻荒野狂豹會跟隨你踏遍鬼島。"
+      "twName": "裝飾物：無私總督珍品",
+      "twDesc": "為你的藏身處添加一個無私總督珍品。"
     },
     {
       "english": {
-        "name": "Wild Cougar Helmet",
-        "description": "Replaces the appearance of a piece of headgear with the Wild Cougar Helmet."
+        "name": "Overseer Curios (Guild)",
+        "description": "Adds an Overseer Curios decoration to your Guild Hideout."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9IYXRzL1dpbGRIb29kIn1d/df87847472/WildHood.png",
-      "link": "https://www.pathofexile.com/shop/item/WildCougarHelmet",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9PdmVyc2VlckN1cmlvcyJ9XQ/cb60244b49/OverseerCurios.png",
+      "link": "https://www.pathofexile.com/shop/item/OverseerCuriosGuild",
       "source": "poe1",
       "kind": "discount",
       "price": {
-        "original": 100,
-        "discount": 60
+        "original": 50,
+        "discount": 35
       },
-      "twName": "頭部外觀：荒野豹徒",
-      "twDesc": "將你的頭部外觀替換為荒野豹徒。"
+      "twName": "裝飾物：無私總督珍品 (公會)",
+      "twDesc": "為你的公會增添此裝飾物。"
     },
     {
       "english": {
-        "name": "Wrangler Hat",
-        "description": "Replaces the appearance of a piece of headgear with the Wrangler Hat."
+        "name": "Scavenger Curios",
+        "description": "Adds a Scavenger Curios decoration to your personal Hideout."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9IYXRzL1dyYW5nbGVySGVsbWV0In1d/8f5303dd1f/WranglerHelmet.png",
-      "link": "https://www.pathofexile.com/shop/item/WranglerHat",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9TY2F2ZW5nZXJPYmplY3RzIn1d/fe72e0d301/ScavengerObjects.png",
+      "link": "https://www.pathofexile.com/shop/item/ScavengerCurios",
       "source": "poe1",
       "kind": "discount",
       "price": {
-        "original": 100,
-        "discount": 60
+        "original": 50,
+        "discount": 35
       },
-      "twName": "頭部外觀：邊境牧者帽",
-      "twDesc": "將你的頭部外觀替換為邊境牧者帽。"
+      "twName": "裝飾物：屠殺清夫珍品",
+      "twDesc": "為你的藏身處添加一個屠殺清夫珍品。"
     },
     {
       "english": {
-        "name": "Wild Armour Pack",
-        "description": "Contains the Wild Body Armour, Helmet, Boots and Gloves armour skins (at a discounted price)."
+        "name": "Scavenger Curios (Guild)",
+        "description": "Adds a Scavenger Curios decoration to your Guild Hideout."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Bcm1vdXJTZXQvV2lsZEFybW91ciJ9XQ/07c7da2e67/WildArmour.png",
-      "link": "https://www.pathofexile.com/shop/item/WildArmourPack",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9TY2F2ZW5nZXJPYmplY3RzIn1d/fe72e0d301/ScavengerObjects.png",
+      "link": "https://www.pathofexile.com/shop/item/ScavengerCuriosGuild",
       "source": "poe1",
       "kind": "discount",
       "price": {
-        "original": 420,
-        "discount": 255
+        "original": 50,
+        "discount": 35
       },
-      "twName": "荒野狂徒組合包",
-      "twDesc": "包含了身體外觀：荒野狂徒、頭部外觀：荒野狂徒、腳部外觀：荒野狂徒以及手部外觀：荒野狂徒（這是優惠組合）。"
+      "twName": "裝飾物：屠殺清夫珍品 (公會)",
+      "twDesc": "為你的公會增添此裝飾物。"
     },
     {
       "english": {
-        "name": "Wrangler Armour Pack",
-        "description": "Contains the Wrangler Body Armour, Helmet, Boots and Gloves armour skins (at a discounted price)."
+        "name": "Overseer Cold Snap Effect",
+        "description": "Replaces the standard effect on a Cold Snap gem with an overseer version."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Bcm1vdXJTZXQvV3JhbmdsZXJBcm1vdXIifV0/06a59d704a/WranglerArmour.png",
-      "link": "https://www.pathofexile.com/shop/item/WranglerArmourPack",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 420,
-        "discount": 255
-      },
-      "twName": "邊境牧者組合包",
-      "twDesc": "包含了身體外觀：邊境牧者、頭部外觀：邊境牧者、腳部外觀：邊境牧者以及手部外觀：邊境牧者（這是優惠組合）。"
-    },
-    {
-      "english": {
-        "name": "Wild Shield",
-        "description": "Replaces the appearance of a shield with the Wild Shield."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TaGllbGRzL1dpbGRTaGllbGRTa2luIn1d/f151613485/WildShieldSkin.png",
-      "link": "https://www.pathofexile.com/shop/item/WildShield",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 180,
-        "discount": 110
-      },
-      "twName": "護盾外觀：荒野狂徒",
-      "twDesc": "將你的護盾外觀替換為荒野狂徒。"
-    },
-    {
-      "english": {
-        "name": "Wild Weapon",
-        "description": "Replaces the appearance of any equipped Sword, Mace or Axe with the Wild Weapon."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vV2lsZEF4ZSJ9XQ/f9a7a508c7/WildAxe.png",
-      "link": "https://www.pathofexile.com/shop/item/WildWeapon",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 180,
-        "discount": 110
-      },
-      "twName": "武器外觀：荒野狂徒巨斧",
-      "twDesc": "將你的單手劍、單手錘、權杖或單手斧外觀替換為荒野狂徒巨斧。"
-    },
-    {
-      "english": {
-        "name": "Wild Weapon Effect",
-        "description": "Imbues a weapon with the Wild Weapon Effect."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vd2VhcG9uX3dpbGQifV0/2a307c3788/weapon_wild.png",
-      "link": "https://www.pathofexile.com/shop/item/WildWeaponEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 180,
-        "discount": 110
-      },
-      "twName": "武器特效：荒野狂徒",
-      "twDesc": "將你的武器注入荒野狂徒效果。"
-    },
-    {
-      "english": {
-        "name": "Wrangler Blade",
-        "description": "Replaces the appearance of any Dagger, Wand or Claw with the Wrangler Blade."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vV3JhbmdsZXJCbGFkZVNraW4ifV0/3f7e685aca/WranglerBladeSkin.png",
-      "link": "https://www.pathofexile.com/shop/item/WranglerBlade",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 180,
-        "discount": 110
-      },
-      "twName": "武器外觀：邊境牧者大劍",
-      "twDesc": "將你的匕首、法杖或爪外觀替換為邊境牧者大劍。"
-    },
-    {
-      "english": {
-        "name": "Wrangler Weapon Effect",
-        "description": "Imbues a weapon with the Wrangler Weapon Effect."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vd2VhcG9uX3dyYW5nbGVyIn1d/ecc668c886/weapon_wrangler.png",
-      "link": "https://www.pathofexile.com/shop/item/WranglerWeaponEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 180,
-        "discount": 110
-      },
-      "twName": "武器特效：邊境牧者",
-      "twDesc": "將你的武器注入邊境牧者效果。"
-    },
-    {
-      "english": {
-        "name": "Wild Footprints Effect",
-        "description": "Imbues a pair of boots with the Wild Footprints Effect."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Gb290cHJpbnRzL1dpbGRGb290cHJpbnRzIn1d/4b0a14de73/WildFootprints.png",
-      "link": "https://www.pathofexile.com/shop/item/WildFootprintsEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 80,
-        "discount": 50
-      },
-      "twName": "行走特效：荒野狂徒",
-      "twDesc": "將你腳部外觀注入荒野狂徒效果。"
-    },
-    {
-      "english": {
-        "name": "Wrangler Footprints Effect",
-        "description": "Imbues a pair of boots with the Wrangler Footprints Effect."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Gb290cHJpbnRzL1dyYW5nbGVyRm9vdHByaW50cyJ9XQ/1b1090e6cf/WranglerFootprints.png",
-      "link": "https://www.pathofexile.com/shop/item/WranglerFootprintsEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 80,
-        "discount": 50
-      },
-      "twName": "行走特效：邊境牧者",
-      "twDesc": "將你腳部外觀注入邊境牧者效果。"
-    },
-    {
-      "english": {
-        "name": "Wild Cloak",
-        "description": "Adds the Wild Cloak to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9XaWxkQ2xvYWsifV0/6e8bcb30c6/WildCloak.png",
-      "link": "https://www.pathofexile.com/shop/item/WildCloak",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 230,
-        "discount": 145
-      },
-      "twName": "背飾：荒野狂徒披風",
-      "twDesc": "在你的背後附加一個荒野狂徒披風。"
-    },
-    {
-      "english": {
-        "name": "Wrangler Crossbow",
-        "description": "Adds the Wrangler Crossbow to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9XcmFuZ2xlckJhY2tBdHRhY2htZW50In1d/ec00965ae7/WranglerBackAttachment.png",
-      "link": "https://www.pathofexile.com/shop/item/WranglerCrossbow",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 230,
-        "discount": 145
-      },
-      "twName": "背飾：邊境牧者十字弓",
-      "twDesc": "在你的背後附加一個邊境牧者十字弓。"
-    },
-    {
-      "english": {
-        "name": "Wild Portal Effect",
-        "description": "Replaces the standard effect on portals you create with the Wild Portal Effect."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Qb3J0YWxzL1dpbGRQb3J0YWxFZmZlY3QifV0/4d69e05d57/WildPortalEffect.png",
-      "link": "https://www.pathofexile.com/shop/item/WildPortalEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 150,
-        "discount": 95
-      },
-      "twName": "時空之門．荒野狂徒",
-      "twDesc": "將你所開啟傳送門替換為荒野狂徒的時空之門。"
-    },
-    {
-      "english": {
-        "name": "Wrangler Portal Effect",
-        "description": "Replaces the standard effect on portals you create with the Wrangler Portal Effect."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Qb3J0YWxzL1dyYW5nbGVyUG9ydGFsIn1d/4267e54730/WranglerPortal.png",
-      "link": "https://www.pathofexile.com/shop/item/WranglerPortalEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 150,
-        "discount": 95
-      },
-      "twName": "時空之門．邊境牧者",
-      "twDesc": "將你所開啟傳送門替換為邊境牧者的時空之門。"
-    },
-    {
-      "english": {
-        "name": "Wild Dash Effect",
-        "description": "Replaces the standard effect on a Dash gem with a wild version."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaWxkRGFzaEVmZmVjdCJ9XQ/7ea91280aa/WildDashEffect.png",
-      "link": "https://www.pathofexile.com/shop/item/WildDashEffect",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9PdmVyc2VlckNvbGRTbmFwRWZmZWN0In1d/a6cea20c6d/OverseerColdSnapEffect.png",
+      "link": "https://www.pathofexile.com/shop/item/OverseerColdSnapEffect",
       "source": "poe1",
       "kind": "discount",
       "price": {
         "original": 110,
-        "discount": 70
+        "discount": 80
       },
-      "twName": "幻步．荒野狂徒",
-      "twDesc": "你的幻步技能充滿了荒野狂徒效果。"
+      "twName": "霜暴．無私總督",
+      "twDesc": "你的霜暴特效替換為無私總督。"
     },
     {
       "english": {
-        "name": "Wrangler Frostblink Effect",
-        "description": "Replaces the standard effect on a Frostblink gem with a wrangler version."
+        "name": "Scavenger Blood Rage Effect",
+        "description": "Replaces the standard effect on a Blood Rage gem with a scavenger version."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XcmFuZ2xlckljZURhc2gifV0/f890c1b078/WranglerIceDash.png",
-      "link": "https://www.pathofexile.com/shop/item/WranglerFrostblinkEffect",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TY2F2ZW5nZXJCbG9vZFJhZ2VFZmZlY3QifV0/8a1f40d735/ScavengerBloodRageEffect.png",
+      "link": "https://www.pathofexile.com/shop/item/ScavengerBloodRageEffect",
       "source": "poe1",
       "kind": "discount",
       "price": {
         "original": 110,
-        "discount": 70
-      },
-      "twName": "霜漣之瞬．邊境牧者",
-      "twDesc": "你的霜漣之瞬技能充滿了邊境牧者效果。"
-    },
-    {
-      "english": {
-        "name": "Wild Aura Effect",
-        "description": "Replaces the standard effect on an Aura gem with a wild version."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9BdXJhcy9XaWxkQXVyYSJ9XQ/8c2f47139e/WildAura.png",
-      "link": "https://www.pathofexile.com/shop/item/WildAuraEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 125,
         "discount": 80
       },
-      "twName": "光環效果．荒野狂徒",
-      "twDesc": "你的光環技能充滿了荒野狂徒效果。"
+      "twName": "鮮血狂怒．屠殺清夫",
+      "twDesc": "你的鮮血狂怒特效替換為屠殺清夫。"
     },
     {
       "english": {
-        "name": "Wrangler Aura Effect",
-        "description": "Replaces the standard effect on an Aura gem with a wrangler version."
+        "name": "Overseer Portal Effect",
+        "description": "Replaces the standard effect on portals you create with the Overseer Portal Effect."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9BdXJhcy9XcmFuZ2xlckF1cmEifV0/7bb376a5cc/WranglerAura.png",
-      "link": "https://www.pathofexile.com/shop/item/WranglerAuraEffect",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Qb3J0YWxzL092ZXJzZWVyUG9ydGFsRWZmZWN0In1d/9e0f8d2729/OverseerPortalEffect.png",
+      "link": "https://www.pathofexile.com/shop/item/OverseerPortalEffect",
       "source": "poe1",
       "kind": "discount",
       "price": {
-        "original": 125,
-        "discount": 80
+        "original": 150,
+        "discount": 110
       },
-      "twName": "光環效果．邊境牧者",
-      "twDesc": "你的光環技能充滿了邊境牧者效果。"
+      "twName": "時空之門．無私總督",
+      "twDesc": "將你所開啟的傳送門替換為無私總督的時空之門。"
     },
     {
       "english": {
-        "name": "Wild Wings",
-        "description": "Adds the Wild Wings to your body armour."
+        "name": "Scavenger Portal Effect",
+        "description": "Replaces the standard effect on portals you create with the Scavenger Portal Effect."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9XaWxkV2luZ3MifV0/07a3741bb8/WildWings.png",
-      "link": "https://www.pathofexile.com/shop/item/WildWings",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Qb3J0YWxzL1NjYXZlbmdlclBvcnRhbEVmZmVjdCJ9XQ/3921c6d2c9/ScavengerPortalEffect.png",
+      "link": "https://www.pathofexile.com/shop/item/ScavengerPortalEffect",
       "source": "poe1",
       "kind": "discount",
       "price": {
-        "original": 320,
-        "discount": 205
+        "original": 150,
+        "discount": 110
       },
-      "twName": "背飾：荒野狂徒之翼",
-      "twDesc": "在你的背後附加一個荒野狂徒之翼。"
+      "twName": "時空之門．屠殺清夫",
+      "twDesc": "將你所開啟的傳送門替換為屠殺清夫的時空之門。"
     },
     {
       "english": {
-        "name": "Wrangler Wings",
-        "description": "Adds the Wrangler Wings to your body armour."
+        "name": "Midnight Pact Armour Pack",
+        "description": "Contains the Midnight Pact Body Armour, Gloves, Boots and Helmet armour skins (at a discounted price)."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9XcmFuZ2xlcldpbmdzIn1d/03970d8be9/WranglerWings.png",
-      "link": "https://www.pathofexile.com/shop/item/WranglerWings",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Bcm1vdXJTZXQvTWlkbmlnaHRQYWN0QXJtb3VyU2V0In1d/21f886033b/MidnightPactArmourSet.png",
+      "link": "https://www.pathofexile.com/shop/item/MidnightPactArmourPack",
       "source": "poe1",
       "kind": "discount",
       "price": {
-        "original": 320,
-        "discount": 205
+        "original": 840,
+        "discount": 630
       },
-      "twName": "背飾：邊境牧者之翼",
-      "twDesc": "在你的背後附加一個邊境牧者之翼。"
+      "twName": "血夜冥約組合包",
+      "twDesc": "包含了身體外觀：血夜冥約、頭部外觀：血夜冥約、腳部外觀：血夜冥約以及手部外觀：血夜冥約（這是優惠組合）。"
     },
     {
       "english": {
-        "name": "Wild Character Effect",
-        "description": "Adds the Wild Character Effect to your character."
+        "name": "Midnight Pact Character Effect",
+        "description": "Adds the Midnight Pact Character Effect to your character."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9DaGFyYWN0ZXIvV2lsZENoYXJhY3RlckVmZmVjdCJ9XQ/a61ef4f2f9/WildCharacterEffect.png",
-      "link": "https://www.pathofexile.com/shop/item/WildCharacterEffect",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9DaGFyYWN0ZXIvTWlkbmlnaHRQYWN0Q2hhcmFjdGVyRWZmZWN0In1d/7c6c8a3c54/MidnightPactCharacterEffect.png",
+      "link": "https://www.pathofexile.com/shop/item/MidnightPactCharacterEffect",
       "source": "poe1",
       "kind": "discount",
       "price": {
-        "original": 210,
-        "discount": 135
+        "original": 420,
+        "discount": 315
       },
-      "twName": "角色特效：荒野狂徒",
-      "twDesc": "為你的角色添加荒野狂徒特效。"
+      "twName": "角色特效：血夜冥約",
+      "twDesc": "為你的角色添加血夜冥約。"
     },
     {
       "english": {
-        "name": "Wrangler Character Effect",
-        "description": "Adds the Wrangler Character Effect to your character."
+        "name": "Midnight Pact Cloak",
+        "description": "Adds the Midnight Pact Cloak to your body armour."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9DaGFyYWN0ZXIvV3JhbmdsZXJDaGFyYWN0ZXJFZmZlY3QifV0/4c2a7ea55e/WranglerCharacterEffect.png",
-      "link": "https://www.pathofexile.com/shop/item/WranglerCharacterEffect",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9NaWRuaWdodFBhY3RDbG9hayJ9XQ/84f76939d3/MidnightPactCloak.png",
+      "link": "https://www.pathofexile.com/shop/item/MidnightPactCloak",
       "source": "poe1",
       "kind": "discount",
       "price": {
-        "original": 210,
-        "discount": 135
+        "original": 460,
+        "discount": 345
       },
-      "twName": "角色特效：邊境牧者",
-      "twDesc": "為你的角色添加邊境牧者特效。"
+      "twName": "背飾：血夜冥約披風",
+      "twDesc": "在你的背後附加血夜冥約披風。"
     },
     {
       "english": {
-        "name": "Wrangler Hawk Pet",
-        "description": "This mechanically augmented Hawk will fly alongside you on your journeys."
+        "name": "Midnight Pact Footprints Effect",
+        "description": "Imbues a pair of boots with the Midnight Pact Footprints Effect."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvUGV0cy9XcmFuZ2xlckhhd2tQZXQifV0/488d9fee94/WranglerHawkPet.png",
-      "link": "https://www.pathofexile.com/shop/item/WranglerHawkPet",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Gb290cHJpbnRzL01pZG5pZ2h0UGFjdEZvb3RwcmludHMifV0/5ace5f9fac/MidnightPactFootprints.png",
+      "link": "https://www.pathofexile.com/shop/item/MidnightPactFootprintsEffect",
       "source": "poe1",
       "kind": "discount",
       "price": {
         "original": 160,
-        "discount": 105
+        "discount": 120
       },
-      "twName": "寵物：邊境牧鷹",
-      "twDesc": "這隻邊境牧鷹會跟隨你踏遍鬼島。"
+      "twName": "行走特效：血夜冥約",
+      "twDesc": "為你的腳部裝備注入血夜冥約。"
+    },
+    {
+      "english": {
+        "name": "Midnight Pact Hood",
+        "description": "Replaces the appearance of a piece of headgear with the Midnight Pact Hood."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9IYXRzL01pZG5pZ2h0UGFjdEhvb2QifV0/56613c3d2e/MidnightPactHood.png",
+      "link": "https://www.pathofexile.com/shop/item/MidnightPactHood",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 200,
+        "discount": 150
+      },
+      "twName": "頭部外觀：血夜冥約之兜",
+      "twDesc": "將你的頭部外觀替換為血夜冥約之兜。"
+    },
+    {
+      "english": {
+        "name": "Midnight Pact Portal Effect",
+        "description": "Replaces the standard effect on portals you create with the Midnight Pact Portal Effect."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Qb3J0YWxzL01pZG5pZ2h0UGFjdFBvcnRhbEVmZmVjdCJ9XQ/7871ff06cd/MidnightPactPortalEffect.png",
+      "link": "https://www.pathofexile.com/shop/item/MidnightPactPortalEffect",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 300,
+        "discount": 225
+      },
+      "twName": "時空之門．血夜冥約",
+      "twDesc": "將你所開啟的傳送門替換為血夜冥約的時空之門。"
+    },
+    {
+      "english": {
+        "name": "Midnight Pact Stash Bundle",
+        "description": "Contains the Midnight Pact Stash and Midnight Pact Guild Stash."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9NaWRuaWdodFBhY3RTdGFzaFNraW5CdW5kbGUifV0/558b130cfb/MidnightPactStashSkinBundle.png",
+      "link": "https://www.pathofexile.com/shop/item/MidnightPactStashBundle",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 120,
+        "discount": 90
+      },
+      "twName": "血夜冥約倉庫包",
+      "twDesc": "包含了裝飾物：血夜冥約倉庫、血夜冥約公會倉庫。"
+    },
+    {
+      "english": {
+        "name": "Midnight Pact Stash Bundle (Guild)",
+        "description": "Contains the Midnight Pact Stash and Midnight Pact Guild Stash."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9NaWRuaWdodFBhY3RTdGFzaFNraW5CdW5kbGUifV0/558b130cfb/MidnightPactStashSkinBundle.png",
+      "link": "https://www.pathofexile.com/shop/item/MidnightPactStashBundleGuild",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 120,
+        "discount": 90
+      },
+      "twName": "血夜冥約倉庫包 (公會)",
+      "twDesc": "為你的公會增添此裝飾物。"
+    },
+    {
+      "english": {
+        "name": "Midnight Pact Weapon Effect",
+        "description": "Imbues a weapon with the Midnight Pact Weapon Effect."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vd2VhcG9uX01pZG5pZ2h0UGFjdCJ9XQ/c0e17ff48e/weapon_MidnightPact.png",
+      "link": "https://www.pathofexile.com/shop/item/MidnightPactWeaponEffect",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 360,
+        "discount": 270
+      },
+      "twName": "武器特效：血夜冥約",
+      "twDesc": "為你的武器注入血夜冥約。"
+    },
+    {
+      "english": {
+        "name": "Midnight Pact Wings",
+        "description": "Adds the Midnight Pact Wings to your body armour."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9NaWRuaWdodFBhY3RXaW5ncyJ9XQ/750fb4e417/MidnightPactWings.png",
+      "link": "https://www.pathofexile.com/shop/item/MidnightPactWings",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 640,
+        "discount": 480
+      },
+      "twName": "背飾：血夜冥約之翼",
+      "twDesc": "在你的背後附加血夜冥約之翼。"
+    },
+    {
+      "english": {
+        "name": "Overseer Armour Pack",
+        "description": "Contains the Overseer Body Armour, Gloves, Boots and Helmet armour skins (at a discounted price)."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Bcm1vdXJTZXQvT3ZlcnNlZXJBcm1vdXJTZXQifV0/22823b1274/OverseerArmourSet.png",
+      "link": "https://www.pathofexile.com/shop/item/OverseerArmourPack",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 420,
+        "discount": 315
+      },
+      "twName": "無私總督組合包",
+      "twDesc": "包含了身體外觀：無私總督、頭部外觀：無私總督、腳部外觀：無私總督以及手部外觀：無私總督（這是優惠組合）。"
+    },
+    {
+      "english": {
+        "name": "Overseer Building Supplies",
+        "description": "Adds an Overseer Building Supplies decoration to your personal Hideout."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9PdmVyc2VlckJ1aWxkaW5nU3VwcGxpZXMifV0/355193a7b2/OverseerBuildingSupplies.png",
+      "link": "https://www.pathofexile.com/shop/item/OverseerBuildingSupplies",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 60,
+        "discount": 45
+      },
+      "twName": "裝飾物：無私總督建材",
+      "twDesc": "為你的藏身處添加一個無私總督建材。"
+    },
+    {
+      "english": {
+        "name": "Overseer Building Supplies (Guild)",
+        "description": "Adds an Overseer Building Supplies decoration to your Guild Hideout."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9PdmVyc2VlckJ1aWxkaW5nU3VwcGxpZXMifV0/355193a7b2/OverseerBuildingSupplies.png",
+      "link": "https://www.pathofexile.com/shop/item/OverseerBuildingSuppliesGuild",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 60,
+        "discount": 45
+      },
+      "twName": "裝飾物：無私總督建材 (公會)",
+      "twDesc": "為你的公會增添此裝飾物。"
+    },
+    {
+      "english": {
+        "name": "Overseer Environmental Effect",
+        "description": "Adds an Overseer Environmental Effect decoration to your personal Hideout."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9PdmVyc2VlckVudmlyb25tZW50YWxFZmZlY3QifV0/3ae6b0f5a1/OverseerEnvironmentalEffect.png",
+      "link": "https://www.pathofexile.com/shop/item/OverseerEnvironmentalEffect",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 40,
+        "discount": 30
+      },
+      "twName": "裝飾物：無私總督特效",
+      "twDesc": "為你的藏身處添加一個無私總督特效。"
+    },
+    {
+      "english": {
+        "name": "Overseer Environmental Effect (Guild)",
+        "description": "Adds an Overseer Environmental Effect decoration to your Guild Hideout."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9PdmVyc2VlckVudmlyb25tZW50YWxFZmZlY3QifV0/3ae6b0f5a1/OverseerEnvironmentalEffect.png",
+      "link": "https://www.pathofexile.com/shop/item/OverseerEnvironmentalEffectGuild",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 40,
+        "discount": 30
+      },
+      "twName": "裝飾物：無私總督特效 (公會)",
+      "twDesc": "為你的公會增添此裝飾物。"
+    },
+    {
+      "english": {
+        "name": "Overseer Footprints Effect",
+        "description": "Imbues a pair of boots with the Overseer Footprints Effect."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Gb290cHJpbnRzL092ZXJzZWVyRm9vdHByaW50cyJ9XQ/958508020b/OverseerFootprints.png",
+      "link": "https://www.pathofexile.com/shop/item/OverseerFootprintsEffect",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 80,
+        "discount": 60
+      },
+      "twName": "行走特效：無私總督",
+      "twDesc": "為你的腳部裝備注入無私總督。"
+    },
+    {
+      "english": {
+        "name": "Overseer Hood",
+        "description": "Replaces the appearance of a piece of headgear with the Overseer Hood."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9IYXRzL092ZXJzZWVySG9vZCJ9XQ/8b25ec1117/OverseerHood.png",
+      "link": "https://www.pathofexile.com/shop/item/OverseerHood",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 100,
+        "discount": 75
+      },
+      "twName": "頭部外觀：無私總督之兜",
+      "twDesc": "將你的頭部外觀替換為無私總督之兜。"
+    },
+    {
+      "english": {
+        "name": "Overseer Owl Pet",
+        "description": "This wise old owl will accompany you on your travels"
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvUGV0cy9PdmVyc2VlckxhcmdlUGV0In1d/e37de2de54/OverseerLargePet.png",
+      "link": "https://www.pathofexile.com/shop/item/OverseerOwlPet",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 160,
+        "discount": 120
+      },
+      "twName": "寵物：總督貓頭鷹",
+      "twDesc": "這隻總督貓頭鷹會跟隨你踏遍鬼島。"
+    },
+    {
+      "english": {
+        "name": "Overseer Weapon",
+        "description": "Replaces the appearance of a Dagger, Wand, Claw, Staff, Bow or Quiver with the Overseer Weapon."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vT3ZlcnNlZXJXZWFwb25Ta2luIn1d/2054e6243b/OverseerWeaponSkin.png",
+      "link": "https://www.pathofexile.com/shop/item/OverseerWeapon",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 180,
+        "discount": 135
+      },
+      "twName": "武器外觀：無私總督",
+      "twDesc": "將你的匕首、法杖、爪、長杖、弓或箭袋外觀替換為無私總督。"
+    },
+    {
+      "english": {
+        "name": "Overseer Weapon Effect",
+        "description": "Imbues a weapon with the Overseer Weapon Effect."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vd2VhcG9uX292ZXJzZWVyIn1d/db0c7c84e6/weapon_overseer.png",
+      "link": "https://www.pathofexile.com/shop/item/OverseerWeaponEffect",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 180,
+        "discount": 135
+      },
+      "twName": "武器特效：無私總督",
+      "twDesc": "為你的武器注入無私總督。"
+    },
+    {
+      "english": {
+        "name": "Overseer Wings",
+        "description": "Adds the Overseer Wings to your body armour."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9PdmVyc2VlcldpbmdzIn1d/4bf540f085/OverseerWings.png",
+      "link": "https://www.pathofexile.com/shop/item/OverseerWings",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 320,
+        "discount": 240
+      },
+      "twName": "背飾：無私總督之翼",
+      "twDesc": "在你的背後附加無私總督之翼。"
+    },
+    {
+      "english": {
+        "name": "Scavenger Armour Pack",
+        "description": "Contains the Scavenger Body Armour, Gloves, Boots and Helmet armour skins (at a discounted price)."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Bcm1vdXJTZXQvU2NhdmVuZ2VyQXJtb3VyU2V0In1d/aba202ed8d/ScavengerArmourSet.png",
+      "link": "https://www.pathofexile.com/shop/item/ScavengerArmourPack",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 420,
+        "discount": 315
+      },
+      "twName": "屠殺清夫組合包",
+      "twDesc": "包含了身體外觀：屠殺清夫、頭部外觀：屠殺清夫、腳部外觀：屠殺清夫以及手部外觀：屠殺清夫（這是優惠組合）。"
+    },
+    {
+      "english": {
+        "name": "Scavenger Back Attachment",
+        "description": "Adds the Scavenger Back Attachment to your body armour."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9TY2F2ZW5nZXJHcmFuZEJhY2tBdHRhY2htZW50In1d/b6d061900c/ScavengerGrandBackAttachment.png",
+      "link": "https://www.pathofexile.com/shop/item/ScavengerBackAttachment",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 320,
+        "discount": 240
+      },
+      "twName": "背飾：屠殺清夫之翼",
+      "twDesc": "在你的背後附加屠殺清夫之翼。"
+    },
+    {
+      "english": {
+        "name": "Scavenger Building Supplies",
+        "description": "Adds a Scavenger Building Supplies decoration to your personal Hideout."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9TY2F2ZW5nZXJCdWlsZGluZ1N1cHBsaWVzIn1d/e7804c5ace/ScavengerBuildingSupplies.png",
+      "link": "https://www.pathofexile.com/shop/item/ScavengerBuildingSupplies",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 60,
+        "discount": 45
+      },
+      "twName": "裝飾物：屠殺清夫建材",
+      "twDesc": "為你的藏身處添加一個屠殺清夫建材。"
+    },
+    {
+      "english": {
+        "name": "Scavenger Building Supplies (Guild)",
+        "description": "Adds a Scavenger Building Supplies decoration to your Guild Hideout."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9TY2F2ZW5nZXJCdWlsZGluZ1N1cHBsaWVzIn1d/e7804c5ace/ScavengerBuildingSupplies.png",
+      "link": "https://www.pathofexile.com/shop/item/ScavengerBuildingSuppliesGuild",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 60,
+        "discount": 45
+      },
+      "twName": "裝飾物：屠殺清夫建材 (公會)",
+      "twDesc": "為你的公會增添此裝飾物。"
+    },
+    {
+      "english": {
+        "name": "Scavenger Environmental Effect",
+        "description": "Adds a Scavenger Environmental Effect decoration to your personal Hideout."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9TY2F2ZW5nZXJFbnZpcm9ubWVudGFsRWZmZWN0In1d/faebbe3874/ScavengerEnvironmentalEffect.png",
+      "link": "https://www.pathofexile.com/shop/item/ScavengerEnvironmentalEffect",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 40,
+        "discount": 30
+      },
+      "twName": "裝飾物：屠殺清夫特效",
+      "twDesc": "為你的藏身處添加一個屠殺清夫特效。"
+    },
+    {
+      "english": {
+        "name": "Scavenger Environmental Effect (Guild)",
+        "description": "Adds a Scavenger Environmental Effect decoration to your Guild Hideout."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9TY2F2ZW5nZXJFbnZpcm9ubWVudGFsRWZmZWN0In1d/faebbe3874/ScavengerEnvironmentalEffect.png",
+      "link": "https://www.pathofexile.com/shop/item/ScavengerEnvironmentalEffectGuild",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 40,
+        "discount": 30
+      },
+      "twName": "裝飾物：屠殺清夫特效 (公會)",
+      "twDesc": "為你的公會增添此裝飾物。"
+    },
+    {
+      "english": {
+        "name": "Scavenger Footprints Effect",
+        "description": "Imbues a pair of boots with the Scavenger Footprints Effect."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Gb290cHJpbnRzL1NjYXZlbmdlckZvb3RwcmludHMifV0/68c12f26e6/ScavengerFootprints.png",
+      "link": "https://www.pathofexile.com/shop/item/ScavengerFootprintsEffect",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 80,
+        "discount": 60
+      },
+      "twName": "行走特效：屠殺清夫",
+      "twDesc": "為你的腳部裝備注入屠殺清夫。"
+    },
+    {
+      "english": {
+        "name": "Scavenger Hood",
+        "description": "Replaces the appearance of a piece of headgear with the Scavenger Hood."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9IYXRzL1NjYXZlbmdlckhvb2QifV0/5b8147a72f/ScavengerHood.png",
+      "link": "https://www.pathofexile.com/shop/item/ScavengerHood",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 100,
+        "discount": 75
+      },
+      "twName": "頭部外觀：屠殺清夫之兜",
+      "twDesc": "將你的頭部外觀替換為屠殺清夫之兜。"
+    },
+    {
+      "english": {
+        "name": "Scavenger Ratmother Pet",
+        "description": "This monstrous mother rat will maul your enemies into a mangled mess."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvUGV0cy9TY2F2ZW5nZXJMYXJnZVBldCJ9XQ/605f2f02b1/ScavengerLargePet.png",
+      "link": "https://www.pathofexile.com/shop/item/ScavengerRatmotherPet",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 160,
+        "discount": 120
+      },
+      "twName": "寵物：屠殺鼠母",
+      "twDesc": "這隻屠殺鼠母會跟隨你踏遍鬼島。"
+    },
+    {
+      "english": {
+        "name": "Scavenger Weapon",
+        "description": "Replaces the appearance of a Dagger, Wand, Claw, Sword, One Hand Mace or One Hand Axe with the Scavenger Weapon."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vU2NhdmVuZ2VyV2VhcG9uU2tpbiJ9XQ/fcd470ec66/ScavengerWeaponSkin.png",
+      "link": "https://www.pathofexile.com/shop/item/ScavengerWeapon",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 180,
+        "discount": 135
+      },
+      "twName": "武器外觀：屠殺清夫",
+      "twDesc": "將你的匕首、法杖、爪、劍、單手錘或單手斧外觀替換為屠殺清夫。"
+    },
+    {
+      "english": {
+        "name": "Scavenger Weapon Effect",
+        "description": "Imbues a weapon with the Scavenger Weapon Effect."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vd2VhcG9uX1NjYXZlbmdlcldlYXBvbkVmZmVjdCJ9XQ/b51bf9194c/weapon_ScavengerWeaponEffect.png",
+      "link": "https://www.pathofexile.com/shop/item/ScavengerWeaponEffect",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 180,
+        "discount": 135
+      },
+      "twName": "武器特效：屠殺清夫",
+      "twDesc": "為你的武器注入屠殺清夫。"
+    },
+    {
+      "english": {
+        "name": "Overseer Aura Effect",
+        "description": "Replaces the standard effect on an Aura gem with an overseer version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9BdXJhcy9PdmVyc2VlckF1cmFFZmZlY3QifV0/8f56bae2ea/OverseerAuraEffect.png",
+      "link": "https://www.pathofexile.com/shop/item/OverseerAuraEffect",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 125,
+        "discount": 95
+      },
+      "twName": "光環效果．無私總督",
+      "twDesc": "你的光環特效替換為無私總督。"
+    },
+    {
+      "english": {
+        "name": "Scavenger Aura Effect",
+        "description": "Replaces the standard effect on an Aura gem with a scavenger version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9BdXJhcy9TY2F2ZW5nZXJBdXJhRWZmZWN0In1d/0d175aec79/ScavengerAuraEffect.png",
+      "link": "https://www.pathofexile.com/shop/item/ScavengerAuraEffect",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 125,
+        "discount": 95
+      },
+      "twName": "光環效果．屠殺清夫",
+      "twDesc": "你的光環特效替換為屠殺清夫。"
+    },
+    {
+      "english": {
+        "name": "Overseer Cloak",
+        "description": "Adds the Overseer Cloak to your body armour."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9PdmVyc2VlclNtYWxsQmFja0F0dGFjaG1lbnQifV0/e1b864320c/OverseerSmallBackAttachment.png",
+      "link": "https://www.pathofexile.com/shop/item/OverseerCloak",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 230,
+        "discount": 175
+      },
+      "twName": "背飾：無私總督披風",
+      "twDesc": "在你的背後附加無私總督披風。"
+    },
+    {
+      "english": {
+        "name": "Scavenger Tail Attachment",
+        "description": "Adds the Scavenger Tail Attachment to your body armour."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9TY2F2ZW5nZXJTbWFsbEJhY2tBdHRhY2htZW50In1d/9636b5cb46/ScavengerSmallBackAttachment.png",
+      "link": "https://www.pathofexile.com/shop/item/ScavengerTailAttachment",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 230,
+        "discount": 175
+      },
+      "twName": "背飾：屠殺清夫尾巴",
+      "twDesc": "在你的背後附加屠殺清夫尾巴。"
+    },
+    {
+      "english": {
+        "name": "Overseer Character Effect",
+        "description": "Adds the Overseer Character Effect to your character."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9DaGFyYWN0ZXIvT3ZlcnNlZXJDaGFyYWN0ZXJFZmZlY3QifV0/f032eb3486/OverseerCharacterEffect.png",
+      "link": "https://www.pathofexile.com/shop/item/OverseerCharacterEffect",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 210,
+        "discount": 160
+      },
+      "twName": "角色特效：無私總督",
+      "twDesc": "為你的角色添加無私總督。"
+    },
+    {
+      "english": {
+        "name": "Scavenger Character Effect",
+        "description": "Adds the Scavenger Character Effect to your character."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9DaGFyYWN0ZXIvU2NhdmVuZ2VyQ2hhcmFjdGVyRWZmZWN0In1d/39d7a4804e/ScavengerCharacterEffect.png",
+      "link": "https://www.pathofexile.com/shop/item/ScavengerCharacterEffect",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 210,
+        "discount": 160
+      },
+      "twName": "角色特效：屠殺清夫",
+      "twDesc": "為你的角色添加屠殺清夫。"
     },
     {
       "english": {
