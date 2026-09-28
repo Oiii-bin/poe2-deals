@@ -12,8 +12,9 @@ const HOST = process.env.HOST || "0.0.0.0";
 // ===== 設定區 =====
 // 抓取策略（2026-09-17 改版）：**官方優先、社群補漏、兩者聯集**
 //   1. 官方 PoE2 商城 API   pathofexile2.com/api/shop-microtransactions?game=poe2
-//      → 公開、免登入、644 件、支援 If-Modified-Since/304，且帶 special:{start,end}
-//        （本輪特價的精確結束時間，讓前端倒計時不必再用「每日固定時間」硬估）
+//      → 公開、免登入、約 686 件、支援 If-Modified-Since/304。
+//        ⚠ GGG 已移除 special:{start,end} 欄位，本輪特價結束時間目前取不到，
+//          前端退回「每日固定時間」估算（見下方 nextDiscountRefresh）。
 //   2. 官方 PoE1 特價頁     pathofexile.com/shop/category/specials（SSR，內嵌 items JSON）
 //      → 補上 API 沒有的 PoE1 專屬外觀
 //   3. 社群源 usaginest     → 補官方漏掉的「組合包內容物拆件」，也是官方全掛時的保底

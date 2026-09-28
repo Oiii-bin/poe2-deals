@@ -4,9 +4,9 @@
 //
 // 兩個官方源（都免登入、公開）：
 //   1. PoE2 商城 API  https://pathofexile2.com/api/shop-microtransactions?game=poe2
-//      → 約 686 件，JSON。⚠ 實測（2026-09-22）：GGG 已移除 special:{start,end} 欄位，
-//        且所有 item 的 cost === baseCost（無任何折扣）。故 fromPoe2Api 現階段會產出 0 筆——
-//        這是 GGG 端「PoE2 商城目前沒有特價」所致，非本站 bug；GGG 上架 PoE2 特價後會自動出現。
+//      → 約 686 件，JSON。收錄「折扣中（cost<baseCost）」與「新上架（NewItems 標籤）」兩類。
+//        ⚠ GGG 已移除 special:{start,end} 欄位，本輪特價結束時間目前取不到，
+//          前端退回「每日固定時間」估算（見 server.js 的 nextDiscountRefresh）。
 //   2. PoE1 商城 SSR  https://www.pathofexile.com/shop/category/specials
 //      → 頁面內嵌 new Category({items:[...]})，補足 PoE1 專屬外觀（API 只有 poe2）；
 //        此頁才有 onSpecial===true + cost<originalCost 的真實折扣資料。
@@ -154,8 +154,11 @@ const isSellable = (x) => x && x.forsale !== false && !x.visibleOnlyInPackage;
 //   • 帶 NewItems 標籤（GGG 新上架）→ kind:"new"，讓 PoE2 商城在站點上有內容
 //     （GGG 目前 PoE2 商城 API 已無任何折扣資料，若只收折扣會讓 PoE2 整區空白）
 const isNewItem = (it, v) => {
-  const tags = (v && v.tags) || it.tags || [];
-  return tags.includes("NewItems");
+  // 變體若自己有 tags 就用自己的；空的話（注意：JS 裡 [] 是 truthy，不能靠 || 回退父層）退回父層。
+  // 變體與父層任一帶 NewItems 都算新上架。
+  const vt = v && Array.isArray(v.tags) && v.tags.length ? v.tags : [];
+  const it2 = Array.isArray(it.tags) ? it.tags : [];
+  return vt.concat(it2).includes("NewItems");
 };
 
 // ---------- PoE2 API ----------
@@ -228,6 +231,7 @@ function fromPoe1Html(html, twMap) {
         discount: it.cost,
         specialEnd: null,
         tags: it.tags || [],
+        kind: "discount",
         ...(tw ? { twName: tw.name, twDesc: tw.description } : {}),
       });
     }
@@ -245,6 +249,7 @@ function fromPoe1Html(html, twMap) {
           discount: v.cost,
           specialEnd: null,
           tags: v.tags || it.tags || [],
+          kind: "discount",
           ...(tv ? { twName: tv.name, twDesc: tv.description } : {}),
         });
       }
@@ -307,7 +312,7 @@ async function run(opts) {
   });
 
   const items = merge(poe2, poe1);
-  if (!items.length) throw new Error("官方源沒有取得任何折扣資料：" + errors.join(" / "));
+  if (!items.length) throw new Error("官方源沒有取得任何商品（折扣或新上架）：" + errors.join(" / "));
 
   const out = { date: new Date().toISOString().replace("T", " ").slice(0, 19), items };
   const twCount = items.filter((x) => x.twName).length;

@@ -439,7 +439,13 @@ async function load() {
 }
 
 // ===== 事件 =====
-searchEl.addEventListener("input", (e) => { state.q = e.target.value.trim(); render(); });
+// 搜尋框做 200ms 防抖：現在上百張卡片，每敲一字就 rebuild 整個 grid 會卡
+let searchTimer = null;
+searchEl.addEventListener("input", (e) => {
+  clearTimeout(searchTimer);
+  const v = e.target.value.trim();
+  searchTimer = setTimeout(() => { state.q = v; render(); }, 200);
+});
 document.getElementById("sortBy").addEventListener("click", (e) => {
   const b = e.target.closest("button"); if (!b) return;
   state.sort = b.dataset.sort;
