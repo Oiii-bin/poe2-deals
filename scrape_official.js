@@ -121,9 +121,9 @@ async function getTwMap(opts) {
 }
 
 // 社群源（usaginest 等）商品多半沒有 GGG id，只能拿英文商品名去「英文名→臺服譯名」對照表比對。
-// 這張表由 run() 把官方 EN 目錄（含英文名）與臺服目錄（含中文名）以 id join 而成。
-// 這裡吃一整批上游商品（{ english:{name,description}, ... }），回傳「補上 twName」的版本。
-// 官方源本身已帶 twName，傳入會原樣返回（不覆蓋）。
+// 這張表由 run() 把官方 EN 目錄（含英文名）與臺服目錄（含中文名）以 id join 而成，值帶 { name, desc }。
+// 這裡吃一整批上游商品（{ english:{name,description}, ... }），回傳「補上 twName + twDesc」的版本。
+// 官方源本身已帶 twName/twDesc，傳入會原樣返回（不覆蓋）。社群源若比對命中則連描述一起補成繁中。
 function enrichWithTw(items, twMap) {
   if (!twMap || !twMap.enName || !items) return items;
   const en = twMap.enName;
@@ -131,7 +131,7 @@ function enrichWithTw(items, twMap) {
     if (it.twName) return it;
     const nm = it.english && it.english.name;
     const hit = nm && en.get(String(nm).toLowerCase());
-    return hit ? Object.assign({}, it, { twName: hit }) : it;
+    return hit ? Object.assign({}, it, { twName: hit.name, twDesc: hit.desc }) : it;
   });
 }
 
@@ -323,7 +323,17 @@ async function run(opts) {
   if (tw && enRaw) {
     for (const it of (enRaw.data || [])) {
       const zh = tw.id.get(it.id);
-      if (zh && zh.name && !enName.has(String(it.name).toLowerCase())) enName.set(String(it.name).toLowerCase(), zh.name);
+      if (zh && zh.name && !enName.has(String(it.name).toLowerCase())) {
+        enName.set(String(it.name).toLowerCase(), { name: zh.name, desc: zh.description });
+      }
+      // 變體也納入對照（社群源有些商品名對應變體而非父層），以變體 id join 臺服譯名
+      for (const v of it.variants || []) {
+        const zv = tw.id.get(v.id);
+        const vn = v.name || it.name;
+        if (zv && zv.name && !enName.has(String(vn).toLowerCase())) {
+          enName.set(String(vn).toLowerCase(), { name: zv.name, desc: zv.description });
+        }
+      }
     }
   }
 
