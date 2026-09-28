@@ -76,8 +76,8 @@ jobs:
             //    折扣空窗期幾乎全是新品，舊規則會把整批判異常而放棄提交。折扣關係只對 kind:"discount" 商品要求。
             const bad = j.items.filter(x =>
               !x.english?.name ||
-              !(typeof x.price?.discount === "number" && typeof x.price?.original === "number") ||
-              (x.kind === "discount" && !(x.price.discount < x.price.original))
+              !(typeof x.price?.discount === 'number' && typeof x.price?.original === 'number') ||
+              (x.kind === 'discount' && !(x.price.discount < x.price.original))
             );
             if (bad.length) {
               console.error('❌ 有 ' + bad.length + ' 筆資料異常（無名稱或無折扣），放棄提交');
