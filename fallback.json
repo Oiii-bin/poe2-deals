@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-29 01:24:37",
+  "date": "2026-09-29 07:28:03",
   "items": [
     {
       "english": {
@@ -1190,6 +1190,22 @@
     },
     {
       "english": {
+        "name": "Abyssal Cluster Grenade Effect",
+        "description": "Replaces the standard effect on a Cluster Grenade gem with an abyssal version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9BYnlzc2FsQ2x1c3RlckdyZW5hZGUiLCJyZWFsbSI6InBvZTIifV0/9f65137a3c/AbyssalClusterGrenade.webp",
+      "link": "https://pathofexile2.com/shop/item/abyssal-cluster-grenade-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 85,
+        "discount": 85
+      },
+      "twName": "電流擲彈．聖光",
+      "twDesc": "將技能「電流擲彈」的特效替換為聖光。"
+    },
+    {
+      "english": {
         "name": "Abyssal Dodge Roll Effect",
         "description": "Adds an abyssal effect when you dodge roll."
       },
@@ -1203,6 +1219,86 @@
       },
       "twName": "閃避翻滾．深淵",
       "twDesc": "為你的閃避翻滾添加深淵特效。"
+    },
+    {
+      "english": {
+        "name": "Abyssal Explosive Grenade Effect",
+        "description": "Replaces the standard effect on an Explosive Grenade gem with an abyssal version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9BYnlzc2FsRXhwbG9zaXZlR3JlbmFkZSIsInJlYWxtIjoicG9lMiJ9XQ/8e3e8e6ab6/AbyssalExplosiveGrenade.webp",
+      "link": "https://pathofexile2.com/shop/item/abyssal-explosive-grenade-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 75,
+        "discount": 75
+      },
+      "twName": "毒氣擲彈．聖光",
+      "twDesc": "將技能「毒氣擲彈」的特效替換為聖光。"
+    },
+    {
+      "english": {
+        "name": "Abyssal Flash Grenade Effect",
+        "description": "Replaces the standard effect on a Flash Grenade gem with an abyssal version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9BYnlzc2FsRmxhc2hHcmVuYWRlIiwicmVhbG0iOiJwb2UyIn1d/c5de449e97/AbyssalFlashGrenade.webp",
+      "link": "https://pathofexile2.com/shop/item/abyssal-flash-grenade-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 75,
+        "discount": 75
+      },
+      "twName": "毒氣擲彈．深淵",
+      "twDesc": "將技能「閃光擲彈」的特效替換為深淵。"
+    },
+    {
+      "english": {
+        "name": "Abyssal Gas Grenade Effect",
+        "description": "Replaces the standard effect on a Gas Grenade gem with an abyssal version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9BYnlzc2FsVG94aWNHcmVuYWRlIiwicmVhbG0iOiJwb2UyIn1d/09d1304eec/AbyssalToxicGrenade.webp",
+      "link": "https://pathofexile2.com/shop/item/abyssal-gas-grenade-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 80,
+        "discount": 80
+      },
+      "twName": "燃油擲彈．深淵",
+      "twDesc": "將技能「燃油擲彈」的特效替換為深淵。"
+    },
+    {
+      "english": {
+        "name": "Abyssal Grenade Skill Effect Bundle",
+        "description": "Contains the Abyssal Flash, Oil, Gas, Voltaic, Explosive and Cluster Grenade skill effects (at a discounted price)."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9BYnlzc0dyZW5hZGVzQnVuZGxlIiwicmVhbG0iOiJwb2UyIn1d/a97c59a6e1/AbyssGrenadesBundle.webp",
+      "link": "https://pathofexile2.com/shop/item/abyssal-grenade-skill-effect-bundle",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 325,
+        "discount": 325
+      },
+      "twName": "Abyssal Grenade Skill Effect Bundle",
+      "twDesc": "Contains the Abyssal Flash, Oil, Gas, Voltaic, Explosive and Cluster Grenade skill effects (at a discounted price)."
+    },
+    {
+      "english": {
+        "name": "Abyssal Oil Grenade Effect",
+        "description": "Replaces the standard effect on an Oil Grenade gem with an abyssal version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9BYnlzc2FsT2lsR3JlbmFkZSIsInJlYWxtIjoicG9lMiJ9XQ/4dc4c3f571/AbyssalOilGrenade.webp",
+      "link": "https://pathofexile2.com/shop/item/abyssal-oil-grenade-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 80,
+        "discount": 80
+      },
+      "twName": "閃光擲彈．深淵",
+      "twDesc": "將技能「燃油擲彈」的特效替換為深淵。"
     },
     {
       "english": {
@@ -1235,6 +1331,22 @@
       },
       "twName": "寵物：深淵羽毛書",
       "twDesc": "這本深淵的魔導書會漂浮在你身旁，伴隨你的旅程。"
+    },
+    {
+      "english": {
+        "name": "Abyssal Voltaic Grenade Effect",
+        "description": "Replaces the standard effect on a Voltaic Grenade gem with an abyssal version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9BYnlzc2FsVm9sdGFpY0dyZW5hZGUiLCJyZWFsbSI6InBvZTIifV0/33ae44f536/AbyssalVoltaicGrenade.webp",
+      "link": "https://pathofexile2.com/shop/item/abyssal-voltaic-grenade-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 70,
+        "discount": 70
+      },
+      "twName": "電流擲彈．深淵",
+      "twDesc": "將技能「電流擲彈」的特效替換為深淵。"
     },
     {
       "english": {
@@ -3662,6 +3774,22 @@
     },
     {
       "english": {
+        "name": "Vampiric Crossbow Skill Effect Bundle",
+        "description": "Contains the Vampiric Armour Piercing Rounds, Fragmentation Rounds, High Velocity Rounds, Siege Cascade, Flash Grenade, Emergency Reload, Shard Scavenger, Mortar Cannon, Artillery Ballista an Siege Ballista skill effects (at a discounted price)."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9WYW1waXJpY0JhbGxpc3RhQnVuZGxlIiwicmVhbG0iOiJwb2UyIn1d/242982bb11/VampiricBallistaBundle.webp",
+      "link": "https://pathofexile2.com/shop/item/vampiric-crossbow-skill-effect-bundle",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 450,
+        "discount": 450
+      },
+      "twName": "吸血鬼十字弓技能特效組合包",
+      "twDesc": "含有穿甲彈藥、分裂彈藥、高速彈藥、圍城爆發、閃光擲彈、緊急裝填、碎片清除者、迫擊、火砲砲塔、和攻城炮台的吸血鬼技能特效（這是優惠組合）。"
+    },
+    {
+      "english": {
         "name": "Vampiric Emergency Reload Effect",
         "description": "Replaces the standard effect on an Emergency Reload gem with a vampiric version."
       },
@@ -3723,6 +3851,22 @@
       },
       "twName": "高速彈藥．吸血鬼",
       "twDesc": "將技能「高速彈藥」的特效替換為吸血鬼。"
+    },
+    {
+      "english": {
+        "name": "Vampiric Mortar Cannon Effect",
+        "description": "Replaces the standard effect on a Mortar Cannon gem with a vampiric version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9WYW1waXJpY01vcnRhckNhbm5vbiIsInJlYWxtIjoicG9lMiJ9XQ/42ac5168b6/VampiricMortarCannon.webp",
+      "link": "https://pathofexile2.com/shop/item/vampiric-mortar-cannon-effect",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 85,
+        "discount": 85
+      },
+      "twName": "迫擊．吸血鬼",
+      "twDesc": "將技能「迫擊砲」的特效替換為吸血鬼。"
     },
     {
       "english": {
