@@ -1,1192 +1,741 @@
 {
-  "date": "2026-09-29 19:27:14",
+  "date": "2026-09-30 01:26:47",
   "items": [
     {
       "english": {
-        "name": "Ghostflame Holy Flame Totem Skin",
-        "description": "Replaces the standard effect on a Holy Flame Totem skill gem with a ghostflame possessed totem and flames."
+        "name": "Deepwater Frog Pet",
+        "description": "This adventurous frog will accompany you on your expeditions."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9HaG9zdGZsYW1lRmxhbWVUb3RlbSJ9XQ/e291f8ae6f/GhostflameFlameTotem.png",
-      "link": "https://www.pathofexile.com/shop/item/GhostflameHolyFlameTotemSkin",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 95,
-        "discount": 50
-      },
-      "twName": "神聖火舌圖騰．幽冷青焰",
-      "twDesc": "神聖火舌圖騰技能效果替換為幽冷青焰。"
-    },
-    {
-      "english": {
-        "name": "Ghostflame Swarm Pet",
-        "description": "This ghostly Swarm will glow alongside you on your journey."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvUGV0cy9HaG9zdGZpcmVTd2FybSJ9XQ/22e207ed7f/GhostfireSwarm.png",
-      "link": "https://www.pathofexile.com/shop/item/GhostflameSwarmPet",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 55,
-        "discount": 30
-      },
-      "twName": "寵物：螢火蟲群．青焰",
-      "twDesc": "青色的螢火蟲群跟著你冒險。"
-    },
-    {
-      "english": {
-        "name": "Corsair Building Supplies Decoration",
-        "description": "Adds a Corsair Building Supplies decoration to your personal Hideout."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9Db3JzYWlyQnVpbGRpbmdTdXBwbGllcyJ9XQ/4110d1300d/CorsairBuildingSupplies.png",
-      "link": "https://www.pathofexile.com/shop/item/CorsairBuildingSuppliesDecoration",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 60,
-        "discount": 35
-      },
-      "twName": "裝飾物：海盜船建造器材",
-      "twDesc": "為你的藏身處添加一個海盜船建造器材。"
-    },
-    {
-      "english": {
-        "name": "Corsair Building Supplies Decoration (Guild)",
-        "description": "Adds a Corsair Building Supplies decoration to your Guild Hideout."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9Db3JzYWlyQnVpbGRpbmdTdXBwbGllcyJ9XQ/4110d1300d/CorsairBuildingSupplies.png",
-      "link": "https://www.pathofexile.com/shop/item/CorsairBuildingSuppliesDecorationGuild",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 60,
-        "discount": 35
-      },
-      "twName": "裝飾物：海盜船建造器材 (公會)",
-      "twDesc": "為你的公會增添此裝飾物。"
-    },
-    {
-      "english": {
-        "name": "Ghostflame Footprints Effect",
-        "description": "Imbues a pair of boots with the Ghostflame footprints."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Gb290cHJpbnRzL0dob3N0ZmxhbWUifV0/21d6e95977/Ghostflame.png",
-      "link": "https://www.pathofexile.com/shop/item/GhostflameFootprintsEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 120,
-        "discount": 70
-      },
-      "twName": "行走特效：幽冷青焰",
-      "twDesc": "為你的腳部裝備注入鬼火之力，使其在行走時會在地上留下幽冷青焰。"
-    },
-    {
-      "english": {
-        "name": "Mystic Building Supplies Decoration",
-        "description": "Adds a Mystic Building Supplies decoration to your personal Hideout."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9NeXN0aWNBcmNoIn1d/4ebea181eb/MysticArch.png",
-      "link": "https://www.pathofexile.com/shop/item/MysticBuildingSuppliesDecoration",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 60,
-        "discount": 35
-      },
-      "twName": "裝飾物：秘境建築器材",
-      "twDesc": "為你的藏身處添加一個秘境建築器材。"
-    },
-    {
-      "english": {
-        "name": "Mystic Building Supplies Decoration (Guild)",
-        "description": "Adds a Mystic Building Supplies decoration to your Guild Hideout."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9NeXN0aWNBcmNoIn1d/4ebea181eb/MysticArch.png",
-      "link": "https://www.pathofexile.com/shop/item/MysticBuildingSuppliesDecorationGuild",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 60,
-        "discount": 35
-      },
-      "twName": "裝飾物：秘境建築器材 (公會)",
-      "twDesc": "為你的公會增添此裝飾物。"
-    },
-    {
-      "english": {
-        "name": "Ghostflame Skull",
-        "description": "Replaces the appearance of a piece of headgear with a Ghostflame skull."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9IYXRzL0dob3N0ZmlyZVNrdWxsIn1d/524c97334a/GhostfireSkull.png",
-      "link": "https://www.pathofexile.com/shop/item/GhostflameSkull",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 220,
-        "discount": 130
-      },
-      "twName": "頭部外觀：青焰亡顱",
-      "twDesc": "將你的頭部外觀替換為帶著幽冷青焰的骷髏頭。此外觀可重複替換。"
-    },
-    {
-      "english": {
-        "name": "Mystic Rakango Pet",
-        "description": "This protective companion will lurk alongside you on your journeys."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvUGV0cy9UYW5pd2hhUGV0In1d/69ac391ab9/TaniwhaPet.png",
-      "link": "https://www.pathofexile.com/shop/item/MysticRakangoPet",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 160,
-        "discount": 95
-      },
-      "twName": "寵物：秘境拉康苟",
-      "twDesc": "這個保護性的同伴會潛伏在你旁踏遍鬼島。"
-    },
-    {
-      "english": {
-        "name": "Spectre Footprints Effect",
-        "description": "Imbues a pair of boots with the Spectre Footprints Effect."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Gb290cHJpbnRzL1NwZWN0cmVGb290cHJpbnRzIn1d/e1bb60f872/SpectreFootprints.png",
-      "link": "https://www.pathofexile.com/shop/item/SpectreFootprintsEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 160,
-        "discount": 95
-      },
-      "twName": "行走特效：魅影幽魂",
-      "twDesc": "將你腳部外觀注入魅影幽魂效果。"
-    },
-    {
-      "english": {
-        "name": "Mysterious Treasure",
-        "description": "Adds a Mysterious Treasure decoration to your personal Hideout."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9NeXN0ZXJpb3VzVHJlYXN1cmVEZWNvcmF0aW9uIn1d/f132f93653/MysteriousTreasureDecoration.png",
-      "link": "https://www.pathofexile.com/shop/item/MysteriousTreasure",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 50,
-        "discount": 30
-      },
-      "twName": "裝飾物：大祕寶",
-      "twDesc": "為你的藏身處添加一個海盜船建造器材。"
-    },
-    {
-      "english": {
-        "name": "Mysterious Treasure (Guild)",
-        "description": "Adds a Mysterious Treasure decoration to your Guild Hideout."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9NeXN0ZXJpb3VzVHJlYXN1cmVEZWNvcmF0aW9uIn1d/f132f93653/MysteriousTreasureDecoration.png",
-      "link": "https://www.pathofexile.com/shop/item/MysteriousTreasureGuild",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 50,
-        "discount": 30
-      },
-      "twName": "裝飾物：大秘寶 (公會)",
-      "twDesc": "為你的公會增添此裝飾物。"
-    },
-    {
-      "english": {
-        "name": "Mystic Cave",
-        "description": "Adds a Mystic Cave decoration to your personal Hideout."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9NeXN0aWNDYXZlRGVjb3JhdGlvbiJ9XQ/6bb6f6b0b9/MysticCaveDecoration.png",
-      "link": "https://www.pathofexile.com/shop/item/MysticCave",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 50,
-        "discount": 30
-      },
-      "twName": "裝飾物：秘境洞穴",
-      "twDesc": "為你的藏身處添加一個神秘洞穴。"
-    },
-    {
-      "english": {
-        "name": "Mystic Cave (Guild)",
-        "description": "Adds a Mystic Cave decoration to your Guild Hideout."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9NeXN0aWNDYXZlRGVjb3JhdGlvbiJ9XQ/6bb6f6b0b9/MysticCaveDecoration.png",
-      "link": "https://www.pathofexile.com/shop/item/MysticCaveGuild",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 50,
-        "discount": 30
-      },
-      "twName": "裝飾物：秘境洞穴 (公會)",
-      "twDesc": "為你的公會增添此裝飾物。"
-    },
-    {
-      "english": {
-        "name": "Corsair Footprints Effect",
-        "description": "Imbues a pair of boots with the Corsair Footprints Effect."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Gb290cHJpbnRzL0NvcnNhaXJGb290cHJpbnRzIn1d/f84216c88f/CorsairFootprints.png",
-      "link": "https://www.pathofexile.com/shop/item/CorsairFootprintsEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 80,
-        "discount": 50
-      },
-      "twName": "行走特效：怨靈海盜",
-      "twDesc": "將你腳部外觀注入怨靈海盜效果。"
-    },
-    {
-      "english": {
-        "name": "Ghostflame Summon Raging Spirit Skin",
-        "description": "Replaces the standard raging spirit that is spawned by a Summon Raging Spirit gem with a ghostflame raging spirit."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9HaG9zdGZsYW1lU3VtbW9uUmFnaW5nU3Bpcml0In1d/42629525c6/GhostflameSummonRagingSpirit.png",
-      "link": "https://www.pathofexile.com/shop/item/GhostflameSummonRagingSpiritSkin",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 80,
-        "discount": 50
-      },
-      "twName": "召喚憤怒狂靈．幽冷青焰",
-      "twDesc": "你的召喚憤怒狂靈技能充滿了幽冷青焰特效。"
-    },
-    {
-      "english": {
-        "name": "Mystic Footprints Effect",
-        "description": "Imbues a pair of boots with the Mystic Footprints Effect."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Gb290cHJpbnRzL015c3RpY0Zvb3RwcmludHMifV0/7cb3056b04/MysticFootprints.png",
-      "link": "https://www.pathofexile.com/shop/item/MysticFootprintsEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 80,
-        "discount": 50
-      },
-      "twName": "行走特效：秘境邪巫",
-      "twDesc": "將你腳部外觀注入秘境邪巫效果。"
-    },
-    {
-      "english": {
-        "name": "Mystic Glowworms",
-        "description": "Adds a Mystic Glowworms decoration to your personal Hideout."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9HbG93V29ybXMifV0/e37a586d8e/GlowWorms.png",
-      "link": "https://www.pathofexile.com/shop/item/MysticGlowworms",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 40,
-        "discount": 25
-      },
-      "twName": "裝飾物：秘境螢火蟲",
-      "twDesc": "為你的藏身處添加一個秘境螢火蟲。"
-    },
-    {
-      "english": {
-        "name": "Mystic Glowworms (Guild)",
-        "description": "Adds a Mystic Glowworms decoration to your Guild Hideout."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9HbG93V29ybXMifV0/e37a586d8e/GlowWorms.png",
-      "link": "https://www.pathofexile.com/shop/item/MysticGlowwormsGuild",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 40,
-        "discount": 25
-      },
-      "twName": "裝飾物：秘境螢火蟲 (公會)",
-      "twDesc": "為你的公會增添此裝飾物。"
-    },
-    {
-      "english": {
-        "name": "Pooled Water",
-        "description": "Adds a Pooled Water decoration to your personal Hideout."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9Qb29sZWRXYXRlckRlY29yYXRpb24ifV0/c8b6bd4943/PooledWaterDecoration.png",
-      "link": "https://www.pathofexile.com/shop/item/PooledWater",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 40,
-        "discount": 25
-      },
-      "twName": "裝飾物：水窪",
-      "twDesc": "為你的藏身處添加一個水窪。"
-    },
-    {
-      "english": {
-        "name": "Pooled Water (Guild)",
-        "description": "Adds a Pooled Water decoration to your Guild Hideout."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9Qb29sZWRXYXRlckRlY29yYXRpb24ifV0/c8b6bd4943/PooledWaterDecoration.png",
-      "link": "https://www.pathofexile.com/shop/item/PooledWaterGuild",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 40,
-        "discount": 25
-      },
-      "twName": "裝飾物：水窪 (公會)",
-      "twDesc": "為你的公會增添此裝飾物。"
-    },
-    {
-      "english": {
-        "name": "Ghostflame Back Attachment",
-        "description": "Adds the Ghostflame Back Attachment to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9HaG9zdEZsYW1lQmFjayJ9XQ/fb6b8d59fb/GhostFlameBack.png",
-      "link": "https://www.pathofexile.com/shop/item/GhostflameBackAttachment",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 300,
-        "discount": 190
-      },
-      "twName": "背飾：青焰鬼揹",
-      "twDesc": "在你的身體護具加上青焰鬼揹。"
-    },
-    {
-      "english": {
-        "name": "Brine King Minion Pet",
-        "description": "This shelled crab will skitter alongside you on your journeys."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvUGV0cy9CcmluZUtpbmdNaW5pb25QZXQifV0/16cd107808/BrineKingMinionPet.png",
-      "link": "https://www.pathofexile.com/shop/item/BrineKingMinionPet",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvUGV0cy9EZWVwd2F0ZXJGcm9nUGV0In1d/02a215349b/DeepwaterFrogPet.png",
+      "link": "https://www.pathofexile.com/shop/item/DeepwaterFrogPet",
       "source": "poe1",
       "kind": "discount",
       "price": {
         "original": 30,
         "discount": 20
       },
-      "twName": "寵物：海洋王隨從",
-      "twDesc": "這隻螃蟹會跟隨你踏遍鬼島。"
+      "twName": "寵物：深海青蛙",
+      "twDesc": "這隻深海青蛙會跟隨你踏遍鬼島。"
     },
     {
       "english": {
-        "name": "Ghostflame Armour Pack",
-        "description": "Contains the Ghostflame Body Armour, Helmet, Boots and Gloves armour skins (at a discounted price)."
+        "name": "Siren Seagull Pet",
+        "description": "This scavenging seagull will soar above you on your travels."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Bcm1vdXJTZXQvR2hvc3RmaXJlQXJtb3VyIn1d/b747312fed/GhostfireArmour.png",
-      "link": "https://www.pathofexile.com/shop/item/GhostflameArmourPack",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 420,
-        "discount": 280
-      },
-      "twName": "幽冷青焰組合包",
-      "twDesc": "包含了身體外觀：幽冷青焰、頭部外觀：幽冷青焰、腳部外觀：幽冷青焰，以及手部外觀：幽冷青焰（這是優惠組合）。"
-    },
-    {
-      "english": {
-        "name": "Ghostflame Flaming Head Helmet Attachment",
-        "description": "Imbues a piece of headgear with the Ghostflame Flaming Head Helmet Attachment."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9IYXRzL0dob3N0ZmxhbWVGbGFtaW5nSGVhZEhlbG1ldEF0dGFjaG1lbnQifV0/1d8d2b1d8f/GhostflameFlamingHeadHelmetAttachment.png",
-      "link": "https://www.pathofexile.com/shop/item/GhostflameFlamingHeadHelmetAttachment",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 90,
-        "discount": 60
-      },
-      "twName": "頭部特效：青焰．燃燒頭顱",
-      "twDesc": "將你頭部外觀注入青焰．燃燒頭顱效果。"
-    },
-    {
-      "english": {
-        "name": "Mystic Pet",
-        "description": "Summons a cluster of Mystic Totems which will follow you around."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvUGV0cy9NeXN0aWNQZXQifV0/d3dd5a312f/MysticPet.png",
-      "link": "https://www.pathofexile.com/shop/item/MysticPet",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvUGV0cy9TaXJlblNlYWd1bGxQZXQifV0/fa1964877f/SirenSeagullPet.png",
+      "link": "https://www.pathofexile.com/shop/item/SirenSeagullPet",
       "source": "poe1",
       "kind": "discount",
       "price": {
         "original": 30,
         "discount": 20
       },
-      "twName": "寵物：秘境邪巫",
-      "twDesc": "這隻秘境邪巫會跟隨你踏遍鬼島。"
+      "twName": "寵物：海妖海鷗",
+      "twDesc": "這隻海妖海鷗會跟隨你踏遍鬼島。"
     },
     {
       "english": {
-        "name": "Ghostflame Weapon Effect",
-        "description": "Imbues a weapon with the Ghostflame weapon effect."
+        "name": "Deepwater Curios",
+        "description": "Adds a Deepwater Curios decoration to your personal Hideout."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vd2VhcG9uX2dob3N0ZmxhbWUifV0/68f4a6d2f3/weapon_ghostflame.png",
-      "link": "https://www.pathofexile.com/shop/item/GhostflameWeaponEffect",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9EZWVwd2F0ZXJDdXJpb3MifV0/91f34e47a3/DeepwaterCurios.png",
+      "link": "https://www.pathofexile.com/shop/item/DeepwaterCurios",
       "source": "poe1",
       "kind": "discount",
       "price": {
-        "original": 220,
-        "discount": 150
+        "original": 50,
+        "discount": 35
       },
-      "twName": "武器特效：幽冷青焰",
-      "twDesc": "為你的武器注入鬼火之力，使其被幽冷青焰環繞。"
+      "twName": "裝飾物：幽冥深海珍品",
+      "twDesc": "為你的藏身處添加一個幽冥深海珍品。"
     },
     {
       "english": {
-        "name": "Ghostflame Shield",
-        "description": "Replaces the appearance of a shield with the Ghostflame Shield."
+        "name": "Deepwater Curios (Guild)",
+        "description": "Adds a Deepwater Curios decoration to your Guild Hideout."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TaGllbGRzL0dob3N0ZmxhbWVTaGllbGQifV0/d4dfcd021b/GhostflameShield.png",
-      "link": "https://www.pathofexile.com/shop/item/GhostflameShield",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9EZWVwd2F0ZXJDdXJpb3MifV0/91f34e47a3/DeepwaterCurios.png",
+      "link": "https://www.pathofexile.com/shop/item/DeepwaterCuriosGuild",
       "source": "poe1",
       "kind": "discount",
       "price": {
-        "original": 210,
-        "discount": 145
+        "original": 50,
+        "discount": 35
       },
-      "twName": "護盾外觀：幽冷青焰",
-      "twDesc": "將你的護盾外觀替換為幽冷青焰。"
-    },
-    {
-      "english": {
-        "name": "Mystic Character Effect",
-        "description": "Adds the Mystic Character Effect to your character."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9DaGFyYWN0ZXIvTXlzdGljQ2hhcmFjdGVyRWZmZWN0In1d/0018a3ee49/MysticCharacterEffect.png",
-      "link": "https://www.pathofexile.com/shop/item/MysticCharacterEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 210,
-        "discount": 145
-      },
-      "twName": "角色特效：秘境邪巫",
-      "twDesc": "為你的角色添加秘境邪巫特效。"
-    },
-    {
-      "english": {
-        "name": "Corsair Staff",
-        "description": "Replaces the appearance of a Staff, Two Hand Sword, Axe or Mace with the Corsair Staff."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vQ29yc2FpclN0YWZmIn1d/b5804223a4/CorsairStaff.png",
-      "link": "https://www.pathofexile.com/shop/item/CorsairStaff",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 180,
-        "discount": 125
-      },
-      "twName": "武器外觀：怨靈海盜之杖",
-      "twDesc": "將你的長杖、雙手劍、雙手斧或雙手錘外觀替換為怨靈海盜之杖。"
-    },
-    {
-      "english": {
-        "name": "Corsair Weapon Effect",
-        "description": "Imbues a weapon with the Corsair Weapon Effect."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vd2VhcG9uX2NvcnNhaXIifV0/5dbb70cf96/weapon_corsair.png",
-      "link": "https://www.pathofexile.com/shop/item/CorsairWeaponEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 180,
-        "discount": 125
-      },
-      "twName": "武器特效：怨靈海盜",
-      "twDesc": "將你的武器注入怨靈海盜效果。"
-    },
-    {
-      "english": {
-        "name": "Mystic Staff",
-        "description": "Replaces the appearance of a Staff, Two Hand Sword, Axe or Mace with the Mystic Staff."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vTXlzdGljU3RhZmYifV0/e39e22ff9d/MysticStaff.png",
-      "link": "https://www.pathofexile.com/shop/item/MysticStaff",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 180,
-        "discount": 125
-      },
-      "twName": "武器外觀：秘境邪巫之杖",
-      "twDesc": "將你的長杖、雙手劍、雙手斧或雙手錘外觀替換為秘境邪巫之杖。"
-    },
-    {
-      "english": {
-        "name": "Mystic Weapon Effect",
-        "description": "Imbues a weapon with the Mystic Weapon Effect."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vd2VhcG9uX215c3RpYyJ9XQ/b74e8152af/weapon_mystic.png",
-      "link": "https://www.pathofexile.com/shop/item/MysticWeaponEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 180,
-        "discount": 125
-      },
-      "twName": "武器特效：秘境邪巫",
-      "twDesc": "將你的武器注入秘境邪巫效果。"
-    },
-    {
-      "english": {
-        "name": "Spectre Staff",
-        "description": "Replaces the appearance of a Staff, Two Hand Sword, Axe or Mace with the Spectre Staff."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vU3BlY3RyZVN0YWZmIn1d/d95bc92fb5/SpectreStaff.png",
-      "link": "https://www.pathofexile.com/shop/item/SpectreStaff",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 360,
-        "discount": 250
-      },
-      "twName": "武器外觀：魅影幽魂之杖",
-      "twDesc": "將你的長杖、雙手劍、雙手斧或雙手錘外觀替換為魅影幽魂之杖。"
-    },
-    {
-      "english": {
-        "name": "Corsair Cloak",
-        "description": "Adds the Corsair Cloak to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9Db3JzYWlyQ2xvYWsifV0/0fa7011822/CorsairCloak.png",
-      "link": "https://www.pathofexile.com/shop/item/CorsairCloak",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 230,
-        "discount": 160
-      },
-      "twName": "背飾：怨靈海盜披風",
-      "twDesc": "在你的背後附加一個怨靈海盜披風。"
-    },
-    {
-      "english": {
-        "name": "Mystic Cloak",
-        "description": "Adds the Mystic Cloak to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9NeXN0aWNDbG9hayJ9XQ/705414ef7e/MysticCloak.png",
-      "link": "https://www.pathofexile.com/shop/item/MysticCloak",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 230,
-        "discount": 160
-      },
-      "twName": "背飾：秘境邪巫披風",
-      "twDesc": "在你的背後附加一個秘境邪巫披風。"
-    },
-    {
-      "english": {
-        "name": "Spectre Cloak",
-        "description": "Adds the Spectre Cloak to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9TcGVjdHJlQ2xvYWsifV0/a0eb7ebcb8/SpectreCloak.png",
-      "link": "https://www.pathofexile.com/shop/item/SpectreCloak",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 460,
-        "discount": 320
-      },
-      "twName": "背飾：魅影幽魂披風",
-      "twDesc": "在你的背後附加一個魅影幽魂披風。"
-    },
-    {
-      "english": {
-        "name": "Corsair Helmet",
-        "description": "Replaces the appearance of a piece of headgear with the Corsair Helmet."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9IYXRzL0NvcnNhaXJBbHRIZWxtZXQifV0/38f23fef14/CorsairAltHelmet.png",
-      "link": "https://www.pathofexile.com/shop/item/CorsairHelmet",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 100,
-        "discount": 70
-      },
-      "twName": "頭部外觀：怨靈海盜",
-      "twDesc": "將你的頭部外觀替換為怨靈海盜。"
-    },
-    {
-      "english": {
-        "name": "Corsair Hood",
-        "description": "Replaces the appearance of a piece of headgear with the Corsair Hood."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9IYXRzL0NvcnNhaXJIb29kIn1d/e0137b03fd/CorsairHood.png",
-      "link": "https://www.pathofexile.com/shop/item/CorsairHood",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 100,
-        "discount": 70
-      },
-      "twName": "頭部外觀：怨靈海盜之兜",
-      "twDesc": "將你的頭部外觀替換為怨靈海盜之兜。"
-    },
-    {
-      "english": {
-        "name": "Corsair Portal",
-        "description": "Replaces the standard effect on portals you create with the Corsair Portal."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Qb3J0YWxzL0NvcnNhaXJQb3J0YWwifV0/79e07ff00e/CorsairPortal.png",
-      "link": "https://www.pathofexile.com/shop/item/CorsairPortal",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 150,
-        "discount": 105
-      },
-      "twName": "時空之門．怨靈海盜",
-      "twDesc": "將你所開啟傳送門替換為怨靈海盜的時空之門。"
-    },
-    {
-      "english": {
-        "name": "Ghostflame Character Effect",
-        "description": "Adds the Ghostflame Character Effect to your character."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9DaGFyYWN0ZXIvR2hvc3RmbGFtZSJ9XQ/45c560e72f/Ghostflame.png",
-      "link": "https://www.pathofexile.com/shop/item/GhostflameCharacterEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 250,
-        "discount": 175
-      },
-      "twName": "角色特效：幽冷青焰",
-      "twDesc": "為你的角色添加幽冷青焰特效。"
-    },
-    {
-      "english": {
-        "name": "Mystic Hood",
-        "description": "Replaces the appearance of a piece of headgear with the Mystic Hood."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9IYXRzL015c3RpY0hvb2QifV0/bfac1a29b6/MysticHood.png",
-      "link": "https://www.pathofexile.com/shop/item/MysticHood",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 100,
-        "discount": 70
-      },
-      "twName": "頭部外觀：秘境邪巫之兜",
-      "twDesc": "將你的頭部外觀替換為秘境邪巫之兜。"
-    },
-    {
-      "english": {
-        "name": "Mystic Portal",
-        "description": "Replaces the standard effect on portals you create with the Mystic Portal."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Qb3J0YWxzL015c3RpY1BvcnRhbCJ9XQ/0a39cf5e59/MysticPortal.png",
-      "link": "https://www.pathofexile.com/shop/item/MysticPortal",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 150,
-        "discount": 105
-      },
-      "twName": "時空之門．秘境邪巫",
-      "twDesc": "將你所開啟傳送門替換為秘境邪巫的時空之門。"
-    },
-    {
-      "english": {
-        "name": "Spectre Hood",
-        "description": "Replaces the appearance of a piece of headgear with the Spectre Hood."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9IYXRzL1NwZWN0cmVIb29kIn1d/9a161c1d36/SpectreHood.png",
-      "link": "https://www.pathofexile.com/shop/item/SpectreHood",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 200,
-        "discount": 140
-      },
-      "twName": "頭部外觀：魅影幽魂之兜",
-      "twDesc": "將你的頭部外觀替換為魅影幽魂之兜。"
-    },
-    {
-      "english": {
-        "name": "Spectre Portal Effect",
-        "description": "Replaces the standard effect on portals you create with the Spectre Portal Effect."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Qb3J0YWxzL1NwZWN0cmVQb3J0YWwifV0/886adcd836/SpectrePortal.png",
-      "link": "https://www.pathofexile.com/shop/item/SpectrePortalEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 300,
-        "discount": 210
-      },
-      "twName": "時空之門．魅影幽魂",
-      "twDesc": "將你所開啟傳送門替換為魅影幽魂的時空之門。"
-    },
-    {
-      "english": {
-        "name": "Corsair Armour Pack",
-        "description": "Contains the Corsair Body Armour, Hat, Boots and Gloves armour skins (at a discounted price)."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Bcm1vdXJTZXQvQ29yc2FpckFybW91ciJ9XQ/1af8291af3/CorsairArmour.png",
-      "link": "https://www.pathofexile.com/shop/item/CorsairArmourPack",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 420,
-        "discount": 295
-      },
-      "twName": "怨靈海盜組合包",
-      "twDesc": "包含了身體外觀：怨靈海盜、頭部外觀：怨靈海盜、腳部外觀：怨靈海盜以及手部外觀：怨靈海盜（這是優惠組合）。"
-    },
-    {
-      "english": {
-        "name": "Mystic Armour Pack",
-        "description": "Contains the Mystic Body Armour, Helmet, Boots and Gloves armour skins (at a discounted price)."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Bcm1vdXJTZXQvTXlzdGljQXJtb3VyIn1d/8c4da222a1/MysticArmour.png",
-      "link": "https://www.pathofexile.com/shop/item/MysticArmourPack",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 420,
-        "discount": 295
-      },
-      "twName": "秘境邪巫組合包",
-      "twDesc": "包含了身體外觀：秘境邪巫、頭部外觀：秘境邪巫、腳部外觀：秘境邪巫以及手部外觀：秘境邪巫（這是優惠組合）。"
-    },
-    {
-      "english": {
-        "name": "Spectre Armour Pack",
-        "description": "Contains the Spectre Body Armour, Helmet, Boots and Gloves armour skins (at a discounted price)."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Bcm1vdXJTZXQvU3BlY3RyZUFybW91ciJ9XQ/a08639f656/SpectreArmour.png",
-      "link": "https://www.pathofexile.com/shop/item/SpectreArmourPack",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 840,
-        "discount": 590
-      },
-      "twName": "魅影幽魂組合包",
-      "twDesc": "包含了身體外觀：魅影幽魂、頭部外觀：魅影幽魂、腳部外觀：魅影幽魂以及手部外觀：魅影幽魂（這是優惠組合）。"
-    },
-    {
-      "english": {
-        "name": "Spectre Character Effect",
-        "description": "Adds the Spectre Character Effect to your character."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9DaGFyYWN0ZXIvU3BlY3RyZUNoYXJhY3RlckVmZmVjdCJ9XQ/a107b3dbde/SpectreCharacterEffect.png",
-      "link": "https://www.pathofexile.com/shop/item/SpectreCharacterEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 420,
-        "discount": 295
-      },
-      "twName": "角色特效：魅影幽魂",
-      "twDesc": "為你的角色添加魅影幽魂特效。"
-    },
-    {
-      "english": {
-        "name": "Corsair Back Attachment",
-        "description": "Adds the Corsair Back Attachment to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9Db3JzYWlyQmFja0F0dGFjaG1lbnQifV0/b6cd9d406d/CorsairBackAttachment.png",
-      "link": "https://www.pathofexile.com/shop/item/CorsairBackAttachment",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 320,
-        "discount": 225
-      },
-      "twName": "背飾：怨靈海盜配件",
-      "twDesc": "在你的背後附加一個怨靈海盜配件。"
-    },
-    {
-      "english": {
-        "name": "Dragonfly Wings",
-        "description": "Adds the Dragonfly Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9EcmFnb25mbHlXaW5ncyJ9XQ/c91c86ac5a/DragonflyWings.png",
-      "link": "https://www.pathofexile.com/shop/item/DragonflyWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 320,
-        "discount": 225
-      },
-      "twName": "背飾：青娘子翅膀",
-      "twDesc": "在你的背後附加一個青娘子翅膀。"
-    },
-    {
-      "english": {
-        "name": "Ghostflame Wings",
-        "description": "Adds the Ghostflame Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9HaG9zdGZsYW1lV2luZ3MifV0/be3a1f3bb1/GhostflameWings.png",
-      "link": "https://www.pathofexile.com/shop/item/GhostflameWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 320,
-        "discount": 225
-      },
-      "twName": "背飾：青焰幽翼",
-      "twDesc": "在你的背後附加一個青焰幽翼。"
-    },
-    {
-      "english": {
-        "name": "Mystic Wings",
-        "description": "Adds the Mystic Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9NeXN0aWNXaW5ncyJ9XQ/7c17f9c993/MysticWings.png",
-      "link": "https://www.pathofexile.com/shop/item/MysticWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 320,
-        "discount": 225
-      },
-      "twName": "背飾：秘境邪巫之翼",
-      "twDesc": "在你的背後附加一個秘境邪巫之翼。"
-    },
-    {
-      "english": {
-        "name": "Spectre Wings",
-        "description": "Adds the Spectre Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9TcGVjdHJlV2luZ3MifV0/f3cc4f0ec3/SpectreWings.png",
-      "link": "https://www.pathofexile.com/shop/item/SpectreWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 640,
-        "discount": 450
-      },
-      "twName": "背飾：魅影幽魂之翼",
-      "twDesc": "在你的背後附加一個魅影幽魂之翼。"
-    },
-    {
-      "english": {
-        "name": "Fairgraves Stash Bundle",
-        "description": "Contains the Fairgraves Stash and Fairgraves Guild Stash."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9GYWlyZ3JhdmVzU3Rhc2hhbmRHdWlsZFN0YXNoQnVuZGxlIn1d/a33af58d7a/FairgravesStashandGuildStashBundle.png",
-      "link": "https://www.pathofexile.com/shop/item/FairgravesStashBundle",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 120,
-        "discount": 85
-      },
-      "twName": "費爾倉庫組合包",
-      "twDesc": "包含了費爾公會倉庫和費爾倉庫（這是優惠組合）。"
-    },
-    {
-      "english": {
-        "name": "Fairgraves Stash Bundle (Guild)",
-        "description": "Contains the Fairgraves Stash and Fairgraves Guild Stash."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9GYWlyZ3JhdmVzU3Rhc2hhbmRHdWlsZFN0YXNoQnVuZGxlIn1d/a33af58d7a/FairgravesStashandGuildStashBundle.png",
-      "link": "https://www.pathofexile.com/shop/item/FairgravesStashBundleGuild",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 120,
-        "discount": 85
-      },
-      "twName": "費爾倉庫組合包 (公會)",
+      "twName": "裝飾物：幽冥深海珍品 (公會)",
       "twDesc": "為你的公會增添此裝飾物。"
     },
     {
       "english": {
-        "name": "Corsair Monkey Pet",
-        "description": "This spectral primate pal will light your way on your journey."
+        "name": "Siren Curios",
+        "description": "Adds a Siren Curios decoration to your personal Hideout."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvUGV0cy9Db3JzYWlyUGV0In1d/c9089adea1/CorsairPet.png",
-      "link": "https://www.pathofexile.com/shop/item/CorsairMonkeyPet",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9TaXJlbkN1cmlvcyJ9XQ/f05164775c/SirenCurios.png",
+      "link": "https://www.pathofexile.com/shop/item/SirenCurios",
       "source": "poe1",
       "kind": "discount",
       "price": {
-        "original": 160,
-        "discount": 115
+        "original": 50,
+        "discount": 35
       },
-      "twName": "寵物：怨靈海盜猴",
-      "twDesc": "這隻海盜猴會跟隨你踏遍鬼島。"
+      "twName": "裝飾物：魑魅海妖珍品",
+      "twDesc": "為你的藏身處添加一個魑魅海妖珍品。"
     },
     {
       "english": {
-        "name": "Ghostflame Blade Flurry Effect",
-        "description": "Replaces the standard effect on a Blade Flurry gem with the Ghostflame version."
+        "name": "Siren Curios (Guild)",
+        "description": "Adds a Siren Curios decoration to your Guild Hideout."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9HbG9vbUJsYWRlRmx1cnJ5In1d/fd14ae3e8e/GloomBladeFlurry.png",
-      "link": "https://www.pathofexile.com/shop/item/GhostflameBladeFlurryEffect",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9TaXJlbkN1cmlvcyJ9XQ/f05164775c/SirenCurios.png",
+      "link": "https://www.pathofexile.com/shop/item/SirenCuriosGuild",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 50,
+        "discount": 35
+      },
+      "twName": "裝飾物：魑魅海妖珍品 (公會)",
+      "twDesc": "為你的公會增添此裝飾物。"
+    },
+    {
+      "english": {
+        "name": "Deepwater Shield Charge Effect",
+        "description": "Replaces the standard effect on a Shield Charge gem with a deepwater version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9EZWVwd2F0ZXJTaGllbGRDaGFyZ2VFZmZlY3QifV0/2356d9acf9/DeepwaterShieldChargeEffect.png",
+      "link": "https://www.pathofexile.com/shop/item/DeepwaterShieldChargeEffect",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 110,
+        "discount": 80
+      },
+      "twName": "重盾衝鋒．幽冥深海",
+      "twDesc": "你的重盾衝鋒特效替換為幽冥深海。"
+    },
+    {
+      "english": {
+        "name": "Siren Flame Dash Effect",
+        "description": "Replaces the standard effect on a Flame Dash gem with a siren version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TaXJlbkZsYW1lZGFzaEVmZmVjdCJ9XQ/9563509fe2/SirenFlamedashEffect.png",
+      "link": "https://www.pathofexile.com/shop/item/SirenFlameDashEffect",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 110,
+        "discount": 80
+      },
+      "twName": "烈焰衝刺．魑魅海妖",
+      "twDesc": "你的烈焰衝刺特效替換為魑魅海妖。"
+    },
+    {
+      "english": {
+        "name": "Atlantis Stash Bundle",
+        "description": "Contains the Atlantis Stash and Atlantis Guild Stash."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9BdGxhbnRpc1N0YXNoU2tpbiJ9XQ/31c0389a7d/AtlantisStashSkin.png",
+      "link": "https://www.pathofexile.com/shop/item/AtlantisStashBundle",
       "source": "poe1",
       "kind": "discount",
       "price": {
         "original": 130,
         "discount": 95
       },
-      "twName": "刀鋒亂舞．青焰",
-      "twDesc": "你的刀鋒亂舞技能充滿了青焰效果。"
+      "twName": "亞特蘭提斯倉庫包",
+      "twDesc": "包含了裝飾物：亞特蘭提斯倉庫、亞特蘭提斯公會倉庫。"
     },
     {
       "english": {
-        "name": "Mystic Burning Arrow Effect",
-        "description": "Replaces the standard effect on a Burning Arrow gem with a mystic version."
+        "name": "Atlantis Stash Bundle (Guild)",
+        "description": "Contains the Atlantis Stash and Atlantis Guild Stash."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9NeXN0aWNCdXJuaW5nQXJyb3dFZmZlY3QifV0/b2c6ebbd2a/MysticBurningArrowEffect.png",
-      "link": "https://www.pathofexile.com/shop/item/MysticBurningArrowEffect",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9BdGxhbnRpc1N0YXNoU2tpbiJ9XQ/31c0389a7d/AtlantisStashSkin.png",
+      "link": "https://www.pathofexile.com/shop/item/AtlantisStashBundleGuild",
       "source": "poe1",
       "kind": "discount",
       "price": {
         "original": 130,
         "discount": 95
       },
-      "twName": "燃燒箭矢．秘境邪巫",
-      "twDesc": "你的燃燒箭矢特效替換為秘境邪巫。"
+      "twName": "亞特蘭提斯倉庫包 (公會)",
+      "twDesc": "為你的公會增添此裝飾物。"
     },
     {
       "english": {
-        "name": "Corsair Character Effect",
-        "description": "Adds the Corsair Character Effect to your character."
+        "name": "Deepwater Portal Effect",
+        "description": "Replaces the standard effect on portals you create with the Deepwater Portal Effect."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9DaGFyYWN0ZXIvQ29yc2FpckNoYXJhY3RlckVmZmVjdCJ9XQ/1506d3ae69/CorsairCharacterEffect.png",
-      "link": "https://www.pathofexile.com/shop/item/CorsairCharacterEffect",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Qb3J0YWxzL0RlZXB3YXRlclBvcnRhbEVmZmVjdCJ9XQ/6354a96e56/DeepwaterPortalEffect.png",
+      "link": "https://www.pathofexile.com/shop/item/DeepwaterPortalEffect",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 150,
+        "discount": 110
+      },
+      "twName": "時空之門．幽冥深海",
+      "twDesc": "將你所開啟的傳送門替換為幽冥深海的時空之門。"
+    },
+    {
+      "english": {
+        "name": "Siren Portal Effect",
+        "description": "Replaces the standard effect on portals you create with the Siren Portal Effect."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Qb3J0YWxzL1NpcmVuUG9ydGFsRWZmZWN0In1d/5045203c6d/SirenPortalEffect.png",
+      "link": "https://www.pathofexile.com/shop/item/SirenPortalEffect",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 150,
+        "discount": 110
+      },
+      "twName": "時空之門．魑魅海妖",
+      "twDesc": "將你所開啟的傳送門替換為魑魅海妖的時空之門。"
+    },
+    {
+      "english": {
+        "name": "Deepwater Character Effect",
+        "description": "Adds the Deepwater Character Effect to your character."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9DaGFyYWN0ZXIvRGVlcHdhdGVyQ2hhcmFjdGVyRWZmZWN0In1d/ea59ec041f/DeepwaterCharacterEffect.png",
+      "link": "https://www.pathofexile.com/shop/item/DeepwaterCharacterEffect",
       "source": "poe1",
       "kind": "discount",
       "price": {
         "original": 210,
         "discount": 155
       },
-      "twName": "角色特效：怨靈海盜",
-      "twDesc": "為你的角色添加怨靈海盜特效。"
+      "twName": "角色特效：幽冥深海",
+      "twDesc": "為你的角色添加幽冥深海。"
     },
     {
       "english": {
-        "name": "Cannonade Volley Effect",
-        "description": "Replaces the standard effect on a Volley or Greater Volley Gem with a cannonade version."
+        "name": "Siren Character Effect",
+        "description": "Adds the Siren Character Effect to your character."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9DYW5ub25hZGVWb2xsZXlTa2lsbEVmZmVjdCJ9XQ/61f989568b/CannonadeVolleySkillEffect.png",
-      "link": "https://www.pathofexile.com/shop/item/CannonadeVolleyEffect",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9DaGFyYWN0ZXIvU2lyZW5DaGFyYWN0ZXJFZmZlY3QifV0/ec53ae5651/SirenCharacterEffect.png",
+      "link": "https://www.pathofexile.com/shop/item/SirenCharacterEffect",
       "source": "poe1",
       "kind": "discount",
       "price": {
-        "original": 140,
-        "discount": 105
+        "original": 210,
+        "discount": 155
       },
-      "twName": "齊射．迫擊砲",
-      "twDesc": "將技能「齊射」或「高階齊射」的特效替換為迫擊砲。"
+      "twName": "角色特效：魑魅海妖",
+      "twDesc": "為你的角色添加魑魅海妖。"
     },
     {
       "english": {
-        "name": "Ghostflame Ghoul Character Effect",
-        "description": "Adds the Ghostflame Ghoul Character Effect to your character."
+        "name": "Deepwater Back Attachment",
+        "description": "Adds the Deepwater Back Attachment to your body armour."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9jaGFyYWN0ZXItZWZmZWN0cy9HaG9zdGZsYW1lR2hvdWxDaGFyYWN0ZXJFZmZlY3QiLCJyZWFsbSI6InBvZTIifV0/086637c320/GhostflameGhoulCharacterEffect.webp",
-      "link": "https://pathofexile2.com/shop/item/ghostflame-ghoul-character-effect",
-      "source": "poe2_variant",
-      "kind": "discount",
-      "price": {
-        "original": 220,
-        "discount": 165
-      },
-      "specialEnd": "2026-09-30T00:00:00+00:00",
-      "twName": "角色特效：鬼火活屍",
-      "twDesc": "為你的角色添加鬼火活屍特效。"
-    },
-    {
-      "english": {
-        "name": "Ghostflame Kinetic Bolt Effect",
-        "description": "Replaces the standard effect on a Kinetic Bolt gem with a ghostflame version."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9HaG9zdGZsYW1lS2luZXRpY0JvbHQifV0/5d83307119/GhostflameKineticBolt.png",
-      "link": "https://www.pathofexile.com/shop/item/GhostflameKineticBoltEffect",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9EZWVwd2F0ZXJCYWNrQXR0YWNobWVudCJ9XQ/52c3739028/DeepwaterBackAttachment.png",
+      "link": "https://www.pathofexile.com/shop/item/DeepwaterBackAttachment",
       "source": "poe1",
       "kind": "discount",
       "price": {
-        "original": 120,
-        "discount": 90
+        "original": 230,
+        "discount": 170
       },
-      "twName": "力量穿引．幽冷青焰",
-      "twDesc": "將技能「力量穿引」的特效替換為幽冷青焰。"
+      "twName": "背飾：幽冥深海氧氣",
+      "twDesc": "在你的背後附加幽冥深海氧氣。"
     },
     {
       "english": {
-        "name": "Ghostflame Stygian Armour Pack",
-        "description": "Contains the Ghostflame Stygian Body Armour, Gloves, Boots and Helmet armour skins (at a discounted price)."
+        "name": "Siren Cloak",
+        "description": "Adds the Siren Cloak to your body armour."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Bcm1vdXJTZXQvR2hvc3RmbGFtZVN0eWdpYW5Bcm1vdXIifV0/59a6a16146/GhostflameStygianArmour.png",
-      "link": "https://www.pathofexile.com/shop/item/GhostflameStygianArmourPack",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9TaXJlbkJhY2tBdHRhY2htZW50In1d/1f78633371/SirenBackAttachment.png",
+      "link": "https://www.pathofexile.com/shop/item/SirenCloak",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 230,
+        "discount": 170
+      },
+      "twName": "背飾：魑魅海妖披風",
+      "twDesc": "在你的背後附加魑魅海妖。"
+    },
+    {
+      "english": {
+        "name": "Atlantis Armour Pack",
+        "description": "Contains the Atlantis Body Armour, Gloves, Boots and Helmet armour skins (at a discounted price)."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Bcm1vdXJTZXQvQXRsYW50aXNBcm1vdXJTZXQifV0/147220c063/AtlantisArmourSet.png",
+      "link": "https://www.pathofexile.com/shop/item/AtlantisArmourPack",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 840,
+        "discount": 630
+      },
+      "twName": "亞特蘭提斯組合包",
+      "twDesc": "包含了身體外觀：亞特蘭提斯、頭部外觀：亞特蘭提斯、腳部外觀：亞特蘭提斯以及手部外觀：亞特蘭提斯（這是優惠組合）。"
+    },
+    {
+      "english": {
+        "name": "Atlantis Cloak",
+        "description": "Adds the Atlantis Cloak to your body armour."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9BdGxhbnRpc0Nsb2FrIn1d/9e25b87109/AtlantisCloak.png",
+      "link": "https://www.pathofexile.com/shop/item/AtlantisCloak",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 460,
+        "discount": 345
+      },
+      "twName": "背飾：亞特蘭提斯披風",
+      "twDesc": "在你的背後附加亞特蘭提斯披風。"
+    },
+    {
+      "english": {
+        "name": "Atlantis Footprints Effect",
+        "description": "Imbues a pair of boots with the Atlantis Footprints Effect."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Gb290cHJpbnRzL0F0bGFudGlzRm9vdHByaW50cyJ9XQ/62f7deec6a/AtlantisFootprints.png",
+      "link": "https://www.pathofexile.com/shop/item/AtlantisFootprintsEffect",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 160,
+        "discount": 120
+      },
+      "twName": "行走特效：亞特蘭提斯",
+      "twDesc": "為你的腳部裝備注入亞特蘭提斯。"
+    },
+    {
+      "english": {
+        "name": "Atlantis Hood",
+        "description": "Replaces the appearance of a piece of headgear with the Atlantis Hood."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9IYXRzL0F0bGFudGlzSG9vZCJ9XQ/ab03b08df4/AtlantisHood.png",
+      "link": "https://www.pathofexile.com/shop/item/AtlantisHood",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 200,
+        "discount": 150
+      },
+      "twName": "頭部外觀：亞特蘭提斯之兜",
+      "twDesc": "將你的頭部外觀替換為亞特蘭提斯之兜。"
+    },
+    {
+      "english": {
+        "name": "Atlantis Portal Effect",
+        "description": "Replaces the standard effect on portals you create with the Atlantis Portal Effect."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Qb3J0YWxzL0F0bGFudGlzUG9ydGFsRWZmZWN0In1d/cf5b4e684b/AtlantisPortalEffect.png",
+      "link": "https://www.pathofexile.com/shop/item/AtlantisPortalEffect",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 300,
+        "discount": 225
+      },
+      "twName": "時空之門．亞特蘭提斯",
+      "twDesc": "將你所開啟的傳送門替換為亞特蘭提斯的時空之門。"
+    },
+    {
+      "english": {
+        "name": "Atlantis Wings",
+        "description": "Adds the Atlantis Wings to your body armour."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9BdGxhbnRpc1dpbmdzIn1d/39a00abd1b/AtlantisWings.png",
+      "link": "https://www.pathofexile.com/shop/item/AtlantisWings",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 640,
+        "discount": 480
+      },
+      "twName": "背飾：亞特蘭提斯之翼",
+      "twDesc": "在你的背後附加亞特蘭提斯之翼。"
+    },
+    {
+      "english": {
+        "name": "Deepwater Alternate Helmet",
+        "description": "Replaces the appearance of a piece of headgear with the Deepwater Alternate Helmet."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9IYXRzL0RlZXB3YXRlckhvb2QifV0/696fa2c43c/DeepwaterHood.png",
+      "link": "https://www.pathofexile.com/shop/item/DeepwaterAlternateHelmet",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 100,
+        "discount": 75
+      },
+      "twName": "頭部外觀：幽冥深海之兜",
+      "twDesc": "將你的頭部外觀替換為幽冥深海之兜。"
+    },
+    {
+      "english": {
+        "name": "Deepwater Armour Pack",
+        "description": "Contains the Deepwater Body Armour, Gloves, Boots and Helmet armour skins (at a discounted price)."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Bcm1vdXJTZXQvRGVlcHdhdGVyQXJtb3VyU2V0In1d/dccd2ca976/DeepwaterArmourSet.png",
+      "link": "https://www.pathofexile.com/shop/item/DeepwaterArmourPack",
       "source": "poe1",
       "kind": "discount",
       "price": {
         "original": 420,
         "discount": 315
       },
-      "twName": "青焰冥河組合包",
-      "twDesc": "包含了身體外觀：青焰冥河、頭部外觀：青焰冥河、腳部外觀：青焰冥河以及手部外觀：青焰冥河（這是優惠組合）。"
+      "twName": "幽冥深海組合包",
+      "twDesc": "包含了身體外觀：幽冥深海、頭部外觀：幽冥深海、腳部外觀：幽冥深海以及手部外觀：幽冥深海（這是優惠組合）。"
     },
     {
       "english": {
-        "name": "Land Shark Pet",
-        "description": "This Land Shark will accompany you on your travels. Set shark bait on other player's pets and have your shark feast upon them."
+        "name": "Deepwater Building Supplies",
+        "description": "Adds a Deepwater Building Supplies decoration to your personal Hideout."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9wZXRzL0xhbmRzaGFya1BldCIsInJlYWxtIjoicG9lMiJ9XQ/ad1e5cae2f/LandsharkPet.webp",
-      "link": "https://pathofexile2.com/shop/item/land-shark-pet",
-      "source": "poe2_normal",
-      "kind": "discount",
-      "price": {
-        "original": 200,
-        "discount": 150
-      },
-      "specialEnd": "2026-09-30T00:00:00+00:00",
-      "twName": "寵物：陸行鯊",
-      "twDesc": "這隻陸行鯊會在冒險中陪著你。把鯊魚餌放在玩家的寵物身上，就可以讓鯊魚飽餐一頓。"
-    },
-    {
-      "english": {
-        "name": "Anchor Drop Rare Finisher Effect",
-        "description": "Imbues a weapon with an Anchor Drop Rare Finisher Effect. It amplifies the deaths of Rare Monsters you kill."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vQW5jaG9yRHJvcG9uS2lsbEVmZmVjdCJ9XQ/98b507b2c2/AnchorDroponKillEffect.png",
-      "link": "https://www.pathofexile.com/shop/item/AnchorDropRareFinisherEffect",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9EZWVwd2F0ZXJCdWlsZGluZ1N1cHBsaWVzIn1d/42690520a7/DeepwaterBuildingSupplies.png",
+      "link": "https://www.pathofexile.com/shop/item/DeepwaterBuildingSupplies",
       "source": "poe1",
       "kind": "discount",
       "price": {
-        "original": 145,
-        "discount": 110
+        "original": 60,
+        "discount": 45
       },
-      "twName": "稀有終結特效：落錨",
-      "twDesc": "為你的武器注入稀有終結特效：落錨。會增幅你擊殺稀有怪物的死亡效果。"
+      "twName": "裝飾物：幽冥深海建材",
+      "twDesc": "為你的藏身處添加一個幽冥深海建材。"
     },
     {
       "english": {
-        "name": "Corsair Aura Effect",
-        "description": "Replaces the standard effect on any Aura gem with the Corsair version."
+        "name": "Deepwater Building Supplies (Guild)",
+        "description": "Adds a Deepwater Building Supplies decoration to your Guild Hideout."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9BdXJhcy9Db3JzYWlyQXVyYSJ9XQ/6f5119ac9c/CorsairAura.png",
-      "link": "https://www.pathofexile.com/shop/item/CorsairAuraEffect",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9EZWVwd2F0ZXJCdWlsZGluZ1N1cHBsaWVzIn1d/42690520a7/DeepwaterBuildingSupplies.png",
+      "link": "https://www.pathofexile.com/shop/item/DeepwaterBuildingSuppliesGuild",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 60,
+        "discount": 45
+      },
+      "twName": "裝飾物：幽冥深海建材 (公會)",
+      "twDesc": "為你的公會增添此裝飾物。"
+    },
+    {
+      "english": {
+        "name": "Deepwater Environmental Effect",
+        "description": "Adds a Deepwater Environmental Effect decoration to your personal Hideout."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9EZWVwd2F0ZXJFbnZpcm9ubWVudGFsRWZmZWN0In1d/7c5193255f/DeepwaterEnvironmentalEffect.png",
+      "link": "https://www.pathofexile.com/shop/item/DeepwaterEnvironmentalEffect",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 40,
+        "discount": 30
+      },
+      "twName": "裝飾物：幽冥深海特效",
+      "twDesc": "為你的藏身處添加一個幽冥深海特效。"
+    },
+    {
+      "english": {
+        "name": "Deepwater Environmental Effect (Guild)",
+        "description": "Adds a Deepwater Environmental Effect decoration to your Guild Hideout."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9EZWVwd2F0ZXJFbnZpcm9ubWVudGFsRWZmZWN0In1d/7c5193255f/DeepwaterEnvironmentalEffect.png",
+      "link": "https://www.pathofexile.com/shop/item/DeepwaterEnvironmentalEffectGuild",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 40,
+        "discount": 30
+      },
+      "twName": "裝飾物：幽冥深海特效 (公會)",
+      "twDesc": "為你的公會增添此裝飾物。"
+    },
+    {
+      "english": {
+        "name": "Deepwater Footprints Effect",
+        "description": "Imbues a pair of boots with the Deepwater Footprints Effect."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Gb290cHJpbnRzL0RlZXB3YXRlckZvb3RwcmludHMifV0/bad801a317/DeepwaterFootprints.png",
+      "link": "https://www.pathofexile.com/shop/item/DeepwaterFootprintsEffect",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 80,
+        "discount": 60
+      },
+      "twName": "行走特效：幽冥深海",
+      "twDesc": "為你的腳部裝備注入幽冥深海。"
+    },
+    {
+      "english": {
+        "name": "Deepwater Puffer Pet",
+        "description": "This playful pufferfish will accompany you on your travels."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvUGV0cy9EZWVwd2F0ZXJQdWZmZXJQZXQifV0/85b74b8678/DeepwaterPufferPet.png",
+      "link": "https://www.pathofexile.com/shop/item/DeepwaterPufferPet",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 160,
+        "discount": 120
+      },
+      "twName": "寵物：深海河豚",
+      "twDesc": "這隻深海河豚會跟隨你踏遍鬼島。"
+    },
+    {
+      "english": {
+        "name": "Deepwater Weapon",
+        "description": "Replaces the appearance of a dagger, wand, claw, sword, axe, mace or staff with the Deepwater Weapon."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vRGVlcHdhdGVyV2VhcG9uU2tpbiJ9XQ/8c521dbc5d/DeepwaterWeaponSkin.png",
+      "link": "https://www.pathofexile.com/shop/item/DeepwaterWeapon",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 180,
+        "discount": 135
+      },
+      "twName": "武器外觀：幽冥深海",
+      "twDesc": "將你的匕首、法杖、爪、劍、斧、錘或長杖武器外觀替換為幽冥深海。"
+    },
+    {
+      "english": {
+        "name": "Deepwater Weapon Effect",
+        "description": "Imbues a weapon with the Deepwater Weapon Effect."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vd2VhcG9uX0RlZXB3YXRlcldlYXBvbkVmZmVjdCJ9XQ/bb1c844405/weapon_DeepwaterWeaponEffect.png",
+      "link": "https://www.pathofexile.com/shop/item/DeepwaterWeaponEffect",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 180,
+        "discount": 135
+      },
+      "twName": "武器特效：幽冥深海",
+      "twDesc": "為你的武器注入幽冥深海。"
+    },
+    {
+      "english": {
+        "name": "Deepwater Wings",
+        "description": "Adds the Deepwater Wings to your body armour."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9EZWVwd2F0ZXJXaW5ncyJ9XQ/3cbfed99d4/DeepwaterWings.png",
+      "link": "https://www.pathofexile.com/shop/item/DeepwaterWings",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 320,
+        "discount": 240
+      },
+      "twName": "背飾：幽冥深海之翼",
+      "twDesc": "在你的背後附加幽冥深海之翼。"
+    },
+    {
+      "english": {
+        "name": "Siren Armour Pack",
+        "description": "Contains the Siren Body Armour, Gloves, Boots and Helmet armour skins (at a discounted price)."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Bcm1vdXJTZXQvQXRsYW50aXNTaXJlbkFybW91clNldCJ9XQ/49757f5026/AtlantisSirenArmourSet.png",
+      "link": "https://www.pathofexile.com/shop/item/SirenArmourPack",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 420,
+        "discount": 315
+      },
+      "twName": "魑魅海妖組合包",
+      "twDesc": "包含了身體外觀：魑魅海妖、頭部外觀：魑魅海妖、腳部外觀：魑魅海妖以及手部外觀：魑魅海妖（這是優惠組合）。"
+    },
+    {
+      "english": {
+        "name": "Siren Building Supplies",
+        "description": "Adds a Siren Building Supplies decoration to your personal Hideout."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9TaXJlbkJ1aWxkaW5nU3VwcGxpZXMifV0/19c65ab2f1/SirenBuildingSupplies.png",
+      "link": "https://www.pathofexile.com/shop/item/SirenBuildingSupplies",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 60,
+        "discount": 45
+      },
+      "twName": "裝飾物：魑魅海妖建材",
+      "twDesc": "為你的藏身處添加一個魑魅海妖建材。"
+    },
+    {
+      "english": {
+        "name": "Siren Building Supplies (Guild)",
+        "description": "Adds a Siren Building Supplies decoration to your Guild Hideout."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9TaXJlbkJ1aWxkaW5nU3VwcGxpZXMifV0/19c65ab2f1/SirenBuildingSupplies.png",
+      "link": "https://www.pathofexile.com/shop/item/SirenBuildingSuppliesGuild",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 60,
+        "discount": 45
+      },
+      "twName": "裝飾物：魑魅海妖建材 (公會)",
+      "twDesc": "為你的公會增添此裝飾物。"
+    },
+    {
+      "english": {
+        "name": "Siren Environmental Effect",
+        "description": "Adds a Siren Environmental Effect decoration to your personal Hideout."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9TaXJlbkVudmlyb25tZW50YWxFZmZlY3QifV0/24e5aa1fc5/SirenEnvironmentalEffect.png",
+      "link": "https://www.pathofexile.com/shop/item/SirenEnvironmentalEffect",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 40,
+        "discount": 30
+      },
+      "twName": "裝飾物：魑魅海妖特效",
+      "twDesc": "為你的藏身處添加一個魑魅海妖特效。"
+    },
+    {
+      "english": {
+        "name": "Siren Environmental Effect (Guild)",
+        "description": "Adds a Siren Environmental Effect decoration to your Guild Hideout."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9TaXJlbkVudmlyb25tZW50YWxFZmZlY3QifV0/24e5aa1fc5/SirenEnvironmentalEffect.png",
+      "link": "https://www.pathofexile.com/shop/item/SirenEnvironmentalEffectGuild",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 40,
+        "discount": 30
+      },
+      "twName": "裝飾物：魑魅海妖特效 (公會)",
+      "twDesc": "為你的公會增添此裝飾物。"
+    },
+    {
+      "english": {
+        "name": "Siren Footprints Effect",
+        "description": "Imbues a pair of boots with the Siren Footprints Effect."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Gb290cHJpbnRzL1NpcmVuRm9vdHByaW50cyJ9XQ/7d8f32c443/SirenFootprints.png",
+      "link": "https://www.pathofexile.com/shop/item/SirenFootprintsEffect",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 80,
+        "discount": 60
+      },
+      "twName": "行走特效：魑魅海妖",
+      "twDesc": "為你的腳部裝備注入魑魅海妖。"
+    },
+    {
+      "english": {
+        "name": "Siren Hood",
+        "description": "Replaces the appearance of a piece of headgear with the Siren Hood."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9IYXRzL1NpcmVuSG9vZCJ9XQ/e871bc4127/SirenHood.png",
+      "link": "https://www.pathofexile.com/shop/item/SirenHood",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 100,
+        "discount": 75
+      },
+      "twName": "頭部外觀：魑魅海妖之兜",
+      "twDesc": "將你的頭部外觀替換為魑魅海妖之兜。"
+    },
+    {
+      "english": {
+        "name": "Siren Pegasus Pet",
+        "description": "This pegasus will accompany you on your journeys."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvUGV0cy9TaXJlblBlZ2FzdXNQZXQifV0/367ba405e1/SirenPegasusPet.png",
+      "link": "https://www.pathofexile.com/shop/item/SirenPegasusPet",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 160,
+        "discount": 120
+      },
+      "twName": "寵物：海妖飛馬",
+      "twDesc": "這隻海妖飛馬會跟隨你踏遍鬼島。"
+    },
+    {
+      "english": {
+        "name": "Siren Weapon",
+        "description": "Replaces the appearance of any weapon with the Siren Weapon."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vU2lyZW5XZWFwb25Ta2luIn1d/255a847c0b/SirenWeaponSkin.png",
+      "link": "https://www.pathofexile.com/shop/item/SirenWeapon",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 180,
+        "discount": 135
+      },
+      "twName": "武器外觀：魑魅海妖",
+      "twDesc": "將你的武器外觀替換為魑魅海妖。"
+    },
+    {
+      "english": {
+        "name": "Siren Weapon Effect",
+        "description": "Imbues a weapon with the Siren Weapon Effect."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vd2VhcG9uX3NpcmVuIn1d/9ba2fad174/weapon_siren.png",
+      "link": "https://www.pathofexile.com/shop/item/SirenWeaponEffect",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 180,
+        "discount": 135
+      },
+      "twName": "武器特效：魑魅海妖",
+      "twDesc": "為你的武器注入魑魅海妖。"
+    },
+    {
+      "english": {
+        "name": "Siren Wings",
+        "description": "Adds the Siren Wings to your body armour."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9TaXJlbldpbmdzIn1d/4546e24c4a/SirenWings.png",
+      "link": "https://www.pathofexile.com/shop/item/SirenWings",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 320,
+        "discount": 240
+      },
+      "twName": "背飾：魑魅海妖之翼",
+      "twDesc": "在你的背後附加魑魅海妖之翼。"
+    },
+    {
+      "english": {
+        "name": "Deepwater Aura Effect",
+        "description": "Replaces the standard effect on an Aura gem with a deepwater version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9BdXJhcy9EZWVwd2F0ZXJBdXJhRWZmZWN0In1d/740a523ea8/DeepwaterAuraEffect.png",
+      "link": "https://www.pathofexile.com/shop/item/DeepwaterAuraEffect",
       "source": "poe1",
       "kind": "discount",
       "price": {
         "original": 125,
         "discount": 95
       },
-      "twName": "光環效果．怨靈海盜",
-      "twDesc": "將你的光環特效替換為怨靈海盜效果。"
+      "twName": "光環效果．幽冥深海",
+      "twDesc": "你的光環特效替換為幽冥深海。"
     },
     {
       "english": {
-        "name": "Ghostflame Cyclone Effect",
-        "description": "Replaces the standard effect on a Cyclone gem with the Ghostflame version."
+        "name": "Siren Aura Effect",
+        "description": "Replaces the standard effect on an Aura gem with a siren version."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9HaG9zdGZsYW1lQ3ljbG9uZSJ9XQ/6c80dd7415/GhostflameCyclone.png",
-      "link": "https://www.pathofexile.com/shop/item/GhostflameCycloneEffect",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9BdXJhcy9TaXJlbkF1cmFFZmZlY3QifV0/ba345661e2/SirenAuraEffect.png",
+      "link": "https://www.pathofexile.com/shop/item/SirenAuraEffect",
       "source": "poe1",
       "kind": "discount",
       "price": {
         "original": 125,
         "discount": 95
       },
-      "twName": "旋風斬．幽冷青焰",
-      "twDesc": "你的旋風斬技能充滿了鐵娘子效果。"
-    },
-    {
-      "english": {
-        "name": "Mystic Aura Effect",
-        "description": "Replaces the standard effect on any Aura gem with the Mystic version."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9BdXJhcy9NeXN0aWNBdXJhIn1d/1ef068c10b/MysticAura.png",
-      "link": "https://www.pathofexile.com/shop/item/MysticAuraEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 125,
-        "discount": 95
-      },
-      "twName": "光環效果．秘境邪巫",
-      "twDesc": "將你的光環特效替換為秘境邪巫效果。"
-    },
-    {
-      "english": {
-        "name": "Shark Attack Rare Finisher Effect",
-        "description": "Imbues a weapon with a Shark Attack Rare Finisher Effect. It amplifies the deaths of Rare Monsters you kill."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vU2hhcmtBdHRhY2tPbktpbGwifV0/1c7fa7a03d/SharkAttackOnKill.png",
-      "link": "https://www.pathofexile.com/shop/item/SharkAttackRareFinisherEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 130,
-        "discount": 100
-      },
-      "twName": "稀有終結特效：鯊殺",
-      "twDesc": "為你的武器注入稀有終結特效：鯊殺。會增幅你擊殺稀有怪物的死亡效果。"
-    },
-    {
-      "english": {
-        "name": "Corsair Flame Dash Effect",
-        "description": "Replaces the standard effect on a Flame Dash gem with the Corsair version."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Db3JzYWlyRmxhbWVEYXNoIn1d/8f90de2429/CorsairFlameDash.png",
-      "link": "https://www.pathofexile.com/shop/item/CorsairFlameDashEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 110,
-        "discount": 85
-      },
-      "twName": "烈焰衝刺．怨靈海盜",
-      "twDesc": "你的烈焰衝刺技能充滿了怨靈海盜效果。"
-    },
-    {
-      "english": {
-        "name": "Mystic Blink and Mirror Arrow Effect",
-        "description": "Your Blink or Mirror Arrow becomes infused with a mystical glow."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9NeXN0aWNCbGlua01pcnJvckFycm93In1d/f9bfbf2c95/MysticBlinkMirrorArrow.png",
-      "link": "https://www.pathofexile.com/shop/item/MysticBlinkandMirrorArrowEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 110,
-        "discount": 85
-      },
-      "twName": "閃現與魅影射擊．秘境邪巫",
-      "twDesc": "你的閃現與魅影射擊技能充滿了秘境邪巫效果。"
-    },
-    {
-      "english": {
-        "name": "Consuming Tentacle Rare Finisher Effect",
-        "description": "Imbues a weapon with a Consuming Tentacle Rare Finisher Effect. It amplifies the deaths of Rare Monsters you kill."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vVGVudGFjbGVDb25zdW1lT25LaWxsIn1d/690e3b25f2/TentacleConsumeOnKill.png",
-      "link": "https://www.pathofexile.com/shop/item/ConsumingTentacleRareFinisherEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 135,
-        "discount": 105
-      },
-      "twName": "稀有終結特效：觸手",
-      "twDesc": "為你的武器注入稀有終結特效：觸手。會增幅你擊殺稀有怪物的死亡效果。"
-    },
-    {
-      "english": {
-        "name": "Ghoul Dodge Roll Effect",
-        "description": "Replaces the standard effect on a Dodge Roll with a ghoul version."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9jaGFyYWN0ZXItZWZmZWN0cy9HaG9zdERvZGdlUm9sbEVmZmVjdCIsInJlYWxtIjoicG9lMiJ9XQ/29b81c2f13/GhostDodgeRollEffect.webp",
-      "link": "https://pathofexile2.com/shop/item/ghoul-dodge-roll-effect",
-      "source": "poe2_variant",
-      "kind": "discount",
-      "price": {
-        "original": 70,
-        "discount": 55
-      },
-      "specialEnd": "2026-09-30T00:00:00+00:00",
-      "twName": "閃避翻滾．活屍",
-      "twDesc": "將你的閃避翻滾的特效替換為活屍特效。"
+      "twName": "光環效果．魑魅海妖",
+      "twDesc": "你的光環特效替換為魑魅海妖。"
     },
     {
       "english": {
@@ -4254,15 +3803,67 @@
     },
     {
       "english": {
-        "name": "Spectral Deathnotch Bow",
-        "description": "Replaces the appearance of a bow with the Spectral Deathnotch Bow. It changes the appearance of your bow, its arrows, and displays arrows notched on your bow based on how many you fired in your last attack."
+        "name": "Siren Electroswarm Character Effect",
+        "description": "The Siren Electroswarm Character Effect surrounds your character with floating jellyfish that become charged with electricity over time and funnel that electricity into your character whenever you use a lightning skill."
       },
-      "link": "https://www.pathofexile.com/shop/item/SpectralDeathnotchBow",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vU3BlY3RyYWxEZWF0aG5vdGNoQm93In1d/a4c7684b06/SpectralDeathnotchBow.png",
+      "link": "https://www.pathofexile.com/shop/item/SirenElectroswarmCharacterEffect",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9DaGFyYWN0ZXIvU2lyZW5FbGVjdHJvc3dhcm1DaGFyYWN0ZXJFZmZlY3QifV0/4cb468b5c8/SirenElectroswarmCharacterEffect.png",
       "source": "poe1",
       "price": {
-        "discount": 155,
-        "original": 210
+        "discount": 185,
+        "original": 240
+      }
+    },
+    {
+      "english": {
+        "name": "Eldritch Royalty Body Armour",
+        "description": "Replaces the appearance of a piece of body armour with the Eldritch Royalty Body Armour."
+      },
+      "link": "https://www.pathofexile.com/shop/item/EldritchRoyaltyBodyArmour",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Cb2R5QXJtb3VyL0VsZHJpdGNoUm95YWx0eUJvZHlBcm1vdXIifV0/7942245313/EldritchRoyaltyBodyArmour.png",
+      "source": "poe1",
+      "price": {
+        "discount": 190,
+        "original": 250
+      }
+    },
+    {
+      "english": {
+        "name": "Eldritch Royalty Boots",
+        "description": "Replaces the appearance of a pair of boots with the Eldritch Royalty Boots."
+      },
+      "link": "https://www.pathofexile.com/shop/item/EldritchRoyaltyBoots",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9zaG9lcy9FbGRyaXRjaFJveWFsdHlCb290cyJ9XQ/b58b2d9ff8/EldritchRoyaltyBoots.png",
+      "source": "poe1",
+      "price": {
+        "discount": 60,
+        "original": 80
+      }
+    },
+    {
+      "english": {
+        "name": "Eldritch Royalty Gloves",
+        "description": "Replaces the appearance of a pair of gloves with the Eldritch Royalty Gloves."
+      },
+      "link": "https://www.pathofexile.com/shop/item/EldritchRoyaltyGloves",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9nbG92ZXMvRWxkcml0Y2hSb3lhbHR5R2xvdmVzIn1d/3208062abf/EldritchRoyaltyGloves.png",
+      "source": "poe1",
+      "price": {
+        "discount": 60,
+        "original": 80
+      }
+    },
+    {
+      "english": {
+        "name": "Eldritch Royalty Helmet",
+        "description": "Replaces the appearance of a piece of headgear with the Eldritch Royalty Helmet. It displays a rune of sovereignty above you that improves the more auras you have affecting you."
+      },
+      "link": "https://www.pathofexile.com/shop/item/EldritchRoyaltyHelmet",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9IYXRzL0VsZHJpdGNoUm95YWx0eUhlbG1ldCJ9XQ/093c1cafbc/EldritchRoyaltyHelmet.png",
+      "source": "poe1",
+      "price": {
+        "discount": 100,
+        "original": 130
       }
     }
   ]
