@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-06 01:26:58",
+  "date": "2026-10-06 07:28:59",
   "items": [
     {
       "english": {
@@ -4629,288 +4629,93 @@
     },
     {
       "english": {
-        "name": "Premium Quad Stash Tab",
-        "description": "Add a premium Quad Stash Tab to your account. Premium Quad Stash Tabs have four times the space of regular Stash Tabs. They can be set to public and used to list your items on the Trade website."
+        "name": "Pitch-black Gargoyle Wings",
+        "description": "The Pitch-black Gargoyle Wings make you move like a real bat out of hell, leaving a wide trail behind you while you have an active speed boosting buff."
       },
-      "link": "https://pathofexile2.com/shop/item/premium-quad-tab",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Db25zdW1lcmFibGVzL1F1YWQiLCJyZWFsbSI6InBvZTIifV0/519ed8c44d/Quad.webp",
-      "source": "poe2_normal",
+      "link": "https://www.pathofexile.com/shop/item/PitchblackGargoyleWings",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9QaXRjaEJsYWNrR2FyZ295bGVXaW5ncyJ9XQ/d0439e73a1/PitchBlackGargoyleWings.png",
+      "source": "poe1",
       "price": {
-        "discount": 120,
-        "original": 150
+        "discount": 255,
+        "original": 335
       }
     },
     {
       "english": {
-        "name": "Map Stash Tab",
-        "description": "Add a Map Stash Tab to your account. Map stash tabs have 6 sub-stashes for every Waystone Tier, each able to hold 96 Waystones. You can change the name and colour for each sub-stash, and individually set each of them to public in order to list your items on the Trade website."
+        "name": "Shadow Deathnotch Bow",
+        "description": "Replaces the appearance of a bow with the Shadow Deathnotch Bow. It changes the appearance of your bow, its arrows, and displays arrows notched on your bow based on how many you fired in your last attack."
       },
-      "link": "https://pathofexile2.com/shop/item/map-tab",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Db25zdW1lcmFibGVzL01hcFN0YXNoVGFiIiwicmVhbG0iOiJwb2UyIn1d/ae1c8292e3/MapStashTab.webp",
-      "source": "poe2_normal",
+      "link": "https://www.pathofexile.com/shop/item/ShadowDeathnotchBow",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vU2hhZG93RGVhdGhub3RjaEJvdyJ9XQ/fe28fb1f0d/ShadowDeathnotchBow.png",
+      "source": "poe1",
       "price": {
-        "discount": 120,
-        "original": 150
+        "discount": 165,
+        "original": 220
       }
     },
     {
       "english": {
-        "name": "Currency Stash Tab",
-        "description": "Add a Currency Stash Tab to your account. Currency Stash Tabs can hold 5000 of many currency types. This tab can be set to public and used to list your items on the Trade website."
+        "name": "Nethermancer Helmet",
+        "description": "Replaces the appearance of a piece of headgear with the Nethermancer Helmet. Changes the default enemy health bar with one fit for a nethermancer."
       },
-      "link": "https://pathofexile2.com/shop/item/currency-tab",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Db25zdW1lcmFibGVzL0N1cnJlbmN5IiwicmVhbG0iOiJwb2UyIn1d/42e0a24173/Currency.webp",
+      "link": "https://pathofexile2.com/shop/item/nethermancer-helmet",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9IYXRzL05ldGhlcm1hbmNlckhlbG1ldCIsInJlYWxtIjoicG9lMiJ9XQ/0623bd046f/NethermancerHelmet.webp",
+      "source": "poe2_normal",
+      "price": {
+        "discount": 100,
+        "original": 130
+      }
+    },
+    {
+      "english": {
+        "name": "Nethermancer Gloves",
+        "description": "Replaces the appearance of a pair of gloves with the Nethermancer Gloves."
+      },
+      "link": "https://pathofexile2.com/shop/item/nethermancer-gloves",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9nbG92ZXMvTmV0aGVybWFuY2VyR2xvdmVzIiwicmVhbG0iOiJwb2UyIn1d/3f723e7362/NethermancerGloves.webp",
       "source": "poe2_normal",
       "price": {
         "discount": 60,
-        "original": 75
+        "original": 80
       }
     },
     {
       "english": {
-        "name": "Flask Stash Tab",
-        "description": "Add a Flask Tab to your account. Flask Stash Tabs can hold up to 500 flask items. This tab can be set to public and used to list your items on the Trade website."
+        "name": "Nethermancer Cloak",
+        "description": "Adds the Nethermancer Cloak to your body armour."
       },
-      "link": "https://pathofexile2.com/shop/item/flask-tab",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Db25zdW1lcmFibGVzL0ZsYXNrVGFiIiwicmVhbG0iOiJwb2UyIn1d/9a7e1dbf9d/FlaskTab.webp",
-      "source": "poe2_normal",
+      "link": "https://www.pathofexile.com/shop/item/NethermancerCloak",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9OZXRoZXJtYW5jZXJDbG9hayJ9XQ/28d82ba142/NethermancerCloak.png",
+      "source": "poe1",
       "price": {
-        "discount": 30,
-        "original": 40
+        "discount": 190,
+        "original": 250
       }
     },
     {
       "english": {
-        "name": "Gem Stash Tab",
-        "description": "Add a Gem Tab to your account. Gem Stash Tabs can hold up to 500 gem items. This tab can be set to public and used to list your items on the Trade website."
+        "name": "Nethermancer Boots",
+        "description": "Replaces the appearance of a pair of boots with the Nethermancer Boots."
       },
-      "link": "https://pathofexile2.com/shop/item/gem-tab",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Db25zdW1lcmFibGVzL0dlbVRhYiIsInJlYWxtIjoicG9lMiJ9XQ/e6ffabc4da/GemTab.webp",
+      "link": "https://pathofexile2.com/shop/item/nethermancer-boots",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9zaG9lcy9OZXRoZXJtYW5jZXJBcm1vdXJCb290cyIsInJlYWxtIjoicG9lMiJ9XQ/bbfc071ccb/NethermancerArmourBoots.webp",
       "source": "poe2_normal",
       "price": {
-        "discount": 30,
-        "original": 40
+        "discount": 60,
+        "original": 80
       }
     },
     {
       "english": {
-        "name": "Delirium Stash Tab",
-        "description": "Add a Delirium Tab to your account. Delirium Stash Tabs can store up to 5000 Simulacrums and 5000 of each type of Liquid Emotion. This tab can be set to public and used to list your items on the Trade website."
+        "name": "Nethermancer Body Armour",
+        "description": "Replaces the appearance of a piece of body armour with the Nethermancer Body Armour. Nearby corpses of slain enemies radiate, allowing you to gather their souls when you walk near. Absorbed souls are contained within an effigy when you die, waiting for you to return and collect them."
       },
-      "link": "https://pathofexile2.com/shop/item/delirium-tab",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Db25zdW1lcmFibGVzL0RlbGlyaXVtU3Rhc2giLCJyZWFsbSI6InBvZTIifV0/8ae63b3621/DeliriumStash.webp",
+      "link": "https://pathofexile2.com/shop/item/nethermancer-body-armour",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Cb2R5QXJtb3VyL05ldGhlcm1hbmNlckJvZHlBcm1vdXIiLCJyZWFsbSI6InBvZTIifV0/f18c6127ca/NethermancerBodyArmour.webp",
       "source": "poe2_normal",
       "price": {
-        "discount": 30,
-        "original": 40
-      }
-    },
-    {
-      "english": {
-        "name": "Premium Stash Tab Bundle",
-        "description": "Adds six extra premium tabs to your shared stash (at a discounted price). Premium tabs can be set to public and used to list your items on the Trade website. They can also have their name and colour changed whenever you want."
-      },
-      "link": "https://pathofexile2.com/shop/item/premium-stash-tab-bundle",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Db25zdW1lcmFibGVzL1ByZW1pdW1CdW5kbGUiLCJyZWFsbSI6InBvZTIifV0/ba7ad69e20/PremiumBundle.webp",
-      "source": "poe2_normal",
-      "price": {
-        "discount": 165,
-        "original": 180
-      }
-    },
-    {
-      "english": {
-        "name": "Unique Collection Tab",
-        "description": "Add a Unique Collection Tab to your account. Unique Collection Tabs can hold one of each Unique Item. This tab can be set to public and used to list your items on the Trade website."
-      },
-      "link": "https://pathofexile2.com/shop/item/unique-tab",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Db25zdW1lcmFibGVzL1VuaXF1ZVN0YXNoVGFiIiwicmVhbG0iOiJwb2UyIn1d/eb8710a1d5/UniqueStashTab.webp",
-      "source": "poe2_normal",
-      "price": {
-        "discount": 110,
-        "original": 140
-      }
-    },
-    {
-      "english": {
-        "name": "Stash Tab Bundle",
-        "description": "Add six extra tabs to your shared stash (at a discounted price)."
-      },
-      "link": "https://pathofexile2.com/shop/item/stash-tab-bundle",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Db25zdW1lcmFibGVzL1N0YXNoVGFiQnVuZGxlIiwicmVhbG0iOiJwb2UyIn1d/ddff4e1499/StashTabBundle.webp",
-      "source": "poe2_normal",
-      "price": {
-        "discount": 110,
-        "original": 120
-      }
-    },
-    {
-      "english": {
-        "name": "Fragment Stash Tab",
-        "description": "Add a Fragment Stash Tab to your account. Fragment Stash Tabs can hold 5000 of each Fragment type."
-      },
-      "link": "https://pathofexile2.com/shop/item/fragment-tab",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Db25zdW1lcmFibGVzL0ZyYWdtZW50VGFiIiwicmVhbG0iOiJwb2UyIn1d/7de3745443/FragmentTab.webp",
-      "source": "poe2_normal",
-      "price": {
-        "discount": 55,
-        "original": 75
-      }
-    },
-    {
-      "english": {
-        "name": "Essence Stash Tab",
-        "description": "Add an Essence Tab to your account. Essence Stash Tabs can hold 5000 of each Essence type. This tab can be set to public and used to list your items on the Trade website."
-      },
-      "link": "https://pathofexile2.com/shop/item/essence-tab",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Db25zdW1lcmFibGVzL0Vzc2VuY2UiLCJyZWFsbSI6InBvZTIifV0/18eeb28e86/Essence.webp",
-      "source": "poe2_normal",
-      "price": {
-        "discount": 30,
-        "original": 40
-      }
-    },
-    {
-      "english": {
-        "name": "Premium Stash Tab",
-        "description": "Add an extra premium tab to your shared stash. Premium tabs can be set to public and used to list your items on the Trade website. They can also have their name and colour changed whenever you want."
-      },
-      "link": "https://pathofexile2.com/shop/item/premium-stash-tab",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Db25zdW1lcmFibGVzL1ByZW1pdW0iLCJyZWFsbSI6InBvZTIifV0/ac826ce3f0/Premium.webp",
-      "source": "poe2_normal",
-      "price": {
-        "discount": 30,
-        "original": 40
-      }
-    },
-    {
-      "english": {
-        "name": "Upgrade to Premium Stash Tab",
-        "description": "Upgrade an existing tab in your shared stash to a premium tab. Premium tabs can be set to public and used to list your items on the Trade website. They can also have their name and colour changed whenever you want."
-      },
-      "link": "https://pathofexile2.com/shop/item/upgrade-to-premium-stash-tab",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Db25zdW1lcmFibGVzL1VwZ3JhZGVUb1ByZW1pdW0iLCJyZWFsbSI6InBvZTIifV0/72b47ae24a/UpgradeToPremium.webp",
-      "source": "poe2_normal",
-      "price": {
-        "discount": 10,
-        "original": 15
-      }
-    },
-    {
-      "english": {
-        "name": "Extra Stash Tab",
-        "description": "Add an extra tab to your shared stash."
-      },
-      "link": "https://pathofexile2.com/shop/item/stash-tab",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9SZWd1bGFyU3Rhc2hUYWIiLCJyZWFsbSI6InBvZTIifV0/3a75d4c9cf/RegularStashTab.webp",
-      "source": "poe2_normal",
-      "price": {
-        "discount": 20,
-        "original": 30
-      }
-    },
-    {
-      "english": {
-        "name": "Merchant's Tab",
-        "description": "Adds a Merchant's Tab to your account. Merchant's Tabs can be used to sell your items to other players without being present for the sale. Find Ange in Kingsmarch to establish a hideout, then begin managing your shop and selling your items."
-      },
-      "link": "https://pathofexile2.com/shop/item/trade-stash-tab",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Db25zdW1lcmFibGVzL01lcmNoYW50c1RhYiIsInJlYWxtIjoicG9lMiJ9XQ/b5a7f967ba/MerchantsTab.webp",
-      "source": "poe2_normal",
-      "price": {
-        "discount": 30,
-        "original": 40
-      }
-    },
-    {
-      "english": {
-        "name": "Merchant's Tab Bundle",
-        "description": "Adds six Merchant's Tab to your account. Merchant's Tabs can be used to sell your items to other players without being present for the sale. Find Ange in Kingsmarch to establish a hideout, then begin managing your shop and selling your items."
-      },
-      "link": "https://pathofexile2.com/shop/item/trade-stash-tab-bundle",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Db25zdW1lcmFibGVzL01lcmNoYW50c1RhYkJ1bmRsZSIsInJlYWxtIjoicG9lMiJ9XQ/7865ec8f9a/MerchantsTabBundle.webp",
-      "source": "poe2_normal",
-      "price": {
-        "discount": 165,
-        "original": 180
-      }
-    },
-    {
-      "english": {
-        "name": "Breach Stash Tab",
-        "description": "Add a Breach Stash Tab to your account. Breach Stash Tabs can hold up to 5000 of each Breach item. This tab can be set to public and used to list your items on the Trade website."
-      },
-      "link": "https://pathofexile2.com/shop/item/breach-tab",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Db25zdW1lcmFibGVzL0JyZWFjaFRhYiIsInJlYWxtIjoicG9lMiJ9XQ/05c4fbeb6b/BreachTab.webp",
-      "source": "poe2_normal",
-      "price": {
-        "discount": 30,
-        "original": 40
-      }
-    },
-    {
-      "english": {
-        "name": "Augment Stash Tab",
-        "description": "Add an Augment Tab to your account. Augment Stash Tabs can hold up to 5000 of each Augment item."
-      },
-      "link": "https://pathofexile2.com/shop/item/socketable-tab",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Db25zdW1lcmFibGVzL1NvY2tldGFibGVTdGFzaFRhYiIsInJlYWxtIjoicG9lMiJ9XQ/502d65d529/SocketableStashTab.webp",
-      "source": "poe2_normal",
-      "price": {
-        "discount": 40,
-        "original": 50
-      }
-    },
-    {
-      "english": {
-        "name": "Expedition Stash Tab",
-        "description": "Add an Expedition Stash Tab to your account. Expedition Stash Tabs can hold up to 5000 of each Expedition item. This tab can be set to public and used to list your items on the Trade website."
-      },
-      "link": "https://pathofexile2.com/shop/item/expedition-tab",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Db25zdW1lcmFibGVzL0V4cGVkaXRpb25UYWIiLCJyZWFsbSI6InBvZTIifV0/da18100b5e/ExpeditionTab.webp",
-      "source": "poe2_normal",
-      "price": {
-        "discount": 30,
-        "original": 40
-      }
-    },
-    {
-      "english": {
-        "name": "Abyss Stash Tab",
-        "description": "Add an Abyss Stash Tab to your account."
-      },
-      "link": "https://pathofexile2.com/shop/item/abyss-tab",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Db25zdW1lcmFibGVzL0FieXNzU3Rhc2hUYWIiLCJyZWFsbSI6InBvZTIifV0/263707a0d9/AbyssStashTab.webp",
-      "source": "poe2_normal",
-      "price": {
-        "discount": 30,
-        "original": 40
-      }
-    },
-    {
-      "english": {
-        "name": "Ritual Stash Tab",
-        "description": "Add a Ritual Tab to your account. Ritual Stash Tabs can hold up to 5000 of each Ritual item."
-      },
-      "link": "https://pathofexile2.com/shop/item/ritual-tab",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Db25zdW1lcmFibGVzL1JpdHVhbFN0YXNoVGFiIiwicmVhbG0iOiJwb2UyIn1d/a7a29b04bf/RitualStashTab.webp",
-      "source": "poe2_normal",
-      "price": {
-        "discount": 30,
-        "original": 40
-      }
-    },
-    {
-      "english": {
-        "name": "Exile's Stash Bundle",
-        "description": "Adds a Currency Tab, Merchant's Tab, Unique Collection Tab, Fragment Tab, Flask Tab, Gem Tab, Augment Tab, Breach Tab, Expedition Tab, Ritual Tab, Delirium Tab, Essence Tab, and Quad Tab to your account (at a discounted price)."
-      },
-      "link": "https://pathofexile2.com/shop/item/exiles-stash-bundle-ancients",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9FeGlsZVN0YXNoQnVuZGxlIiwicmVhbG0iOiJwb2UyIn1d/b2aaeab0f8/ExileStashBundle.webp",
-      "source": "poe2_normal",
-      "price": {
-        "discount": 500,
-        "original": 625
+        "discount": 200,
+        "original": 270
       }
     }
   ]
