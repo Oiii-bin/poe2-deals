@@ -1,118 +1,6 @@
 {
-  "date": "2026-10-08 13:31:57",
+  "date": "2026-10-08 19:28:47",
   "items": [
-    {
-      "english": {
-        "name": "Vampiric Armour Pack",
-        "description": "Contains the Vampiric Body Armour, Vampiric Helmet, Vampiric Boots and Vampiric Gloves armour skins (at a discounted price)."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Bcm1vdXJTZXQvVmFtcGlyaWNBcm1vdXIifV0/9e3ddaf7cd/VampiricArmour.png",
-      "link": "https://www.pathofexile.com/shop/item/VampiricArmourPack",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 360,
-        "discount": 180
-      },
-      "twName": "嗜血邪鎧組合包",
-      "twDesc": "包含了頭部外觀：嗜血邪鎧、身體外觀：嗜血邪鎧、腳部外觀：嗜血邪鎧 以及 手部外觀：嗜血邪鎧（這是優惠組合）。"
-    },
-    {
-      "english": {
-        "name": "Tentacle Wings",
-        "description": "Adds the unholy Tentacle Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9EZW1vbldpbmcifV0/848809e077/DemonWing.png",
-      "link": "https://www.pathofexile.com/shop/item/TentacleWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 350,
-        "discount": 200
-      },
-      "twName": "背飾：惡魔觸手之翼",
-      "twDesc": "在你的背後附加一對惡魔觸手之翼。使效果可重複使用。"
-    },
-    {
-      "english": {
-        "name": "Carnage Weapon Effect",
-        "description": "Imbues a weapon with the gory carnage effect."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vd2VhcG9uX2ZpcnN0Ymxvb2QifV0/a0212e4db5/weapon_firstblood.png",
-      "link": "https://www.pathofexile.com/shop/item/CarnageWeaponEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 195,
-        "discount": 115
-      },
-      "twName": "武器特效：屠殺",
-      "twDesc": "為你的武器注入屠殺之力。"
-    },
-    {
-      "english": {
-        "name": "Fallen Angel Armour Pack",
-        "description": "Contains the Fallen Angel Body Armour, Helmet, Boots and Gloves armour skins (at a discounted price)."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Bcm1vdXJTZXQvRmFsbGVuQW5nZWxBcm1vdXIifV0/eff4810c1b/FallenAngelArmour.png",
-      "link": "https://www.pathofexile.com/shop/item/FallenAngelArmourPack",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 420,
-        "discount": 250
-      },
-      "twName": "墮落天使組合包",
-      "twDesc": "包含了身體外觀：墮落天使、頭部外觀：墮落天使、腳部外觀：墮落天使以及手部外觀：墮落天使（這是優惠組合）。"
-    },
-    {
-      "english": {
-        "name": "Gore Armour Pack",
-        "description": "Contains the Gore Body Armour, Helmet, Boots and Gloves armour skins (at a discounted price)."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Bcm1vdXJTZXQvQmVhc3RHb3JlQXJtb3VyIn1d/0f8b52c544/BeastGoreArmour.png",
-      "link": "https://www.pathofexile.com/shop/item/GoreArmourPack",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 420,
-        "discount": 250
-      },
-      "twName": "鮮血組合包",
-      "twDesc": "包含了身體外觀：鮮血、頭部外觀：鮮血、腳部外觀：鮮血，以及手部外觀：鮮血（這是優惠組合）。"
-    },
-    {
-      "english": {
-        "name": "Fallen Angel Wings",
-        "description": "Adds the Fallen Angel Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9GYWxsZW5BbmdlbFdpbmdzIn1d/e40a110d13/FallenAngelWings.png",
-      "link": "https://www.pathofexile.com/shop/item/FallenAngelWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 310,
-        "discount": 185
-      },
-      "twName": "背飾：墮落天使羽翼",
-      "twDesc": "在你的背後附加一個墮落天使羽翼。"
-    },
-    {
-      "english": {
-        "name": "Carnage Armour Pack",
-        "description": "Contains the Carnage Body Armour, Helmet, Boots and Gloves armour skins (at a discounted price)."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Bcm1vdXJTZXQvQ2FybmFnZUFybW91ciJ9XQ/78634e309f/CarnageArmour.png",
-      "link": "https://www.pathofexile.com/shop/item/CarnageArmourPack",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 400,
-        "discount": 240
-      },
-      "twName": "屠戮領主組合包",
-      "twDesc": "包含了身體外觀：屠戮領主、頭部外觀：屠戮領主、腳部外觀：屠戮領主，以及手部外觀：屠戮領主（這是優惠組合）。"
-    },
     {
       "english": {
         "name": "Red Warp Rune Hideout Decoration",
@@ -149,342 +37,6 @@
     },
     {
       "english": {
-        "name": "Ultimate Chaos Tiger Pet",
-        "description": "This satanic tiger will travel with you on your adventures."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvUGV0cy9VbHRpbWF0ZUNoYW9zVGlnZXIifV0/38a31ca9f4/UltimateChaosTiger.png",
-      "link": "https://www.pathofexile.com/shop/item/UltimateChaosTigerPet",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 280,
-        "discount": 170
-      },
-      "twName": "寵物：終極混沌猛虎",
-      "twDesc": "這隻終極混沌猛虎會跟隨你踏遍鬼島。"
-    },
-    {
-      "english": {
-        "name": "Gore Character Effect",
-        "description": "Adds the Gore Character Effect to your character."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9DaGFyYWN0ZXIvR29yZUNoYXJhY3RlckVmZmVjdCJ9XQ/adfa9927b8/GoreCharacterEffect.png",
-      "link": "https://www.pathofexile.com/shop/item/GoreCharacterEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 200,
-        "discount": 125
-      },
-      "twName": "角色特效：鮮血",
-      "twDesc": "為你的角色添加鮮血特效。"
-    },
-    {
-      "english": {
-        "name": "Gore Skull",
-        "description": "Replaces the appearance of a piece of headgear with a blood-drenched Gore Skull."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9IYXRzL2Jsb29kc2t1bGwifV0/b2ee1c2d6a/bloodskull.png",
-      "link": "https://www.pathofexile.com/shop/item/GoreSkull",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 190,
-        "discount": 120
-      },
-      "twName": "頭部外觀：血顱",
-      "twDesc": "將你的頭部外觀替換為血顱。"
-    },
-    {
-      "english": {
-        "name": "Carnage Wings",
-        "description": "Adds the Carnage Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9DYXJuYWdlV2luZ3MifV0/051963e203/CarnageWings.png",
-      "link": "https://www.pathofexile.com/shop/item/CarnageWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 320,
-        "discount": 210
-      },
-      "twName": "背飾：湧泉血翅",
-      "twDesc": "在你的身體護具加上一對湧泉血翅。"
-    },
-    {
-      "english": {
-        "name": "Warlock Armour Pack",
-        "description": "Contains the Warlock Body Armour, Helmet, Boots and Gloves armour skins (at a discounted price)."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Bcm1vdXJTZXQvV2FybG9ja0FybW91ciJ9XQ/1641b8cdb7/WarlockArmour.png",
-      "link": "https://www.pathofexile.com/shop/item/WarlockArmourPack",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 420,
-        "discount": 280
-      },
-      "twName": "咒言術士組合包",
-      "twDesc": "包含了身體外觀：咒言術士、頭部外觀：咒言術士、腳部外觀：咒言術士以及手部外觀：咒言術士（這是優惠組合）。"
-    },
-    {
-      "english": {
-        "name": "Raven Demon Wings",
-        "description": "Adds the Raven Demon Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9SYXZlbkRlbW9uV2luZ3MifV0/0c1a102904/RavenDemonWings.png",
-      "link": "https://www.pathofexile.com/shop/item/RavenDemonWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 280,
-        "discount": 190
-      },
-      "twName": "背飾：惡靈邪鴉之翼",
-      "twDesc": "在你的背後附加一個惡靈邪鴉之翼。"
-    },
-    {
-      "english": {
-        "name": "Demon Parasite Back Attachment",
-        "description": "Adds the Demon Parasite Back Attachment to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9EZW1vblBhcmFzaXRlQmFja0F0dGFjaG1lbnQifV0/d7c55218bd/DemonParasiteBackAttachment.png",
-      "link": "https://www.pathofexile.com/shop/item/DemonParasiteBackAttachment",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 250,
-        "discount": 170
-      },
-      "twName": "背飾：寄生惡魔觸手",
-      "twDesc": "在你的背後附加一個寄生惡魔觸手。"
-    },
-    {
-      "english": {
-        "name": "Executioner Armour Pack",
-        "description": "Contains the Executioner Body Armour, Helmet, Boots and Gloves armour skins (at a discounted price)."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Bcm1vdXJTZXQvRXhlY3V0aW9uZXJBcm1vdXIifV0/bdbb3903d3/ExecutionerArmour.png",
-      "link": "https://www.pathofexile.com/shop/item/ExecutionerArmourPack",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 400,
-        "discount": 275
-      },
-      "twName": "血腥屠夫組合包",
-      "twDesc": "包含了身體外觀：血腥屠夫、頭部外觀：血腥屠夫、腳部外觀：血腥屠夫以及手部外觀：血腥屠夫（這是優惠組合）。"
-    },
-    {
-      "english": {
-        "name": "Demon Parasite Armour Pack",
-        "description": "Contains the Demon Parasite Armour, Helmet, Boots and Gloves armour skins (at a discounted price)."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Bcm1vdXJTZXQvRGVtb25QYXJhc2l0ZUFybW91ciJ9XQ/ad8f154900/DemonParasiteArmour.png",
-      "link": "https://www.pathofexile.com/shop/item/DemonParasiteArmourPack",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 420,
-        "discount": 290
-      },
-      "twName": "寄生惡魔組合包",
-      "twDesc": "包含了身體外觀：寄生惡魔、頭部外觀：寄生惡魔、腳部外觀：寄生惡魔以及手部外觀：寄生惡魔（這是優惠組合）。"
-    },
-    {
-      "english": {
-        "name": "Extinction Armour Pack",
-        "description": "Contains the Extinction Body Armour, Helmet, Boots and Gloves armour skins (at a discounted price)."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Bcm1vdXJTZXQvRXh0aW5jdGlvbkFybW91ciJ9XQ/cce771ef18/ExtinctionArmour.png",
-      "link": "https://www.pathofexile.com/shop/item/ExtinctionArmourPack",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 420,
-        "discount": 290
-      },
-      "twName": "絕滅災厄組合包",
-      "twDesc": "包含了身體外觀：絕滅災厄、頭部外觀：絕滅災厄、腳部外觀：絕滅災厄以及手部外觀：絕滅災厄（這是優惠組合）。"
-    },
-    {
-      "english": {
-        "name": "Ivory Chaos Armour Pack",
-        "description": "Contains the Ivory Chaos Body Armour, Helmet, Boots and Gloves armour skins (at a discounted price)."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Bcm1vdXJTZXQvSXZvcnlDaGFvc0FybW91ciJ9XQ/e01f222d40/IvoryChaosArmour.png",
-      "link": "https://www.pathofexile.com/shop/item/IvoryChaosArmourPack",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 420,
-        "discount": 290
-      },
-      "twName": "混沌象牙組合包",
-      "twDesc": "包含了身體外觀：混沌象牙、頭部外觀：混沌象牙、腳部外觀：混沌象牙以及手部外觀：混沌象牙（這是優惠組合）。"
-    },
-    {
-      "english": {
-        "name": "Ultimate Chaos Armour Pack",
-        "description": "Contains the Ultimate Chaos Body Armour, Helmet, Boots and Gloves armour skins (at a discounted price)."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Bcm1vdXJTZXQvVWx0aW1hdGVDaGFvc0FybW91ciJ9XQ/5ddff89df2/UltimateChaosArmour.png",
-      "link": "https://www.pathofexile.com/shop/item/UltimateChaosArmourPack",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 420,
-        "discount": 290
-      },
-      "twName": "最終混沌組合包",
-      "twDesc": "包含了身體外觀：最終混沌、頭部外觀：最終混沌、腳部外觀：最終混沌以及手部外觀：最終混沌（這是優惠組合）。"
-    },
-    {
-      "english": {
-        "name": "Ultimate Chaos Character Effect",
-        "description": "Adds the Ultimate Chaos Character effect to your character."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9DaGFyYWN0ZXIvVWx0aW1hdGVDaGFvc0VmZmVjdCJ9XQ/f1da4a894e/UltimateChaosEffect.png",
-      "link": "https://www.pathofexile.com/shop/item/UltimateChaosCharacterEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 210,
-        "discount": 145
-      },
-      "twName": "角色特效：最終混沌",
-      "twDesc": "為你的角色添加最終混沌特效。"
-    },
-    {
-      "english": {
-        "name": "Extinction Back Attachment",
-        "description": "Adds the Extinction Back Attachment to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9FeHRpbmN0aW9uQmFja0F0dGFjaG1lbnQifV0/71f6abb170/ExtinctionBackAttachment.png",
-      "link": "https://www.pathofexile.com/shop/item/ExtinctionBackAttachment",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 275,
-        "discount": 190
-      },
-      "twName": "背飾：絕滅災厄",
-      "twDesc": "在你的背後附加一個絕滅災厄。"
-    },
-    {
-      "english": {
-        "name": "Ultimate Chaos Axe",
-        "description": "Changes the appearance of any equipped Two Hand Mace, Axe or Sword to the Ultimate Chaos Axe."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vVWx0aW1hdGVDaGFvc0F4ZSJ9XQ/4276bfafe3/UltimateChaosAxe.png",
-      "link": "https://www.pathofexile.com/shop/item/UltimateChaosAxe",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 180,
-        "discount": 125
-      },
-      "twName": "武器外觀：最終混沌斧",
-      "twDesc": "將你的雙手錘、雙手斧或雙手劍外觀替換為最終混沌斧。"
-    },
-    {
-      "english": {
-        "name": "Ultimate Chaos Shield",
-        "description": "Replaces the appearance of a shield with the Ultimate Chaos Shield."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TaGllbGRzL1VsdGltYXRlQ2hhb3NTaGllbGQifV0/76c1ad5ce5/UltimateChaosShield.png",
-      "link": "https://www.pathofexile.com/shop/item/UltimateChaosShield",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 180,
-        "discount": 125
-      },
-      "twName": "護盾外觀：最終混沌",
-      "twDesc": "將你的護盾外觀替換為最終混沌。"
-    },
-    {
-      "english": {
-        "name": "Ultimate Chaos Sword",
-        "description": "Replaces the appearance of a Two Hand Mace, Axe or Sword with the Ultimate Chaos Sword."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vVWx0aW1hdGVDaGFvc1N3b3JkIn1d/629aaaadea/UltimateChaosSword.png",
-      "link": "https://www.pathofexile.com/shop/item/UltimateChaosSword",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 180,
-        "discount": 125
-      },
-      "twName": "武器外觀：最終混沌",
-      "twDesc": "將你的雙手劍、雙手斧、或雙手錘外觀替換為最終混沌。"
-    },
-    {
-      "english": {
-        "name": "Ultimate Chaos Weapon Effect",
-        "description": "Imbues a weapon with an ultimate chaos effect."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vd2VhcG9uX2RhcmsifV0/1ba283196d/weapon_dark.png",
-      "link": "https://www.pathofexile.com/shop/item/UltimateChaosWeaponEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 180,
-        "discount": 125
-      },
-      "twName": "武器特效：最終混沌",
-      "twDesc": "為你的武器注入最終混沌，使其被混沌所環繞。"
-    },
-    {
-      "english": {
-        "name": "Ultimate Chaos Cloak",
-        "description": "Adds the Ultimate Chaos Cloak to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9VbHRpbWF0ZUNoYW9zQ2FwZSJ9XQ/62da84809a/UltimateChaosCape.png",
-      "link": "https://www.pathofexile.com/shop/item/UltimateChaosCloak",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 230,
-        "discount": 160
-      },
-      "twName": "背飾：最終混沌披風",
-      "twDesc": "在你的背後附加最終混沌披風。"
-    },
-    {
-      "english": {
-        "name": "Malachai Armour Pack",
-        "description": "Contains the Malachai Body Armour, Helmet, Boots and Gloves armour skins (at a discounted price)."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Bcm1vdXJTZXQvTWFsYWNoYWlBcm1vdXIifV0/4ebdfaff40/MalachaiArmour.png",
-      "link": "https://www.pathofexile.com/shop/item/MalachaiArmourPack",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 420,
-        "discount": 295
-      },
-      "twName": "瑪拉凱組合包",
-      "twDesc": "包含了身體外觀：瑪拉凱、頭部外觀：瑪拉凱、腳部外觀：瑪拉凱以及手部外觀：瑪拉凱（這是優惠組合）。"
-    },
-    {
-      "english": {
-        "name": "Ultimate Chaos Wings",
-        "description": "Adds the Ultimate Chaos Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9VbHRpbWF0ZUNoYW9zV2luZ3MifV0/f33d4e1a49/UltimateChaosWings.png",
-      "link": "https://www.pathofexile.com/shop/item/UltimateChaosWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 320,
-        "discount": 225
-      },
-      "twName": "背飾：最終混沌羽翼",
-      "twDesc": "在你的背後附加最終混沌羽翼。"
-    },
-    {
-      "english": {
         "name": "Blood Tendrils Footprints Effect",
         "description": "Imbues a pair of boots with the Blood Tendrils Footprints Effect."
       },
@@ -502,86 +54,6 @@
     },
     {
       "english": {
-        "name": "Hunter Back Attachment",
-        "description": "Adds the Hunter Back Attachment to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9IdW50ZXJCYWNrQXR0YWNobWVudCJ9XQ/3abc1ee705/HunterBackAttachment.png",
-      "link": "https://www.pathofexile.com/shop/item/HunterBackAttachment",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 170,
-        "discount": 120
-      },
-      "twName": "背飾：獵人",
-      "twDesc": "在你的背後附加獵人。"
-    },
-    {
-      "english": {
-        "name": "Vaal Viper Portal Effect",
-        "description": "Replaces the standard effect on portals you create with the Vaal Viper Portal Effect."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Qb3J0YWxzL1ZhYWxWaXBlclBvcnRhbEVmZmVjdCJ9XQ/9ce490c885/VaalViperPortalEffect.png",
-      "link": "https://www.pathofexile.com/shop/item/VaalViperPortalEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 175,
-        "discount": 125
-      },
-      "twName": "時空之門．瓦爾毒蛇",
-      "twDesc": "將你所開啟傳送門替換為瓦爾毒蛇的時空之門。"
-    },
-    {
-      "english": {
-        "name": "Demonic Stygian Portal Effect",
-        "description": "Replaces the standard effect on portals you create with the Demonic Stygian Portal Effect."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Qb3J0YWxzL0RlbW9uaWNTdHlnaWFuUG9ydGFsRWZmZWN0In1d/d743bdc58a/DemonicStygianPortalEffect.png",
-      "link": "https://www.pathofexile.com/shop/item/DemonicStygianPortalEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 150,
-        "discount": 110
-      },
-      "twName": "時空之門．惡魔冥河",
-      "twDesc": "將你所開啟的傳送門替換為惡魔冥河的時空之門。"
-    },
-    {
-      "english": {
-        "name": "Heartseeker Portal Effect",
-        "description": "Replaces the standard effect on portals you create with the Heartseeker Portal Effect."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Qb3J0YWxzL0hlYXJ0c2Vla2VyUG9ydGFsIn1d/7b170328f5/HeartseekerPortal.png",
-      "link": "https://www.pathofexile.com/shop/item/HeartseekerPortalEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 150,
-        "discount": 110
-      },
-      "twName": "時空之門．血心探索",
-      "twDesc": "將你所開啟的傳送門替換為血心探索的時空之門。"
-    },
-    {
-      "english": {
-        "name": "Rapture Back Attachment",
-        "description": "Adds the Rapture Back Attachment to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9SYXB0dXJlQmFja0F0dGFjaG1lbnQifV0/8f9d68adf9/RaptureBackAttachment.png",
-      "link": "https://www.pathofexile.com/shop/item/RaptureBackAttachment",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 150,
-        "discount": 110
-      },
-      "twName": "背飾：狂歡撕虐配件",
-      "twDesc": "在你的背後附加狂歡撕虐配件。"
-    },
-    {
-      "english": {
         "name": "Arbiter of Ash Wings",
         "description": "Adds the Arbiter of Ash Wings to your character."
       },
@@ -596,198 +68,6 @@
       "specialEnd": "2026-10-09T00:00:00+00:00",
       "twName": "背飾：灰燼仲裁者之翼",
       "twDesc": "為你的角色添加灰燼仲裁者之翼。"
-    },
-    {
-      "english": {
-        "name": "Vaal Orb Shield",
-        "description": "Replaces the appearance of a shield with the Vaal Orb Shield."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TaGllbGRzL1ZhYWxPcmJTaGllbGRTa2luIn1d/1856cef4bb/VaalOrbShieldSkin.png",
-      "link": "https://www.pathofexile.com/shop/item/VaalOrbShield",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 170,
-        "discount": 125
-      },
-      "twName": "護盾外觀：瓦爾寶珠",
-      "twDesc": "將你的護盾外觀替換為瓦爾寶珠。"
-    },
-    {
-      "english": {
-        "name": "Malice Wings",
-        "description": "Adds the Malice Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9NZXRhbW9ycGhXaW5ncyJ9XQ/b94e099274/MetamorphWings.png",
-      "link": "https://www.pathofexile.com/shop/item/MaliceWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 190,
-        "discount": 140
-      },
-      "twName": "背飾：惡念邪翼",
-      "twDesc": "在你的背後附加惡念邪翼。"
-    },
-    {
-      "english": {
-        "name": "Vaal Orb Weapon",
-        "description": "Replaces the appearance of an Axe, Sword, Mace, Staff or Bow with the Vaal Orb Weapon."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vVmFhbE9yYldlYXBvblNraW4ifV0/4e1ce7eea9/VaalOrbWeaponSkin.png",
-      "link": "https://www.pathofexile.com/shop/item/VaalOrbWeapon",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 190,
-        "discount": 140
-      },
-      "twName": "武器外觀：瓦爾寶珠",
-      "twDesc": "將你的斧、劍、錘、長杖或弓外觀替換為瓦爾寶珠。"
-    },
-    {
-      "english": {
-        "name": "Demonic Celestial Shield",
-        "description": "Replaces the appearance of a shield with the Demonic Celestial Shield."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TaGllbGRzL0RlbW9uaWNDZWxlc3RpYWxTaGllbGQifV0/8de4250244/DemonicCelestialShield.png",
-      "link": "https://www.pathofexile.com/shop/item/DemonicCelestialShield",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 210,
-        "discount": 155
-      },
-      "twName": "護盾外觀：惡魔眾星",
-      "twDesc": "將你的護盾外觀替換為惡魔眾星。"
-    },
-    {
-      "english": {
-        "name": "Heartseeker Armour Pack",
-        "description": "Contains the Heartseeker Body Armour, Helmet, Boots and Gloves armour skins (at a discounted price)."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Bcm1vdXJTZXQvSGVhcnRzZWVrZXJBcm1vdXJTZXQifV0/69ce08c7d0/HeartseekerArmourSet.png",
-      "link": "https://www.pathofexile.com/shop/item/HeartseekerArmourPack",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 420,
-        "discount": 310
-      },
-      "twName": "血心探索組合包",
-      "twDesc": "包含了身體外觀：血心探索、頭部外觀：血心探索、腳部外觀：血心探索以及手部外觀：血心探索（這是優惠組合）。"
-    },
-    {
-      "english": {
-        "name": "Rapture Armour Pack",
-        "description": "Contains the Rapture Body Armour, Gloves, Boots and Helmet armour skins (at a discounted price)."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Bcm1vdXJTZXQvUmFwdHVyZUFtb3VyU2V0In1d/279d175192/RaptureAmourSet.png",
-      "link": "https://www.pathofexile.com/shop/item/RaptureArmourPack",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 420,
-        "discount": 310
-      },
-      "twName": "狂歡撕虐組合包",
-      "twDesc": "包含了身體外觀：狂歡撕虐、頭部外觀：狂歡撕虐、腳部外觀：狂歡撕虐以及手部外觀：狂歡撕虐（這是優惠組合）。"
-    },
-    {
-      "english": {
-        "name": "Vaal Orb Armour Pack",
-        "description": "Contains the Vaal Orb Body Armour, Gloves, Boots and Helmet armour skins (at a discounted price)."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Bcm1vdXJTZXQvVmFhbE9yYkFybW91ciJ9XQ/7c8dd649ff/VaalOrbArmour.png",
-      "link": "https://www.pathofexile.com/shop/item/VaalOrbArmourPack",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 420,
-        "discount": 310
-      },
-      "twName": "瓦爾寶珠組合包",
-      "twDesc": "包含了身體外觀：瓦爾寶珠、頭部外觀：瓦爾寶珠、腳部外觀：瓦爾寶珠以及手部外觀：瓦爾寶珠（這是優惠組合）。"
-    },
-    {
-      "english": {
-        "name": "Scourgelord Back Attachment",
-        "description": "Adds the Scourgelord Back Attachment to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9TY291cmdlbG9yZEJhY2tBdHRhY2htZW50In1d/63edb76470/ScourgelordBackAttachment.png",
-      "link": "https://www.pathofexile.com/shop/item/ScourgelordBackAttachment",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 230,
-        "discount": 170
-      },
-      "twName": "頭部特效：災魘魔君",
-      "twDesc": "將你頭部外觀注入災魘魔君效果。"
-    },
-    {
-      "english": {
-        "name": "Demonic Map Device",
-        "description": "Replaces the standard map device with the Demonic Map Device in your personal Hideout."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9EZW1vbmljTWFwRGV2aWNlIn1d/9359f42ede/DemonicMapDevice.png",
-      "link": "https://www.pathofexile.com/shop/item/DemonicMapDevice",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 250,
-        "discount": 185
-      },
-      "twName": "裝飾物：惡魔地圖裝置",
-      "twDesc": "為你的藏身處添加一個惡魔地圖裝置。"
-    },
-    {
-      "english": {
-        "name": "Demonic Map Device (Guild)",
-        "description": "Replaces the standard map device with the Demonic Map Device in your Guild Hideout."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9EZW1vbmljTWFwRGV2aWNlIn1d/9359f42ede/DemonicMapDevice.png",
-      "link": "https://www.pathofexile.com/shop/item/DemonicMapDeviceGuild",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 250,
-        "discount": 185
-      },
-      "twName": "裝飾物：惡魔地圖裝置 (公會)",
-      "twDesc": "為你的公會增添此裝飾物。"
-    },
-    {
-      "english": {
-        "name": "Heartseeker Wings",
-        "description": "Adds the Heartseeker Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9IZWFydHNlZWtlcldpbmdzIn1d/c67d3f7c36/HeartseekerWings.png",
-      "link": "https://www.pathofexile.com/shop/item/HeartseekerWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 310,
-        "discount": 230
-      },
-      "twName": "背飾：血心之翼",
-      "twDesc": "在你的背後附加血心之翼。"
-    },
-    {
-      "english": {
-        "name": "Rapture Portal Effect",
-        "description": "Replaces the standard effect on portals you create with the Rapture Portal Effect."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Qb3J0YWxzL1JhcHR1cmVQb3J0YWxFZmZlY3QifV0/f45f1f622a/RapturePortalEffect.png",
-      "link": "https://www.pathofexile.com/shop/item/RapturePortalEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 175,
-        "discount": 130
-      },
-      "twName": "時空之門．狂歡撕虐",
-      "twDesc": "將你所開啟的傳送門替換為狂歡撕虐的時空之門。"
     },
     {
       "english": {
@@ -927,22 +207,6 @@
     },
     {
       "english": {
-        "name": "Cordyceps Bow",
-        "description": "Replaces the appearance of a bow with the Cordyceps Bow. The corpses of slain enemies are infected with fungal growths."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vQ29yZHljZXBCb3cifV0/47c6592273/CordycepBow.png",
-      "link": "https://www.pathofexile.com/shop/item/CordycepsBow",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 220,
-        "discount": 165
-      },
-      "twName": "武器外觀：冬蟲夏草",
-      "twDesc": "將你的弓外觀替換為冬蟲夏草。死亡敵人的屍體被真菌感染。"
-    },
-    {
-      "english": {
         "name": "Corroding Arbiter of Ash Wings",
         "description": "Adds the Corroding Arbiter of Ash Wings to your character."
       },
@@ -957,118 +221,6 @@
       "specialEnd": "2026-10-09T00:00:00+00:00",
       "twName": "背飾：腐蝕灰燼仲裁者之翼",
       "twDesc": "為你的角色添加腐蝕灰燼仲裁者之翼。"
-    },
-    {
-      "english": {
-        "name": "Corrupted Hideout",
-        "description": "Adds the Corrupted Hideout to your account."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9Db3JydXB0ZWRIaWRlb3V0In1d/4e1c29b836/CorruptedHideout.png",
-      "link": "https://www.pathofexile.com/shop/item/CorruptedHideout",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 280,
-        "discount": 210
-      },
-      "twName": "藏身處：腐化密殿",
-      "twDesc": "新增藏身處：腐化密殿至你的帳號。"
-    },
-    {
-      "english": {
-        "name": "Corrupted Hideout (Guild)",
-        "description": "Adds the Corrupted Hideout to your Guild."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9Db3JydXB0ZWRIaWRlb3V0In1d/4e1c29b836/CorruptedHideout.png",
-      "link": "https://www.pathofexile.com/shop/item/CorruptedHideoutGuild",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 280,
-        "discount": 210
-      },
-      "twName": "藏身處：腐化密殿 (公會)",
-      "twDesc": "為你的公會增添此藏身處。"
-    },
-    {
-      "english": {
-        "name": "Demonic Stygian Armour Pack",
-        "description": "Contains the Demonic Stygian Body Armour, Gloves, Boots and Helmet armour skins (at a discounted price)."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Bcm1vdXJTZXQvRGVtb25pY1N0eWdpYW5Bcm1vdXJTZXQifV0/c0e533afc2/DemonicStygianArmourSet.png",
-      "link": "https://www.pathofexile.com/shop/item/DemonicStygianArmourPack",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 420,
-        "discount": 315
-      },
-      "twName": "惡魔冥河組合包",
-      "twDesc": "包含了身體外觀：惡魔冥河、頭部外觀：惡魔冥河、腳部外觀：惡魔冥河以及手部外觀：惡魔冥河（這是優惠組合）。"
-    },
-    {
-      "english": {
-        "name": "Gore Raven Wings",
-        "description": "Adds bloody Raven Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9Hb3JlUmF2ZW5XaW5ncyJ9XQ/e79bcc8d2c/GoreRavenWings.png",
-      "link": "https://www.pathofexile.com/shop/item/GoreRavenWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 320,
-        "discount": 240
-      },
-      "twName": "背飾：鮮血羽翼",
-      "twDesc": "在你的背後附加一對鮮血羽翼。"
-    },
-    {
-      "english": {
-        "name": "Heartseeker Character Effect",
-        "description": "Adds the Heartseeker Character Effect to your character."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9DaGFyYWN0ZXIvSGVhcnRzZWVrZXJDaGFyYWN0ZXJFZmZlY3QifV0/2b5e0bb94c/HeartseekerCharacterEffect.png",
-      "link": "https://www.pathofexile.com/shop/item/HeartseekerCharacterEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 180,
-        "discount": 135
-      },
-      "twName": "角色特效：血心探索",
-      "twDesc": "為你的角色添加血心探索。"
-    },
-    {
-      "english": {
-        "name": "Heartseeker Weapon",
-        "description": "Replaces the appearance of a Sword, Axe or Mace with the Heartseeker Weapon."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vSGVhcnRzZWVrZXJXZWFwb24ifV0/7c0d990279/HeartseekerWeapon.png",
-      "link": "https://www.pathofexile.com/shop/item/HeartseekerWeapon",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 220,
-        "discount": 165
-      },
-      "twName": "武器外觀：血心探索",
-      "twDesc": "將你的劍、斧或錘外觀替換為血心探索。"
-    },
-    {
-      "english": {
-        "name": "Ivory Chaos Cloak",
-        "description": "Adds the Ivory Chaos Cloak to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9Jdm9yeUNoYW9zQ2xvYWsifV0/3d23d5282d/IvoryChaosCloak.png",
-      "link": "https://www.pathofexile.com/shop/item/IvoryChaosCloak",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 320,
-        "discount": 240
-      },
-      "twName": "背飾：混沌象牙披風",
-      "twDesc": "在你的背後附加一個混沌象牙披風。"
     },
     {
       "english": {
@@ -1103,86 +255,6 @@
       "specialEnd": "2026-10-09T00:00:00+00:00",
       "twName": "炎火脈動．奇塔弗",
       "twDesc": "你的炎火脈動特效替換為奇塔弗。"
-    },
-    {
-      "english": {
-        "name": "Maroider Body Armour",
-        "description": "Replaces the appearance of a piece of body armour on your Marauder with the Maroider Body Armour.  Your muscular physique scales with your strength."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvQXJtb3Vycy9Cb2R5QXJtb3Vycy9NYXJvaWRlckJvZHlBcm1vdXIifV0/233c8e0abd/MaroiderBodyArmour.png",
-      "link": "https://www.pathofexile.com/shop/item/MaroiderBodyArmour",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 260,
-        "discount": 195
-      },
-      "twName": "身體外觀：馬羅伊德",
-      "twDesc": "將你的身體外觀替換為馬羅伊德。你的肌肉體質隨著你的力量而增長。"
-    },
-    {
-      "english": {
-        "name": "Nine-Tailed Fox Pet",
-        "description": "This majestic Nine-tailed Fox will accompany you on your journeys."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvUGV0cy9OaW5lLXRhaWxlZEZveCJ9XQ/a72e9f929b/Nine-tailedFox.png",
-      "link": "https://www.pathofexile.com/shop/item/NineTailedFoxPet",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 360,
-        "discount": 270
-      },
-      "twName": "寵物：九尾妖狐",
-      "twDesc": "這隻神祕的九尾狐會跟隨你踏遍鬼島。"
-    },
-    {
-      "english": {
-        "name": "Rapture Weapon",
-        "description": "Replaces the appearance of a Dagger, Wand, Claw, Sword, Axe or Mace with the Rapture Weapon."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vUmFwdHVyZVdlYXBvblNraW4ifV0/d075ea8552/RaptureWeaponSkin.png",
-      "link": "https://www.pathofexile.com/shop/item/RaptureWeapon",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 180,
-        "discount": 135
-      },
-      "twName": "武器外觀：狂歡撕虐",
-      "twDesc": "將你的匕首、法杖、爪、劍、斧或錘外觀替換為狂歡撕虐。"
-    },
-    {
-      "english": {
-        "name": "Ravenous Hideout",
-        "description": "Adds the Ravenous Hideout to your account."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9SYXZlbm91c0hpZGVvdXQifV0/4623a36dd0/RavenousHideout.png",
-      "link": "https://www.pathofexile.com/shop/item/RavenousHideout",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 180,
-        "discount": 135
-      },
-      "twName": "藏身處：貪婪之域",
-      "twDesc": "新增藏身處：貪婪之域至你的帳號。"
-    },
-    {
-      "english": {
-        "name": "Ravenous Hideout (Guild)",
-        "description": "Adds the Ravenous Hideout to your Guild."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9SYXZlbm91c0hpZGVvdXQifV0/4623a36dd0/RavenousHideout.png",
-      "link": "https://www.pathofexile.com/shop/item/RavenousHideoutGuild",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 180,
-        "discount": 135
-      },
-      "twName": "藏身處：貪婪之域 (公會)",
-      "twDesc": "為你的公會增添此藏身處。"
     },
     {
       "english": {
@@ -1237,38 +309,6 @@
     },
     {
       "english": {
-        "name": "Scourgelord Armour Pack",
-        "description": "Contains the Scourgelord Body Armour, Gloves, Boots and Helmet armour skins (at a discounted price)."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Bcm1vdXJTZXQvRWxpYXNBcm1vdXIifV0/cb0f7b40e7/EliasArmour.png",
-      "link": "https://www.pathofexile.com/shop/item/ScourgelordArmourPack",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 440,
-        "discount": 330
-      },
-      "twName": "災魘魔君組合包",
-      "twDesc": "包含了身體外觀：災魘魔君、頭部外觀：災魘魔君、腳部外觀：災魘魔君以及手部外觀：災魘魔君（這是優惠組合）。"
-    },
-    {
-      "english": {
-        "name": "Scourgelord Weapon",
-        "description": "Replaces the appearance of a Dagger, Wand, Claw, Sword, Axe, Mace or Bow with the Scourgelord Weapon."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vU2NvdXJnZWxvcmRXZWFwb25Ta2luIn1d/83bd71682b/ScourgelordWeaponSkin.png",
-      "link": "https://www.pathofexile.com/shop/item/ScourgelordWeapon",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 220,
-        "discount": 165
-      },
-      "twName": "武器外觀：災魘魔君",
-      "twDesc": "將你的匕首、法杖、爪、劍、斧、錘或弓武器外觀替換為災魘魔君。"
-    },
-    {
-      "english": {
         "name": "Thaumaturge's Herald of Thunder Effect",
         "description": "Replaces the standard effect on a Herald of Thunder gem with a thaumaturge's version."
       },
@@ -1317,38 +357,6 @@
       "specialEnd": "2026-10-09T00:00:00+00:00",
       "twName": "寵物：滾動瓦爾寶珠",
       "twDesc": "當地面上有瓦爾寶珠時，它會發光，當撿起此通貨時會釋放出一個震波。"
-    },
-    {
-      "english": {
-        "name": "Vaal Orb Character Effect",
-        "description": "Adds the Vaal Orb Character Effect to your character."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9DaGFyYWN0ZXIvVmFhbE9yYkNoYXJhY3RlckVmZmVjdCJ9XQ/eefcc5114f/VaalOrbCharacterEffect.png",
-      "link": "https://www.pathofexile.com/shop/item/VaalOrbCharacterEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 220,
-        "discount": 165
-      },
-      "twName": "角色特效：瓦爾寶珠",
-      "twDesc": "為你的角色添加瓦爾寶珠。"
-    },
-    {
-      "english": {
-        "name": "Vaal Orb Cloak",
-        "description": "Adds the Vaal Orb Cloak to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9WYWFsT3JiQ2xvYWsifV0/9e226dac51/VaalOrbCloak.png",
-      "link": "https://www.pathofexile.com/shop/item/VaalOrbCloak",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 160,
-        "discount": 120
-      },
-      "twName": "背飾：瓦爾寶珠披風",
-      "twDesc": "在你的背後附加瓦爾寶珠披風。"
     },
     {
       "english": {
@@ -2185,22 +1193,6 @@
     },
     {
       "english": {
-        "name": "Dark Tempest Wave of Conviction",
-        "description": "Replaces the standard effect on a Wave Of Conviction gem with a dark tempest version."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9EYXJrVGVtcGVzdFdhdmVvZkNvbnZpY3Rpb25Ta2lsbEVmZmVjdCJ9XQ/d138b81f5d/DarkTempestWaveofConvictionSkillEffect.png",
-      "link": "https://www.pathofexile.com/shop/item/DarkTempestWaveofConviction",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 145,
-        "discount": 115
-      },
-      "twName": "信念浪湧．黑暗風暴",
-      "twDesc": "將技能「信念浪湧」的特效替換為黑暗風暴。"
-    },
-    {
-      "english": {
         "name": "Demonfire Ember Fusillade Effect",
         "description": "Replaces the standard effect on a Ember Fusillade gem with a demonfire version."
       },
@@ -2252,22 +1244,6 @@
     },
     {
       "english": {
-        "name": "Ghastly Vortex Skill Effect",
-        "description": "Replaces the standard effect on a Vortex gem with a ghastly version."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9HaGFzdGx5Vm9ydGV4U2tpbGxFZmZlY3QifV0/9d98b92715/GhastlyVortexSkillEffect.png",
-      "link": "https://www.pathofexile.com/shop/item/GhastlyVortexSkillEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 150,
-        "discount": 120
-      },
-      "twName": "漩渦．幽魂",
-      "twDesc": "將技能「漩渦」的特效替換為幽魂。"
-    },
-    {
-      "english": {
         "name": "Sanguine Bone Blast Effect",
         "description": "Replaces the standard effect on a Bone Blast gem with a sanguine version."
       },
@@ -2299,22 +1275,6 @@
       "specialEnd": "2026-10-09T00:00:00+00:00",
       "twName": "電漿強擊矢．奇術師",
       "twDesc": "你的電漿強擊矢特效替換為奇術師。"
-    },
-    {
-      "english": {
-        "name": "Demonic Necromancer Bundle",
-        "description": "Contains the Demonic Raise Spectre, Summon Raging Spirits, Raise Zombie and Summon Skeletons skill gem effects (at a discounted price)."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9EZW1vbmljTWluaW9uQnVuZGxlIn1d/c21da4d564/DemonicMinionBundle.png",
-      "link": "https://www.pathofexile.com/shop/item/DemonicNecromancerBundle",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 295,
-        "discount": 240
-      },
-      "twName": "血祭死靈包",
-      "twDesc": "包含了束縛幽魂、召喚憤怒狂靈、殭屍復甦以及召喚骷髏．血祭技能寶石效果（這是優惠組合）。"
     },
     {
       "english": {
@@ -5421,6 +4381,45 @@
     },
     {
       "english": {
+        "name": "Malachai Armour Pack",
+        "description": "Contains the Malachai Body Armour, Helmet, Boots and Gloves armour skins (at a discounted price)."
+      },
+      "link": "https://www.pathofexile.com/shop/item/MalachaiArmourPack",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Bcm1vdXJTZXQvTWFsYWNoYWlBcm1vdXIifV0/4ebdfaff40/MalachaiArmour.png",
+      "source": "poe1",
+      "price": {
+        "discount": 295,
+        "original": 420
+      }
+    },
+    {
+      "english": {
+        "name": "Executioner Armour Pack",
+        "description": "Contains the Executioner Body Armour, Helmet, Boots and Gloves armour skins (at a discounted price)."
+      },
+      "link": "https://www.pathofexile.com/shop/item/ExecutionerArmourPack",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Bcm1vdXJTZXQvRXhlY3V0aW9uZXJBcm1vdXIifV0/bdbb3903d3/ExecutionerArmour.png",
+      "source": "poe1",
+      "price": {
+        "discount": 275,
+        "original": 400
+      }
+    },
+    {
+      "english": {
+        "name": "Nine-Tailed Fox Pet",
+        "description": "This majestic Nine-tailed Fox will accompany you on your journeys."
+      },
+      "link": "https://www.pathofexile.com/shop/item/NineTailedFoxPet",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvUGV0cy9OaW5lLXRhaWxlZEZveCJ9XQ/a72e9f929b/Nine-tailedFox.png",
+      "source": "poe1",
+      "price": {
+        "discount": 270,
+        "original": 360
+      }
+    },
+    {
+      "english": {
         "name": "Scourge Commander Body Armour",
         "description": "Replaces the appearance of a piece of body armour with the Scourge Commander Body Armour. Grants an ability to raise your own demon."
       },
@@ -5447,6 +4446,19 @@
     },
     {
       "english": {
+        "name": "Scourgelord Back Attachment",
+        "description": "Adds the Scourgelord Back Attachment to your body armour."
+      },
+      "link": "https://www.pathofexile.com/shop/item/ScourgelordBackAttachment",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9TY291cmdlbG9yZEJhY2tBdHRhY2htZW50In1d/63edb76470/ScourgelordBackAttachment.png",
+      "source": "poe1",
+      "price": {
+        "discount": 170,
+        "original": 230
+      }
+    },
+    {
+      "english": {
         "name": "Scourge Commander Back Attachment",
         "description": "Adds the Scourge Commander Back Attachment to your body armour."
       },
@@ -5469,6 +4481,32 @@
       "price": {
         "discount": 165,
         "original": 220
+      }
+    },
+    {
+      "english": {
+        "name": "Vaal Orb Cloak",
+        "description": "Adds the Vaal Orb Cloak to your body armour."
+      },
+      "link": "https://www.pathofexile.com/shop/item/VaalOrbCloak",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9WYWFsT3JiQ2xvYWsifV0/9e226dac51/VaalOrbCloak.png",
+      "source": "poe1",
+      "price": {
+        "discount": 120,
+        "original": 160
+      }
+    },
+    {
+      "english": {
+        "name": "Rapture Back Attachment",
+        "description": "Adds the Rapture Back Attachment to your body armour."
+      },
+      "link": "https://www.pathofexile.com/shop/item/RaptureWings",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9SYXB0dXJlQmFja0F0dGFjaG1lbnQifV0/8f9d68adf9/RaptureBackAttachment.png",
+      "source": "poe1",
+      "price": {
+        "discount": 110,
+        "original": 150
       }
     },
     {
