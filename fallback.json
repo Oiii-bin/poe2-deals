@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-10 07:27:15",
+  "date": "2026-10-10 13:27:04",
   "items": [
     {
       "english": {
@@ -136,6 +136,22 @@
       "specialEnd": "2026-10-13T00:00:00+00:00",
       "twName": "裝飾物：惡魔傳送點 (公會)",
       "twDesc": "為你的公會增添此裝飾物。"
+    },
+    {
+      "english": {
+        "name": "Oriath Pet",
+        "description": "This exotic avian will fly alongside you on your journeys."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvUGV0cy9PcmlhdGhSYXZlbiJ9XQ/cfa1bf1069/OriathRaven.png",
+      "link": "https://www.pathofexile.com/shop/item/OriathPet",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 320,
+        "discount": 200
+      },
+      "twName": "寵物：榮光奧瑞亞",
+      "twDesc": "這隻異國的鳥鳥會跟隨你踏遍鬼島。"
     },
     {
       "english": {
@@ -326,6 +342,22 @@
     },
     {
       "english": {
+        "name": "Thaumaturgy Dachshund Pet",
+        "description": "This dashing Dachshund will dart around you on your endeavours."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvUGV0cy9UaGF1bWF0dXJneURhY2hzaHVuZCJ9XQ/cdba165c08/ThaumaturgyDachshund.png",
+      "link": "https://www.pathofexile.com/shop/item/ThaumaturgyDachshundPet",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 210,
+        "discount": 140
+      },
+      "twName": "寵物：奇術臘腸犬",
+      "twDesc": "這隻奇術臘腸犬會跟隨你踏遍鬼島。"
+    },
+    {
+      "english": {
         "name": "White Warp Rune Hideout Decoration",
         "description": "Adds a White Warp Rune Hideout Decoration to your personal Hideout, allowing you to warp to a destination in your hideout that you can place separately."
       },
@@ -394,6 +426,86 @@
     },
     {
       "english": {
+        "name": "Arctic Fox Pet",
+        "description": "This felicitous fox will fawn on your feats."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvUGV0cy9BcmN0aWNGb3hQZXQifV0/571f4fd129/ArcticFoxPet.png",
+      "link": "https://www.pathofexile.com/shop/item/ArcticFoxPet",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 250,
+        "discount": 170
+      },
+      "twName": "寵物：極地雪狐",
+      "twDesc": "這隻極地雪狐會跟隨你踏遍鬼島。"
+    },
+    {
+      "english": {
+        "name": "Celestial Baby Elephant Pet",
+        "description": "This heavenly baby elephant will accompany you on your travels."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvUGV0cy9DZWxlc3RpYWxFbGVwaGFudFBldCJ9XQ/5fd13ce67f/CelestialElephantPet.png",
+      "link": "https://www.pathofexile.com/shop/item/CelestialBabyElephantPet",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 290,
+        "discount": 200
+      },
+      "twName": "寵物：星際小飛象",
+      "twDesc": "這隻星際小飛象會跟隨你踏遍鬼島。"
+    },
+    {
+      "english": {
+        "name": "Redeemer's Hideout",
+        "description": "Adds the Redeemer's Hideout to your account."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9SZWRlZW1lcnNIaWRlb3V0In1d/6a6845213d/RedeemersHideout.png",
+      "link": "https://www.pathofexile.com/shop/item/RedeemersHideout",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 210,
+        "discount": 145
+      },
+      "twName": "藏身處：世道救贖者",
+      "twDesc": "新增藏身處：世道救贖者至你的帳號。"
+    },
+    {
+      "english": {
+        "name": "Redeemer's Hideout (Guild)",
+        "description": "Adds the Redeemer's Hideout to your Guild."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9SZWRlZW1lcnNIaWRlb3V0In1d/6a6845213d/RedeemersHideout.png",
+      "link": "https://www.pathofexile.com/shop/item/RedeemersHideoutGuild",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 210,
+        "discount": 145
+      },
+      "twName": "藏身處：世道救贖者 (公會)",
+      "twDesc": "為你的公會增添此藏身處。"
+    },
+    {
+      "english": {
+        "name": "Chaotic Ethercraft Pet",
+        "description": "This chaotic ethercraft turtle will accompany you on your travels."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvUGV0cy9FdGhlcmNyYWZ0UGV0Q2hhb3RpYyJ9XQ/6a0b9c0166/EthercraftPetChaotic.png",
+      "link": "https://www.pathofexile.com/shop/item/ChaoticEthercraftPet",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 260,
+        "discount": 180
+      },
+      "twName": "寵物：混沌．乙太工藝",
+      "twDesc": "這隻混沌．乙太工藝會跟隨你踏遍鬼島。"
+    },
+    {
+      "english": {
         "name": "Darkshard Tinker's Waypoint Decoration",
         "description": "Adds a Darkshard Tinker's Waypoint decoration to your personal Hideout. The waypoint whirs into action whenever a player uses it."
       },
@@ -425,6 +537,38 @@
       "specialEnd": "2026-10-13T00:00:00+00:00",
       "twName": "裝飾物：暗魂匠師傳送點 (公會)",
       "twDesc": "為你的公會增添此裝飾物。"
+    },
+    {
+      "english": {
+        "name": "Enraged Ethercraft Pet",
+        "description": "This enraged ethercraft turtle will accompany you on your travels."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvUGV0cy9FdGhlcmNyYWZ0UGV0RW5yYWdlZCJ9XQ/543613395d/EthercraftPetEnraged.png",
+      "link": "https://www.pathofexile.com/shop/item/EnragedEthercraftPet",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 260,
+        "discount": 180
+      },
+      "twName": "寵物：狂怒．乙太工藝",
+      "twDesc": "這隻狂怒．乙太工藝會跟隨你踏遍鬼島。"
+    },
+    {
+      "english": {
+        "name": "Savage Ethercraft Pet",
+        "description": "This savage ethercraft turtle will accompany you on your travels."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvUGV0cy9FdGhlcmNyYWZ0UGV0U2F2YWdlIn1d/eb06580e5a/EthercraftPetSavage.png",
+      "link": "https://www.pathofexile.com/shop/item/SavageEthercraftPet",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 260,
+        "discount": 180
+      },
+      "twName": "寵物：殘暴．乙太工藝",
+      "twDesc": "這隻殘暴．乙太工藝會跟隨你踏遍鬼島。"
     },
     {
       "english": {
@@ -462,6 +606,182 @@
     },
     {
       "english": {
+        "name": "Synthesis Hideout",
+        "description": "Adds the Synthesis Hideout to your account"
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9TeW50aGVzaXNIaWRlb3V0In1d/16a2b77bb0/SynthesisHideout.png",
+      "link": "https://www.pathofexile.com/shop/item/SynthesisHideout",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 260,
+        "discount": 180
+      },
+      "twName": "藏身處：尋夢追憶",
+      "twDesc": "新增藏身處：尋夢追憶至你的帳號。"
+    },
+    {
+      "english": {
+        "name": "Synthesis Hideout (Guild)",
+        "description": "Adds the Synthesis Hideout to your Guild."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9TeW50aGVzaXNIaWRlb3V0In1d/16a2b77bb0/SynthesisHideout.png",
+      "link": "https://www.pathofexile.com/shop/item/SynthesisHideoutGuild",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 260,
+        "discount": 180
+      },
+      "twName": "藏身處：尋夢追憶 (公會)",
+      "twDesc": "為你的公會增添此藏身處。"
+    },
+    {
+      "english": {
+        "name": "Tranquil Ethercraft Pet",
+        "description": "This tranquil ethercraft turtle will accompany you on your travels."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvUGV0cy9FdGhlcmNyYWZ0UGV0VHJhbnF1aWwifV0/fb196a0145/EthercraftPetTranquil.png",
+      "link": "https://www.pathofexile.com/shop/item/TranquilEthercraftPet",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 260,
+        "discount": 180
+      },
+      "twName": "寵物：鎮靜．乙太工藝",
+      "twDesc": "這隻鎮靜．乙太工藝會跟隨你踏遍鬼島。"
+    },
+    {
+      "english": {
+        "name": "Innocent Hideout",
+        "description": "Adds the Innocent Hideout to your account."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9Jbm5vY2VudEhpZGVvdXQifV0/ef0b6777c1/InnocentHideout.png",
+      "link": "https://www.pathofexile.com/shop/item/InnocentHideout",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 295,
+        "discount": 205
+      },
+      "twName": "藏身處：純善教堂",
+      "twDesc": "新增藏身處：純善教堂至你的帳號。"
+    },
+    {
+      "english": {
+        "name": "Innocent Hideout (Guild)",
+        "description": "Adds the Innocent Hideout to your Guild."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9Jbm5vY2VudEhpZGVvdXQifV0/ef0b6777c1/InnocentHideout.png",
+      "link": "https://www.pathofexile.com/shop/item/InnocentHideoutGuild",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 295,
+        "discount": 205
+      },
+      "twName": "藏身處：純善教堂 (公會)",
+      "twDesc": "為你的公會增添此藏身處。"
+    },
+    {
+      "english": {
+        "name": "Azurite Cavern Hideout",
+        "description": "Adds the Azurite Cavern Hideout to your account."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9BenVyaXRlQ2F2ZXJuSGlkZW91dCJ9XQ/e6d7e4d695/AzuriteCavernHideout.png",
+      "link": "https://www.pathofexile.com/shop/item/AzuriteCavernHideout",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 280,
+        "discount": 195
+      },
+      "twName": "藏身處：碧藍洞穴",
+      "twDesc": "新增藏身處：碧藍洞穴至你的帳號。"
+    },
+    {
+      "english": {
+        "name": "Azurite Cavern Hideout (Guild)",
+        "description": "Adds the Azurite Cavern Hideout to your Guild."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9BenVyaXRlQ2F2ZXJuSGlkZW91dCJ9XQ/e6d7e4d695/AzuriteCavernHideout.png",
+      "link": "https://www.pathofexile.com/shop/item/AzuriteCavernHideoutGuild",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 280,
+        "discount": 195
+      },
+      "twName": "藏身處：碧藍洞穴 (公會)",
+      "twDesc": "為你的公會增添此藏身處。"
+    },
+    {
+      "english": {
+        "name": "Celestial Nebula Hideout",
+        "description": "Adds the Celestial Nebula Hideout to your account."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9DZWxlc3RpYWxOZWJ1bGFIaWRlb3V0In1d/97da2f8e9d/CelestialNebulaHideout.png",
+      "link": "https://www.pathofexile.com/shop/item/CelestialNebulaHideout",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 200,
+        "discount": 140
+      },
+      "twName": "藏身處：絢麗星雲",
+      "twDesc": "新增藏身處：絢麗星雲至你的帳號。"
+    },
+    {
+      "english": {
+        "name": "Celestial Nebula Hideout (Guild)",
+        "description": "Adds the Celestial Nebula Hideout to your Guild."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9DZWxlc3RpYWxOZWJ1bGFIaWRlb3V0In1d/97da2f8e9d/CelestialNebulaHideout.png",
+      "link": "https://www.pathofexile.com/shop/item/CelestialNebulaHideoutGuild",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 200,
+        "discount": 140
+      },
+      "twName": "藏身處：絢麗星雲 (公會)",
+      "twDesc": "為你的公會增添此藏身處。"
+    },
+    {
+      "english": {
+        "name": "Crucible Hideout",
+        "description": "Adds the Crucible Hideout to your account."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9DcnVjaWJsZUhpZGVvdXQifV0/b6355abdc3/CrucibleHideout.png",
+      "link": "https://www.pathofexile.com/shop/item/CrucibleHideout",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 250,
+        "discount": 175
+      },
+      "twName": "藏身處：異域弒煉",
+      "twDesc": "新增藏身處：異域弒煉至你的帳號。"
+    },
+    {
+      "english": {
+        "name": "Crucible Hideout (Guild)",
+        "description": "Adds the Crucible Hideout to your Guild."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9DcnVjaWJsZUhpZGVvdXQifV0/b6355abdc3/CrucibleHideout.png",
+      "link": "https://www.pathofexile.com/shop/item/CrucibleHideoutGuild",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 250,
+        "discount": 175
+      },
+      "twName": "藏身處：異域弒煉 (公會)",
+      "twDesc": "為你的公會增添此藏身處。"
+    },
+    {
+      "english": {
         "name": "Divine Tinker's Waypoint Decoration",
         "description": "Adds a Divine Tinker's Waypoint decoration to your personal Hideout. The waypoint whirs into action whenever a player uses it."
       },
@@ -493,6 +813,470 @@
       "specialEnd": "2026-10-13T00:00:00+00:00",
       "twName": "裝飾物：神聖匠師傳送點 (公會)",
       "twDesc": "為你的公會增添此裝飾物。"
+    },
+    {
+      "english": {
+        "name": "Indomitable Hideout",
+        "description": "Adds the Indomitable Hideout to your account."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9JbmRvbWl0YWJsZUhpZGVvdXQifV0/05b62ab3e8/IndomitableHideout.png",
+      "link": "https://www.pathofexile.com/shop/item/IndomitableHideout",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 250,
+        "discount": 175
+      },
+      "twName": "藏身處：神權之塔",
+      "twDesc": "新增藏身處：神權之塔至你的帳號。"
+    },
+    {
+      "english": {
+        "name": "Indomitable Hideout (Guild)",
+        "description": "Adds the Indomitable Hideout to your Guild."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9JbmRvbWl0YWJsZUhpZGVvdXQifV0/05b62ab3e8/IndomitableHideout.png",
+      "link": "https://www.pathofexile.com/shop/item/IndomitableHideoutGuild",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 250,
+        "discount": 175
+      },
+      "twName": "藏身處：神權之塔 (公會)",
+      "twDesc": "為你的公會增添此藏身處。"
+    },
+    {
+      "english": {
+        "name": "Shaped Hideout",
+        "description": "Adds the Shaped Hideout to your account."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9TaGFwZWRIaWRlb3V0In1d/a4553a8041/ShapedHideout.png",
+      "link": "https://www.pathofexile.com/shop/item/ShapedHideout",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 200,
+        "discount": 140
+      },
+      "twName": "藏身處：塑形幻域",
+      "twDesc": "新增藏身處：塑形幻域至你的帳號。"
+    },
+    {
+      "english": {
+        "name": "Shaped Hideout (Guild)",
+        "description": "Adds the Shaped Hideout to your Guild."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9TaGFwZWRIaWRlb3V0In1d/a4553a8041/ShapedHideout.png",
+      "link": "https://www.pathofexile.com/shop/item/ShapedHideoutGuild",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 200,
+        "discount": 140
+      },
+      "twName": "藏身處：塑形幻域 (公會)",
+      "twDesc": "為你的公會增添此藏身處。"
+    },
+    {
+      "english": {
+        "name": "Void Hideout",
+        "description": "Adds the Void Hideout to your account."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9Wb2lkSGlkZW91dCJ9XQ/94bebe382c/VoidHideout.png",
+      "link": "https://www.pathofexile.com/shop/item/VoidHideout",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 250,
+        "discount": 175
+      },
+      "twName": "藏身處：飄渺虛空",
+      "twDesc": "新增藏身處：飄渺虛空至你的帳號。"
+    },
+    {
+      "english": {
+        "name": "Void Hideout (Guild)",
+        "description": "Adds the Void Hideout to your Guild."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9Wb2lkSGlkZW91dCJ9XQ/94bebe382c/VoidHideout.png",
+      "link": "https://www.pathofexile.com/shop/item/VoidHideoutGuild",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 250,
+        "discount": 175
+      },
+      "twName": "藏身處：飄渺虛空 (公會)",
+      "twDesc": "為你的公會增添此藏身處。"
+    },
+    {
+      "english": {
+        "name": "Glimmerwood Hideout",
+        "description": "Adds the Glimmerwood Hideout to your account."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9EYXJrd29vZEhpZGVvdXQifV0/165e051612/DarkwoodHideout.png",
+      "link": "https://www.pathofexile.com/shop/item/GlimmerwoodHideout",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 370,
+        "discount": 260
+      },
+      "twName": "藏身處：微熠之森",
+      "twDesc": "新增藏身處：微熠之森至你的帳號。"
+    },
+    {
+      "english": {
+        "name": "Glimmerwood Hideout (Guild)",
+        "description": "Adds the Glimmerwood Hideout to your Guild."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9EYXJrd29vZEhpZGVvdXQifV0/165e051612/DarkwoodHideout.png",
+      "link": "https://www.pathofexile.com/shop/item/GlimmerwoodHideoutGuild",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 370,
+        "discount": 260
+      },
+      "twName": "藏身處：微熠之森 (公會)",
+      "twDesc": "為你的公會增添此藏身處。"
+    },
+    {
+      "english": {
+        "name": "Thaumaturgical Hideout",
+        "description": "Adds the Thaumaturgical Hideout to your account."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9UaGF1bWF0dXJnaWNhbEhpZGVvdXQifV0/388a65a5f7/ThaumaturgicalHideout.png",
+      "link": "https://www.pathofexile.com/shop/item/ThaumaturgicalHideout",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 370,
+        "discount": 260
+      },
+      "twName": "藏身處：奇幻魔術",
+      "twDesc": "新增藏身處：奇幻魔術至你的帳號。"
+    },
+    {
+      "english": {
+        "name": "Polaric Hideout",
+        "description": "Adds the Polaric Hideout to your account."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9Qb2xhcmljSGlkZW91dCJ9XQ/79636e05c7/PolaricHideout.png",
+      "link": "https://www.pathofexile.com/shop/item/PolaricHideout",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 290,
+        "discount": 205
+      },
+      "twName": "藏身處：極地",
+      "twDesc": "新增藏身處：極地至你的帳號。"
+    },
+    {
+      "english": {
+        "name": "Polaric Hideout (Guild)",
+        "description": "Adds the Polaric Hideout to your Guild."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9Qb2xhcmljSGlkZW91dCJ9XQ/79636e05c7/PolaricHideout.png",
+      "link": "https://www.pathofexile.com/shop/item/PolaricHideoutGuild",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 290,
+        "discount": 205
+      },
+      "twName": "藏身處：極地 (公會)",
+      "twDesc": "為你的公會增添此藏身處。"
+    },
+    {
+      "english": {
+        "name": "Miracle Map Device",
+        "description": "Adds a Miracle Map Device decoration to your personal Hideout."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9NaXJhY2xlTWFwRGV2aWNlIn1d/039c1e4d8d/MiracleMapDevice.png",
+      "link": "https://www.pathofexile.com/shop/item/MiracleMapDevice",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 240,
+        "discount": 170
+      },
+      "twName": "裝飾物：魔幻奇蹟地圖裝置",
+      "twDesc": "為你的藏身處添加一個魔幻奇蹟地圖裝置。"
+    },
+    {
+      "english": {
+        "name": "Miracle Map Device (Guild)",
+        "description": "Adds a Miracle Map Device decoration to your Guild Hideout."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9NaXJhY2xlTWFwRGV2aWNlIn1d/039c1e4d8d/MiracleMapDevice.png",
+      "link": "https://www.pathofexile.com/shop/item/MiracleMapDeviceGuild",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 240,
+        "discount": 170
+      },
+      "twName": "裝置物：魔幻奇蹟地圖裝置 (公會)",
+      "twDesc": "為你的公會增添此裝飾物。"
+    },
+    {
+      "english": {
+        "name": "Sunprism Cat Pet",
+        "description": "This radiant cosmic kitty will journey alongside you on your travels."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvUGV0cy9TdW5wcmlzbUNhdFBldCJ9XQ/f879b08420/SunprismCatPet.png",
+      "link": "https://www.pathofexile.com/shop/item/SunprismCatPet",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 275,
+        "discount": 195
+      },
+      "twName": "寵物：日耀稜貓",
+      "twDesc": "這隻日耀稜貓會跟隨你踏遍鬼島。"
+    },
+    {
+      "english": {
+        "name": "Ancestral Hideout",
+        "description": "Adds the Ancestral Hideout to your account."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9BbmNlc3RyYWxIaWRlb3V0In1d/99c2d2bed2/AncestralHideout.png",
+      "link": "https://www.pathofexile.com/shop/item/AncestralHideout",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 310,
+        "discount": 220
+      },
+      "twName": "藏身處：先祖遺跡",
+      "twDesc": "新增藏身處：先祖遺跡至你的帳號。"
+    },
+    {
+      "english": {
+        "name": "Ancestral Hideout (Guild)",
+        "description": "Adds the Ancestral Hideout to your Guild."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9BbmNlc3RyYWxIaWRlb3V0In1d/99c2d2bed2/AncestralHideout.png",
+      "link": "https://www.pathofexile.com/shop/item/AncestralHideoutGuild",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 310,
+        "discount": 220
+      },
+      "twName": "藏身處：先祖遺跡 (公會)",
+      "twDesc": "為你的公會增添此藏身處。"
+    },
+    {
+      "english": {
+        "name": "Circling Vulture Pet",
+        "description": "This opportunistic vulture will hungrily circle enemies that have been weakened by your marks."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvUGV0cy9DaXJjbGluZ1Z1bHR1cmVQZXQifV0/5abc47551b/CirclingVulturePet.png",
+      "link": "https://www.pathofexile.com/shop/item/CirclingVulturePet",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 190,
+        "discount": 135
+      },
+      "twName": "寵物：禿鷲",
+      "twDesc": "這隻禿鷲會跟隨你踏遍鬼島。"
+    },
+    {
+      "english": {
+        "name": "Celestial Cat Pet",
+        "description": "This cosmic kitty will journey alongside you on your travels."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvUGV0cy9DZWxlc3RpYWxDYXQifV0/4bbea6b42d/CelestialCat.png",
+      "link": "https://www.pathofexile.com/shop/item/CelestialCatPet",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 260,
+        "discount": 185
+      },
+      "twName": "寵物：喵星人",
+      "twDesc": "這隻小貓咪將跟隨你踏遍鬼島。"
+    },
+    {
+      "english": {
+        "name": "Arctic Dragon Hunter Pet",
+        "description": "This frigid dragon will accompany you on your journeys."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvUGV0cy9BcmN0aWNEcmFnb25IdW50ZXJQZXQifV0/5c55d29ad2/ArcticDragonHunterPet.png",
+      "link": "https://www.pathofexile.com/shop/item/ArcticDragonHunterPet",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 350,
+        "discount": 250
+      },
+      "twName": "寵物：極地獵龍",
+      "twDesc": "這隻極地獵龍會跟隨你踏遍鬼島。"
+    },
+    {
+      "english": {
+        "name": "Corrupted Hideout",
+        "description": "Adds the Corrupted Hideout to your account."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9Db3JydXB0ZWRIaWRlb3V0In1d/4e1c29b836/CorruptedHideout.png",
+      "link": "https://www.pathofexile.com/shop/item/CorruptedHideout",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 280,
+        "discount": 200
+      },
+      "twName": "藏身處：腐化密殿",
+      "twDesc": "新增藏身處：腐化密殿至你的帳號。"
+    },
+    {
+      "english": {
+        "name": "Corrupted Hideout (Guild)",
+        "description": "Adds the Corrupted Hideout to your Guild."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9Db3JydXB0ZWRIaWRlb3V0In1d/4e1c29b836/CorruptedHideout.png",
+      "link": "https://www.pathofexile.com/shop/item/CorruptedHideoutGuild",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 280,
+        "discount": 200
+      },
+      "twName": "藏身處：腐化密殿 (公會)",
+      "twDesc": "為你的公會增添此藏身處。"
+    },
+    {
+      "english": {
+        "name": "Dragon Hunter Pet",
+        "description": "This fiery dragon will accompany you on your journeys."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvUGV0cy9EcmFnb25IdW50ZXJQZXQifV0/31d6a48639/DragonHunterPet.png",
+      "link": "https://www.pathofexile.com/shop/item/DragonHunterPet",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 350,
+        "discount": 250
+      },
+      "twName": "寵物：獵龍幻士",
+      "twDesc": "這隻狂暴酷龍會跟隨你踏遍鬼島。"
+    },
+    {
+      "english": {
+        "name": "Duck Pet Pack",
+        "description": "Contains the Mallard, Male Paradise, Female Paradise Duck Pets (at a discounted price)."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvUGV0cy9EdWNrUGV0UGFjayJ9XQ/b15ce6c9ba/DuckPetPack.png",
+      "link": "https://www.pathofexile.com/shop/item/DuckPetPack",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 210,
+        "discount": 150
+      },
+      "twName": "寵物鴨組合包",
+      "twDesc": "包含了天堂鴨（公）、天堂鴨（母）和咿比鴨鴨（這是優惠組合）。"
+    },
+    {
+      "english": {
+        "name": "Harmonious Tiger Pet",
+        "description": "This deadly tiger will accompany you on your travels."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvUGV0cy9IYXJtb25pb3VzVGlnZXIifV0/c90f743707/HarmoniousTiger.png",
+      "link": "https://www.pathofexile.com/shop/item/HarmoniousTigerPet",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 280,
+        "discount": 200
+      },
+      "twName": "寵物：和煦猛虎",
+      "twDesc": "這隻和煦猛虎會跟隨你踏遍鬼島。"
+    },
+    {
+      "english": {
+        "name": "Necrotic Tiger Pet",
+        "description": "This tenacious tiger will follow you on your journeys."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvUGV0cy9OZWNyb3RpY1RpZ2VyIn1d/852f1a887b/NecroticTiger.png",
+      "link": "https://www.pathofexile.com/shop/item/NecroticTigerPet",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 280,
+        "discount": 200
+      },
+      "twName": "寵物：死靈亡虎",
+      "twDesc": "這隻死靈亡虎會跟隨你踏遍鬼島。"
+    },
+    {
+      "english": {
+        "name": "Ultimate Chaos Tiger Pet",
+        "description": "This satanic tiger will travel with you on your adventures."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvUGV0cy9VbHRpbWF0ZUNoYW9zVGlnZXIifV0/38a31ca9f4/UltimateChaosTiger.png",
+      "link": "https://www.pathofexile.com/shop/item/UltimateChaosTigerPet",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 280,
+        "discount": 200
+      },
+      "twName": "寵物：終極混沌猛虎",
+      "twDesc": "這隻終極混沌猛虎會跟隨你踏遍鬼島。"
+    },
+    {
+      "english": {
+        "name": "Black and White Dragon Pet",
+        "description": "This divided dragon will accompany you on your adventures."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvUGV0cy9CbGFja2FuZFdoaXRlRHJhZ29uUGV0In1d/345f87c066/BlackandWhiteDragonPet.png",
+      "link": "https://www.pathofexile.com/shop/item/BlackandWhiteDragonPet",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 320,
+        "discount": 230
+      },
+      "twName": "寵物：無極．陰陽龍",
+      "twDesc": "這隻無極．陰陽龍會跟隨你踏遍鬼島。"
+    },
+    {
+      "english": {
+        "name": "Nine-Tailed Fox Pet",
+        "description": "This majestic Nine-tailed Fox will accompany you on your journeys."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvUGV0cy9OaW5lLXRhaWxlZEZveCJ9XQ/a72e9f929b/Nine-tailedFox.png",
+      "link": "https://www.pathofexile.com/shop/item/NineTailedFoxPet",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 360,
+        "discount": 260
+      },
+      "twName": "寵物：九尾妖狐",
+      "twDesc": "這隻神祕的九尾狐會跟隨你踏遍鬼島。"
+    },
+    {
+      "english": {
+        "name": "Celestial Turtle Pet",
+        "description": "This celestial turtle will accompany you on your travels."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvUGV0cy9DZWxlc3RpYWxUdXJ0bGVQZXQifV0/fa0790e92a/CelestialTurtlePet.png",
+      "link": "https://www.pathofexile.com/shop/item/CelestialTurtlePet",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 240,
+        "discount": 175
+      },
+      "twName": "寵物：眾星雲龜",
+      "twDesc": "這隻眾星雲龜會跟隨你踏遍鬼島。"
     },
     {
       "english": {
@@ -547,6 +1331,38 @@
     },
     {
       "english": {
+        "name": "Wildwood Hideout",
+        "description": "Adds the Wildwood Hideout to your account."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9XaWxkd29vZEhpZGVvdXQifV0/2827d444ab/WildwoodHideout.png",
+      "link": "https://www.pathofexile.com/shop/item/WildwoodHideout",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 300,
+        "discount": 220
+      },
+      "twName": "藏身處：荒林",
+      "twDesc": "新增藏身處：荒林至你的帳號。"
+    },
+    {
+      "english": {
+        "name": "Wildwood Hideout (Guild)",
+        "description": "Adds the Wildwood Hideout to your Guild."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9XaWxkd29vZEhpZGVvdXQifV0/2827d444ab/WildwoodHideout.png",
+      "link": "https://www.pathofexile.com/shop/item/WildwoodHideoutGuild",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 300,
+        "discount": 220
+      },
+      "twName": "藏身處：荒林（公會）",
+      "twDesc": "新增藏身處：荒林至你的公會。"
+    },
+    {
+      "english": {
         "name": "Civic Square Hideout",
         "description": "Adds the Civic Square Hideout to your account."
       },
@@ -581,6 +1397,54 @@
     },
     {
       "english": {
+        "name": "Clockwork Golem Pet Pack",
+        "description": "Contains the Chaos, Stone, Ice, Lightning and Fire Golem Pets (at a discounted price)."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvUGV0cy9DbG9ja3dvcmtHb2xlbWJ1bmRsZSJ9XQ/cdffbacdee/ClockworkGolembundle.png",
+      "link": "https://www.pathofexile.com/shop/item/ClockworkGolemPetPack",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 250,
+        "discount": 185
+      },
+      "twName": "發條魔像組合包",
+      "twDesc": "包含寵物：混沌、巨石、冰霜、閃電和烈焰魔像（這是優惠組合）。"
+    },
+    {
+      "english": {
+        "name": "Demonic Map Device",
+        "description": "Replaces the standard map device with the Demonic Map Device in your personal Hideout."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9EZW1vbmljTWFwRGV2aWNlIn1d/9359f42ede/DemonicMapDevice.png",
+      "link": "https://www.pathofexile.com/shop/item/DemonicMapDevice",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 250,
+        "discount": 185
+      },
+      "twName": "裝飾物：惡魔地圖裝置",
+      "twDesc": "為你的藏身處添加一個惡魔地圖裝置。"
+    },
+    {
+      "english": {
+        "name": "Demonic Map Device (Guild)",
+        "description": "Replaces the standard map device with the Demonic Map Device in your Guild Hideout."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9EZW1vbmljTWFwRGV2aWNlIn1d/9359f42ede/DemonicMapDevice.png",
+      "link": "https://www.pathofexile.com/shop/item/DemonicMapDeviceGuild",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 250,
+        "discount": 185
+      },
+      "twName": "裝飾物：惡魔地圖裝置 (公會)",
+      "twDesc": "為你的公會增添此裝飾物。"
+    },
+    {
+      "english": {
         "name": "Shattered Mirror Stash Bundle",
         "description": "Contains the Shattered Mirror Stash and Shattered Mirror Guild Stash Decorations. Opens to your Stash Tab with the Delirium Affinity set."
       },
@@ -595,6 +1459,102 @@
       "specialEnd": "2026-10-13T00:00:00+00:00",
       "twName": "破碎鏡像倉庫組合包",
       "twDesc": "包含破碎鏡像倉庫及破碎鏡像公會倉庫裝飾物。會開啟至設定為譫妄相容性的倉庫頁面。"
+    },
+    {
+      "english": {
+        "name": "Forge of the Titans Hideout",
+        "description": "Adds the Forge of the Titans Hideout to your account."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9DcnVjaWJsZUxlYWd1ZUhpZGVvdXQifV0/bdd44e2079/CrucibleLeagueHideout.png",
+      "link": "https://www.pathofexile.com/shop/item/ForgeoftheTitansHideout",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 290,
+        "discount": 215
+      },
+      "twName": "藏身處：泰坦族的熔爐",
+      "twDesc": "新增藏身處：泰坦族的熔爐至你的帳號。"
+    },
+    {
+      "english": {
+        "name": "Forge of the Titans Hideout (Guild)",
+        "description": "Adds the Forge of the Titans Hideout to your Guild."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9DcnVjaWJsZUxlYWd1ZUhpZGVvdXQifV0/bdd44e2079/CrucibleLeagueHideout.png",
+      "link": "https://www.pathofexile.com/shop/item/ForgeoftheTitansHideoutGuild",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 290,
+        "discount": 215
+      },
+      "twName": "藏身處：泰坦族的熔爐 (公會)",
+      "twDesc": "為你的公會增添此藏身處。"
+    },
+    {
+      "english": {
+        "name": "Searing Hideout",
+        "description": "Adds the Searing Hideout to your account."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9DbGVhbnNpbmdGaXJlSGlkZW91dCJ9XQ/d5af494e12/CleansingFireHideout.png",
+      "link": "https://www.pathofexile.com/shop/item/SearingHideout",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 290,
+        "discount": 215
+      },
+      "twName": "藏身處：灼烙總督",
+      "twDesc": "新增藏身處：灼烙總督至你的帳號。"
+    },
+    {
+      "english": {
+        "name": "Searing Hideout (Guild)",
+        "description": "Adds the Searing Hideout to your Guild."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9DbGVhbnNpbmdGaXJlSGlkZW91dCJ9XQ/d5af494e12/CleansingFireHideout.png",
+      "link": "https://www.pathofexile.com/shop/item/SearingHideoutGuild",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 290,
+        "discount": 215
+      },
+      "twName": "藏身處：灼烙總督 (公會)",
+      "twDesc": "為你的公會增添此藏身處。"
+    },
+    {
+      "english": {
+        "name": "Trial of the Ancestors Hideout",
+        "description": "Adds the Trial of the Ancestors Hideout to your account."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9UcmlhbG9mdGhlQW5jZXN0b3JzSGlkZW91dCJ9XQ/68e34de3e7/TrialoftheAncestorsHideout.png",
+      "link": "https://www.pathofexile.com/shop/item/TrialoftheAncestorsHideout",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 330,
+        "discount": 245
+      },
+      "twName": "藏身處：祖靈的試煉",
+      "twDesc": "新增藏身處：祖靈的試煉至你的帳號。"
+    },
+    {
+      "english": {
+        "name": "Trial of the Ancestors Hideout (Guild)",
+        "description": "Adds the Trial of the Ancestors Hideout to your Guild."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9UcmlhbG9mdGhlQW5jZXN0b3JzSGlkZW91dCJ9XQ/68e34de3e7/TrialoftheAncestorsHideout.png",
+      "link": "https://www.pathofexile.com/shop/item/TrialoftheAncestorsHideoutGuild",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 330,
+        "discount": 245
+      },
+      "twName": "藏身處：祖靈的試煉 (公會)",
+      "twDesc": "新增藏身處：祖靈的試煉至你公會。"
     },
     {
       "english": {
@@ -1091,6 +2051,38 @@
     },
     {
       "english": {
+        "name": "Tangled Hideout",
+        "description": "Adds the Tangled Hideout to your account."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9FYXRlck9mV29ybGRzSGlkZW91dCJ9XQ/ed6e58a3b3/EaterOfWorldsHideout.png",
+      "link": "https://www.pathofexile.com/shop/item/TangledHideout",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 280,
+        "discount": 210
+      },
+      "twName": "藏身處：吞噬天地",
+      "twDesc": "新增藏身處：吞噬天地至你的帳號。"
+    },
+    {
+      "english": {
+        "name": "Tangled Hideout (Guild)",
+        "description": "Adds the Tangled Hideout to your Guild."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9FYXRlck9mV29ybGRzSGlkZW91dCJ9XQ/ed6e58a3b3/EaterOfWorldsHideout.png",
+      "link": "https://www.pathofexile.com/shop/item/TangledHideoutGuild",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 280,
+        "discount": 210
+      },
+      "twName": "藏身處：吞噬天地 (公會)",
+      "twDesc": "為你的公會增添此藏身處。"
+    },
+    {
+      "english": {
         "name": "Time Djinn's Map Device",
         "description": "Adds a Time Djinn's Map Device decoration to your personal Hideout. This map device tracks how long you've been in an area."
       },
@@ -1547,6 +2539,38 @@
       "specialEnd": "2026-10-13T00:00:00+00:00",
       "twName": "地圖裝置：時間旅人．銅 (公會)",
       "twDesc": "為你的公會增添此裝飾物。"
+    },
+    {
+      "english": {
+        "name": "Seething Hideout",
+        "description": "Adds the Seething Hideout to your account."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9TZWV0aGluZ0hpZGVvdXQifV0/b75e96fc95/SeethingHideout.png",
+      "link": "https://www.pathofexile.com/shop/item/SeethingHideout",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 270,
+        "discount": 205
+      },
+      "twName": "藏身處：沸騰之地",
+      "twDesc": "新增藏身處：沸騰之地至你的帳號。"
+    },
+    {
+      "english": {
+        "name": "Seething Hideout (Guild)",
+        "description": "Adds the Seething Hideout to your Guild."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9TZWV0aGluZ0hpZGVvdXQifV0/b75e96fc95/SeethingHideout.png",
+      "link": "https://www.pathofexile.com/shop/item/SeethingHideoutGuild",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 270,
+        "discount": 205
+      },
+      "twName": "藏身處：沸騰之地 (公會)",
+      "twDesc": "為你的公會增添此藏身處。"
     },
     {
       "english": {
@@ -2383,6 +3407,22 @@
     },
     {
       "english": {
+        "name": "Ethercraft Pet Bundle",
+        "description": "Contains the Savage, Enraged, Tranquil and Chaotic Ethercraft Pets (at a discounted price)."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvUGV0cy9FdGhlcmNyYWZ0UGV0c0J1bmRsZSJ9XQ/847c96ce29/EthercraftPetsBundle.png",
+      "link": "https://www.pathofexile.com/shop/item/EthercraftPetBundle",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 810,
+        "discount": 650
+      },
+      "twName": "乙太工藝寵物包",
+      "twDesc": "包含了寵物：殘暴、狂怒、鎮靜和混沌．以太工藝（這是優惠組合）。"
+    },
+    {
+      "english": {
         "name": "Suspicious Rock Pet",
         "description": "The Suspicious Rock Pet is totally a rock and not at all an imp in a disguise. Rumours that this pet throws pebbles at others are unsubstantiated."
       },
@@ -2397,6 +3437,22 @@
       "specialEnd": "2026-10-13T00:00:00+00:00",
       "twName": "寵物：奇石",
       "twDesc": "召喚你的寵物。當你放置時，它會持續向其他人扔鵝卵石。"
+    },
+    {
+      "english": {
+        "name": "Mannequin Decoration Bundle",
+        "description": "Contains 5 Mannequin Decorations (at a discounted price)."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9NYW5uZXF1aW5IaWRlb3V0RGVjb3JhdGlvbkJ1bmRsZSJ9XQ/a13d40f5cb/MannequinHideoutDecorationBundle.png",
+      "link": "https://www.pathofexile.com/shop/item/MannequinDecorationBundle",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 200,
+        "discount": 170
+      },
+      "twName": "人體模型包",
+      "twDesc": "包含 5 個裝飾物：人體模型（此為折扣價）。"
     },
     {
       "english": {
@@ -5144,32 +6200,6 @@
     },
     {
       "english": {
-        "name": "Nine-Tailed Fox Pet",
-        "description": "This majestic Nine-tailed Fox will accompany you on your journeys."
-      },
-      "link": "https://www.pathofexile.com/shop/item/NineTailedFoxPet",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvUGV0cy9OaW5lLXRhaWxlZEZveCJ9XQ/a72e9f929b/Nine-tailedFox.png",
-      "source": "poe1",
-      "price": {
-        "discount": 260,
-        "original": 360
-      }
-    },
-    {
-      "english": {
-        "name": "Sunprism Cat Pet",
-        "description": "This radiant cosmic kitty will journey alongside you on your travels."
-      },
-      "link": "https://www.pathofexile.com/shop/item/EmpyreanCatPet",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvUGV0cy9TdW5wcmlzbUNhdFBldCJ9XQ/f879b08420/SunprismCatPet.png",
-      "source": "poe1",
-      "price": {
-        "discount": 195,
-        "original": 275
-      }
-    },
-    {
-      "english": {
         "name": "Sandfish Pet",
         "description": "This sandfish will accompany you on your travels, swimming through the earth behind you. Feed them a corpse and watch them grow!"
       },
@@ -5205,45 +6235,6 @@
       "price": {
         "discount": 190,
         "original": 270
-      }
-    },
-    {
-      "english": {
-        "name": "Celestial Cat Pet",
-        "description": "This cosmic kitty will journey alongside you on your travels."
-      },
-      "link": "https://www.pathofexile.com/shop/item/CelestialCatPet",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvUGV0cy9DZWxlc3RpYWxDYXQifV0/4bbea6b42d/CelestialCat.png",
-      "source": "poe1",
-      "price": {
-        "discount": 185,
-        "original": 260
-      }
-    },
-    {
-      "english": {
-        "name": "Celestial Turtle Pet",
-        "description": "This celestial turtle will accompany you on your travels."
-      },
-      "link": "https://www.pathofexile.com/shop/item/CelestialTurtlePet",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvUGV0cy9DZWxlc3RpYWxUdXJ0bGVQZXQifV0/fa0790e92a/CelestialTurtlePet.png",
-      "source": "poe1",
-      "price": {
-        "discount": 175,
-        "original": 240
-      }
-    },
-    {
-      "english": {
-        "name": "Thaumaturgy Dachshund Pet",
-        "description": "This dashing Dachshund will dart around you on your endeavours."
-      },
-      "link": "https://www.pathofexile.com/shop/item/ThaumaturgyDachshundPet",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvUGV0cy9UaGF1bWF0dXJneURhY2hzaHVuZCJ9XQ/cdba165c08/ThaumaturgyDachshund.png",
-      "source": "poe1",
-      "price": {
-        "discount": 140,
-        "original": 210
       }
     },
     {
