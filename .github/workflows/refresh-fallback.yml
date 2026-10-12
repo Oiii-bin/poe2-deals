@@ -30,37 +30,16 @@ jobs:
         with:
           node-version: "22"
 
-      - name: Build snapshot from OFFICIAL GGG shop
-        id: official
-        continue-on-error: true
-        run: node scrape_official.js -o fallback.json
-        # scrape_official.js 打兩個官方公開端點（都免登入）：
-        #   • pathofexile2.com/api/shop-microtransactions?game=poe2  → 644 件，含 special:{start,end}
-        #   • pathofexile.com/shop/category/specials（SSR 頁面）      → 補 PoE1 專屬外觀
-        # 成功即寫入 repo 根目錄的 fallback.json。失敗不中斷，往下用第三方備援。
-
-      - name: Union community source to fill gaps
-        continue-on-error: true
-        run: |
-          # 官方源偶爾漏掉組合包內容物（社群源會拆成單件列出）→ 聯集補進來
-          node -e "
-            const fs = require('fs');
-            const off = JSON.parse(fs.readFileSync('fallback.json', 'utf8'));
-            fetch('https://poe.usaginest.com/poe2_special.json').then(r => r.json()).then(u => {
-              const seen = new Set(off.items.map(x => x.english && x.english.name));
-              const extra = (u.items || []).filter(x => x.english && x.english.name && !seen.has(x.english.name));
-              off.items = off.items.concat(extra);
-              fs.writeFileSync('fallback.json', JSON.stringify(off, null, 2));
-              console.log('聯集後 items=' + off.items.length + '（官方 ' + (off.items.length - extra.length) + ' + 社群補 ' + extra.length + '）');
-            }).catch(e => console.log('社群源略過：' + e.message));
-          "
-
-      - name: Fallback to community source if official scrape failed
-        if: steps.official.outcome == 'failure'
-        run: |
-          echo "⚠️ 官方爬蟲失敗，改用社群源 usaginest"
-          curl -fsSL --retry 3 --retry-delay 5 --max-time 30 \
-            "https://poe.usaginest.com/poe2_special.json" -o fallback.json
+      - name: Build snapshot (official + community, with TW enrichment)
+        # build_fallback.js 管線（與 server.js fetchSource() 一致）：
+        #  1) 官方 GGG 商城（pathofexile2.com/api/shop-microtransactions?game=poe2
+        #     ＋ pathofexile.com/shop/category/specials）→ 官方件帶臺服繁中 twName/twDesc
+        #  2) 社群源 usaginest 補官方漏掉的組合包內容物
+        #  3) 社群源經 enName 對照表補繁中（有 twMap 才補，否則留英文，絕不偽造）
+        #  4) 聯集：官方為主，社群補官方沒有的（依 english.name 去重）
+        # ⚠️ 容錯：官方爬蟲失敗 → 退社群源（無法補繁中，仍是有效備援）；兩者皆空才拋錯。
+        #    這一步已涵蓋舊版「scrape_official.js -o」＋「聯集社群」＋「官方失敗退社群源」三個步驟。
+        run: node build_fallback.js fallback.json
 
       - name: Validate JSON before committing
         run: |
