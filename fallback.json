@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-18 16:30:25",
+  "date": "2026-10-18 21:29:10",
   "items": [
     {
       "english": {
@@ -2865,6 +2865,20 @@
     },
     {
       "english": {
+        "name": "Devil Tail Hip Attachment",
+        "description": "Adds the Devil Tail Hip Attachment to your belt."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvRGV2aWxUYWlsIiwicmVhbG0iOiJwb2UyIn1d/e6ddf4bddf/DevilTail.webp",
+      "link": "https://pathofexile2.com/shop/item/devil-tail-hip-attachment",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 90,
+        "discount": 90
+      }
+    },
+    {
+      "english": {
         "name": "Fleshveil Marionette Armour Pack",
         "description": "Contains the Fleshveil Marionette Helmet, Boots, Gloves, Body Armour, and Character Skin (at a discounted price)."
       },
@@ -2894,6 +2908,20 @@
       },
       "twName": "霜寒起源風暴組合包",
       "twDesc": "包含霜寒起源風暴頭盔、鞋靴、手套和身體護甲（這是優惠組合）。"
+    },
+    {
+      "english": {
+        "name": "Ghost Dog Pet",
+        "description": "This ghostly good boy will gallop alongside you on your journeys."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9wZXRzL0dob3N0RG9nIiwicmVhbG0iOiJwb2UyIn1d/bc832708c8/GhostDog.webp",
+      "link": "https://pathofexile2.com/shop/item/ghost-dog-pet",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 150,
+        "discount": 150
+      }
     },
     {
       "english": {
@@ -2990,6 +3018,20 @@
       },
       "twName": "藏身處：靜縊陵墓",
       "twDesc": "為你的藏身處添加一個靜謐陵墓地圖裝置。"
+    },
+    {
+      "english": {
+        "name": "Mummified Giant Sphynx Pet",
+        "description": "This mummified colossal cat will accompany you on your journeys."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9wZXRzL011bW1pZmllZFNwaHlueFBldCIsInJlYWxtIjoicG9lMiJ9XQ/dc015ced33/MummifiedSphynxPet.webp",
+      "link": "https://pathofexile2.com/shop/item/mummified-giant-sphynx-pet",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 150,
+        "discount": 150
+      }
     },
     {
       "english": {
@@ -3755,6 +3797,20 @@
     },
     {
       "english": {
+        "name": "Severed Arm Weapon Skin",
+        "description": "Replaces the appearance of a One Hand Axe, One Hand Mace or Sceptre with the Severed Arm Weapon Skin."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvU2V2ZXJlZEFybSIsInJlYWxtIjoicG9lMiJ9XQ/a9af6a1475/SeveredArm.webp",
+      "link": "https://pathofexile2.com/shop/item/severed-arm-weapon-skin",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 150,
+        "discount": 150
+      }
+    },
+    {
+      "english": {
         "name": "Shattered Dodge Roll Effect",
         "description": "Adds a shattered effect when you dodge roll."
       },
@@ -3816,6 +3872,20 @@
       },
       "twName": "武器外觀：白銀縫偶",
       "twDesc": "將任何已裝備的權杖、法杖、法器、或長杖的武器外觀替換為白銀縫偶。"
+    },
+    {
+      "english": {
+        "name": "Skeleton Skin",
+        "description": "Replaces the appearance of your character skin with the Skeleton character skin."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9jaGFyYWN0ZXItZWZmZWN0cy9Ta2VsZXRvblNraW4iLCJyZWFsbSI6InBvZTIifV0/96cf1210c8/SkeletonSkin.webp",
+      "link": "https://pathofexile2.com/shop/item/skeleton-skin",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 70,
+        "discount": 70
+      }
     },
     {
       "english": {
@@ -4984,6 +5054,20 @@
       },
       "twName": "時空之門．廢土飛砂",
       "twDesc": "此角色的傳送門替換為廢土飛砂的時空之門。"
+    },
+    {
+      "english": {
+        "name": "Wide-brimmed Witch Hat",
+        "description": "Replaces the appearance of a piece of headgear with the Wide-brimmed Witch Hat."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvQmlnV2l0Y2hIYXQiLCJyZWFsbSI6InBvZTIifV0/ebc9b6747f/BigWitchHat.webp",
+      "link": "https://pathofexile2.com/shop/item/wide-brimmed-witch-hat",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 100,
+        "discount": 100
+      }
     },
     {
       "english": {
