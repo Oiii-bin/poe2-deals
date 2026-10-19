@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-18 21:29:10",
+  "date": "2026-10-19 06:09:34",
   "items": [
     {
       "english": {
@@ -1226,6 +1226,22 @@
       },
       "twName": "背飾：暗獄冥河死翼",
       "twDesc": "在你的背後附加一個暗獄冥河死翼。"
+    },
+    {
+      "english": {
+        "name": "Temple Wings",
+        "description": "Adds the Temple Wings to your body armour."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9UZW1wbGVXaW5ncyJ9XQ/2ef39ac45e/TempleWings.png",
+      "link": "https://www.pathofexile.com/shop/item/TempleWings",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 310,
+        "discount": 230
+      },
+      "twName": "背飾：聖殿祭祀之翼",
+      "twDesc": "在你的背後附加聖殿祭祀之翼。"
     },
     {
       "english": {
@@ -2875,7 +2891,9 @@
       "price": {
         "original": 90,
         "discount": 90
-      }
+      },
+      "twName": "腰飾：惡魔尾巴",
+      "twDesc": "在你的腰帶外觀上附加惡魔尾巴。"
     },
     {
       "english": {
@@ -2921,7 +2939,9 @@
       "price": {
         "original": 150,
         "discount": 150
-      }
+      },
+      "twName": "寵物：鬼狗",
+      "twDesc": "這隻幽魂乖狗狗會跟隨著你踏遍鬼島。"
     },
     {
       "english": {
@@ -3031,7 +3051,9 @@
       "price": {
         "original": 150,
         "discount": 150
-      }
+      },
+      "twName": "寵物：木乃伊巨型獅身人面",
+      "twDesc": "這隻木乃伊大貓會跟隨你踏遍鬼島。"
     },
     {
       "english": {
@@ -3807,7 +3829,9 @@
       "price": {
         "original": 150,
         "discount": 150
-      }
+      },
+      "twName": "武器外觀：染血殘肢",
+      "twDesc": "將你的單手斧、單手錘或權杖替換為染血殘肢"
     },
     {
       "english": {
@@ -3885,7 +3909,9 @@
       "price": {
         "original": 70,
         "discount": 70
-      }
+      },
+      "twName": "外觀：骸骨",
+      "twDesc": "將你的角色外觀替換為一俱恐怖的骸骨。"
     },
     {
       "english": {
@@ -5067,7 +5093,9 @@
       "price": {
         "original": 100,
         "discount": 100
-      }
+      },
+      "twName": "頭部外觀：寬檐靈能巫帽",
+      "twDesc": "將你的頭部外觀替換為寬檐靈能巫帽。"
     },
     {
       "english": {
@@ -5253,19 +5281,6 @@
     },
     {
       "english": {
-        "name": "Botanist's Frenzied Back Attachment",
-        "description": "Adds the Botanist's Frenzied Back Attachment to your body armour. Frenzy Charges attach to a tree that just so happens to be growing out of your back."
-      },
-      "link": "https://www.pathofexile.com/shop/item/BotanistsFrenziedBackAttachment",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9GcmVuemllZFRyZWVCYWNrQXR0YWNobWVudCJ9XQ/ae21a46f91/FrenziedTreeBackAttachment.png",
-      "source": "poe1",
-      "price": {
-        "discount": 150,
-        "original": 195
-      }
-    },
-    {
-      "english": {
         "name": "Botanist's Powerful Back Attachment",
         "description": "Adds the Botanist's Powerful Back Attachment to your body armour. Power Charges attach to a tree that just so happens to be growing out of your back."
       },
@@ -5275,6 +5290,19 @@
       "price": {
         "discount": 155,
         "original": 205
+      }
+    },
+    {
+      "english": {
+        "name": "Botanist's Frenzied Back Attachment",
+        "description": "Adds the Botanist's Frenzied Back Attachment to your body armour. Frenzy Charges attach to a tree that just so happens to be growing out of your back."
+      },
+      "link": "https://www.pathofexile.com/shop/item/BotanistsFrenziedBackAttachment",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9GcmVuemllZFRyZWVCYWNrQXR0YWNobWVudCJ9XQ/ae21a46f91/FrenziedTreeBackAttachment.png",
+      "source": "poe1",
+      "price": {
+        "discount": 150,
+        "original": 195
       }
     },
     {
