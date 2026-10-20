@@ -1,181 +1,85 @@
 {
-  "date": "2026-10-19 22:53:34",
+  "date": "2026-10-20 05:59:21",
   "items": [
     {
       "english": {
-        "name": "Automaton Wings",
-        "description": "Adds the Automaton Wings to your body armour."
+        "name": "Seraph Footprints Effect",
+        "description": "Imbues a pair of boots with the shining Seraph footprints."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9BdXRvbWF0b25XaW5ncyJ9XQ/c04cdd75e7/AutomatonWings.png",
-      "link": "https://www.pathofexile.com/shop/item/AutomatonWings",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Gb290cHJpbnRzL1NlcmFwaCJ9XQ/a10f1aa152/Seraph.png",
+      "link": "https://www.pathofexile.com/shop/item/SeraphFootprintsEffect",
       "source": "poe1",
       "kind": "discount",
       "price": {
-        "original": 320,
-        "discount": 200
+        "original": 150,
+        "discount": 70
       },
-      "twName": "背飾：機甲戰士機翼",
-      "twDesc": "在你的背後附加一個機甲戰士機翼。"
+      "twName": "行走特效：聖權神使",
+      "twDesc": "為你的腳部裝備注入聖權之力，使其在行走時會留下具有聖權之力的足跡。"
     },
     {
       "english": {
-        "name": "Blood Guard Wings",
-        "description": "Adds the Blood Guard Wings to your body armour."
+        "name": "Aquila Crest Helmet Attachment",
+        "description": "Imbues a piece of headgear with the Aquila Crest Helmet Attachment."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9CbG9vZEd1YXJkV2luZ3MifV0/45618f4019/BloodGuardWings.png",
-      "link": "https://www.pathofexile.com/shop/item/BloodGuardWings",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9IYXRzL0FxdWlsYUhlbG1ldEF0dGFjaG1lbnQifV0/f031693067/AquilaHelmetAttachment.png",
+      "link": "https://www.pathofexile.com/shop/item/AquilaCrestHelmetAttachment",
       "source": "poe1",
       "kind": "discount",
       "price": {
-        "original": 320,
-        "discount": 200
+        "original": 80,
+        "discount": 40
       },
-      "twName": "背飾：浴血衛士羽翼",
-      "twDesc": "在你的背後附加一個浴血衛士羽翼。"
+      "twName": "頭部特效：天鷹羽飾",
+      "twDesc": "將你的頭部外觀增添天鷹羽飾效果。"
     },
     {
       "english": {
-        "name": "Faith Guard Wings",
-        "description": "Adds the Faith Guard Wings to your body armour."
+        "name": "Assassin Halo Helmet Attachment",
+        "description": "Imbues a piece of headgear with the Assassin Halo Helmet Attachment."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9GYWl0aEd1YXJkV2luZ3MifV0/95490bc4f6/FaithGuardWings.png",
-      "link": "https://www.pathofexile.com/shop/item/FaithGuardWings",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9IYXRzL0V6b215dGVIYWxvSGVsbWV0QXR0YWNobWVudCJ9XQ/440d508f4b/EzomyteHaloHelmetAttachment.png",
+      "link": "https://www.pathofexile.com/shop/item/AssassinHaloHelmetAttachment",
       "source": "poe1",
       "kind": "discount",
       "price": {
-        "original": 320,
-        "discount": 200
+        "original": 60,
+        "discount": 30
       },
-      "twName": "背飾：信仰衛士羽翼",
-      "twDesc": "在你的背後附加一個信仰衛士羽翼。"
+      "twName": "頭部特效：刺客光環",
+      "twDesc": "將你的頭部外觀增添刺客光環效果。"
     },
     {
       "english": {
-        "name": "Harlequin Wings",
-        "description": "Adds the Harlequin Wings to your body armour."
+        "name": "Assassin Seer Helmet Attachment",
+        "description": "Imbues a piece of headgear with the Assassin Seer Helmet Attachment."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9IYXJsZXF1aW5XaW5ncyJ9XQ/5dae059420/HarlequinWings.png",
-      "link": "https://www.pathofexile.com/shop/item/HarlequinWings",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9IYXRzL0V6b215dGVTZWVySGVsbWV0QXR0YWNobWVudCJ9XQ/3529f69bbf/EzomyteSeerHelmetAttachment.png",
+      "link": "https://www.pathofexile.com/shop/item/AssassinSeerHelmetAttachment",
       "source": "poe1",
       "kind": "discount",
       "price": {
-        "original": 320,
-        "discount": 200
+        "original": 60,
+        "discount": 30
       },
-      "twName": "背飾：狂歡小丑之翼",
-      "twDesc": "在你的背後附加狂歡小丑之翼。"
+      "twName": "頭部特效：刺客預言",
+      "twDesc": "將你的頭部外觀增添刺客預言效果。"
     },
     {
       "english": {
-        "name": "Ivory Chaos Cloak",
-        "description": "Adds the Ivory Chaos Cloak to your body armour."
+        "name": "Coliseum Helmet Attachment",
+        "description": "Imbues a piece of headgear with the Coliseum Helmet Attachment."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9Jdm9yeUNoYW9zQ2xvYWsifV0/3d23d5282d/IvoryChaosCloak.png",
-      "link": "https://www.pathofexile.com/shop/item/IvoryChaosCloak",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9IYXRzL0NvbGlzZXVtSGVsbWV0QXR0YWNobWVudCJ9XQ/7c0177d153/ColiseumHelmetAttachment.png",
+      "link": "https://www.pathofexile.com/shop/item/ColiseumHelmetAttachment",
       "source": "poe1",
       "kind": "discount",
       "price": {
-        "original": 320,
-        "discount": 200
+        "original": 80,
+        "discount": 40
       },
-      "twName": "背飾：混沌象牙披風",
-      "twDesc": "在你的背後附加一個混沌象牙披風。"
-    },
-    {
-      "english": {
-        "name": "Ringmaster Wings",
-        "description": "Adds the Ringmaster Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9SaW5nbWFzdGVyV2luZ3MifV0/e8d776ae2a/RingmasterWings.png",
-      "link": "https://www.pathofexile.com/shop/item/RingmasterWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 320,
-        "discount": 200
-      },
-      "twName": "背飾：猛獸馴師之翼",
-      "twDesc": "在你的背後附加猛獸馴師之翼。"
-    },
-    {
-      "english": {
-        "name": "Wasteland Wings",
-        "description": "Adds the Wasteland Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9XYXN0ZWxhbmRXaW5ncyJ9XQ/2a05d5eed7/WastelandWings.png",
-      "link": "https://www.pathofexile.com/shop/item/WastelandWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 320,
-        "discount": 200
-      },
-      "twName": "背飾：荒地勇者羽翼",
-      "twDesc": "在你的背後附加一個荒地勇者羽翼。"
-    },
-    {
-      "english": {
-        "name": "Wild Wings",
-        "description": "Adds the Wild Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9XaWxkV2luZ3MifV0/07a3741bb8/WildWings.png",
-      "link": "https://www.pathofexile.com/shop/item/WildWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 320,
-        "discount": 200
-      },
-      "twName": "背飾：荒野狂徒之翼",
-      "twDesc": "在你的背後附加一個荒野狂徒之翼。"
-    },
-    {
-      "english": {
-        "name": "Wrangler Wings",
-        "description": "Adds the Wrangler Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9XcmFuZ2xlcldpbmdzIn1d/03970d8be9/WranglerWings.png",
-      "link": "https://www.pathofexile.com/shop/item/WranglerWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 320,
-        "discount": 200
-      },
-      "twName": "背飾：邊境牧者之翼",
-      "twDesc": "在你的背後附加一個邊境牧者之翼。"
-    },
-    {
-      "english": {
-        "name": "Slither Wings",
-        "description": "Adds the Slither Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9TbGl0aGVyV2luZ3MifV0/91411b352d/SlitherWings.png",
-      "link": "https://www.pathofexile.com/shop/item/SlitherWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 320,
-        "discount": 205
-      },
-      "twName": "背飾：滑翔翼",
-      "twDesc": "在你的背後附加滑翔翼。"
-    },
-    {
-      "english": {
-        "name": "Seraph Grace Wings",
-        "description": "Adds the Seraph Grace Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9TZXJhcGhHcmFjZVdpbmdzIn1d/eba7aac58d/SeraphGraceWings.png",
-      "link": "https://www.pathofexile.com/shop/item/SeraphGraceWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 320,
-        "discount": 210
-      },
-      "twName": "背飾：典雅聖權羽翼",
-      "twDesc": "在你的背後附加一個典雅聖權羽翼。"
+      "twName": "頭部特效：競技鬥服",
+      "twDesc": "將你的頭部外觀增添競技鬥服效果。"
     },
     {
       "english": {
@@ -188,1866 +92,328 @@
       "kind": "discount",
       "price": {
         "original": 320,
-        "discount": 210
+        "discount": 160
       },
       "twName": "背飾：幻靈神使之翼",
       "twDesc": "在你的背後附加一個幻靈神使之翼。"
     },
     {
       "english": {
-        "name": "Gloom Wings",
-        "description": "Adds the Gloom Wings to your body armour."
+        "name": "Swan Crest Helmet Attachment",
+        "description": "Imbues a piece of headgear with the Swan Crest Helmet Attachment."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9HbG9vbVdpbmdzIn1d/456d4a0eb8/GloomWings.png",
-      "link": "https://www.pathofexile.com/shop/item/GloomWings",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9IYXRzL1N3YW5IZWxtZXRBdHRhY2htZW50In1d/5ac234ac8c/SwanHelmetAttachment.png",
+      "link": "https://www.pathofexile.com/shop/item/SwanCrestHelmetAttachment",
       "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 390,
-        "discount": 260
-      },
-      "twName": "背飾：滅世烏翼",
-      "twDesc": "在你的身體護具加上一對滅世烏翼。"
-    },
-    {
-      "english": {
-        "name": "Mana Tank Back Attachment",
-        "description": "Adds the Mana Tank Back Attachment to your body armour. Its effect scales with your percentage of current mana."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvTWFuYVRhbmsiLCJyZWFsbSI6InBvZTIifV0/fe5d9156dd/ManaTank.webp",
-      "link": "https://pathofexile2.com/shop/item/mana-tank-back-attachment",
-      "source": "poe2_variant",
-      "kind": "discount",
-      "price": {
-        "original": 120,
-        "discount": 80
-      },
-      "specialEnd": "2026-10-20T00:00:00+00:00",
-      "twName": "背飾：魔能靈罐",
-      "twDesc": "在你的背後附加魔能靈罐。效果受你當前魔力的百分比影響。"
-    },
-    {
-      "english": {
-        "name": "Gryffon Wings",
-        "description": "Adds the Gryffon Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9HcnlmZm9uV2luZ3MifV0/3789db557e/GryffonWings.png",
-      "link": "https://www.pathofexile.com/shop/item/GryffonWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 310,
-        "discount": 210
-      },
-      "twName": "背飾：傲氣獅鷲之翼",
-      "twDesc": "在你的背後附加傲氣獅鷲之翼。"
-    },
-    {
-      "english": {
-        "name": "Sphinx Wings",
-        "description": "Adds the Sphinx Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9TcGhpbnhXaW5ncyJ9XQ/3d5059b0e5/SphinxWings.png",
-      "link": "https://www.pathofexile.com/shop/item/SphinxWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 310,
-        "discount": 210
-      },
-      "twName": "背飾：獅身人面之翼",
-      "twDesc": "在你的背後附加獅身人面之翼。"
-    },
-    {
-      "english": {
-        "name": "Seraph Battle Wings",
-        "description": "Adds the Seraph Battle Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9TZXJhcGhCYXR0bGVXaW5ncyJ9XQ/38fb424471/SeraphBattleWings.png",
-      "link": "https://www.pathofexile.com/shop/item/SeraphBattleWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 335,
-        "discount": 230
-      },
-      "twName": "背飾：聖權戰翼",
-      "twDesc": "在你的背後附加一個聖權戰翼。"
-    },
-    {
-      "english": {
-        "name": "Black Wings",
-        "description": "Adds the Black Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9CbGFja1dpbmdzIn1d/3aa14e922f/BlackWings.png",
-      "link": "https://www.pathofexile.com/shop/item/BlackWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 320,
-        "discount": 220
-      },
-      "twName": "背飾：太極．陰邪之翼",
-      "twDesc": "在你的背後附加太極．陰邪之翼。"
-    },
-    {
-      "english": {
-        "name": "Corsair Back Attachment",
-        "description": "Adds the Corsair Back Attachment to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9Db3JzYWlyQmFja0F0dGFjaG1lbnQifV0/b6cd9d406d/CorsairBackAttachment.png",
-      "link": "https://www.pathofexile.com/shop/item/CorsairBackAttachment",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 320,
-        "discount": 220
-      },
-      "twName": "背飾：怨靈海盜配件",
-      "twDesc": "在你的背後附加一個怨靈海盜配件。"
-    },
-    {
-      "english": {
-        "name": "Dragonfly Wings",
-        "description": "Adds the Dragonfly Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9EcmFnb25mbHlXaW5ncyJ9XQ/c91c86ac5a/DragonflyWings.png",
-      "link": "https://www.pathofexile.com/shop/item/DragonflyWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 320,
-        "discount": 220
-      },
-      "twName": "背飾：青娘子翅膀",
-      "twDesc": "在你的背後附加一個青娘子翅膀。"
-    },
-    {
-      "english": {
-        "name": "Ice Wings",
-        "description": "Adds the Ice Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9JY2VXaW5ncyJ9XQ/584a64a390/IceWings.png",
-      "link": "https://www.pathofexile.com/shop/item/IceWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 320,
-        "discount": 220
-      },
-      "twName": "背飾：凜凍寒冰羽翼",
-      "twDesc": "在你的背後附加一個凜凍寒冰羽翼。"
-    },
-    {
-      "english": {
-        "name": "Lightning Wings",
-        "description": "Adds the Lightning Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9MaWdodG5pbmdCYWNrV2luZ3MifV0/b1dcc16201/LightningBackWings.png",
-      "link": "https://www.pathofexile.com/shop/item/LightningWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 320,
-        "discount": 220
-      },
-      "twName": "背飾：雷霆之翼",
-      "twDesc": "在你的背後附加一個雷霆之翼。"
-    },
-    {
-      "english": {
-        "name": "Mystic Wings",
-        "description": "Adds the Mystic Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9NeXN0aWNXaW5ncyJ9XQ/7c17f9c993/MysticWings.png",
-      "link": "https://www.pathofexile.com/shop/item/MysticWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 320,
-        "discount": 220
-      },
-      "twName": "背飾：秘境邪巫之翼",
-      "twDesc": "在你的背後附加一個秘境邪巫之翼。"
-    },
-    {
-      "english": {
-        "name": "Pure Light Wings",
-        "description": "Adds the Pure Light Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9QdXJlTGlnaHRXaW5ncyJ9XQ/b23df5ddc1/PureLightWings.png",
-      "link": "https://www.pathofexile.com/shop/item/PureLightWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 320,
-        "discount": 220
-      },
-      "twName": "背飾：淨光羽翼",
-      "twDesc": "在你的背後附加淨光羽翼。"
-    },
-    {
-      "english": {
-        "name": "Ultimate Chaos Wings",
-        "description": "Adds the Ultimate Chaos Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9VbHRpbWF0ZUNoYW9zV2luZ3MifV0/f33d4e1a49/UltimateChaosWings.png",
-      "link": "https://www.pathofexile.com/shop/item/UltimateChaosWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 320,
-        "discount": 220
-      },
-      "twName": "背飾：最終混沌羽翼",
-      "twDesc": "在你的背後附加最終混沌羽翼。"
-    },
-    {
-      "english": {
-        "name": "Void Wings",
-        "description": "Adds the Void Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9Wb2lkV2luZ3MifV0/800167dec1/VoidWings.png",
-      "link": "https://www.pathofexile.com/shop/item/VoidWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 320,
-        "discount": 220
-      },
-      "twName": "背飾：虛空異觸",
-      "twDesc": "在你的背後附加一個虛空異觸。"
-    },
-    {
-      "english": {
-        "name": "White Wings",
-        "description": "Adds the White Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9XaGl0ZVdpbmdzIn1d/2073fc15b3/WhiteWings.png",
-      "link": "https://www.pathofexile.com/shop/item/WhiteWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 320,
-        "discount": 220
-      },
-      "twName": "背飾：太極．正陽之翼",
-      "twDesc": "在你的背後附加太極．正陽之翼。"
-    },
-    {
-      "english": {
-        "name": "Necrotic Mana Tank Back Attachment",
-        "description": "Adds the Necrotic Mana Tank Back Attachment to your body armour. Its effect scales with your percentage of current mana."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvTmVjcm90aWNNYW5hVGFuayIsInJlYWxtIjoicG9lMiJ9XQ/d566d4df68/NecroticManaTank.webp",
-      "link": "https://pathofexile2.com/shop/item/necrotic-mana-tank-back-attachment",
-      "source": "poe2_variant",
-      "kind": "discount",
-      "price": {
-        "original": 145,
-        "discount": 100
-      },
-      "specialEnd": "2026-10-20T00:00:00+00:00",
-      "twName": "背飾：魔能靈罐．死靈",
-      "twDesc": "在你的背後附加魔能靈罐．死靈。效果受你當前魔力的百分比影響。"
-    },
-    {
-      "english": {
-        "name": "Pure Mana Tank Back Attachment",
-        "description": "Adds the Pure Mana Tank Back Attachment to your body armour. Its effect scales with your percentage of current mana."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvUHVyZU1hbmFUYW5rIiwicmVhbG0iOiJwb2UyIn1d/c870e6da76/PureManaTank.webp",
-      "link": "https://pathofexile2.com/shop/item/pure-mana-tank-back-attachment",
-      "source": "poe2_variant",
-      "kind": "discount",
-      "price": {
-        "original": 145,
-        "discount": 100
-      },
-      "specialEnd": "2026-10-20T00:00:00+00:00",
-      "twName": "背飾：魔能靈罐．純淨",
-      "twDesc": "在你的背後附加魔能靈罐．純淨。效果受你當前魔力的百分比影響。"
-    },
-    {
-      "english": {
-        "name": "Steampunk Mana Tank Back Attachment",
-        "description": "Adds the Steampunk Mana Tank Back Attachment to your body armour. Its effect scales with your percentage of current mana."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvU3RlYW1wdW5rTWFuYVRhbmsiLCJyZWFsbSI6InBvZTIifV0/4ed4c45983/SteampunkManaTank.webp",
-      "link": "https://pathofexile2.com/shop/item/steampunk-mana-tank-back-attachment",
-      "source": "poe2_variant",
-      "kind": "discount",
-      "price": {
-        "original": 145,
-        "discount": 100
-      },
-      "specialEnd": "2026-10-20T00:00:00+00:00",
-      "twName": "背飾：魔能靈罐．蒸氣龐克",
-      "twDesc": "在你的背後附加魔能靈罐．蒸氣龐克。效果受你當前魔力的百分比影響。"
-    },
-    {
-      "english": {
-        "name": "Project Wings",
-        "description": "Adds the Project Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9Qcm9qZWN0V2luZ3MifV0/209845fee8/ProjectWings.png",
-      "link": "https://www.pathofexile.com/shop/item/ProjectWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 320,
-        "discount": 225
-      },
-      "twName": "背飾：異變怪人之翼",
-      "twDesc": "在你的背後附加異變怪人之翼。"
-    },
-    {
-      "english": {
-        "name": "Scientist Wings",
-        "description": "Adds the Scientist Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9TY2llbnRpc3RXaW5ncyJ9XQ/7c0b5e005f/ScientistWings.png",
-      "link": "https://www.pathofexile.com/shop/item/ScientistWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 320,
-        "discount": 225
-      },
-      "twName": "背飾：科技學家之翼",
-      "twDesc": "在你的背後附加科技學家之翼。"
-    },
-    {
-      "english": {
-        "name": "Engineer's Cobalt Prototype",
-        "description": "Adds the Engineer's Cobalt Prototype Back Attachment to your body armour. Items you pick up are scanned before they are sucked into your back pocket."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvRW5naW5lZXJzQ29iYWx0UHJvdG90eXBlIiwicmVhbG0iOiJwb2UyIn1d/1aaad5169b/EngineersCobaltPrototype.webp",
-      "link": "https://pathofexile2.com/shop/item/engineers-cobalt-prototype",
-      "source": "poe2_variant",
-      "kind": "discount",
-      "price": {
-        "original": 310,
-        "discount": 220
-      },
-      "specialEnd": "2026-10-20T00:00:00+00:00",
-      "twName": "背飾：工程師偵測儀．鈷藍",
-      "twDesc": "在你的背後附加工程師偵測儀．鈷藍。你撿取的物品在被放到背包前會先掃描。"
-    },
-    {
-      "english": {
-        "name": "Apocalypse Wings",
-        "description": "Adds the Apocalypse Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9BcG9jYWx5cHNlV2luZ3MifV0/b6f5897ec6/ApocalypseWings.png",
-      "link": "https://www.pathofexile.com/shop/item/ApocalypseWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 640,
-        "discount": 460
-      },
-      "twName": "背飾：天啟預者羽翼",
-      "twDesc": "在你的背後附加一個天啟預者羽翼。"
-    },
-    {
-      "english": {
-        "name": "Sin and Innocence Wings",
-        "description": "Adds the Sin and Innocence Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9TaW5Jbm5vY2VuY2VXaW5ncyJ9XQ/095d1e841c/SinInnocenceWings.png",
-      "link": "https://www.pathofexile.com/shop/item/SinandInnocenceWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 640,
-        "discount": 460
-      },
-      "twName": "背飾：罪善．救贖之翼",
-      "twDesc": "在你的背後附加一個罪善．救贖之翼。"
-    },
-    {
-      "english": {
-        "name": "Transcendence Wings",
-        "description": "Adds the Transcendence Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9UcmFuc2NlbmRlbmNlV2luZ3MifV0/8b5d3e6ec0/TranscendenceWings.png",
-      "link": "https://www.pathofexile.com/shop/item/TranscendenceWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 640,
-        "discount": 460
-      },
-      "twName": "背飾：異能謎力幻翼",
-      "twDesc": "在你的背後附加一個異能謎力幻翼。"
-    },
-    {
-      "english": {
-        "name": "Ghoulhunter Crossbow Skin",
-        "description": "Replaces the appearance of a crossbow with the Ghoulhunter Crossbow."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvR2hvdWxodW50ZXJDcm9zc2JvdyIsInJlYWxtIjoicG9lMiJ9XQ/60847fc361/GhoulhunterCrossbow.webp",
-      "link": "https://pathofexile2.com/shop/item/ghoulhunter-crossbow-skin",
-      "source": "poe2_variant",
-      "kind": "discount",
-      "price": {
-        "original": 90,
-        "discount": 65
-      },
-      "specialEnd": "2026-10-20T00:00:00+00:00",
-      "twName": "十字弓外觀：活屍獵人",
-      "twDesc": "將你的十字弓外觀替換為活屍獵人十字弓。"
-    },
-    {
-      "english": {
-        "name": "Deicide Wings",
-        "description": "Adds the Deicide Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9EZWljaWRlV2luZ3MifV0/7c94f21356/DeicideWings.png",
-      "link": "https://www.pathofexile.com/shop/item/DeicideWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 325,
-        "discount": 235
-      },
-      "twName": "背飾：命運之意",
-      "twDesc": "在你的背後附加一對命運之意。"
-    },
-    {
-      "english": {
-        "name": "Apocalypse Cloak",
-        "description": "Adds the Apocalypse Cloak to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9BcG9jYWx5cHNlQ2xvYWsifV0/fb5eace244/ApocalypseCloak.png",
-      "link": "https://www.pathofexile.com/shop/item/ApocalypseCloak",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 460,
-        "discount": 335
-      },
-      "twName": "背飾：天啟預者披風",
-      "twDesc": "在你的背後附加一個天啟預者披風。"
-    },
-    {
-      "english": {
-        "name": "Apollyon Cloak",
-        "description": "Adds the Apollyon Cloak to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9BcG9sbHlvbkNsb2FrIn1d/ef28cda169/ApollyonCloak.png",
-      "link": "https://www.pathofexile.com/shop/item/ApollyonCloak",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 460,
-        "discount": 335
-      },
-      "twName": "背飾：煉獄帝王披風",
-      "twDesc": "在你的背後附加煉獄帝王披風。"
-    },
-    {
-      "english": {
-        "name": "Black and White Cloak",
-        "description": "Adds the Black and White Cloak to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9CbGFja0FuZFdoaXRlQ2xvYWsifV0/77e0e68169/BlackAndWhiteCloak.png",
-      "link": "https://www.pathofexile.com/shop/item/BlackandWhiteCloak",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 460,
-        "discount": 335
-      },
-      "twName": "背飾：無極．陰陽披風",
-      "twDesc": "在你的背後附加無極．陰陽披風。"
-    },
-    {
-      "english": {
-        "name": "Despair Cloak",
-        "description": "Adds the Despair Cloak to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvRGVzcGFpckNsb2FrIiwicmVhbG0iOiJwb2UyIn1d/efcdb29e31/DespairCloak.webp",
-      "link": "https://pathofexile2.com/shop/item/despair-cloak",
-      "source": "poe2_normal",
-      "kind": "discount",
-      "price": {
-        "original": 460,
-        "discount": 335
-      },
-      "specialEnd": "2026-10-20T00:00:00+00:00",
-      "twName": "背飾：絕望魂靈披風",
-      "twDesc": "在你的背後附加絕望魂靈披風。"
-    },
-    {
-      "english": {
-        "name": "Oriath Cloak",
-        "description": "Adds the Oriath Cloak to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9PcmlhdGhDYXBlIn1d/418cf0c7ad/OriathCape.png",
-      "link": "https://www.pathofexile.com/shop/item/OriathCloak",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 460,
-        "discount": 335
-      },
-      "twName": "背飾：榮光奧瑞亞披風",
-      "twDesc": "在你的背後附加一個榮光奧瑞亞披風。"
-    },
-    {
-      "english": {
-        "name": "Pandemonium Cloak",
-        "description": "Adds the Pandemonium Cloak to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9QYW5kZW1vbml1bSBDbG9hayJ9XQ/04e0a470b5/Pandemonium%20Cloak.png",
-      "link": "https://www.pathofexile.com/shop/item/PandemoniumCloak",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 460,
-        "discount": 335
-      },
-      "twName": "背飾：煉獄浩劫披風",
-      "twDesc": "在你的背後附加煉獄浩劫披風。"
-    },
-    {
-      "english": {
-        "name": "Sin and Innocence Cloak",
-        "description": "Adds the Sin and Innocence Cloak to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9TaW5Jbm5vY2VuY2VDbG9hayJ9XQ/71e300ba6b/SinInnocenceCloak.png",
-      "link": "https://www.pathofexile.com/shop/item/SinandInnocenceCloak",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 460,
-        "discount": 335
-      },
-      "twName": "背飾：罪善．救贖披風",
-      "twDesc": "在你的背後附加一個罪善．救贖披風。"
-    },
-    {
-      "english": {
-        "name": "Spectre Cloak",
-        "description": "Adds the Spectre Cloak to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9TcGVjdHJlQ2xvYWsifV0/a0eb7ebcb8/SpectreCloak.png",
-      "link": "https://www.pathofexile.com/shop/item/SpectreCloak",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 460,
-        "discount": 335
-      },
-      "twName": "背飾：魅影幽魂披風",
-      "twDesc": "在你的背後附加一個魅影幽魂披風。"
-    },
-    {
-      "english": {
-        "name": "Transcendence Back Attachment",
-        "description": "Adds the Transcendence Back Attachment to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9UcmFuc2NlbmRlbmNlQ2xvYWsifV0/a718233c59/TranscendenceCloak.png",
-      "link": "https://www.pathofexile.com/shop/item/TranscendenceBackAttachment",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 460,
-        "discount": 335
-      },
-      "twName": "背飾：異能謎力披風",
-      "twDesc": "在你的背後附加一個異能謎力披風。"
-    },
-    {
-      "english": {
-        "name": "Twilight Cloak",
-        "description": "Adds the Twilight Cloak to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9Ud2lsaWdodENsb2FrIn1d/b002898e72/TwilightCloak.png",
-      "link": "https://www.pathofexile.com/shop/item/TwilightCloak",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 460,
-        "discount": 335
-      },
-      "twName": "背飾：傾城暮光披風",
-      "twDesc": "在你的背後附加傾城暮光披風。"
-    },
-    {
-      "english": {
-        "name": "Frosted Mana Tank Back Attachment",
-        "description": "Adds the Frosted Mana Tank Back Attachment to your body armour. Its effect scales with your percentage of current mana."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvRnJvc3RlZE1hbmFUYW5rIiwicmVhbG0iOiJwb2UyIn1d/e76b57535b/FrostedManaTank.webp",
-      "link": "https://pathofexile2.com/shop/item/frosted-mana-tank-back-attachment",
-      "source": "poe2_variant",
-      "kind": "discount",
-      "price": {
-        "original": 130,
-        "discount": 95
-      },
-      "specialEnd": "2026-10-20T00:00:00+00:00",
-      "twName": "背飾：魔能靈罐．霜寒",
-      "twDesc": "在你的背後附加魔能靈罐．霜寒。效果受你當前魔力的百分比影響。"
-    },
-    {
-      "english": {
-        "name": "Apollyon Wings",
-        "description": "Adds the Apollyon Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9BcG9sbHlvbldpbmdzIn1d/84e12ad207/ApollyonWings.png",
-      "link": "https://www.pathofexile.com/shop/item/ApollyonWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 640,
-        "discount": 470
-      },
-      "twName": "背飾：煉獄帝王之翼",
-      "twDesc": "在你的背後附加煉獄帝王之翼。"
-    },
-    {
-      "english": {
-        "name": "Atlantis Wings",
-        "description": "Adds the Atlantis Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9BdGxhbnRpc1dpbmdzIn1d/39a00abd1b/AtlantisWings.png",
-      "link": "https://www.pathofexile.com/shop/item/AtlantisWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 640,
-        "discount": 470
-      },
-      "twName": "背飾：亞特蘭提斯之翼",
-      "twDesc": "在你的背後附加亞特蘭提斯之翼。"
-    },
-    {
-      "english": {
-        "name": "Black and White Wings",
-        "description": "Adds the Black and White Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9CbGFja0FuZFdoaXRlV2luZ3MifV0/caf02d3889/BlackAndWhiteWings.png",
-      "link": "https://www.pathofexile.com/shop/item/BlackandWhiteWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 640,
-        "discount": 470
-      },
-      "twName": "背飾：無極．陰陽之翼",
-      "twDesc": "在你的背後附加無極．陰陽之翼。"
-    },
-    {
-      "english": {
-        "name": "Despair Wings",
-        "description": "Adds the Despair Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvRGVzcGFpcldpbmdzIiwicmVhbG0iOiJwb2UyIn1d/5fd5d3360f/DespairWings.webp",
-      "link": "https://pathofexile2.com/shop/item/despair-wings",
-      "source": "poe2_normal",
-      "kind": "discount",
-      "price": {
-        "original": 640,
-        "discount": 470
-      },
-      "specialEnd": "2026-10-20T00:00:00+00:00",
-      "twName": "背飾：絕望魂靈之翼",
-      "twDesc": "在你的背後附加絕望魂靈之翼。"
-    },
-    {
-      "english": {
-        "name": "Harmony Wings",
-        "description": "Adds the Harmony Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9IYXJtb255V2luZ3MifV0/62f7d00c52/HarmonyWings.png",
-      "link": "https://www.pathofexile.com/shop/item/HarmonyWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 640,
-        "discount": 470
-      },
-      "twName": "背飾：萬物和諧之翼",
-      "twDesc": "在你的背後附加至萬物和諧之翼。"
-    },
-    {
-      "english": {
-        "name": "Huntsman Wings",
-        "description": "Adds the Huntsman Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9IdW50c21hbldpbmdzIn1d/7d54ba0870/HuntsmanWings.png",
-      "link": "https://www.pathofexile.com/shop/item/HuntsmanWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 320,
-        "discount": 235
-      },
-      "twName": "背飾：荒野狩獵蒼翼",
-      "twDesc": "在你的背後附加一個荒野狩獵蒼翼。"
-    },
-    {
-      "english": {
-        "name": "Madcap Wings",
-        "description": "Adds the Madcap Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9NYWRjYXBXaW5ncyJ9XQ/8aa7c41f98/MadcapWings.png",
-      "link": "https://www.pathofexile.com/shop/item/MadcapWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 320,
-        "discount": 235
-      },
-      "twName": "背飾：牽魂瘋帽蝶翼",
-      "twDesc": "在你的背後附加一個牽魂瘋帽蝶翼。"
-    },
-    {
-      "english": {
-        "name": "Midnight Pact Wings",
-        "description": "Adds the Midnight Pact Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9NaWRuaWdodFBhY3RXaW5ncyJ9XQ/750fb4e417/MidnightPactWings.png",
-      "link": "https://www.pathofexile.com/shop/item/MidnightPactWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 640,
-        "discount": 470
-      },
-      "twName": "背飾：血夜冥約之翼",
-      "twDesc": "在你的背後附加血夜冥約之翼。"
-    },
-    {
-      "english": {
-        "name": "Miracle Wings",
-        "description": "Adds the Miracle Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9NaXJhY2xlV2luZ3MifV0/9c19f73c28/MiracleWings.png",
-      "link": "https://www.pathofexile.com/shop/item/MiracleWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 320,
-        "discount": 235
-      },
-      "twName": "背飾：魔幻奇蹟之翼",
-      "twDesc": "在你的背後附加魔幻奇蹟之翼。"
-    },
-    {
-      "english": {
-        "name": "Oriath Wings",
-        "description": "Adds the Oriath Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9PcmlhdGhXaW5ncyJ9XQ/3649ae2171/OriathWings.png",
-      "link": "https://www.pathofexile.com/shop/item/OriathWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 640,
-        "discount": 470
-      },
-      "twName": "背飾：榮光奧瑞亞羽翼",
-      "twDesc": "在你的背後附加一個信仰衛士羽翼羽翼。"
-    },
-    {
-      "english": {
-        "name": "Pandemonium Wings",
-        "description": "Adds the Pandemonium Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9QYW5kZW1vbml1bVdpbmdzIn1d/c69d3aa91d/PandemoniumWings.png",
-      "link": "https://www.pathofexile.com/shop/item/PandemoniumWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 640,
-        "discount": 470
-      },
-      "twName": "背飾：煉獄浩劫死翼",
-      "twDesc": "在你的背後附加煉獄浩劫死翼。"
-    },
-    {
-      "english": {
-        "name": "Spectre Wings",
-        "description": "Adds the Spectre Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9TcGVjdHJlV2luZ3MifV0/f3cc4f0ec3/SpectreWings.png",
-      "link": "https://www.pathofexile.com/shop/item/SpectreWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 640,
-        "discount": 470
-      },
-      "twName": "背飾：魅影幽魂之翼",
-      "twDesc": "在你的背後附加一個魅影幽魂之翼。"
-    },
-    {
-      "english": {
-        "name": "Thaumaturgy Wings",
-        "description": "Adds the Thaumaturgy Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9UaGF1bWF0dXJneUNvbWJpbmVkV2luZ3MifV0/ebf42c4ff0/ThaumaturgyCombinedWings.png",
-      "link": "https://www.pathofexile.com/shop/item/ThaumaturgyWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 640,
-        "discount": 470
-      },
-      "twName": "背飾：奇幻魔術之翼",
-      "twDesc": "在你的背後附加奇幻魔術之翼。"
-    },
-    {
-      "english": {
-        "name": "Twilight Wings",
-        "description": "Adds the Twilight Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9Ud2lsaWdodFdpbmdzIn1d/e2ec78fb71/TwilightWings.png",
-      "link": "https://www.pathofexile.com/shop/item/TwilightWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 640,
-        "discount": 470
-      },
-      "twName": "背飾：傾城暮光之翼",
-      "twDesc": "在你的背後附加傾城暮光之翼。"
-    },
-    {
-      "english": {
-        "name": "Void Emperor Wings",
-        "description": "Adds the Void Emperor Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9Wb2lkRW1wZXJvckJhY2tBdHRhY2htZW50In1d/ce4ad493e4/VoidEmperorBackAttachment.png",
-      "link": "https://www.pathofexile.com/shop/item/VoidEmperorWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 320,
-        "discount": 235
-      },
-      "twName": "背飾：虛空帝王之翼",
-      "twDesc": "在你的背後附加虛空帝王之翼。"
-    },
-    {
-      "english": {
-        "name": "Dragon Hunter Wings",
-        "description": "Adds the Dragon Hunter Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9EcmFnb25IdW50ZXJXaW5ncyJ9XQ/1f2a3fcf69/DragonHunterWings.png",
-      "link": "https://www.pathofexile.com/shop/item/DragonHunterWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 340,
-        "discount": 250
-      },
-      "twName": "背飾：獵龍幻士之翼",
-      "twDesc": "在你的背後附加一個獵龍幻士之翼。"
-    },
-    {
-      "english": {
-        "name": "Glimmerwood Wings",
-        "description": "Adds the Glimmerwood Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9HbGltbWVyd29vZFdpbmdzTGV2ZWwyIn1d/a3504b781e/GlimmerwoodWingsLevel2.png",
-      "link": "https://www.pathofexile.com/shop/item/GlimmerwoodWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 340,
-        "discount": 250
-      },
-      "twName": "背飾：微熠之森飛翼",
-      "twDesc": "在你的背後附加微熠之森飛翼。"
-    },
-    {
-      "english": {
-        "name": "Labyrinth Apparition Back Attachment",
-        "description": "Adds the Labyrinth Apparition Back Attachment to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9MYWJ5cmludGhBcHBhcml0aW9uQmFja0F0dGFjaG1lbnQifV0/996bc56572/LabyrinthApparitionBackAttachment.png",
-      "link": "https://www.pathofexile.com/shop/item/LabyrinthApparitionBackAttachment",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 340,
-        "discount": 250
-      },
-      "twName": "背飾：帝王迷宮幻像",
-      "twDesc": "在你的背後附加帝王迷宮幻像。"
-    },
-    {
-      "english": {
-        "name": "Chaotic Stormborne Back Attachment",
-        "description": "Adds the Chaotic Stormborne Back Attachment to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvQ2hhb3RpY1N0b3JtYm9ybmVCYWNrQXR0YWNobWVudCIsInJlYWxtIjoicG9lMiJ9XQ/cf090b06a8/ChaoticStormborneBackAttachment.webp",
-      "link": "https://pathofexile2.com/shop/item/chaotic-stormborne-back-attachment",
-      "source": "poe2_variant",
-      "kind": "discount",
-      "price": {
-        "original": 95,
-        "discount": 70
-      },
-      "specialEnd": "2026-10-20T00:00:00+00:00",
-      "twName": "背飾：混沌起源風暴",
-      "twDesc": "在你的背後附加混沌起源風暴背飾。"
-    },
-    {
-      "english": {
-        "name": "Celestial Necrolord Cloak",
-        "description": "Adds the Celestial Necrolord Cloak to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9DZWxlc3RpYWxOZWNyb2xvcmRDbG9hayJ9XQ/6f4eac81ec/CelestialNecrolordCloak.png",
-      "link": "https://www.pathofexile.com/shop/item/CelestialNecrolordCloak",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 210,
-        "discount": 155
-      },
-      "twName": "背飾：亡魂領主披風．眾星",
-      "twDesc": "在你的背後附加亡魂領主．眾星披風。"
-    },
-    {
-      "english": {
-        "name": "Atlantis Cloak",
-        "description": "Adds the Atlantis Cloak to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9BdGxhbnRpc0Nsb2FrIn1d/9e25b87109/AtlantisCloak.png",
-      "link": "https://www.pathofexile.com/shop/item/AtlantisCloak",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 460,
-        "discount": 340
-      },
-      "twName": "背飾：亞特蘭提斯披風",
-      "twDesc": "在你的背後附加亞特蘭提斯披風。"
-    },
-    {
-      "english": {
-        "name": "Harmony Cloak",
-        "description": "Adds the Harmony Cloak to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9IYXJtb255Q2xvYWsifV0/f2dd577db0/HarmonyCloak.png",
-      "link": "https://www.pathofexile.com/shop/item/HarmonyCloak",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 460,
-        "discount": 340
-      },
-      "twName": "背飾：萬物和諧披風",
-      "twDesc": "在你的背後附加至萬物和諧披風。"
-    },
-    {
-      "english": {
-        "name": "Midnight Pact Cloak",
-        "description": "Adds the Midnight Pact Cloak to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9NaWRuaWdodFBhY3RDbG9hayJ9XQ/84f76939d3/MidnightPactCloak.png",
-      "link": "https://www.pathofexile.com/shop/item/MidnightPactCloak",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 460,
-        "discount": 340
-      },
-      "twName": "背飾：血夜冥約披風",
-      "twDesc": "在你的背後附加血夜冥約披風。"
-    },
-    {
-      "english": {
-        "name": "Thaumaturgy Cloak",
-        "description": "Adds the Thaumaturgy Cloak to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9UaGF1bWF0dXJneUNvbWJpbmVkQ2xvYWsifV0/78e78d6c82/ThaumaturgyCombinedCloak.png",
-      "link": "https://www.pathofexile.com/shop/item/ThaumaturgyCloak",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 460,
-        "discount": 340
-      },
-      "twName": "背飾：奇幻魔術披風",
-      "twDesc": "在你的背後附加奇幻魔術披風。"
-    },
-    {
-      "english": {
-        "name": "Dark Magic Wings",
-        "description": "Adds the Dark Magic Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9EYXJrTWFnaWNXaW5ncyJ9XQ/42b8dc4f63/DarkMagicWings.png",
-      "link": "https://www.pathofexile.com/shop/item/DarkMagicWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 310,
-        "discount": 230
-      },
-      "twName": "背飾：黑魔法之翼",
-      "twDesc": "在你的背後附加黑魔法之翼。"
-    },
-    {
-      "english": {
-        "name": "Heartseeker Wings",
-        "description": "Adds the Heartseeker Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9IZWFydHNlZWtlcldpbmdzIn1d/c67d3f7c36/HeartseekerWings.png",
-      "link": "https://www.pathofexile.com/shop/item/HeartseekerWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 310,
-        "discount": 230
-      },
-      "twName": "背飾：血心之翼",
-      "twDesc": "在你的背後附加血心之翼。"
-    },
-    {
-      "english": {
-        "name": "Stygian Wings",
-        "description": "Adds the Stygian Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9TdHlnaWFuV2luZ3MifV0/e1175d51b5/StygianWings.png",
-      "link": "https://www.pathofexile.com/shop/item/StygianWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 310,
-        "discount": 230
-      },
-      "twName": "背飾：暗獄冥河死翼",
-      "twDesc": "在你的背後附加一個暗獄冥河死翼。"
-    },
-    {
-      "english": {
-        "name": "Temple Wings",
-        "description": "Adds the Temple Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9UZW1wbGVXaW5ncyJ9XQ/2ef39ac45e/TempleWings.png",
-      "link": "https://www.pathofexile.com/shop/item/TempleWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 310,
-        "discount": 230
-      },
-      "twName": "背飾：聖殿祭祀之翼",
-      "twDesc": "在你的背後附加聖殿祭祀之翼。"
-    },
-    {
-      "english": {
-        "name": "Bismuth-plated Dovecaller Wings",
-        "description": "Adds the Bismuth-plated Dovecaller Wings to any equipped body armour, causing you to discover bismuth doves inside chest and barrels."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvQmlzbXV0aHBsYXRlZGRvdmVjYWxsZXJ3aW5ncyIsInJlYWxtIjoicG9lMiJ9XQ/3f99c9d1f8/Bismuthplateddovecallerwings.webp",
-      "link": "https://pathofexile2.com/shop/item/bismuth-plated-dovecaller-wings",
-      "source": "poe2_variant",
-      "kind": "discount",
-      "price": {
-        "original": 350,
-        "discount": 260
-      },
-      "specialEnd": "2026-10-20T00:00:00+00:00",
-      "twName": "背飾：和平喚鴿．鍍鐵",
-      "twDesc": "在你的背後附加和平喚鴿．鍍鐵。當你擊破木桶或開啟保險箱時，一群鍍鐵鴿子會展翅而飛。"
-    },
-    {
-      "english": {
-        "name": "Spring Fae Wings",
-        "description": "Adds the Spring Fae Wings to your body armour. Sacred wisps beckon you towards portals, waypoints, area transitions and unique items on the ground."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvR3JlZW5GYWVMZWFmV2luZ3MiLCJyZWFsbSI6InBvZTIifV0/351b646759/GreenFaeLeafWings.webp",
-      "link": "https://pathofexile2.com/shop/item/spring-fae-wings",
-      "source": "poe2_variant",
-      "kind": "discount",
-      "price": {
-        "original": 295,
-        "discount": 220
-      },
-      "specialEnd": "2026-10-20T00:00:00+00:00",
-      "twName": "春日妖精羽翼",
-      "twDesc": "在你的背後附加一個春日妖精羽翼。聖潔妖精會呼喚你前往傳送門、傳送點、區域傳送門和地上的傳奇物品。"
-    },
-    {
-      "english": {
-        "name": "Arcane Wings",
-        "description": "Adds the Arcane Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9BcmNhbmVXaW5ncyJ9XQ/c4e0c374d4/ArcaneWings.png",
-      "link": "https://www.pathofexile.com/shop/item/ArcaneWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 335,
-        "discount": 250
-      },
-      "twName": "背飾：秘法羽翼",
-      "twDesc": "在你的背後附加秘法羽翼。"
-    },
-    {
-      "english": {
-        "name": "Silver-plated Dovecaller Wings",
-        "description": "Adds the Silver-plated Dovecaller Wings to any equipped body armour, causing you to discover silver doves inside chest and barrels."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvU2lsdmVycGxhdGVkZG92ZWNhbGxlcndpbmdzIiwicmVhbG0iOiJwb2UyIn1d/344338ad48/Silverplateddovecallerwings.webp",
-      "link": "https://pathofexile2.com/shop/item/silver-plated-dovecaller-wings",
-      "source": "poe2_variant",
-      "kind": "discount",
-      "price": {
-        "original": 335,
-        "discount": 250
-      },
-      "specialEnd": "2026-10-20T00:00:00+00:00",
-      "twName": "背飾：和平喚鴿．鍍銀",
-      "twDesc": "在你的背後附加和平喚鴿．鍍銀。當你擊破木桶或開啟保險箱時，一群鍍銀鴿子會展翅而飛。"
-    },
-    {
-      "english": {
-        "name": "Frost Viking Back Attachment",
-        "description": "Adds the Frost Viking Back Attachment to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9Gcm9zdFZpa2luZ0JhY2tBdHRhY2htZW50In1d/d0bb4b98f9/FrostVikingBackAttachment.png",
-      "link": "https://www.pathofexile.com/shop/item/FrostVikingBackAttachment",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 375,
-        "discount": 280
-      },
-      "twName": "背飾：霜寒維京",
-      "twDesc": "在你的背後附加霜寒維京。"
-    },
-    {
-      "english": {
-        "name": "Angelic Wings",
-        "description": "Adds the Angelic Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9BbmdlbGljV2luZ3MifV0/4b09fa9b3c/AngelicWings.png",
-      "link": "https://www.pathofexile.com/shop/item/AngelicWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 320,
-        "discount": 240
-      },
-      "twName": "背飾：綺麗天使光翼",
-      "twDesc": "在你的背後附加綺麗天使光翼。"
-    },
-    {
-      "english": {
-        "name": "Arachnamagus Wings",
-        "description": "Adds the Arachnamagus Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvQXJhY2huYW1hZ3VzV2luZ3MiLCJyZWFsbSI6InBvZTIifV0/5055892d3e/ArachnamagusWings.webp",
-      "link": "https://pathofexile2.com/shop/item/arachnamagus-wings",
-      "source": "poe2_normal",
-      "kind": "discount",
-      "price": {
-        "original": 180,
-        "discount": 135
-      },
-      "specialEnd": "2026-10-20T00:00:00+00:00",
-      "twName": "背飾：巨蛛之翼",
-      "twDesc": "在你的背後附加巨蛛之翼。"
-    },
-    {
-      "english": {
-        "name": "Bronze Marionette Back Attachment",
-        "description": "Adds the Bronze Marionette Back Attachment to any equipped body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvUG9yY2VsYWluTWFyaW9uZXR0ZXNSZXZlbmdlQmFja0F0dGFjaG1lbnQiLCJyZWFsbSI6InBvZTIifV0/c8f2d7d14e/PorcelainMarionettesRevengeBackAttachment.webp",
-      "link": "https://pathofexile2.com/shop/item/bronze-marionette-back-attachment",
-      "source": "poe2_variant",
-      "kind": "discount",
-      "price": {
-        "original": 120,
-        "discount": 90
-      },
-      "specialEnd": "2026-10-20T00:00:00+00:00",
-      "twName": "背飾：黃銅縫偶",
-      "twDesc": "在你的背後附加黃銅縫偶背飾。"
-    },
-    {
-      "english": {
-        "name": "Bronze-plated Dovecaller Wings",
-        "description": "Adds the Bronze-plated Dovecaller Wings to any equipped body armour, causing you to discover bronze doves inside chest and barrels."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvYnJvbnplcGxhdGVkZG92ZWNhbGxlcndpbmdzIiwicmVhbG0iOiJwb2UyIn1d/b944b5b62b/bronzeplateddovecallerwings.webp",
-      "link": "https://pathofexile2.com/shop/item/bronze-plated-dovecaller-wings",
-      "source": "poe2_variant",
-      "kind": "discount",
-      "price": {
-        "original": 320,
-        "discount": 240
-      },
-      "specialEnd": "2026-10-20T00:00:00+00:00",
-      "twName": "背飾：和平喚鴿．鍍銅",
-      "twDesc": "在你的背後附加和平喚鴿．鍍銅。當你擊破木桶或開啟保險箱時，一群鍍銅鴿子會展翅而飛。"
-    },
-    {
-      "english": {
-        "name": "Celestial Mana Tank Back Attachment",
-        "description": "Adds the Celestial Mana Tank Back Attachment to your body armour. Its effect scales with your percentage of current mana."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvQ2VsZXN0aWFsTWFuYVRhbmsiLCJyZWFsbSI6InBvZTIifV0/54b6d647a7/CelestialManaTank.webp",
-      "link": "https://pathofexile2.com/shop/item/celestial-mana-tank-back-attachment",
-      "source": "poe2_variant",
-      "kind": "discount",
-      "price": {
-        "original": 160,
-        "discount": 120
-      },
-      "specialEnd": "2026-10-20T00:00:00+00:00",
-      "twName": "背飾：魔能靈罐．眾星",
-      "twDesc": "在你的背後附加魔能靈罐．眾星。效果受你當前魔力的百分比影響。"
-    },
-    {
-      "english": {
-        "name": "Corroding Arbiter of Ash Wings",
-        "description": "Adds the Corroding Arbiter of Ash Wings to your character."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvQnJlYWNoQXJiaXRlcm9mQXNoV2luZ3MiLCJyZWFsbSI6InBvZTIifV0/d5d54ef2e1/BreachArbiterofAshWings.webp",
-      "link": "https://pathofexile2.com/shop/item/corroding-arbiter-of-ash-wings",
-      "source": "poe2_variant",
-      "kind": "discount",
-      "price": {
-        "original": 180,
-        "discount": 135
-      },
-      "specialEnd": "2026-10-20T00:00:00+00:00",
-      "twName": "背飾：腐蝕灰燼仲裁者之翼",
-      "twDesc": "為你的角色添加腐蝕灰燼仲裁者之翼。"
-    },
-    {
-      "english": {
-        "name": "Darkshard Wings",
-        "description": "Adds the Darkshard Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9EYXJrc2hhcmRXaW5ncyJ9XQ/c1dc67dace/DarkshardWings.png",
-      "link": "https://www.pathofexile.com/shop/item/DarkshardWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 320,
-        "discount": 240
-      },
-      "twName": "背飾︰幽暗碎魂之翼",
-      "twDesc": "在你的背後附加幽暗碎魂之翼。"
-    },
-    {
-      "english": {
-        "name": "Deepwater Wings",
-        "description": "Adds the Deepwater Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9EZWVwd2F0ZXJXaW5ncyJ9XQ/3cbfed99d4/DeepwaterWings.png",
-      "link": "https://www.pathofexile.com/shop/item/DeepwaterWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 320,
-        "discount": 240
-      },
-      "twName": "背飾：幽冥深海之翼",
-      "twDesc": "在你的背後附加幽冥深海之翼。"
-    },
-    {
-      "english": {
-        "name": "Demon Wings",
-        "description": "Adds the Demon Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9NeXN0ZXJ5RGVtb25pY1dpbmdzIn1d/3efa45c265/MysteryDemonicWings.png",
-      "link": "https://www.pathofexile.com/shop/item/DemonWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 320,
-        "discount": 240
-      },
-      "twName": "背飾：凶兆惡魔暗翼",
-      "twDesc": "在你的背後附加凶兆惡魔暗翼。"
-    },
-    {
-      "english": {
-        "name": "Direblade Wings",
-        "description": "Adds the Direblade Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9EaXJlYmxhZGVXaW5ncyJ9XQ/b6b4fbdfd9/DirebladeWings.png",
-      "link": "https://www.pathofexile.com/shop/item/DirebladeWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 340,
-        "discount": 255
-      },
-      "twName": "背飾：恐怖之刃飛翼",
-      "twDesc": "在你的背後附加恐怖之刃飛翼。"
-    },
-    {
-      "english": {
-        "name": "Divergence Wings",
-        "description": "Adds the Divergence Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9EaXZlcmdlbmNlV2luZ3MifV0/03f5c28659/DivergenceWings.png",
-      "link": "https://www.pathofexile.com/shop/item/DivergenceWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 320,
-        "discount": 240
-      },
-      "twName": "背飾：異種分歧之翼",
-      "twDesc": "在你的背後附加至異種分歧之翼。"
-    },
-    {
-      "english": {
-        "name": "Engineer's Bronze Prototype",
-        "description": "Adds the Engineer's Bronze Prototype Back Attachment to your body armour. Items you pick up are scanned before they are sucked into your back pocket."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvRW5naW5lZXJzQnJvbnplUHJvdG90eXBlIiwicmVhbG0iOiJwb2UyIn1d/cc7147ee36/EngineersBronzePrototype.webp",
-      "link": "https://pathofexile2.com/shop/item/engineers-bronze-prototype",
-      "source": "poe2_variant",
-      "kind": "discount",
-      "price": {
-        "original": 280,
-        "discount": 210
-      },
-      "specialEnd": "2026-10-20T00:00:00+00:00",
-      "twName": "背飾：工程師偵測儀．青銅",
-      "twDesc": "在你的背後附加工程師偵測儀．青銅。你撿取的物品在被放到背包前會先掃描。"
-    },
-    {
-      "english": {
-        "name": "Fire Wings",
-        "description": "Adds the Fire Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9GaXJlV2luZ3MifV0/223589de95/FireWings.png",
-      "link": "https://www.pathofexile.com/shop/item/FireWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 320,
-        "discount": 240
-      },
-      "twName": "背飾：赤獄烈炎羽翼",
-      "twDesc": "在你的背後附加一個赤獄烈炎羽翼。"
-    },
-    {
-      "english": {
-        "name": "Frigid Stormborne Back Attachment",
-        "description": "Adds the Frigid Stormborne Back Attachment to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvRnJpZ2lkU3Rvcm1ib3JuZUJhY2tBdHRhY2htZW50IiwicmVhbG0iOiJwb2UyIn1d/d1ccfa5625/FrigidStormborneBackAttachment.webp",
-      "link": "https://pathofexile2.com/shop/item/frigid-stormborne-back-attachment",
-      "source": "poe2_variant",
       "kind": "discount",
       "price": {
         "original": 80,
-        "discount": 60
+        "discount": 40
       },
-      "specialEnd": "2026-10-20T00:00:00+00:00",
-      "twName": "背飾：霜寒起源風暴",
-      "twDesc": "在你的背後附加霜寒起源風暴背飾。"
+      "twName": "頭部特效：天鵝羽飾",
+      "twDesc": "將你的頭部外觀增添天鵝羽飾效果。"
     },
     {
       "english": {
-        "name": "Ghostflame Wings",
-        "description": "Adds the Ghostflame Wings to your body armour."
+        "name": "Seraph Spectral Throw Effect",
+        "description": "Replaces the standard effect on a Spectral Throw skill gem with a whirling, golden wing."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9HaG9zdGZsYW1lV2luZ3MifV0/be3a1f3bb1/GhostflameWings.png",
-      "link": "https://www.pathofexile.com/shop/item/GhostflameWings",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9ib29tZXJhbmcifV0/25f425920b/boomerang.png",
+      "link": "https://www.pathofexile.com/shop/item/SeraphSpectralThrowEffect",
       "source": "poe1",
       "kind": "discount",
       "price": {
-        "original": 320,
-        "discount": 240
+        "original": 95,
+        "discount": 50
       },
-      "twName": "背飾：青焰幽翼",
-      "twDesc": "在你的背後附加一個青焰幽翼。"
+      "twName": "靈體投擲．聖權",
+      "twDesc": "將技能「靈體投擲」的特效替換成迴旋的金黃色翅膀。"
     },
     {
       "english": {
-        "name": "Gold-plated Dovecaller Wings",
-        "description": "Adds the Gold-plated Dovecaller Wings to any equipped body armour, causing you to discover gold doves inside chest and barrels."
+        "name": "Seraph Sword",
+        "description": "Replaces the appearance of a One Hand Sword, Mace or Axe with the Seraph Sword."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvR29sZHBsYXRlZGRvdmVjYWxsZXJ3aW5ncyIsInJlYWxtIjoicG9lMiJ9XQ/46e36c3733/Goldplateddovecallerwings.webp",
-      "link": "https://pathofexile2.com/shop/item/gold-plated-dovecaller-wings",
-      "source": "poe2_variant",
-      "kind": "discount",
-      "price": {
-        "original": 340,
-        "discount": 255
-      },
-      "specialEnd": "2026-10-20T00:00:00+00:00",
-      "twName": "背飾：和平喚鴿．鍍金",
-      "twDesc": "在你的背後附加和平喚鴿．鍍金。當你擊破木桶或開啟保險箱時，一群鍍金鴿子會展翅而飛。"
-    },
-    {
-      "english": {
-        "name": "Heritage Wings",
-        "description": "Adds the Heritage Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9IZXJpdGFnZVdpbmdzIn1d/6a37186167/HeritageWings.png",
-      "link": "https://www.pathofexile.com/shop/item/HeritageWings",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vU2VyYXBoU3dvcmQifV0/9bbba0f6e2/SeraphSword.png",
+      "link": "https://www.pathofexile.com/shop/item/SeraphSword",
       "source": "poe1",
       "kind": "discount",
       "price": {
-        "original": 320,
-        "discount": 240
+        "original": 180,
+        "discount": 95
       },
-      "twName": "背飾：世代傳承之翼",
-      "twDesc": "在你的背後附加至世代傳承之翼。"
+      "twName": "武器外觀：聖權神使",
+      "twDesc": "將你的單手劍、單手斧、單手錘或權杖外觀替換為聖權神使之刃。"
     },
     {
       "english": {
-        "name": "Innocence Wings",
-        "description": "Adds the Innocence Wings to your body armour."
+        "name": "Seraph Weapon Effect",
+        "description": "Imbues a weapon with the shining Seraph glow."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9Jbm5vY2VuY2VXaW5ncyJ9XQ/40c21ca074/InnocenceWings.png",
-      "link": "https://www.pathofexile.com/shop/item/InnocenceWings",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vd2VhcG9uX3NlcmFwaCJ9XQ/5be53ee79d/weapon_seraph.png",
+      "link": "https://www.pathofexile.com/shop/item/SeraphWeaponEffect",
       "source": "poe1",
       "kind": "discount",
       "price": {
-        "original": 320,
-        "discount": 240
+        "original": 220,
+        "discount": 120
       },
-      "twName": "背飾：善．仁慈之翼",
-      "twDesc": "在你的背後附加一個善．仁慈之翼。"
+      "twName": "武器特效：聖權神使",
+      "twDesc": "為你的武器注入聖權之力，使其被閃耀聖權光芒所環繞。"
     },
     {
       "english": {
-        "name": "Lightbringer Wings",
-        "description": "Adds the Lightbringer Wings to your body armour."
+        "name": "Seraph Dagger",
+        "description": "Replaces the appearance of a Dagger or Wand with the Seraph Dagger."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9MaWdodGJyaW5nZXJXaW5ncyJ9XQ/049ed4cb4c/LightbringerWings.png",
-      "link": "https://www.pathofexile.com/shop/item/LightbringerWings",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vU2VyYXBoRGFnZ2VyIn1d/d0a5710e32/SeraphDagger.png",
+      "link": "https://www.pathofexile.com/shop/item/SeraphDagger",
       "source": "poe1",
       "kind": "discount",
       "price": {
-        "original": 320,
-        "discount": 240
-      },
-      "twName": "背飾︰雷霆先鋒之翼",
-      "twDesc": "在你的背後附加雷霆先鋒之翼。"
-    },
-    {
-      "english": {
-        "name": "Misery Wings",
-        "description": "Adds the Misery Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9NaXNlcnlXaW5ncyJ9XQ/7312e6546e/MiseryWings.png",
-      "link": "https://www.pathofexile.com/shop/item/MiseryWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 320,
-        "discount": 240
-      },
-      "twName": "背飾：磨難孽魂之翼",
-      "twDesc": "在你的背後附加磨難孽魂之翼。"
-    },
-    {
-      "english": {
-        "name": "Nightfall Wings",
-        "description": "Adds the Nightfall Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9OaWdodGZhbGxXaW5ncyJ9XQ/2dd2c1c1a2/NightfallWings.png",
-      "link": "https://www.pathofexile.com/shop/item/NightfallWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 320,
-        "discount": 240
-      },
-      "twName": "背飾：暮黑夜色之翼",
-      "twDesc": "在你的背後附加暮黑夜色之翼。"
-    },
-    {
-      "english": {
-        "name": "Overseer Wings",
-        "description": "Adds the Overseer Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9PdmVyc2VlcldpbmdzIn1d/4bf540f085/OverseerWings.png",
-      "link": "https://www.pathofexile.com/shop/item/OverseerWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 320,
-        "discount": 240
-      },
-      "twName": "背飾：無私總督之翼",
-      "twDesc": "在你的背後附加無私總督之翼。"
-    },
-    {
-      "english": {
-        "name": "Scavenger Back Attachment",
-        "description": "Adds the Scavenger Back Attachment to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9TY2F2ZW5nZXJHcmFuZEJhY2tBdHRhY2htZW50In1d/b6d061900c/ScavengerGrandBackAttachment.png",
-      "link": "https://www.pathofexile.com/shop/item/ScavengerBackAttachment",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 320,
-        "discount": 240
-      },
-      "twName": "背飾：屠殺清夫之翼",
-      "twDesc": "在你的背後附加屠殺清夫之翼。"
-    },
-    {
-      "english": {
-        "name": "Sin Wings",
-        "description": "Adds the Sin Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9TaW5XaW5ncyJ9XQ/40679b4977/SinWings.png",
-      "link": "https://www.pathofexile.com/shop/item/SinWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 320,
-        "discount": 240
-      },
-      "twName": "背飾：罪．萬惡死翼",
-      "twDesc": "在你的背後附加一個罪．萬惡死翼。"
-    },
-    {
-      "english": {
-        "name": "Siren Wings",
-        "description": "Adds the Siren Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9TaXJlbldpbmdzIn1d/4546e24c4a/SirenWings.png",
-      "link": "https://www.pathofexile.com/shop/item/SirenWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 320,
-        "discount": 240
-      },
-      "twName": "背飾：魑魅海妖之翼",
-      "twDesc": "在你的背後附加魑魅海妖之翼。"
-    },
-    {
-      "english": {
-        "name": "Starfall Wings",
-        "description": "Adds the Starfall Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9CcmlnaHRmYWxsV2luZ3MifV0/d578210a64/BrightfallWings.png",
-      "link": "https://www.pathofexile.com/shop/item/StarfallWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 320,
-        "discount": 240
-      },
-      "twName": "背飾：星空殞落之翼",
-      "twDesc": "在你的背後附加星空殞落之翼。"
-    },
-    {
-      "english": {
-        "name": "Suffering Back Attachment",
-        "description": "Adds the Suffering Back Attachment to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9TdWZmZXJpbmdXaW5ncyJ9XQ/4673f7a25f/SufferingWings.png",
-      "link": "https://www.pathofexile.com/shop/item/SufferingBackAttachment",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 320,
-        "discount": 240
-      },
-      "twName": "背飾：苦行罪靈配件",
-      "twDesc": "在你的背後附加苦行罪靈配件。"
-    },
-    {
-      "english": {
-        "name": "Sunprism Wings",
-        "description": "Adds the Sunprism Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9TdW5wcmlzbVdpbmdzIn1d/8be21ce5f9/SunprismWings.png",
-      "link": "https://www.pathofexile.com/shop/item/SunprismWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 320,
-        "discount": 240
-      },
-      "twName": "背飾：烈陽稜石之翼",
-      "twDesc": "在你的背後附加烈陽稜石之翼。"
-    },
-    {
-      "english": {
-        "name": "Sunrise Wings",
-        "description": "Adds the Sunrise Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9TdW5yaXNlV2luZ3MifV0/7bb94dfd82/SunriseWings.png",
-      "link": "https://www.pathofexile.com/shop/item/SunriseWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 320,
-        "discount": 240
-      },
-      "twName": "背飾：輝蘊朝陽之翼",
-      "twDesc": "在你的背後附加輝蘊朝陽之翼。"
-    },
-    {
-      "english": {
-        "name": "Witchhunter Crossbow Skin",
-        "description": "Replaces the appearance of a crossbow with the Witchhunter Crossbow."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvV2l0Y2hodW50ZXJDcm9zc2JvdyIsInJlYWxtIjoicG9lMiJ9XQ/8b4f7bde82/WitchhunterCrossbow.webp",
-      "link": "https://pathofexile2.com/shop/item/witchhunter-crossbow-skin",
-      "source": "poe2_variant",
-      "kind": "discount",
-      "price": {
-        "original": 100,
-        "discount": 75
-      },
-      "specialEnd": "2026-10-20T00:00:00+00:00",
-      "twName": "十字弓外觀：女巫獵人",
-      "twDesc": "將你的十字弓外觀替換為女巫獵人十字弓。"
-    },
-    {
-      "english": {
-        "name": "Dark Fae Wings",
-        "description": "Adds the Dark Fae Wings to your body armour. Sacred wisps beckon you towards portals, waypoints, area transitions and unique items on the ground."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvQmxhY2tGYWVMZWFmV2luZ3MiLCJyZWFsbSI6InBvZTIifV0/f29731dbd5/BlackFaeLeafWings.webp",
-      "link": "https://pathofexile2.com/shop/item/dark-fae-wings",
-      "source": "poe2_variant",
-      "kind": "discount",
-      "price": {
-        "original": 310,
-        "discount": 235
-      },
-      "specialEnd": "2026-10-20T00:00:00+00:00",
-      "twName": "幽暗妖精羽翼",
-      "twDesc": "在你的背後附加一個幽暗妖精羽翼。聖潔妖精會呼喚你前往傳送門、傳送點、區域傳送門和地上的傳奇物品。"
-    },
-    {
-      "english": {
-        "name": "Glimmersprite Wings",
-        "description": "Adds the Glimmersprite Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9HbGltbWVyc3ByaXRlV2luZ3MifV0/15839f5616/GlimmerspriteWings.png",
-      "link": "https://www.pathofexile.com/shop/item/GlimmerspriteWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 310,
-        "discount": 235
-      },
-      "twName": "背飾：微熠魂靈之翼",
-      "twDesc": "在你的背後附加微熠魂靈之翼。"
-    },
-    {
-      "english": {
-        "name": "Autumn Fae Wings",
-        "description": "Adds the Autumn Fae Wings to your body armour. Sacred wisps beckon you towards portals, waypoints, area transitions and unique items on the ground."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvUmVkRmFlTGVhZldpbmdzIiwicmVhbG0iOiJwb2UyIn1d/b65c0247f8/RedFaeLeafWings.webp",
-      "link": "https://pathofexile2.com/shop/item/autumn-fae-wings",
-      "source": "poe2_variant",
-      "kind": "discount",
-      "price": {
-        "original": 290,
-        "discount": 220
-      },
-      "specialEnd": "2026-10-20T00:00:00+00:00",
-      "twName": "秋日妖精羽翼",
-      "twDesc": "在你的背後附加一個秋日妖精羽翼。聖潔妖精會呼喚你前往傳送門、傳送點、區域傳送門和地上的傳奇物品。"
-    },
-    {
-      "english": {
-        "name": "Pale Arbiter of Ash Wings",
-        "description": "Adds the Pale Arbiter of Ash Wings to your character."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvUGFsZUFyYml0ZXJvZkFzaFdpbmdzIiwicmVhbG0iOiJwb2UyIn1d/179b951f21/PaleArbiterofAshWings.webp",
-      "link": "https://pathofexile2.com/shop/item/pale-arbiter-of-ash-wings",
-      "source": "poe2_variant",
-      "kind": "discount",
-      "price": {
-        "original": 190,
-        "discount": 145
-      },
-      "specialEnd": "2026-10-20T00:00:00+00:00",
-      "twName": "背飾：蒼白灰燼仲裁者之翼",
-      "twDesc": "為你的角色添加蒼白灰燼仲裁者之翼。"
-    },
-    {
-      "english": {
-        "name": "Arachnamagus Cloak",
-        "description": "Adds the Arachnamagus Cloak to your body armour. Shoots a golden web when you are stationary that scuttling spiders make home."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvQXJhY2huYW1hZ3VzQmFja0F0dGFjaG1lbnQiLCJyZWFsbSI6InBvZTIifV0/18939aa8c3/ArachnamagusBackAttachment.webp",
-      "link": "https://pathofexile2.com/shop/item/arachnamagus-cloak",
-      "source": "poe2_normal",
-      "kind": "discount",
-      "price": {
-        "original": 360,
-        "discount": 275
-      },
-      "specialEnd": "2026-10-20T00:00:00+00:00",
-      "twName": "背飾：巨蛛披風",
-      "twDesc": "在你的背後附加巨蛛披風。你靜止時會射出金色蜘蛛網編織蜘蛛的家。"
-    },
-    {
-      "english": {
-        "name": "Arbiter of Ash Wings",
-        "description": "Adds the Arbiter of Ash Wings to your character."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvQXJiaXRlcm9mQXNoV2luZ3MiLCJyZWFsbSI6InBvZTIifV0/642fb97d1f/ArbiterofAshWings.webp",
-      "link": "https://pathofexile2.com/shop/item/arbiter-of-ash-wings",
-      "source": "poe2_variant",
-      "kind": "discount",
-      "price": {
-        "original": 170,
-        "discount": 130
-      },
-      "specialEnd": "2026-10-20T00:00:00+00:00",
-      "twName": "背飾：灰燼仲裁者之翼",
-      "twDesc": "為你的角色添加灰燼仲裁者之翼。"
-    },
-    {
-      "english": {
-        "name": "Infernal Stormborne Back Attachment",
-        "description": "Adds the Infernal Stormborne Back Attachment to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvSW5mZXJuYWxTdG9ybWJvcm5lQmFja0F0dGFjaG1lbnQiLCJyZWFsbSI6InBvZTIifV0/ae27b6b3d2/InfernalStormborneBackAttachment.webp",
-      "link": "https://pathofexile2.com/shop/item/infernal-stormborne-back-attachment",
-      "source": "poe2_variant",
-      "kind": "discount",
-      "price": {
-        "original": 85,
+        "original": 110,
         "discount": 65
-      },
-      "specialEnd": "2026-10-20T00:00:00+00:00",
-      "twName": "背飾：煉獄起源風暴",
-      "twDesc": "在你的背後附加煉獄起源風暴背飾。"
+      }
     },
     {
       "english": {
-        "name": "Fractured Nightmare Back Attachment",
-        "description": "Adds the Fractured Nightmare Back Attachment to your body armour."
+        "name": "Seraph Bow",
+        "description": "Replaces the appearance of a bow with the Seraph Bow."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvRnJhY3R1cmVkTmlnaHRtYXJlQmFja0F0dGFjaG1lbnQiLCJyZWFsbSI6InBvZTIifV0/e67fb95f60/FracturedNightmareBackAttachment.webp",
-      "link": "https://pathofexile2.com/shop/item/fractured-nightmare-back-attachment",
-      "source": "poe2_variant",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vc2VyYXBoYm93In1d/3ef4499106/seraphbow.png",
+      "link": "https://www.pathofexile.com/shop/item/SeraphBow",
+      "source": "poe1",
       "kind": "discount",
       "price": {
         "original": 150,
-        "discount": 115
+        "discount": 90
       },
-      "specialEnd": "2026-10-20T00:00:00+00:00",
-      "twName": "背飾：破裂夢魘",
-      "twDesc": "在你的背後附加破裂夢魘背飾。"
+      "twName": "武器外觀：聖權戰弓",
+      "twDesc": " 將你的弓箭外觀替換為聖權戰弓。"
     },
     {
       "english": {
-        "name": "Silver Marionette Back Attachment",
-        "description": "Adds the Silver Marionette Back Attachment to any equipped body armour."
+        "name": "Seraph Wings",
+        "description": "Adds the ornate Seraph Wings to your body armour."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvTWFyaW9uZXR0ZXNSZXZlbmdlQmFja0F0dGFjaG1lbnQiLCJyZWFsbSI6InBvZTIifV0/585c2faaac/MarionettesRevengeBackAttachment.webp",
-      "link": "https://pathofexile2.com/shop/item/silver-marionette-back-attachment",
-      "source": "poe2_variant",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9TZXJhcGhXaW5nIn1d/5937228081/SeraphWing.png",
+      "link": "https://www.pathofexile.com/shop/item/SeraphWings",
+      "source": "poe1",
       "kind": "discount",
       "price": {
-        "original": 130,
+        "original": 300,
+        "discount": 185
+      },
+      "twName": "背飾：聖權神使",
+      "twDesc": "在你的背後附加一對聖潔天使之翼。"
+    },
+    {
+      "english": {
+        "name": "Gorgon Portal Effect",
+        "description": "Replaces the standard effect on portals you create with the Gorgon Portal Effect."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Qb3J0YWxzL0dvcmdvblBvcnRhbEVmZmVjdCJ9XQ/d16a6b6836/GorgonPortalEffect.png",
+      "link": "https://www.pathofexile.com/shop/item/GorgonPortalEffect",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 150,
         "discount": 100
       },
-      "specialEnd": "2026-10-20T00:00:00+00:00",
-      "twName": "背飾：白銀縫偶",
-      "twDesc": "在你的背後附加白銀縫偶背飾。"
+      "twName": "時空之門．石化毒蛇",
+      "twDesc": "將你所開啟的傳送門替換為石化毒蛇的時空之門。"
     },
     {
       "english": {
-        "name": "Thunderous Stormborne Back Attachment",
-        "description": "Adds the Thunderous Stormborne Back Attachment to your body armour."
+        "name": "Scarab Shield",
+        "description": "Replaces the appearance of a shield with the Scarab Shield."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvVGh1bmRlcm91c1N0b3JtYm9ybmVCYWNrQXR0YWNobWVudCIsInJlYWxtIjoicG9lMiJ9XQ/8d1656f8c5/ThunderousStormborneBackAttachment.webp",
-      "link": "https://pathofexile2.com/shop/item/thunderous-stormborne-back-attachment",
-      "source": "poe2_variant",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TaGllbGRzL1NjYXJhYlNoaWVsZCJ9XQ/19042a91a4/ScarabShield.png",
+      "link": "https://www.pathofexile.com/shop/item/ScarabShield",
+      "source": "poe1",
       "kind": "discount",
       "price": {
-        "original": 90,
-        "discount": 70
+        "original": 170,
+        "discount": 115
       },
-      "specialEnd": "2026-10-20T00:00:00+00:00",
-      "twName": "背飾：雷湧起源風暴",
-      "twDesc": "在你的背後附加雷湧起源風暴背飾。"
+      "twName": "護盾外觀：聖甲蟲",
+      "twDesc": "將你的護盾外觀替換為聖甲蟲。"
     },
     {
       "english": {
-        "name": "Fractured Dreamer Back Attachment",
-        "description": "Adds the Fractured Dreamer Back Attachment to your body armour."
+        "name": "Titan Weapon",
+        "description": "Replaces the appearance of any equipped Sword, Axe, Mace or Staff to the Titan Weapon."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvRnJhY3R1cmVkRHJlYW1lckJhY2tBdHRhY2htZW50IiwicmVhbG0iOiJwb2UyIn1d/3c1d16bd11/FracturedDreamerBackAttachment.webp",
-      "link": "https://pathofexile2.com/shop/item/fractured-dreamer-back-attachment",
-      "source": "poe2_variant",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vVGl0YW5XZWFwb24ifV0/cf251245f7/TitanWeapon.png",
+      "link": "https://www.pathofexile.com/shop/item/TitanWeapon",
+      "source": "poe1",
       "kind": "discount",
       "price": {
-        "original": 165,
+        "original": 170,
+        "discount": 115
+      },
+      "twName": "武器外觀：泰坦巨劍",
+      "twDesc": "將你的劍、斧、錘或長杖外觀替換為泰坦巨劍。"
+    },
+    {
+      "english": {
+        "name": "Golden Angel Portal Effect",
+        "description": "Replaces the standard effect on portals you create with the Golden Angel Portal Effect."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Qb3J0YWxzL0dvbGRlbkFuZ2VsUG9ydGFsIn1d/c99f5a297d/GoldenAngelPortal.png",
+      "link": "https://www.pathofexile.com/shop/item/GoldenAngelPortalEffect",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 150,
+        "discount": 105
+      },
+      "twName": "時空之門．紅門金使",
+      "twDesc": "將你所開啟傳送門替換為紅門金使的時空之門。"
+    },
+    {
+      "english": {
+        "name": "Seraph Portal Effect",
+        "description": "Replaces the standard effect on portals you create with the Seraph Portal Effect."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Qb3J0YWxzL1NlcmFwaFBvcnRhbCJ9XQ/9c8a260bf2/SeraphPortal.png",
+      "link": "https://www.pathofexile.com/shop/item/SeraphPortalEffect",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 150,
+        "discount": 105
+      },
+      "twName": "時空之門．聖權神使",
+      "twDesc": "將你所開啟傳送門替換為聖權神使的時空之門。"
+    },
+    {
+      "english": {
+        "name": "Coliseum Armour Pack",
+        "description": "Contains the Coliseum Body Armour, Helmet, Boots and Gloves armour skins (at a discounted price)."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Bcm1vdXJTZXQvQ29saXNldW1Bcm1vdXIifV0/0ca5e118b5/ColiseumArmour.png",
+      "link": "https://www.pathofexile.com/shop/item/ColiseumArmourPack",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 420,
+        "discount": 295
+      },
+      "twName": "競技鬥服組合包",
+      "twDesc": "包含了身體外觀：競技鬥服、頭部外觀：競技鬥服、腳部外觀：競技鬥服以及手部外觀：競技鬥服（這是優惠組合）。"
+    },
+    {
+      "english": {
+        "name": "Gorgon Armour Pack",
+        "description": "Contains the Gorgon Body Armour, Helmet, Helmet Attachment, Boots and Gloves armour skins (at a discounted price)."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Bcm1vdXJTZXQvR29yZ29uQXJtb3VyIn1d/40f25770f7/GorgonArmour.png",
+      "link": "https://www.pathofexile.com/shop/item/GorgonArmourPack",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 420,
+        "discount": 295
+      },
+      "twName": "石化毒蛇組合包",
+      "twDesc": "包含了身體外觀：石化毒蛇、頭部外觀：石化毒蛇、頭部特效：石化毒蛇首飾、腳部外觀：石化毒蛇以及手部外觀：石化毒蛇（這是優惠組合）。"
+    },
+    {
+      "english": {
+        "name": "Gryffon Armour Pack",
+        "description": "Contains the Gryffon Body Armour, Helmet, Boots and Gloves armour skins (at a discounted price)."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Bcm1vdXJTZXQvR3J5ZmZvbkFybW91ciJ9XQ/b2569448d2/GryffonArmour.png",
+      "link": "https://www.pathofexile.com/shop/item/GryffonArmourPack",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 420,
+        "discount": 295
+      },
+      "twName": "傲氣獅鷲組合包",
+      "twDesc": "包含了身體外觀：傲氣獅鷲、頭部外觀：傲氣獅鷲、腳部外觀：傲氣獅鷲以及手部外觀：傲氣獅鷲（這是優惠組合）。"
+    },
+    {
+      "english": {
+        "name": "Harpyon Armour Pack",
+        "description": "Contains the Harpyon Body Armour, Helmet, Boots and Gloves armour skins (at a discounted price)."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Bcm1vdXJTZXQvSGFycHlvbkFybW91ciJ9XQ/0b1f2c12fb/HarpyonArmour.png",
+      "link": "https://www.pathofexile.com/shop/item/HarpyonArmourPack",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 420,
+        "discount": 295
+      },
+      "twName": "羽妖珍獸組合包",
+      "twDesc": "包含了身體外觀：羽妖珍獸、頭部外觀：羽妖珍獸、腳部外觀：羽妖珍獸以及手部外觀：羽妖珍獸（這是優惠組合）。"
+    },
+    {
+      "english": {
+        "name": "Sphinx Armour Pack",
+        "description": "Contains the Sphinx Body Armour, Helmet, Boots and Gloves armour skins (at a discounted price)."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Bcm1vdXJTZXQvU3BoaW54QXJtb3VyIn1d/7337a248ea/SphinxArmour.png",
+      "link": "https://www.pathofexile.com/shop/item/SphinxArmourPack",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 420,
+        "discount": 295
+      },
+      "twName": "獅身人面組合包",
+      "twDesc": "包含了身體外觀：獅身人面、頭部外觀：獅身人面、腳部外觀：獅身人面以及手部外觀：獅身人面（這是優惠組合）。"
+    },
+    {
+      "english": {
+        "name": "Champion's Hideout",
+        "description": "Adds the Champion's Hideout to your account."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9DaGFtcGlvbnNIaWRlb3V0In1d/9f3f12cc8a/ChampionsHideout.png",
+      "link": "https://www.pathofexile.com/shop/item/ChampionsHideout",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 180,
         "discount": 130
       },
-      "specialEnd": "2026-10-20T00:00:00+00:00",
-      "twName": "背飾：破裂幻夢者",
-      "twDesc": "在你的背後附加破裂幻夢者背飾。"
+      "twName": "藏身處：冠軍殿堂",
+      "twDesc": "新增藏身處：冠軍殿堂至你的帳號。"
     },
     {
       "english": {
-        "name": "Ethercraft Back Attachment Pack",
-        "description": "Contains the Savage, Enraged, Tranquil and Chaotic Ethercraft Back Attachments."
+        "name": "Champion's Hideout (Guild)",
+        "description": "Adds the Champion's Hideout to your Guild."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9FdGhlcmNyYWZ0QmFja0F0dGFjaG1lbnRQYWNrIn1d/740d3feddb/EthercraftBackAttachmentPack.png",
-      "link": "https://www.pathofexile.com/shop/item/EthercraftBackAttachmentPack",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9DaGFtcGlvbnNIaWRlb3V0In1d/9f3f12cc8a/ChampionsHideout.png",
+      "link": "https://www.pathofexile.com/shop/item/ChampionsHideoutGuild",
       "source": "poe1",
       "kind": "discount",
       "price": {
-        "original": 690,
-        "discount": 580
+        "original": 180,
+        "discount": 130
       },
-      "twName": "乙太工藝背飾組合包",
-      "twDesc": "包含了背飾：混沌．乙太工藝、鎮靜．乙太工藝、狂怒．乙太工藝和殘暴．乙太工藝。"
+      "twName": "藏身處：冠軍殿堂 (公會)",
+      "twDesc": "為你的公會增添此藏身處。"
     },
     {
       "english": {
-        "name": "Necrolord Wings Bundle",
-        "description": "Contains the Stygian, Celestial, Automaton and default Necrolord Wings (at a discounted price)."
+        "name": "Seraph Grace Wings",
+        "description": "Adds the Seraph Grace Wings to your body armour."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9OZWNyb2xvcmRXaW5nc0J1bmRsZSJ9XQ/ae31270242/NecrolordWingsBundle.png",
-      "link": "https://www.pathofexile.com/shop/item/NecrolordWingsBundle",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9TZXJhcGhHcmFjZVdpbmdzIn1d/eba7aac58d/SeraphGraceWings.png",
+      "link": "https://www.pathofexile.com/shop/item/SeraphGraceWings",
       "source": "poe1",
       "kind": "discount",
       "price": {
-        "original": 690,
-        "discount": 580
+        "original": 320,
+        "discount": 235
       },
-      "twName": "亡魂領主之翼組合包",
-      "twDesc": "包含了背飾：亡魂領主、亡魂領主．冥河、亡魂領主．眾星、亡魂領主．機甲、亡魂領主．黎明之翼組合包（這是優惠組合）。"
-    },
-    {
-      "english": {
-        "name": "Necrolord Cloak Bundle",
-        "description": "Contains the Stygian, Celestial, Automaton and default Necrolord Cloaks (at a discounted price)."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9OZWNyb2xvcmRDbG9ha0J1bmRsZSJ9XQ/97b82d57b0/NecrolordCloakBundle.png",
-      "link": "https://www.pathofexile.com/shop/item/NecrolordCloakBundle",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 530,
-        "discount": 450
-      },
-      "twName": "亡魂領主披風包",
-      "twDesc": "包含了背飾：亡魂領主、亡魂領主．冥河、亡魂領主．眾星、亡魂領主．機甲、亡魂領主．黎明披風組合包（這是優惠組合）。"
+      "twName": "背飾：典雅聖權羽翼",
+      "twDesc": "在你的背後附加一個典雅聖權羽翼。"
     },
     {
       "english": {
@@ -2529,6 +895,22 @@
     },
     {
       "english": {
+        "name": "Bronze Marionette Back Attachment",
+        "description": "Adds the Bronze Marionette Back Attachment to any equipped body armour."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvUG9yY2VsYWluTWFyaW9uZXR0ZXNSZXZlbmdlQmFja0F0dGFjaG1lbnQiLCJyZWFsbSI6InBvZTIifV0/c8f2d7d14e/PorcelainMarionettesRevengeBackAttachment.webp",
+      "link": "https://pathofexile2.com/shop/item/bronze-marionette-back-attachment",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 120,
+        "discount": 120
+      },
+      "twName": "背飾：黃銅縫偶",
+      "twDesc": "在你的背後附加黃銅縫偶背飾。"
+    },
+    {
+      "english": {
         "name": "Bronze Marionette Character Skin",
         "description": "Replaces the appearance of your character skin with the bronze marionette character skin."
       },
@@ -2670,6 +1052,22 @@
       },
       "twName": "混沌起源風暴組合包",
       "twDesc": "包含混沌起源風暴頭盔、鞋靴、手套和身體護甲（這是優惠組合）。"
+    },
+    {
+      "english": {
+        "name": "Chaotic Stormborne Back Attachment",
+        "description": "Adds the Chaotic Stormborne Back Attachment to your body armour."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvQ2hhb3RpY1N0b3JtYm9ybmVCYWNrQXR0YWNobWVudCIsInJlYWxtIjoicG9lMiJ9XQ/cf090b06a8/ChaoticStormborneBackAttachment.webp",
+      "link": "https://pathofexile2.com/shop/item/chaotic-stormborne-back-attachment",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 95,
+        "discount": 95
+      },
+      "twName": "背飾：混沌起源風暴",
+      "twDesc": "在你的背後附加混沌起源風暴背飾。"
     },
     {
       "english": {
@@ -2929,6 +1327,22 @@
     },
     {
       "english": {
+        "name": "Frigid Stormborne Back Attachment",
+        "description": "Adds the Frigid Stormborne Back Attachment to your body armour."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvRnJpZ2lkU3Rvcm1ib3JuZUJhY2tBdHRhY2htZW50IiwicmVhbG0iOiJwb2UyIn1d/d1ccfa5625/FrigidStormborneBackAttachment.webp",
+      "link": "https://pathofexile2.com/shop/item/frigid-stormborne-back-attachment",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 80,
+        "discount": 80
+      },
+      "twName": "背飾：霜寒起源風暴",
+      "twDesc": "在你的背後附加霜寒起源風暴背飾。"
+    },
+    {
+      "english": {
         "name": "Ghost Dog Pet",
         "description": "This ghostly good boy will gallop alongside you on your journeys."
       },
@@ -2990,6 +1404,22 @@
       },
       "twName": "煉獄起源風暴組合包",
       "twDesc": "包含煉獄起源風暴頭盔、鞋靴、手套和身體護甲（這是優惠組合）。"
+    },
+    {
+      "english": {
+        "name": "Infernal Stormborne Back Attachment",
+        "description": "Adds the Infernal Stormborne Back Attachment to your body armour."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvSW5mZXJuYWxTdG9ybWJvcm5lQmFja0F0dGFjaG1lbnQiLCJyZWFsbSI6InBvZTIifV0/ae27b6b3d2/InfernalStormborneBackAttachment.webp",
+      "link": "https://pathofexile2.com/shop/item/infernal-stormborne-back-attachment",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 85,
+        "discount": 85
+      },
+      "twName": "背飾：煉獄起源風暴",
+      "twDesc": "在你的背後附加煉獄起源風暴背飾。"
     },
     {
       "english": {
@@ -3867,6 +2297,22 @@
     },
     {
       "english": {
+        "name": "Silver Marionette Back Attachment",
+        "description": "Adds the Silver Marionette Back Attachment to any equipped body armour."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvTWFyaW9uZXR0ZXNSZXZlbmdlQmFja0F0dGFjaG1lbnQiLCJyZWFsbSI6InBvZTIifV0/585c2faaac/MarionettesRevengeBackAttachment.webp",
+      "link": "https://pathofexile2.com/shop/item/silver-marionette-back-attachment",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 130,
+        "discount": 130
+      },
+      "twName": "背飾：白銀縫偶",
+      "twDesc": "在你的背後附加白銀縫偶背飾。"
+    },
+    {
+      "english": {
         "name": "Silver Marionette Character Skin",
         "description": "Replaces the appearance of your character skin with the silver marionette character skin."
       },
@@ -4491,6 +2937,22 @@
     },
     {
       "english": {
+        "name": "Thunderous Stormborne Back Attachment",
+        "description": "Adds the Thunderous Stormborne Back Attachment to your body armour."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvVGh1bmRlcm91c1N0b3JtYm9ybmVCYWNrQXR0YWNobWVudCIsInJlYWxtIjoicG9lMiJ9XQ/8d1656f8c5/ThunderousStormborneBackAttachment.webp",
+      "link": "https://pathofexile2.com/shop/item/thunderous-stormborne-back-attachment",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 90,
+        "discount": 90
+      },
+      "twName": "背飾：雷湧起源風暴",
+      "twDesc": "在你的背後附加雷湧起源風暴背飾。"
+    },
+    {
+      "english": {
         "name": "Toad Idol of Alchemy Hideout Decoration",
         "description": "Creates an object in your hideout. Tracks how many Orbs of Alchemy you have used."
       },
@@ -5112,765 +3574,6 @@
       },
       "twName": "升級特效．鳳凰展翅",
       "twDesc": "在你升級時增添一個鳳凰展翅效果。火焰翅膀效果會在當前區域內持續保持在角色上。"
-    },
-    {
-      "english": {
-        "name": "Sulphurous Gargoyle Wings",
-        "description": "The Sulphurous Gargoyle Wings make you move like a real bat out of hell, leaving a wide trail behind you while you have an active speed boosting buff."
-      },
-      "link": "https://www.pathofexile.com/shop/item/SulphurousGargoyleWings",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9TdWxwaHVyb3VzR2FyZ295bGVXaW5ncyJ9XQ/56d4d81851/SulphurousGargoyleWings.png",
-      "source": "poe1",
-      "price": {
-        "discount": 245,
-        "original": 320
-      }
-    },
-    {
-      "english": {
-        "name": "Pitch-black Gargoyle Wings",
-        "description": "The Pitch-black Gargoyle Wings make you move like a real bat out of hell, leaving a wide trail behind you while you have an active speed boosting buff."
-      },
-      "link": "https://www.pathofexile.com/shop/item/PitchblackGargoyleWings",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9QaXRjaEJsYWNrR2FyZ295bGVXaW5ncyJ9XQ/d0439e73a1/PitchBlackGargoyleWings.png",
-      "source": "poe1",
-      "price": {
-        "discount": 255,
-        "original": 335
-      }
-    },
-    {
-      "english": {
-        "name": "Alabaster Gargoyle Wings",
-        "description": "The Alabaster Gargoyle Wings make you move like a real bat out of hell, leaving a wide trail behind you while you have an active speed boosting buff."
-      },
-      "link": "https://www.pathofexile.com/shop/item/AlabasterGargoyleWings",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9BbGFiYXN0ZXJHYXJnb3lsZVdpbmdzIn1d/23973c5877/AlabasterGargoyleWings.png",
-      "source": "poe1",
-      "price": {
-        "discount": 260,
-        "original": 340
-      }
-    },
-    {
-      "english": {
-        "name": "Stygian Gargoyle Wings",
-        "description": "The Stygian Gargoyle Wings make you move like a real bat out of hell, leaving a wide trail behind you while you have an active speed boosting buff."
-      },
-      "link": "https://www.pathofexile.com/shop/item/StygianGargoyleWings",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9TdHlnaWFuR2FyZ295bGVXaW5ncyJ9XQ/d4505def5e/StygianGargoyleWings.png",
-      "source": "poe1",
-      "price": {
-        "discount": 265,
-        "original": 350
-      }
-    },
-    {
-      "english": {
-        "name": "Nethermancer Cloak",
-        "description": "Adds the Nethermancer Cloak to your body armour."
-      },
-      "link": "https://www.pathofexile.com/shop/item/NethermancerCloak",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9OZXRoZXJtYW5jZXJDbG9hayJ9XQ/28d82ba142/NethermancerCloak.png",
-      "source": "poe1",
-      "price": {
-        "discount": 190,
-        "original": 250
-      }
-    },
-    {
-      "english": {
-        "name": "Cerulean Crustacean Back Attachment",
-        "description": "Adds the Cerulean Crustacean Back Attachment to your body armour."
-      },
-      "link": "https://pathofexile2.com/shop/item/cerulean-crustacean-back-attachment",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9DZXJ1bGVhbkNyYWJCYWNrQXR0YWNobWVudCIsInJlYWxtIjoicG9lMiJ9XQ/cb612cb659/CeruleanCrabBackAttachment.webp",
-      "source": "poe2_variant",
-      "price": {
-        "discount": 190,
-        "original": 250
-      },
-      "twName": "背飾：天藍甲蟹之翼",
-      "twDesc": "在你的背後附加背飾：天藍甲蟹。"
-    },
-    {
-      "english": {
-        "name": "Coral Crustacean Back Attachment",
-        "description": "Adds the Coral Crustacean Back Attachment to your body armour."
-      },
-      "link": "https://pathofexile2.com/shop/item/coral-crustacean-back-attachment",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9Db3JhbENyYWJCYWNrQXR0YWNobWVudCIsInJlYWxtIjoicG9lMiJ9XQ/a841b33307/CoralCrabBackAttachment.webp",
-      "source": "poe2_variant",
-      "price": {
-        "discount": 195,
-        "original": 260
-      },
-      "twName": "背飾：珊瑚甲蟹",
-      "twDesc": "在你的背後附加背飾：珊瑚甲蟹。"
-    },
-    {
-      "english": {
-        "name": "Metal Lute Back Attachment",
-        "description": "Adds the Metal Lute Back Attachment to your body armour. Use your flasks to play the lute!"
-      },
-      "link": "https://pathofexile2.com/shop/item/metal-lute-back-attachment",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9NZXRhbEx1dGVCYWNrQXR0YWNobWVudCIsInJlYWxtIjoicG9lMiJ9XQ/d6712ada00/MetalLuteBackAttachment.webp",
-      "source": "poe2_variant",
-      "price": {
-        "discount": 170,
-        "original": 230
-      },
-      "twName": "背飾：金屬魯特琴",
-      "twDesc": "在你的背後附加金屬魯特琴背飾。使用藥劑來彈奏魯特琴！"
-    },
-    {
-      "english": {
-        "name": "Black Lute Back Attachment",
-        "description": "Adds the Black Lute Back Attachment to your body armour. Use your flasks to play the lute!"
-      },
-      "link": "https://pathofexile2.com/shop/item/black-lute-back-attachment",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9CbGFja0x1dGVCYWNrQXR0YWNobWVudCIsInJlYWxtIjoicG9lMiJ9XQ/63a1e392a3/BlackLuteBackAttachment.webp",
-      "source": "poe2_variant",
-      "price": {
-        "discount": 165,
-        "original": 225
-      },
-      "twName": "背飾：黑色魯特琴",
-      "twDesc": "在你的背後附加黑色魯特琴背飾。使用藥劑來彈奏魯特琴！"
-    },
-    {
-      "english": {
-        "name": "Lute Back Attachment",
-        "description": "Adds the Lute Back Attachment to your body armour. Use your flasks to play the lute!"
-      },
-      "link": "https://pathofexile2.com/shop/item/lute-back-attachment",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9MdXRlQmFja0F0dGFjaG1lbnQiLCJyZWFsbSI6InBvZTIifV0/38a275b91b/LuteBackAttachment.webp",
-      "source": "poe2_variant",
-      "price": {
-        "discount": 160,
-        "original": 220
-      },
-      "twName": "背飾：魯特琴",
-      "twDesc": "在你的背後附加魯特琴背飾。使用藥劑來彈奏魯特琴！"
-    },
-    {
-      "english": {
-        "name": "Scourge Commander Back Attachment",
-        "description": "Adds the Scourge Commander Back Attachment to your body armour."
-      },
-      "link": "https://www.pathofexile.com/shop/item/ScourgeCommanderBackAttachment",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9Cb25lTGVnaW9uQ29tbWFuZGVyQmFja0F0dGFjaG1lbnQifV0/c1f8cef53e/BoneLegionCommanderBackAttachment.png",
-      "source": "poe1",
-      "price": {
-        "discount": 160,
-        "original": 210
-      }
-    },
-    {
-      "english": {
-        "name": "Legion Commander Back Attachment",
-        "description": "Adds the Legion Commander Back Attachment to your body armour."
-      },
-      "link": "https://www.pathofexile.com/shop/item/LegionCommanderBackAttachment",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9MZWdpb25Db21tYW5kZXJCYWNrQXR0YWNobWVudCJ9XQ/08e22f368a/LegionCommanderBackAttachment.png",
-      "source": "poe1",
-      "price": {
-        "discount": 165,
-        "original": 220
-      }
-    },
-    {
-      "english": {
-        "name": "Botanist's Powerful Back Attachment",
-        "description": "Adds the Botanist's Powerful Back Attachment to your body armour. Power Charges attach to a tree that just so happens to be growing out of your back."
-      },
-      "link": "https://www.pathofexile.com/shop/item/BotanistsPowerfulBackAttachment",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9Qb3dlcmZ1bFRyZWVCYWNrQXR0YWNobWVudCJ9XQ/4cb0845e6d/PowerfulTreeBackAttachment.png",
-      "source": "poe1",
-      "price": {
-        "discount": 155,
-        "original": 205
-      }
-    },
-    {
-      "english": {
-        "name": "Botanist's Frenzied Back Attachment",
-        "description": "Adds the Botanist's Frenzied Back Attachment to your body armour. Frenzy Charges attach to a tree that just so happens to be growing out of your back."
-      },
-      "link": "https://www.pathofexile.com/shop/item/BotanistsFrenziedBackAttachment",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9GcmVuemllZFRyZWVCYWNrQXR0YWNobWVudCJ9XQ/ae21a46f91/FrenziedTreeBackAttachment.png",
-      "source": "poe1",
-      "price": {
-        "discount": 150,
-        "original": 195
-      }
-    },
-    {
-      "english": {
-        "name": "Botanist's Enduring Back Attachment",
-        "description": "Adds the Botanist's Enduring Back Attachment to your body armour. Endurance Charges attach to a tree that just so happens to be growing out of your back."
-      },
-      "link": "https://www.pathofexile.com/shop/item/BotanistsEnduringBackAttachment",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9FbmR1cmluZ1RyZWVCYWNrQXR0YWNobWVudCJ9XQ/f0f6e47c41/EnduringTreeBackAttachment.png",
-      "source": "poe1",
-      "price": {
-        "discount": 140,
-        "original": 190
-      }
-    },
-    {
-      "english": {
-        "name": "Ghoulhunter Back Attachment",
-        "description": "Adds the Ghoulhunter Back Attachment to your character."
-      },
-      "link": "https://pathofexile2.com/shop/item/ghoulhunter-back-attachment",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9XaGl0ZVdpdGNoaHVudGVyQmFja0F0dGFjaG1lbnQiLCJyZWFsbSI6InBvZTIifV0/8f966564eb/WhiteWitchhunterBackAttachment.webp",
-      "source": "poe2_variant",
-      "price": {
-        "discount": 95,
-        "original": 130
-      },
-      "twName": "背飾：活屍獵人",
-      "twDesc": "為你的角色添加活屍獵人背飾。"
-    },
-    {
-      "english": {
-        "name": "Witchhunter Back Attachment",
-        "description": "Adds the Witchhunter Back Attachment to your character."
-      },
-      "link": "https://pathofexile2.com/shop/item/witchhunter-back-attachment",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9XaXRjaGh1bnRlckJhY2tBdHRhY2htZW50IiwicmVhbG0iOiJwb2UyIn1d/72843ff298/WitchhunterBackAttachment.webp",
-      "source": "poe2_variant",
-      "price": {
-        "discount": 115,
-        "original": 150
-      },
-      "twName": "背飾：女巫獵人",
-      "twDesc": "為你的角色添加女巫獵人背飾。"
-    },
-    {
-      "english": {
-        "name": "Goblin Witchdoctor Back Attachment",
-        "description": "Adds the Goblin Witchdoctor Back Attachment to your body armour."
-      },
-      "link": "https://pathofexile2.com/shop/item/goblin-witchdoctor-back-attachment",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9Hb2JsaW5XaXRjaERvY3RvckJhY2tBdHRhY2htZW50IiwicmVhbG0iOiJwb2UyIn1d/6f3331c443/GoblinWitchDoctorBackAttachment.webp",
-      "source": "poe2_variant",
-      "price": {
-        "discount": 85,
-        "original": 110
-      },
-      "twName": "背飾：哥布林巫醫",
-      "twDesc": "在你的背後附加哥布林巫醫背飾。"
-    },
-    {
-      "english": {
-        "name": "Goblin Shaman Back Attachment",
-        "description": "Adds the Goblin Shaman Back Attachment to your body armour."
-      },
-      "link": "https://pathofexile2.com/shop/item/goblin-shaman-back-attachment",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9Hb2JsaW5TaGFtYW5CYWNrQXR0YWNobWVudCIsInJlYWxtIjoicG9lMiJ9XQ/814f793e0e/GoblinShamanBackAttachment.webp",
-      "source": "poe2_variant",
-      "price": {
-        "discount": 80,
-        "original": 100
-      },
-      "twName": "背飾：哥布林薩滿",
-      "twDesc": "在你的背後附加哥布林薩滿背飾。"
-    },
-    {
-      "english": {
-        "name": "Onyx Oblivion Wings",
-        "description": "Adds the Onyx Oblivion Wings to your body armour."
-      },
-      "link": "https://www.pathofexile.com/shop/item/OnyxOblivionWings",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9Pbnl4T2JsaXZpb25XaW5ncyJ9XQ/2e791ee35a/OnyxOblivionWings.png",
-      "source": "poe1",
-      "price": {
-        "discount": 230,
-        "original": 310
-      }
-    },
-    {
-      "english": {
-        "name": "Necrotic Wings",
-        "description": "Adds the Necrotic Wings to your body armour."
-      },
-      "link": "https://www.pathofexile.com/shop/item/NecroticWings",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9OZWNyb3RpY1dpbmdzIn1d/46c4e24b9b/NecroticWings.png",
-      "source": "poe1",
-      "price": {
-        "discount": 225,
-        "original": 300
-      }
-    },
-    {
-      "english": {
-        "name": "Vampiric Wings",
-        "description": "Adds the Vampiric Wings to your body armour."
-      },
-      "link": "https://www.pathofexile.com/shop/item/VampiricWings",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9WYW1waXJpY1dpbmdzIn1d/edaddf5270/VampiricWings.png",
-      "source": "poe1",
-      "price": {
-        "discount": 210,
-        "original": 320
-      }
-    },
-    {
-      "english": {
-        "name": "Myrmidon Cloak",
-        "description": "Adds the Myrmidon Cloak to your body armour."
-      },
-      "link": "https://www.pathofexile.com/shop/item/MyrmidonCloak",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9NeXJtaWRvbkNsb2FrIn1d/fa34a8a5d2/MyrmidonCloak.png",
-      "source": "poe1",
-      "price": {
-        "discount": 195,
-        "original": 260
-      }
-    },
-    {
-      "english": {
-        "name": "Vulcan Cloak",
-        "description": "Adds the Vulcan Cloak to your body armour."
-      },
-      "link": "https://www.pathofexile.com/shop/item/VulcanCloak",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9WdWxjYW5DbG9hayJ9XQ/b39be3c08a/VulcanCloak.png",
-      "source": "poe1",
-      "price": {
-        "discount": 185,
-        "original": 245
-      }
-    },
-    {
-      "english": {
-        "name": "Celestial Emperor Wings",
-        "description": "Adds the Celestial Emperor Wings to your body armour."
-      },
-      "link": "https://www.pathofexile.com/shop/item/CelestialEmperorWings",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9DZWxlc3RpYWxFbXBlcm9yV2luZ3MifV0/d689581c85/CelestialEmperorWings.png",
-      "source": "poe1",
-      "price": {
-        "discount": 185,
-        "original": 250
-      }
-    },
-    {
-      "english": {
-        "name": "Balefire Back Attachment",
-        "description": "Adds the Balefire Back Attachment to your body armour."
-      },
-      "link": "https://www.pathofexile.com/shop/item/BalefireBackAttachment",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9CYWxlZmlyZUJhY2tBdHRhY2htZW50In1d/ff97227a43/BalefireBackAttachment.png",
-      "source": "poe1",
-      "price": {
-        "discount": 170,
-        "original": 245
-      }
-    },
-    {
-      "english": {
-        "name": "Scavenger Tail Attachment",
-        "description": "Adds the Scavenger Tail Attachment to your body armour."
-      },
-      "link": "https://www.pathofexile.com/shop/item/ScavengerBackAttachment",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9TY2F2ZW5nZXJTbWFsbEJhY2tBdHRhY2htZW50In1d/9636b5cb46/ScavengerSmallBackAttachment.png",
-      "source": "poe1",
-      "price": {
-        "discount": 175,
-        "original": 230
-      }
-    },
-    {
-      "english": {
-        "name": "Overseer Cloak",
-        "description": "Adds the Overseer Cloak to your body armour."
-      },
-      "link": "https://www.pathofexile.com/shop/item/OverseerBackAttachment",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9PdmVyc2VlclNtYWxsQmFja0F0dGFjaG1lbnQifV0/e1b864320c/OverseerSmallBackAttachment.png",
-      "source": "poe1",
-      "price": {
-        "discount": 175,
-        "original": 230
-      }
-    },
-    {
-      "english": {
-        "name": "Nightfall Cloak",
-        "description": "Adds the Nightfall Cloak to your body armour."
-      },
-      "link": "https://www.pathofexile.com/shop/item/NightfallCloak",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9OaWdodGZhbGxDbG9hayJ9XQ/f87fc258de/NightfallCloak.png",
-      "source": "poe1",
-      "price": {
-        "discount": 170,
-        "original": 230
-      }
-    },
-    {
-      "english": {
-        "name": "Deepwater Back Attachment",
-        "description": "Adds the Deepwater Back Attachment to your body armour."
-      },
-      "link": "https://www.pathofexile.com/shop/item/DeepwaterSmallBackAttachment",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9EZWVwd2F0ZXJCYWNrQXR0YWNobWVudCJ9XQ/52c3739028/DeepwaterBackAttachment.png",
-      "source": "poe1",
-      "price": {
-        "discount": 170,
-        "original": 230
-      }
-    },
-    {
-      "english": {
-        "name": "Siren Cloak",
-        "description": "Adds the Siren Cloak to your body armour."
-      },
-      "link": "https://www.pathofexile.com/shop/item/SirenSmallBackAttachment",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9TaXJlbkJhY2tBdHRhY2htZW50In1d/1f78633371/SirenBackAttachment.png",
-      "source": "poe1",
-      "price": {
-        "discount": 170,
-        "original": 230
-      }
-    },
-    {
-      "english": {
-        "name": "Sunrise Cloak",
-        "description": "Adds the Sunrise Cloak to your body armour."
-      },
-      "link": "https://www.pathofexile.com/shop/item/SunriseCloak",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9TdW5yaXNlQ2xvYWsifV0/7299e8b0b7/SunriseCloak.png",
-      "source": "poe1",
-      "price": {
-        "discount": 170,
-        "original": 230
-      }
-    },
-    {
-      "english": {
-        "name": "Innocence Cloak",
-        "description": "Adds the Innocence Cloak to your body armour."
-      },
-      "link": "https://www.pathofexile.com/shop/item/InnocenceCloak",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9Jbm5vY2VuY2VDbG9hayJ9XQ/760a8ed9ca/InnocenceCloak.png",
-      "source": "poe1",
-      "price": {
-        "discount": 160,
-        "original": 230
-      }
-    },
-    {
-      "english": {
-        "name": "Sin Cloak",
-        "description": "Adds the Sin Cloak to your body armour."
-      },
-      "link": "https://www.pathofexile.com/shop/item/SinCloak",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9TaW5DbG9hayJ9XQ/a255448af2/SinCloak.png",
-      "source": "poe1",
-      "price": {
-        "discount": 160,
-        "original": 230
-      }
-    },
-    {
-      "english": {
-        "name": "Corsair Cloak",
-        "description": "Adds the Corsair Cloak to your body armour."
-      },
-      "link": "https://www.pathofexile.com/shop/item/CorsairCloak",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9Db3JzYWlyQ2xvYWsifV0/0fa7011822/CorsairCloak.png",
-      "source": "poe1",
-      "price": {
-        "discount": 160,
-        "original": 230
-      }
-    },
-    {
-      "english": {
-        "name": "Necrotic Cloak",
-        "description": "Adds the Necrotic Cloak to your body armour."
-      },
-      "link": "https://www.pathofexile.com/shop/item/NecroticCloak",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9OZWNyb3RpY0Nsb2FrIn1d/67b259c625/NecroticCloak.png",
-      "source": "poe1",
-      "price": {
-        "discount": 160,
-        "original": 230
-      }
-    },
-    {
-      "english": {
-        "name": "Seraph Banner Back Attachment",
-        "description": "Adds the Seraph Banner Back Attachment to your body armour."
-      },
-      "link": "https://www.pathofexile.com/shop/item/SeraphBannerBackAttachment",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9TZXJhcGhCYW5uZXJCYWNrQXR0YWNobWVudCJ9XQ/16c65451a4/SeraphBannerBackAttachment.png",
-      "source": "poe1",
-      "price": {
-        "discount": 160,
-        "original": 230
-      }
-    },
-    {
-      "english": {
-        "name": "Angelic Cloak",
-        "description": "Adds the Angelic Cloak to your body armour."
-      },
-      "link": "https://www.pathofexile.com/shop/item/AngelicCloak",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9BbmdlbGljQ2xvYWsifV0/e6f82f2b32/AngelicCloak.png",
-      "source": "poe1",
-      "price": {
-        "discount": 160,
-        "original": 230
-      }
-    },
-    {
-      "english": {
-        "name": "Starfall Cloak",
-        "description": "Adds the Starfall Cloak to your body armour."
-      },
-      "link": "https://www.pathofexile.com/shop/item/StarfallCloak",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9CcmlnaHRmYWxsQ2xvYWsifV0/4262f4a2ad/BrightfallCloak.png",
-      "source": "poe1",
-      "price": {
-        "discount": 170,
-        "original": 230
-      }
-    },
-    {
-      "english": {
-        "name": "Lightbringer Cloak",
-        "description": "Adds the Lightbringer Cloak to your body armour."
-      },
-      "link": "https://www.pathofexile.com/shop/item/LightbringerCloak",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9MaWdodGJyaW5nZXJDbG9hayJ9XQ/4df1a66e16/LightbringerCloak.png",
-      "source": "poe1",
-      "price": {
-        "discount": 170,
-        "original": 230
-      }
-    },
-    {
-      "english": {
-        "name": "Darkshard Cloak",
-        "description": "Adds the Darkshard Cloak to your body armour."
-      },
-      "link": "https://www.pathofexile.com/shop/item/DarkshardCloak",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9EYXJrc2hhcmRDbG9hayJ9XQ/67ecfa5dd5/DarkshardCloak.png",
-      "source": "poe1",
-      "price": {
-        "discount": 170,
-        "original": 230
-      }
-    },
-    {
-      "english": {
-        "name": "Scourgelord Back Attachment",
-        "description": "Adds the Scourgelord Back Attachment to your body armour."
-      },
-      "link": "https://www.pathofexile.com/shop/item/ScourgelordBackAttachment",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9TY291cmdlbG9yZEJhY2tBdHRhY2htZW50In1d/63edb76470/ScourgelordBackAttachment.png",
-      "source": "poe1",
-      "price": {
-        "discount": 170,
-        "original": 230
-      }
-    },
-    {
-      "english": {
-        "name": "Misery Swords Back Attachment",
-        "description": "Adds the Misery Swords Back Attachment to your body armour."
-      },
-      "link": "https://www.pathofexile.com/shop/item/MiseryCloak",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9NaXNlcnlTd29yZEJhY2tBdHRhY2htZW50In1d/81621a23bd/MiserySwordBackAttachment.png",
-      "source": "poe1",
-      "price": {
-        "discount": 160,
-        "original": 230
-      }
-    },
-    {
-      "english": {
-        "name": "Suffering Cloak",
-        "description": "Adds the Suffering Cloak to your body armour."
-      },
-      "link": "https://www.pathofexile.com/shop/item/SufferingCloak",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9TdWZmZXJpbmdTbWFsbEJhY2tBdHRhY2htZW50In1d/ca8250647f/SufferingSmallBackAttachment.png",
-      "source": "poe1",
-      "price": {
-        "discount": 160,
-        "original": 230
-      }
-    },
-    {
-      "english": {
-        "name": "Divergence Cloak",
-        "description": "Adds the Divergence Cloak to your body armour."
-      },
-      "link": "https://www.pathofexile.com/shop/item/DivergenceCloak",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9EaXZlcmdlbmNlQ2xvYWsifV0/853910d669/DivergenceCloak.png",
-      "source": "poe1",
-      "price": {
-        "discount": 170,
-        "original": 230
-      }
-    },
-    {
-      "english": {
-        "name": "Heritage Cloak",
-        "description": "Adds the Heritage Cloak to your body armour."
-      },
-      "link": "https://www.pathofexile.com/shop/item/HeritageCloak",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9IZXJpdGFnZUNsb2FrIn1d/e1530738c4/HeritageCloak.png",
-      "source": "poe1",
-      "price": {
-        "discount": 170,
-        "original": 230
-      }
-    },
-    {
-      "english": {
-        "name": "Sunprism Cloak",
-        "description": "Adds the Sunprism Cloak to your body armour."
-      },
-      "link": "https://www.pathofexile.com/shop/item/SunprismCloak",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9TdW5QcmlzbUNsb2FrIn1d/5d4f56cf95/SunPrismCloak.png",
-      "source": "poe1",
-      "price": {
-        "discount": 165,
-        "original": 220
-      }
-    },
-    {
-      "english": {
-        "name": "Illusionist Back Attachment",
-        "description": "Adds the Illusionist Back Attachment to your body armour."
-      },
-      "link": "https://www.pathofexile.com/shop/item/IllusionistBackAttachment",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9JbGx1c2lvbmlzdEJhY2tBdHRhY2htZW50In1d/996313311b/IllusionistBackAttachment.png",
-      "source": "poe1",
-      "price": {
-        "discount": 150,
-        "original": 210
-      }
-    },
-    {
-      "english": {
-        "name": "Dreadspire Cloak",
-        "description": "Adds the Dreadspire Cloak to your body armour."
-      },
-      "link": "https://www.pathofexile.com/shop/item/DreadspireCloak",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9EcmVhZHNwaXJlQ2xvYWsifV0/d13c44f0c8/DreadspireCloak.png",
-      "source": "poe1",
-      "price": {
-        "discount": 150,
-        "original": 210
-      }
-    },
-    {
-      "english": {
-        "name": "Arcane Cloak",
-        "description": "Adds the Arcane Cloak to your body armour."
-      },
-      "link": "https://www.pathofexile.com/shop/item/ArcaneCloak",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9BcmNhbmVDbG9hayJ9XQ/44506d481c/ArcaneCloak.png",
-      "source": "poe1",
-      "price": {
-        "discount": 150,
-        "original": 210
-      }
-    },
-    {
-      "english": {
-        "name": "Gorgon Back Attachment",
-        "description": "Adds the Gorgon Back Attachment to your body armour."
-      },
-      "link": "https://www.pathofexile.com/shop/item/GorgonBackAttachment",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9Hb3Jnb25CYWNrQXR0YWNobWVudCJ9XQ/259ee1f4a2/GorgonBackAttachment.png",
-      "source": "poe1",
-      "price": {
-        "discount": 125,
-        "original": 185
-      }
-    },
-    {
-      "english": {
-        "name": "Verdant Cloak",
-        "description": "Adds the Verdant Cloak to your body armour."
-      },
-      "link": "https://www.pathofexile.com/shop/item/VerdantCloak",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9WZXJkYW50Q2xvYWsifV0/abb3ba2cc0/VerdantCloak.png",
-      "source": "poe1",
-      "price": {
-        "discount": 130,
-        "original": 190
-      }
-    },
-    {
-      "english": {
-        "name": "Havenwood Cloak",
-        "description": "Adds the Havenwood Cloak to your body armour."
-      },
-      "link": "https://www.pathofexile.com/shop/item/HavenwoodCloak",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9IYXZlbndvb2RCYWNrQXR0YWNobWVudCJ9XQ/a8fce75080/HavenwoodBackAttachment.png",
-      "source": "poe1",
-      "price": {
-        "discount": 130,
-        "original": 190
-      }
-    },
-    {
-      "english": {
-        "name": "Darkwood Cloak",
-        "description": "Adds the Darkwood Cloak to your body armour."
-      },
-      "link": "https://www.pathofexile.com/shop/item/DarkwoodCloak",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9EYXJrd29vZENsb2FrIn1d/7f676f8b91/DarkwoodCloak.png",
-      "source": "poe1",
-      "price": {
-        "discount": 130,
-        "original": 175
-      }
-    },
-    {
-      "english": {
-        "name": "Vaal Orb Cloak",
-        "description": "Adds the Vaal Orb Cloak to your body armour."
-      },
-      "link": "https://www.pathofexile.com/shop/item/VaalOrbCloak",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9WYWFsT3JiQ2xvYWsifV0/9e226dac51/VaalOrbCloak.png",
-      "source": "poe1",
-      "price": {
-        "discount": 120,
-        "original": 160
-      }
-    },
-    {
-      "english": {
-        "name": "Jaeger Cloak",
-        "description": "Adds the Jaeger Cloak to your body armour."
-      },
-      "link": "https://www.pathofexile.com/shop/item/JaegerCloak",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9KYWVnZXJDbG9hayJ9XQ/17ff1c682c/JaegerCloak.png",
-      "source": "poe1",
-      "price": {
-        "discount": 100,
-        "original": 175
-      }
-    },
-    {
-      "english": {
-        "name": "Rapture Back Attachment",
-        "description": "Adds the Rapture Back Attachment to your body armour."
-      },
-      "link": "https://www.pathofexile.com/shop/item/RaptureWings",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9SYXB0dXJlQmFja0F0dGFjaG1lbnQifV0/8f9d68adf9/RaptureBackAttachment.png",
-      "source": "poe1",
-      "price": {
-        "discount": 100,
-        "original": 150
-      }
     }
   ]
 }
