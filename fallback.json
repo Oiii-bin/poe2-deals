@@ -1,790 +1,1016 @@
 {
-  "date": "2026-10-26 23:06:15",
+  "date": "2026-10-27 06:14:27",
   "items": [
     {
       "english": {
-        "name": "Extra Stash Tab",
-        "description": "Add an extra tab to your shared stash."
+        "name": "Bent Horns",
+        "description": "Imbues a piece of headgear with demonic horns that bend backwards."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9hY2NvdW50LWZlYXR1cmVzL0xhcmdlSW1hZ2VzdGFzaHRhYmltYWdlIiwicmVhbG0iOiJwb2UyIn1d/ca991f894e/LargeImagestashtabimage.webp",
-      "link": "https://pathofexile2.com/shop/item/extra-stash-tab",
-      "source": "poe2_normal",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Ib3JuX2JhY2sifV0/51bfb9bc3b/Horn_back.png",
+      "link": "https://www.pathofexile.com/shop/item/BentHorns",
+      "source": "poe1",
       "kind": "discount",
       "price": {
-        "original": 30,
-        "discount": 20
+        "original": 65,
+        "discount": 25
       },
-      "specialEnd": "2026-10-27T00:00:00+00:00",
-      "twName": "普通倉庫頁",
-      "twDesc": "擴充一頁額外的普通倉庫頁。"
+      "twName": "頭部特效：魔性彎角",
+      "twDesc": "在你的頭部外觀加上一對向後彎曲的魔性彎角。"
     },
     {
       "english": {
-        "name": "Upgrade to Premium Stash Tab",
-        "description": "Upgrade an existing tab in your shared stash to a premium tab. Premium tabs can be set to public and used to list your items on the Trade website. They can also have their name and colour changed whenever you want."
+        "name": "Bear Armour Pack",
+        "description": "Contains the Bear Body Armour, Helmet, Boots and Gloves armour skins (at a discounted price)."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9hY2NvdW50LWZlYXR1cmVzL0xhcmdlSW1hZ2VzdGFzaHRhYnByZW1pdW1pbWFnZSIsInJlYWxtIjoicG9lMiJ9XQ/b3d7e69a80/LargeImagestashtabpremiumimage.webp",
-      "link": "https://pathofexile2.com/shop/item/upgrade-to-premium-stash-tab",
-      "source": "poe2_normal",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Bcm1vdXJTZXQvQmVhckFybW91ciJ9XQ/73bc9fb4fc/BearArmour.png",
+      "link": "https://www.pathofexile.com/shop/item/BearArmourPack",
+      "source": "poe1",
       "kind": "discount",
       "price": {
-        "original": 15,
-        "discount": 10
+        "original": 380,
+        "discount": 180
       },
-      "specialEnd": "2026-10-27T00:00:00+00:00",
-      "twName": "升級到高級倉庫頁",
-      "twDesc": "將現有的一頁普通倉庫頁升級成高級倉庫頁，高級倉庫頁可以更改頁面標籤的顏色與名字。"
+      "twName": "戰熊組合包",
+      "twDesc": "包含了身體外觀：戰熊、頭部外觀：戰熊、腳部外觀：戰熊，以及手部外觀：戰熊（這是優惠組合）。"
     },
     {
       "english": {
-        "name": "Premium Guild Stash Tab",
-        "description": "Add a premium stash tab to your Guild Stash. Only Guild Leaders can buy this."
+        "name": "Bear Hood Helmet",
+        "description": "Replaces the appearance of a piece of headgear with the Bear Hood helmet."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9ndWlsZC9zdGFzaC10YWIiLCJyZWFsbSI6InBvZTIifV0/e494410d8b/stash-tab.webp",
-      "link": "https://pathofexile2.com/shop/item/premium-guild-stash-tab",
-      "source": "poe2_normal",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9IYXRzL0hvb2RlZEJlYXIifV0/1b4ad3579b/HoodedBear.png",
+      "link": "https://www.pathofexile.com/shop/item/BearHoodHelmet",
+      "source": "poe1",
       "kind": "discount",
       "price": {
-        "original": 50,
-        "discount": 35
+        "original": 175,
+        "discount": 85
       },
-      "specialEnd": "2026-10-27T00:00:00+00:00",
-      "twName": "高級公會倉庫頁面",
-      "twDesc": "為你的公會擴充一頁高級公會倉庫頁，高級公會倉庫頁可以更改頁面標籤的顏色與名字。只有公會會長能夠購買這項商品。"
+      "twName": "頭部外觀：英勇熊頭",
+      "twDesc": "將你的頭部外觀替換為英勇熊頭。"
     },
     {
       "english": {
-        "name": "Fragment Stash Tab",
-        "description": "Add a Fragment Stash Tab to your account. Fragment Stash Tabs can hold 5000 of each Fragment type."
+        "name": "Boar Hood Helmet",
+        "description": "Replaces the appearance of a piece of headgear with the Boar Hood helmet."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9hY2NvdW50LWZlYXR1cmVzL0ZyYWdtZW50VGFiIiwicmVhbG0iOiJwb2UyIn1d/5809af5470/FragmentTab.webp",
-      "link": "https://pathofexile2.com/shop/item/fragment-stash-tab",
-      "source": "poe2_normal",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9IYXRzL0hvb2RlZEJvYXIifV0/de8b7d1bb6/HoodedBoar.png",
+      "link": "https://www.pathofexile.com/shop/item/BoarHoodHelmet",
+      "source": "poe1",
       "kind": "discount",
       "price": {
-        "original": 75,
-        "discount": 55
+        "original": 175,
+        "discount": 85
       },
-      "specialEnd": "2026-10-27T00:00:00+00:00",
-      "twName": "碎片倉庫頁",
-      "twDesc": "擴充一頁碎片倉庫頁，碎片倉庫頁每格可以儲存 5000 個特定碎片物品。"
+      "twName": "頭部外觀：狂野豬頭",
+      "twDesc": "將你的頭部外觀替換為狂野豬頭。"
     },
     {
       "english": {
-        "name": "Stash Tab Bundle",
-        "description": "Add six extra tabs to your shared stash (at a discounted price)."
+        "name": "Stag Hood Helmet",
+        "description": "Replaces the appearance of a piece of headgear with the Stag Hood helmet."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9hY2NvdW50LWZlYXR1cmVzL0xhcmdlSW1hZ2VzdGFzaHRhYmltYWdlIiwicmVhbG0iOiJwb2UyIn1d/ca991f894e/LargeImagestashtabimage.webp",
-      "link": "https://pathofexile2.com/shop/item/stash-tab-bundle",
-      "source": "poe2_normal",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9IYXRzL0hvb2RlZFN0YWcifV0/1e847cd6af/HoodedStag.png",
+      "link": "https://www.pathofexile.com/shop/item/StagHoodHelmet",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 175,
+        "discount": 85
+      },
+      "twName": "頭部外觀：雄壯鹿頭",
+      "twDesc": "將你的頭部外觀替換為雄壯鹿頭。"
+    },
+    {
+      "english": {
+        "name": "Formosan Bear Pet",
+        "description": "This baby Formosan black bear will wander alongside you on your quest."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvUGV0cy9Gb3Jtb3NhbkJlYXJQZXQifV0/c1dac2babd/FormosanBearPet.png",
+      "link": "https://www.pathofexile.com/shop/item/FormosanBearPet",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 250,
+        "discount": 125
+      },
+      "twName": "寵物：台灣黑熊",
+      "twDesc": "這隻呆萌的台灣黑熊寶寶將會隨著你一同踏遍鬼島。"
+    },
+    {
+      "english": {
+        "name": "Formosan Deer Pet",
+        "description": "This gentle Formosan sika deer will trot alongside you on your journey."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvUGV0cy9Gb3Jtb3NhbkRlZXJQZXQifV0/04a63b85cc/FormosanDeerPet.png",
+      "link": "https://www.pathofexile.com/shop/item/FormosanDeerPet",
+      "source": "poe1",
       "kind": "discount",
       "price": {
         "original": 150,
-        "discount": 110
+        "discount": 75
       },
-      "specialEnd": "2026-10-27T00:00:00+00:00",
-      "twName": "倉庫頁組合包",
-      "twDesc": "擴充六頁額外的普通倉庫頁（這是優惠組合）。"
+      "twName": "寵物：梅花鹿",
+      "twDesc": "這隻優雅的梅花鹿將會隨著你一同闖蕩鬼島。"
     },
     {
       "english": {
-        "name": "Abyss Stash Tab",
-        "description": "Add an Abyss Stash Tab to your account."
+        "name": "Hussar Wings",
+        "description": "Adds the strategic Hussar Wings to your body armour."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9hY2NvdW50LWZlYXR1cmVzL0FieXNzVGFiIiwicmVhbG0iOiJwb2UyIn1d/16c55ec24d/AbyssTab.webp",
-      "link": "https://pathofexile2.com/shop/item/abyss-stash-tab",
-      "source": "poe2_normal",
-      "kind": "discount",
-      "price": {
-        "original": 40,
-        "discount": 30
-      },
-      "specialEnd": "2026-10-27T00:00:00+00:00",
-      "twName": "深淵倉庫頁",
-      "twDesc": "擴充一頁深淵倉庫頁。"
-    },
-    {
-      "english": {
-        "name": "Blight Stash Tab",
-        "description": "Add a Blight Tab to your account. Blight Stash Tabs can hold 5000 of each type of oil and 60 blighted maps."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Db25zdW1lcmFibGVzL0JsaWdodFN0YXNoIn1d/6a9c7fc12c/BlightStash.png",
-      "link": "https://www.pathofexile.com/shop/item/BlightStashTab",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9IdXNzYXJXaW5ncyJ9XQ/53afdaad8d/HussarWings.png",
+      "link": "https://www.pathofexile.com/shop/item/HussarWings",
       "source": "poe1",
       "kind": "discount",
       "price": {
-        "original": 40,
-        "discount": 30
+        "original": 180,
+        "discount": 90
       },
-      "twName": "凋落倉庫頁",
-      "twDesc": "擴充一頁凋落倉庫頁，凋落倉庫頁每格可以儲存 5000 瓶油瓶和 60 張凋落地圖。"
+      "twName": "背飾：翼騎兵羽飾",
+      "twDesc": "在你的背後附加一對翼騎兵之翼。使效果可重複使用。"
     },
     {
       "english": {
-        "name": "Breach Stash Tab",
-        "description": "Add a Breach Stash Tab to your account. Breach Stash Tabs can hold up to 5000 of each Breach item. This tab can be set to public and used to list your items on the Trade website."
+        "name": "Verdant Armour Pack",
+        "description": "Contains the Verdant Body Armour, Verdant Helmet, Verdant Boots and Verdant Gloves armour skins (at a discounted price)."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9hY2NvdW50LWZlYXR1cmVzL0JyZWFjaFRhYiIsInJlYWxtIjoicG9lMiJ9XQ/8e4dbb847c/BreachTab.webp",
-      "link": "https://pathofexile2.com/shop/item/breach-stash-tab",
-      "source": "poe2_normal",
-      "kind": "discount",
-      "price": {
-        "original": 40,
-        "discount": 30
-      },
-      "specialEnd": "2026-10-27T00:00:00+00:00",
-      "twName": "裂痕倉庫頁",
-      "twDesc": "擴充一頁裂痕倉庫頁。裂痕倉庫頁可以儲存每種裂痕物品各 5000 個。"
-    },
-    {
-      "english": {
-        "name": "Delirium Stash Tab",
-        "description": "Add a Delirium Tab to your account. Delirium Stash Tabs can store up to 5000 Simulacrums and 5000 of each type of Liquid Emotion. This tab can be set to public and used to list your items on the Trade website."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9hY2NvdW50LWZlYXR1cmVzL0RlbGlyaXVtU3Rhc2giLCJyZWFsbSI6InBvZTIifV0/40fdb24f5b/DeliriumStash.webp",
-      "link": "https://pathofexile2.com/shop/item/delirium-stash-tab",
-      "source": "poe2_normal",
-      "kind": "discount",
-      "price": {
-        "original": 40,
-        "discount": 30
-      },
-      "specialEnd": "2026-10-27T00:00:00+00:00",
-      "twName": "譫妄倉庫頁",
-      "twDesc": "擴充一頁譫妄倉庫頁，譫妄倉庫頁每格可以儲存 5000 個譫妄玉和幻像異界。"
-    },
-    {
-      "english": {
-        "name": "Delve Stash Tab",
-        "description": "Add a Delve Tab to your account. Delve Stash Tabs can hold 5000 of each Fossil and Resonator."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Db25zdW1lcmFibGVzL0RlbHZlU3Rhc2hUYWIifV0/5b42b23900/DelveStashTab.png",
-      "link": "https://www.pathofexile.com/shop/item/DelveStashTab",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Bcm1vdXJTZXQvVmVyZGFudEFybW91ciJ9XQ/a024849275/VerdantArmour.png",
+      "link": "https://www.pathofexile.com/shop/item/VerdantArmourPack",
       "source": "poe1",
       "kind": "discount",
       "price": {
-        "original": 40,
-        "discount": 30
+        "original": 360,
+        "discount": 180
       },
-      "twName": "掘獄收藏倉庫頁",
-      "twDesc": "擴充一頁掘獄收藏倉庫頁，掘獄收藏倉庫頁每格可以儲存 5000 個化石和鑄新儀。"
+      "twName": "自然之力組合包",
+      "twDesc": "包含了頭部外觀：自然之力、身體外觀：自然之力、腳部外觀：自然之力 以及 手部外觀：自然之力（這是優惠組合）。"
     },
     {
       "english": {
-        "name": "Essence Stash Tab",
-        "description": "Add an Essence Tab to your account. Essence Stash Tabs can hold 5000 of each Essence type. This tab can be set to public and used to list your items on the Trade website."
+        "name": "Verdant Blink and Mirror Arrow Effect",
+        "description": "Replaces the standard effect on a Blink or Mirror Arrow skill gem with rich grass and vegetation."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9hY2NvdW50LWZlYXR1cmVzL0Vzc2VuY2VzVGFiIiwicmVhbG0iOiJwb2UyIn1d/394054dc06/EssencesTab.webp",
-      "link": "https://pathofexile2.com/shop/item/essence-stash-tab",
-      "source": "poe2_normal",
-      "kind": "discount",
-      "price": {
-        "original": 40,
-        "discount": 30
-      },
-      "specialEnd": "2026-10-27T00:00:00+00:00",
-      "twName": "精髓倉庫頁",
-      "twDesc": "擴充一頁精髓倉庫頁，精髓倉庫頁每格可以儲存 5000 個特定精髓物品。"
-    },
-    {
-      "english": {
-        "name": "Expedition Stash Tab",
-        "description": "Add an Expedition Stash Tab to your account. Expedition Stash Tabs can hold up to 5000 of each Expedition item. This tab can be set to public and used to list your items on the Trade website."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9hY2NvdW50LWZlYXR1cmVzL0V4cGVkaXRpb25UYWIiLCJyZWFsbSI6InBvZTIifV0/f497b5fb02/ExpeditionTab.webp",
-      "link": "https://pathofexile2.com/shop/item/expedition-stash-tab",
-      "source": "poe2_normal",
-      "kind": "discount",
-      "price": {
-        "original": 40,
-        "discount": 30
-      },
-      "specialEnd": "2026-10-27T00:00:00+00:00",
-      "twName": "死境探險倉庫頁",
-      "twDesc": "擴充一頁探險倉庫頁。探險倉庫頁可以儲存每種探險物品各 5000 個。該倉庫頁可設為公開，以便在交易網頁中上架你的物品。"
-    },
-    {
-      "english": {
-        "name": "Flask Stash Tab",
-        "description": "Add a Flask Tab to your account. Flask Stash Tabs can hold up to 500 flask items. This tab can be set to public and used to list your items on the Trade website."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9hY2NvdW50LWZlYXR1cmVzL0ZsYXNrVGFiIiwicmVhbG0iOiJwb2UyIn1d/148834efe5/FlaskTab.webp",
-      "link": "https://pathofexile2.com/shop/item/flask-stash-tab",
-      "source": "poe2_normal",
-      "kind": "discount",
-      "price": {
-        "original": 40,
-        "discount": 30
-      },
-      "specialEnd": "2026-10-27T00:00:00+00:00",
-      "twName": "藥劑倉庫頁",
-      "twDesc": "擴充一頁藥劑倉庫頁，藥劑倉庫頁可以儲存 500 瓶藥劑或萃取物。"
-    },
-    {
-      "english": {
-        "name": "Gem Stash Tab",
-        "description": "Add a Gem Tab to your account. Gem Stash Tabs can hold up to 500 gem items. This tab can be set to public and used to list your items on the Trade website."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9hY2NvdW50LWZlYXR1cmVzL0dlbVRhYiIsInJlYWxtIjoicG9lMiJ9XQ/05bd9143c7/GemTab.webp",
-      "link": "https://pathofexile2.com/shop/item/gem-stash-tab",
-      "source": "poe2_normal",
-      "kind": "discount",
-      "price": {
-        "original": 40,
-        "discount": 30
-      },
-      "specialEnd": "2026-10-27T00:00:00+00:00",
-      "twName": "寶石倉庫頁",
-      "twDesc": "擴充一頁寶石倉庫頁，寶石倉庫頁可以儲存 500 顆寶石。"
-    },
-    {
-      "english": {
-        "name": "Guild Abyss Stash Tab",
-        "description": "Add an Abyss Stash Tab to your account."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9hY2NvdW50LWZlYXR1cmVzL0FieXNzVGFiIiwicmVhbG0iOiJwb2UyIn1d/16c55ec24d/AbyssTab.webp",
-      "link": "https://pathofexile2.com/shop/item/guild-abyss-stash-tab",
-      "source": "poe2_normal",
-      "kind": "discount",
-      "price": {
-        "original": 40,
-        "discount": 30
-      },
-      "specialEnd": "2026-10-27T00:00:00+00:00",
-      "twName": "公會深淵倉庫頁",
-      "twDesc": "擴充一頁深淵倉庫頁至公會倉庫頁。只有公會會長能夠購買。"
-    },
-    {
-      "english": {
-        "name": "Guild Flask Stash Tab",
-        "description": "Add a Flask Tab to your Guild Stash. Flask Stash Tabs can hold up to 500 flask items. Only Guild Leaders can buy this."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9hY2NvdW50LWZlYXR1cmVzL0ZsYXNrVGFiIiwicmVhbG0iOiJwb2UyIn1d/148834efe5/FlaskTab.webp",
-      "link": "https://pathofexile2.com/shop/item/guild-flask-stash-tab",
-      "source": "poe2_normal",
-      "kind": "discount",
-      "price": {
-        "original": 40,
-        "discount": 30
-      },
-      "specialEnd": "2026-10-27T00:00:00+00:00",
-      "twName": "公會藥劑倉庫頁",
-      "twDesc": "擴充一頁藥劑倉庫頁，藥劑倉庫頁可以儲存 500 瓶藥劑或萃取物。只有公會會長可以購買。"
-    },
-    {
-      "english": {
-        "name": "Guild Gem Stash Tab",
-        "description": "Add a Gem Tab to your Guild Stash. Gem Stash Tabs can hold up to 500 gem items. Only Guild Leaders can buy this."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9hY2NvdW50LWZlYXR1cmVzL0dlbVRhYiIsInJlYWxtIjoicG9lMiJ9XQ/05bd9143c7/GemTab.webp",
-      "link": "https://pathofexile2.com/shop/item/guild-gem-stash-tab",
-      "source": "poe2_normal",
-      "kind": "discount",
-      "price": {
-        "original": 40,
-        "discount": 30
-      },
-      "specialEnd": "2026-10-27T00:00:00+00:00",
-      "twName": "公會寶石倉庫頁",
-      "twDesc": "擴充一頁寶石倉庫頁，寶石倉庫頁可以儲存 500 顆寶石。"
-    },
-    {
-      "english": {
-        "name": "Guild Relic Stash Tab",
-        "description": "Add a Relic Stash Tab to your guild."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9hY2NvdW50LWZlYXR1cmVzL1JlbGljVGFiIiwicmVhbG0iOiJwb2UyIn1d/d4e9ad365f/RelicTab.webp",
-      "link": "https://pathofexile2.com/shop/item/guild-relic-stash-tab",
-      "source": "poe2_normal",
-      "kind": "discount",
-      "price": {
-        "original": 40,
-        "discount": 30
-      },
-      "specialEnd": "2026-10-27T00:00:00+00:00"
-    },
-    {
-      "english": {
-        "name": "Guild Ritual Stash Tab",
-        "description": "Add a Ritual Tab to your guild. Ritual Stash Tabs can hold up to 5000 of each Ritual item. Only Guild Leaders can buy this."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9hY2NvdW50LWZlYXR1cmVzL1JpdHVhbFN0YXNoVGFiIiwicmVhbG0iOiJwb2UyIn1d/870353650c/RitualStashTab.webp",
-      "link": "https://pathofexile2.com/shop/item/guild-ritual-stash-tab",
-      "source": "poe2_normal",
-      "kind": "discount",
-      "price": {
-        "original": 40,
-        "discount": 30
-      },
-      "specialEnd": "2026-10-27T00:00:00+00:00",
-      "twName": "公會祭祀倉庫頁",
-      "twDesc": "為公會擴充一頁祭祀倉庫頁。祭祀倉庫頁可以儲存每種祭祀物品各 5000 個。只有公會會長才能購買此商品。"
-    },
-    {
-      "english": {
-        "name": "Merchant's Tab",
-        "description": "Adds a Merchant's Tab to your account. Merchant's Tabs can be used to sell your items to other players without being present for the sale. Find Ange in Kingsmarch to establish a hideout, then begin managing your shop and selling your items."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9hY2NvdW50LWZlYXR1cmVzL01lcmNoYW50c1RhYiIsInJlYWxtIjoicG9lMiJ9XQ/101b2031bf/MerchantsTab.webp",
-      "link": "https://pathofexile2.com/shop/item/merchants-tab",
-      "source": "poe2_normal",
-      "kind": "discount",
-      "price": {
-        "original": 40,
-        "discount": 30
-      },
-      "specialEnd": "2026-10-27T00:00:00+00:00",
-      "twName": "商人倉庫頁",
-      "twDesc": "擴充一頁商人倉庫頁。商人倉庫頁可以用來向其他玩家販售物品，你本人不需要在場。在金司馬區尋找安潔以建立藏身處，接著開始管理你的商店並販售你的物品。"
-    },
-    {
-      "english": {
-        "name": "Premium Stash Tab",
-        "description": "Add an extra premium tab to your shared stash. Premium tabs can be set to public and used to list your items on the Trade website. They can also have their name and colour changed whenever you want."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9hY2NvdW50LWZlYXR1cmVzL0xhcmdlSW1hZ2VzdGFzaHRhYnByZW1pdW1pbWFnZSIsInJlYWxtIjoicG9lMiJ9XQ/b3d7e69a80/LargeImagestashtabpremiumimage.webp",
-      "link": "https://pathofexile2.com/shop/item/premium-stash-tab",
-      "source": "poe2_normal",
-      "kind": "discount",
-      "price": {
-        "original": 40,
-        "discount": 30
-      },
-      "specialEnd": "2026-10-27T00:00:00+00:00",
-      "twName": "高級倉庫頁",
-      "twDesc": "擴充一頁高級倉庫頁，高級倉庫頁可以更改頁面標籤的顏色與名字。"
-    },
-    {
-      "english": {
-        "name": "Relic Stash Tab",
-        "description": "Add a Relic Stash Tab to your account."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9hY2NvdW50LWZlYXR1cmVzL1JlbGljVGFiIiwicmVhbG0iOiJwb2UyIn1d/d4e9ad365f/RelicTab.webp",
-      "link": "https://pathofexile2.com/shop/item/relic-stash-tab",
-      "source": "poe2_normal",
-      "kind": "discount",
-      "price": {
-        "original": 40,
-        "discount": 30
-      },
-      "specialEnd": "2026-10-27T00:00:00+00:00"
-    },
-    {
-      "english": {
-        "name": "Ritual Stash Tab",
-        "description": "Add a Ritual Tab to your account. Ritual Stash Tabs can hold up to 5000 of each Ritual item."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9hY2NvdW50LWZlYXR1cmVzL1JpdHVhbFN0YXNoVGFiIiwicmVhbG0iOiJwb2UyIn1d/870353650c/RitualStashTab.webp",
-      "link": "https://pathofexile2.com/shop/item/ritual-stash-tab",
-      "source": "poe2_normal",
-      "kind": "discount",
-      "price": {
-        "original": 40,
-        "discount": 30
-      },
-      "specialEnd": "2026-10-27T00:00:00+00:00",
-      "twName": "祭祀倉庫頁",
-      "twDesc": "擴充一頁祭祀倉庫頁。祭祀倉庫頁可以儲存每種祭祀物品各 5000 個。"
-    },
-    {
-      "english": {
-        "name": "Ultimatum Stash Tab",
-        "description": "Add an Ultimatum Tab to your account. Ultimatum Stash Tabs can hold 5000 of each type of Catalyst and 60 Inscribed Ultimatums."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Db25zdW1lcmFibGVzL01ldGFtb3JwaFN0YXNoIn1d/ac155c1d19/MetamorphStash.png",
-      "link": "https://www.pathofexile.com/shop/item/UltimatumStashTab",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9WZXJkYW50QmxpbmtNaXJyb3IifV0/a4a18ad1cf/VerdantBlinkMirror.png",
+      "link": "https://www.pathofexile.com/shop/item/VerdantBlinkandMirrorArrowEffect",
       "source": "poe1",
       "kind": "discount",
       "price": {
-        "original": 40,
-        "discount": 30
+        "original": 100,
+        "discount": 50
       },
-      "twName": "通牒倉庫頁",
-      "twDesc": "擴充一頁通牒倉庫頁，鍊魔倉庫頁每格可以儲存 5000 個各種催化劑和 60 個最後通牒雕刻。"
+      "twName": "閃現與魅影射擊．繁茂",
+      "twDesc": " 將技能「閃現射擊」和「魅影射擊」的特效附加茂盛的植物。"
     },
     {
       "english": {
-        "name": "Guild Divination Stash Tab",
-        "description": "Add a Divination Stash Tab to your Guild Stash. Divination Stash Tabs can hold 5000 of each Divination Card. Only Guild Leaders can buy this."
+        "name": "Verdant Throne Decoration",
+        "description": "Adds a verdant throne to your personal Hideout."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Db25zdW1lcmFibGVzL0RpdmluYXRpb24ifV0/d99228eda8/Divination.png",
-      "link": "https://www.pathofexile.com/shop/item/GuildDivinationStashTab",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9WZXJkYW50VGhyb25lIn1d/2ea419ed8a/VerdantThrone.png",
+      "link": "https://www.pathofexile.com/shop/item/VerdantThroneDecoration",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 150,
+        "discount": 75
+      },
+      "twName": "裝飾物：翠綠王座",
+      "twDesc": "為你的藏身處增添一個翠綠王座。"
+    },
+    {
+      "english": {
+        "name": "Verdant Throne Decoration (Guild)",
+        "description": "Adds a verdant throne to your Guild Hideout."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9WZXJkYW50VGhyb25lIn1d/2ea419ed8a/VerdantThrone.png",
+      "link": "https://www.pathofexile.com/shop/item/VerdantThroneDecorationGuild",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 150,
+        "discount": 75
+      },
+      "twName": "裝飾物：翠綠王座 (公會)",
+      "twDesc": "為你的公會增添此裝飾物。"
+    },
+    {
+      "english": {
+        "name": "Verdant Weapon Effect",
+        "description": "Imbues a weapon with the power of nature, covering it with sprouting leaves and fluttering butterflies."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vd2VhcG9uX2dyZWVubmF0dXJlIn1d/a41954300b/weapon_greennature.png",
+      "link": "https://www.pathofexile.com/shop/item/VerdantWeaponEffect",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 85,
+        "discount": 45
+      },
+      "twName": "武器特效：自然之靈",
+      "twDesc": "為你的武器注入自然之力，使其為抽芽的嫩葉與飛舞的蝴蝶所環繞。"
+    },
+    {
+      "english": {
+        "name": "Antlers",
+        "description": "Imbues a piece of headgear with curling thorned antlers."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9IYXRzL0FudGxlcnMifV0/9edc6cc424/Antlers.png",
+      "link": "https://www.pathofexile.com/shop/item/Antlers",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 65,
+        "discount": 35
+      },
+      "twName": "頭部特效：犄角",
+      "twDesc": "在你的頭部外觀加上一對捲曲多岔的犄角。"
+    },
+    {
+      "english": {
+        "name": "Curved Horns",
+        "description": "Imbues a piece of headgear with demonic horns that curve forwards."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Ib3JuX2Rvd24ifV0/d16a3c91de/Horn_down.png",
+      "link": "https://www.pathofexile.com/shop/item/CurvedHorns",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 65,
+        "discount": 35
+      },
+      "twName": "頭部特效：罪惡彎角",
+      "twDesc": "在你的頭部外觀加上一對宛如牛角一般的罪惡彎角。"
+    },
+    {
+      "english": {
+        "name": "Twisted Horns",
+        "description": "Imbues a piece of headgear with twin spiral antelope horns."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9IYXRzL0FudGVsb3BlSG9ybnMifV0/6c74ff2e93/AntelopeHorns.png",
+      "link": "https://www.pathofexile.com/shop/item/TwistedHorns",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 65,
+        "discount": 35
+      },
+      "twName": "頭部特效：魔語之角",
+      "twDesc": "在你的頭部外觀加上一對雙螺旋的魔語之角。"
+    },
+    {
+      "english": {
+        "name": "Verdant Footprints",
+        "description": "Imbues a pair of boots with the power of nature, covering them with sprouting leaves and fluttering butterflies."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Gb290cHJpbnRzL1ZlcmRhbnQifV0/884a2a80cd/Verdant.png",
+      "link": "https://www.pathofexile.com/shop/item/VerdantFootprints",
       "source": "poe1",
       "kind": "discount",
       "price": {
         "original": 90,
-        "discount": 70
+        "discount": 50
       },
-      "twName": "公會命運倉庫頁",
-      "twDesc": "擴充一頁命運倉庫頁至公會倉庫頁，命運倉庫頁每格可以儲存 5000 張特定命運卡。只有公會會長可以購買。"
+      "twName": "行走特效：自然行跡",
+      "twDesc": "為你的腳部裝備注入自然之力，使其在行走時被抽芽的嫩葉與飛舞的蝴蝶所環繞。"
     },
     {
       "english": {
-        "name": "Guild Map Stash Tab",
-        "description": "Add a Map Stash Tab to your Guild Stash. Map stash tabs have 6 sub-stashes for every Waystone Tier, each able to hold 96 Waystones. Only Guild Leaders can buy this."
+        "name": "Verdant Wings",
+        "description": "Adds Verdant Wings to your body armour."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9hY2NvdW50LWZlYXR1cmVzL0xhcmdlTWFwU3Rhc2giLCJyZWFsbSI6InBvZTIifV0/d9cba60a0e/LargeMapStash.webp",
-      "link": "https://pathofexile2.com/shop/item/guild-map-stash-tab",
-      "source": "poe2_normal",
-      "kind": "discount",
-      "price": {
-        "original": 185,
-        "discount": 145
-      },
-      "specialEnd": "2026-10-27T00:00:00+00:00",
-      "twName": "公會輿圖倉庫頁",
-      "twDesc": "擴充一頁輿圖倉庫頁至公會倉庫頁。輿圖倉庫頁可以放置每種類地圖共 72 張。只有公會會長可以購買。"
-    },
-    {
-      "english": {
-        "name": "Guild Quad Stash Tab",
-        "description": "Add a premium Quad Stash Tab to your Guild Stash. Premium Quad Stash Tabs have four times the space of regular Stash Tabs. Only Guild Leaders can buy this."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9hY2NvdW50LWZlYXR1cmVzL1F1YWRUYWIiLCJyZWFsbSI6InBvZTIifV0/967a4bca16/QuadTab.webp",
-      "link": "https://pathofexile2.com/shop/item/guild-quad-stash-tab",
-      "source": "poe2_normal",
-      "kind": "discount",
-      "price": {
-        "original": 185,
-        "discount": 145
-      },
-      "specialEnd": "2026-10-27T00:00:00+00:00",
-      "twName": "公會高級巨型倉庫頁",
-      "twDesc": "擴充一頁高級巨型倉庫頁至公會倉庫頁，高級巨型倉庫頁是一般倉庫頁的四倍大小。只有公會會長可以購買。"
-    },
-    {
-      "english": {
-        "name": "Guild Blight Stash Tab",
-        "description": "Add a Blight Tab to your Guild Stash. Blight Stash Tabs can hold 5000 of each type of oil and 60 blighted maps. Only Guild Leaders can buy this."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Db25zdW1lcmFibGVzL0JsaWdodFN0YXNoIn1d/6a9c7fc12c/BlightStash.png",
-      "link": "https://www.pathofexile.com/shop/item/GuildBlightStashTab",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9WZXJkYW50V2luZ3MifV0/6629cda848/VerdantWings.png",
+      "link": "https://www.pathofexile.com/shop/item/VerdantWings",
       "source": "poe1",
       "kind": "discount",
       "price": {
-        "original": 70,
-        "discount": 55
+        "original": 250,
+        "discount": 150
       },
-      "twName": "公會凋落倉庫頁",
-      "twDesc": "擴充一頁凋落倉庫頁至公會倉庫頁，凋落倉庫頁每格可以儲存 5000 瓶油瓶和 60 張凋落地圖。只有公會會長可以購買。"
+      "twName": "背飾：自然之翼",
+      "twDesc": "在你的背後附加一對自然之翼。"
     },
     {
       "english": {
-        "name": "Guild Breach Stash Tab",
-        "description": "Add a Breach Stash Tab to your guild. Breach Stash Tabs can hold up to 5000 of each Breach item."
+        "name": "Verdant Split Arrow Effect",
+        "description": "Replaces the standard effect on a Split Arrow skill gem with a verdant effect."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9hY2NvdW50LWZlYXR1cmVzL0JyZWFjaFRhYiIsInJlYWxtIjoicG9lMiJ9XQ/8e4dbb847c/BreachTab.webp",
-      "link": "https://pathofexile2.com/shop/item/guild-breach-stash-tab",
-      "source": "poe2_normal",
-      "kind": "discount",
-      "price": {
-        "original": 70,
-        "discount": 55
-      },
-      "specialEnd": "2026-10-27T00:00:00+00:00",
-      "twName": "公會裂痕倉庫頁",
-      "twDesc": "擴充一頁裂痕倉庫頁至公會倉庫頁。裂痕倉庫頁可以儲存每種裂痕物品各 5000 個。只有公會會長能夠購買。"
-    },
-    {
-      "english": {
-        "name": "Guild Currency Stash Tab",
-        "description": "Add a Currency Stash Tab to your Guild Stash. These premium tabs can hold 5000 of many currency types. Only Guild Leaders can buy this."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9hY2NvdW50LWZlYXR1cmVzL0N1cnJlbmN5VGFiIiwicmVhbG0iOiJwb2UyIn1d/b37575d158/CurrencyTab.webp",
-      "link": "https://pathofexile2.com/shop/item/guild-currency-stash-tab",
-      "source": "poe2_normal",
-      "kind": "discount",
-      "price": {
-        "original": 140,
-        "discount": 110
-      },
-      "specialEnd": "2026-10-27T00:00:00+00:00",
-      "twName": "公會通貨倉庫頁",
-      "twDesc": "擴充一頁通貨倉庫頁至公會倉庫頁，通貨倉庫頁每格可以儲存 5000 個特定通貨物品。只有公會會長可以購買。"
-    },
-    {
-      "english": {
-        "name": "Guild Delirium Stash Tab",
-        "description": "Add a Delirium Tab to your Guild Stash. These premium tabs can store up to 5000 Simulacrum Maps and 5000 of each type of Orb of Delirium. Only Guild Leaders can buy this."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9hY2NvdW50LWZlYXR1cmVzL0RlbGlyaXVtU3Rhc2giLCJyZWFsbSI6InBvZTIifV0/40fdb24f5b/DeliriumStash.webp",
-      "link": "https://pathofexile2.com/shop/item/guild-delirium-stash-tab",
-      "source": "poe2_normal",
-      "kind": "discount",
-      "price": {
-        "original": 70,
-        "discount": 55
-      },
-      "specialEnd": "2026-10-27T00:00:00+00:00",
-      "twName": "公會譫妄倉庫頁",
-      "twDesc": "擴充一頁譫妄倉庫頁至公會倉庫頁，譫妄倉庫頁每格可以儲存 5000 個譫妄玉和幻像異界。只有公會會長可以購買。"
-    },
-    {
-      "english": {
-        "name": "Guild Delve Stash Tab",
-        "description": "Add a Delve Tab to your Guild Stash. Delve Stash Tabs can hold 5000 of each Fossil and Resonator. Only Guild Leaders can buy this."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Db25zdW1lcmFibGVzL0RlbHZlU3Rhc2hUYWIifV0/5b42b23900/DelveStashTab.png",
-      "link": "https://www.pathofexile.com/shop/item/GuildDelveStashTab",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9HcmVlblNwbGl0QXJyb3cifV0/e46c98ad59/GreenSplitArrow.png",
+      "link": "https://www.pathofexile.com/shop/item/VerdantSplitArrowEffect",
       "source": "poe1",
       "kind": "discount",
       "price": {
-        "original": 70,
-        "discount": 55
+        "original": 90,
+        "discount": 60
       },
-      "twName": "公會掘獄收藏倉庫頁",
-      "twDesc": "擴充一頁掘獄收藏倉庫頁至公會倉庫頁，掘獄收藏倉庫頁每格可以儲存 5000 個化石和鑄新儀。只有公會會長可以購買。"
+      "twName": "裂化箭矢．碧綠",
+      "twDesc": "你的裂化箭矢技能充滿了碧綠特效。"
     },
     {
       "english": {
-        "name": "Guild Essence Stash Tab",
-        "description": "Add an Essence Tab to your Guild Stash. Essence Stash Tabs can hold 5000 of each Essence type. Only Guild Leaders can buy this."
+        "name": "Darkwood Carrion Golem Skin",
+        "description": "Replaces the standard skin on a Summoned Carrion Golem with a darkwood version."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9hY2NvdW50LWZlYXR1cmVzL0Vzc2VuY2VzVGFiIiwicmVhbG0iOiJwb2UyIn1d/394054dc06/EssencesTab.webp",
-      "link": "https://pathofexile2.com/shop/item/guild-essence-stash-tab",
-      "source": "poe2_normal",
-      "kind": "discount",
-      "price": {
-        "original": 70,
-        "discount": 55
-      },
-      "specialEnd": "2026-10-27T00:00:00+00:00",
-      "twName": "公會精髓倉庫頁",
-      "twDesc": "擴充一頁精髓倉庫頁至公會倉庫頁，精髓倉庫頁每格可以儲存 5000 個特定精髓物品。只有公會會長可以購買。"
-    },
-    {
-      "english": {
-        "name": "Guild Expedition Stash Tab",
-        "description": "Add an Expedition Stash Tab to your guild. Expedition Stash Tabs can hold up to 5000 of each Expedition item."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9hY2NvdW50LWZlYXR1cmVzL0V4cGVkaXRpb25UYWIiLCJyZWFsbSI6InBvZTIifV0/f497b5fb02/ExpeditionTab.webp",
-      "link": "https://pathofexile2.com/shop/item/guild-expedition-stash-tab",
-      "source": "poe2_normal",
-      "kind": "discount",
-      "price": {
-        "original": 70,
-        "discount": 55
-      },
-      "specialEnd": "2026-10-27T00:00:00+00:00",
-      "twName": "公會探險倉庫頁",
-      "twDesc": "擴充一頁探險倉庫頁至公會倉庫頁。探險倉庫頁可以儲存每種探險物品各 5000 個。只有公會會長能夠購買。"
-    },
-    {
-      "english": {
-        "name": "Guild Fragment Stash Tab",
-        "description": "Add a Fragment Stash Tab to your Guild Stash. Fragment Stash Tabs can hold 5000 of each Fragment type. Only Guild Leaders can buy this."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9hY2NvdW50LWZlYXR1cmVzL0ZyYWdtZW50VGFiIiwicmVhbG0iOiJwb2UyIn1d/5809af5470/FragmentTab.webp",
-      "link": "https://pathofexile2.com/shop/item/guild-fragment-stash-tab",
-      "source": "poe2_normal",
-      "kind": "discount",
-      "price": {
-        "original": 140,
-        "discount": 110
-      },
-      "specialEnd": "2026-10-27T00:00:00+00:00",
-      "twName": "公會碎片倉庫頁",
-      "twDesc": "擴充一頁碎片倉庫頁至公會倉庫頁，碎片倉庫頁每格可以儲存 5000 個特定碎片物品。只有公會會長可以購買。"
-    },
-    {
-      "english": {
-        "name": "Guild Ultimatum Stash Tab",
-        "description": "Add an Ultimatum Tab to your Guild Stash. Ultimatum Stash Tabs can hold 5000 of each type of Catalyst and 60 Inscribed Ultimatums."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Db25zdW1lcmFibGVzL01ldGFtb3JwaFN0YXNoIn1d/ac155c1d19/MetamorphStash.png",
-      "link": "https://www.pathofexile.com/shop/item/GuildUltimatumStashTab",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9EYXJrd29vZENhcnJpb25Hb2xlbUVmZmVjdCJ9XQ/e290cbd34b/DarkwoodCarrionGolemEffect.png",
+      "link": "https://www.pathofexile.com/shop/item/DarkwoodCarrionGolemSkin",
       "source": "poe1",
       "kind": "discount",
       "price": {
-        "original": 70,
-        "discount": 55
+        "original": 135,
+        "discount": 95
       },
-      "twName": "公會通牒倉庫頁",
-      "twDesc": "擴充一頁通牒倉庫頁，鍊魔倉庫頁每格可以儲存 5000 個各種催化劑和 60 個最後通牒雕刻。"
+      "twName": "食腐魔像．不朽烏木",
+      "twDesc": "你的食腐魔像特效替換為不朽烏木。"
     },
     {
       "english": {
-        "name": "Unique Collection Tab",
-        "description": "Add a Unique Collection Tab to your account. Unique Collection Tabs can hold one of each Unique Item. This tab can be set to public and used to list your items on the Trade website."
+        "name": "Darkwood Weapon",
+        "description": "Replaces the appearance of a Dagger, Wand, Claw, Sword, One Hand Mace, One Hand Axe, Bow or Quiver with the Darkwood Weapon."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9hY2NvdW50LWZlYXR1cmVzL1VuaXF1ZVN0YXNoVGFiIiwicmVhbG0iOiJwb2UyIn1d/c8ef1af219/UniqueStashTab.webp",
-      "link": "https://pathofexile2.com/shop/item/unique-collection-tab",
-      "source": "poe2_normal",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vRGFya3dvb2RXZWFwb25Ta2luIn1d/4be28b678e/DarkwoodWeaponSkin.png",
+      "link": "https://www.pathofexile.com/shop/item/DarkwoodWeapon",
+      "source": "poe1",
       "kind": "discount",
       "price": {
-        "original": 140,
-        "discount": 110
+        "original": 180,
+        "discount": 130
       },
-      "specialEnd": "2026-10-27T00:00:00+00:00",
-      "twName": "傳奇典藏倉庫頁",
-      "twDesc": "擴充一頁傳奇典藏倉庫頁。傳奇典藏倉庫頁可以存放各傳奇物品 1 件。"
+      "twName": "武器外觀：不朽烏木",
+      "twDesc": "將你的匕首、法杖、爪、劍、雙手錘、單手斧、弓或箭袋外觀替換為不朽烏木。"
     },
     {
       "english": {
-        "name": "Augment Stash Tab",
-        "description": "Add an Augment Tab to your account. Augment Stash Tabs can hold up to 5000 of each Augment item."
+        "name": "Verdant Tinker's Waypoint Decoration",
+        "description": "Adds a Verdant Tinker's Waypoint decoration to your personal Hideout. The waypoint whirs into action whenever a player uses it."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9hY2NvdW50LWZlYXR1cmVzL1NvY2tldGFibGVTdGFzaFRhYiIsInJlYWxtIjoicG9lMiJ9XQ/62dd76be1f/SocketableStashTab.webp",
-      "link": "https://pathofexile2.com/shop/item/augment-stash-tab",
-      "source": "poe2_normal",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvVmVyZGFudFRpbmtlcnNXYXlwb2ludCIsInJlYWxtIjoicG9lMiJ9XQ/bf70d90b41/VerdantTinkersWaypoint.webp",
+      "link": "https://pathofexile2.com/shop/item/verdant-tinkers-waypoint-decoration",
+      "source": "poe2_variant",
       "kind": "discount",
       "price": {
-        "original": 50,
+        "original": 55,
         "discount": 40
       },
-      "specialEnd": "2026-10-27T00:00:00+00:00",
-      "twName": "增幅倉庫頁",
-      "twDesc": "擴充一頁增幅倉庫頁。增幅倉庫頁可以儲存每種增幅物品各 5000 個。"
+      "specialEnd": "2026-10-28T00:00:00+00:00",
+      "twName": "裝飾物：自然匠師傳送點",
+      "twDesc": "為你的藏身處添加一個自然匠師傳送點。每當玩家使用該傳送點時，它就會立即啟動。"
     },
     {
       "english": {
-        "name": "Currency Stash Tab",
-        "description": "Add a Currency Stash Tab to your account. Currency Stash Tabs can hold 5000 of many currency types. This tab can be set to public and used to list your items on the Trade website."
+        "name": "Verdant Tinker's Waypoint Decoration (Guild)",
+        "description": "Adds a Verdant Tinker's Waypoint decoration to your Guild Hideout."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9hY2NvdW50LWZlYXR1cmVzL0N1cnJlbmN5VGFiIiwicmVhbG0iOiJwb2UyIn1d/b37575d158/CurrencyTab.webp",
-      "link": "https://pathofexile2.com/shop/item/currency-stash-tab",
-      "source": "poe2_normal",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvVmVyZGFudFRpbmtlcnNXYXlwb2ludCIsInJlYWxtIjoicG9lMiJ9XQ/bf70d90b41/VerdantTinkersWaypoint.webp",
+      "link": "https://pathofexile2.com/shop/item/verdant-tinkers-waypoint-decoration-guild",
+      "source": "poe2_variant",
+      "kind": "discount",
+      "price": {
+        "original": 55,
+        "discount": 40
+      },
+      "specialEnd": "2026-10-28T00:00:00+00:00",
+      "twName": "裝飾物：自然匠師傳送點 (公會)",
+      "twDesc": "為你的公會增添此裝飾物。"
+    },
+    {
+      "english": {
+        "name": "Darkwood Volatile Dead Effect",
+        "description": "Replaces the standard effect on a Volatile Dead gem with a darkwood version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9EYXJrd29vZFZvbGF0aWxlRGVhZEVmZmVjdCJ9XQ/44757d3ebe/DarkwoodVolatileDeadEffect.png",
+      "link": "https://www.pathofexile.com/shop/item/DarkwoodVolatileDeadEffect",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 130,
+        "discount": 95
+      },
+      "twName": "致命之息．不朽烏木",
+      "twDesc": "你的致命之息特效替換為不朽烏木。"
+    },
+    {
+      "english": {
+        "name": "Darkwood Footprints Effect",
+        "description": "Imbues a pair of boots with the Darkwood Footprints Effect."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Gb290cHJpbnRzL0Rhcmt3b29kRm9vdHByaW50c0VmZmVjdCJ9XQ/b7c5b563ee/DarkwoodFootprintsEffect.png",
+      "link": "https://www.pathofexile.com/shop/item/DarkwoodFootprintsEffect",
+      "source": "poe1",
       "kind": "discount",
       "price": {
         "original": 75,
-        "discount": 60
+        "discount": 55
       },
-      "specialEnd": "2026-10-27T00:00:00+00:00"
+      "twName": "行走特效：不朽烏木",
+      "twDesc": "為你的腳部裝備注入不朽烏木。"
     },
     {
       "english": {
-        "name": "Divination Stash Tab",
-        "description": "Add a Divination Stash Tab to your account. Divination Stash Tabs can hold 5000 of each Divination Card."
+        "name": "Darkwood Portal Effect",
+        "description": "Replaces the standard effect on portals you create with the Darkwood Portal Effect."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Db25zdW1lcmFibGVzL0RpdmluYXRpb24ifV0/d99228eda8/Divination.png",
-      "link": "https://www.pathofexile.com/shop/item/DivinationStashTab",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Qb3J0YWxzL0Rhcmt3b29kUG9ydGFsRWZmZWN0In1d/694c6f2df8/DarkwoodPortalEffect.png",
+      "link": "https://www.pathofexile.com/shop/item/DarkwoodPortalEffect",
       "source": "poe1",
       "kind": "discount",
       "price": {
-        "original": 50,
-        "discount": 40
+        "original": 150,
+        "discount": 110
       },
-      "twName": "命運倉庫頁",
-      "twDesc": "擴充一頁命運倉庫頁，命運倉庫頁每格可以儲存 5000 張特定命運卡。"
+      "twName": "時空之門．不朽烏木",
+      "twDesc": "將你所開啟的傳送門替換為不朽烏木的時空之門。"
     },
     {
       "english": {
-        "name": "Guild Socketable Stash Tab",
-        "description": "Add a Socketable Tab to your guild. Socketable Stash Tabs can hold up to 5000 of each Socketable item. Only Guild Leaders can buy this."
+        "name": "Darkwood Weapon Effect",
+        "description": "Imbues a weapon with the Darkwood Weapon Effect."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9hY2NvdW50LWZlYXR1cmVzL1NvY2tldGFibGVTdGFzaFRhYiIsInJlYWxtIjoicG9lMiJ9XQ/62dd76be1f/SocketableStashTab.webp",
-      "link": "https://pathofexile2.com/shop/item/guild-socketable-stash-tab",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vV2VhcG9uX0Rhcmt3b29kV2VhcG9uRWZmZWN0In1d/d78d707e1e/Weapon_DarkwoodWeaponEffect.png",
+      "link": "https://www.pathofexile.com/shop/item/DarkwoodWeaponEffect",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 170,
+        "discount": 125
+      },
+      "twName": "武器特效：不朽烏木",
+      "twDesc": "為你的武器注入不朽烏木。"
+    },
+    {
+      "english": {
+        "name": "Havenwood Cloak",
+        "description": "Adds the Havenwood Cloak to your body armour."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9IYXZlbndvb2RCYWNrQXR0YWNobWVudCJ9XQ/a8fce75080/HavenwoodBackAttachment.png",
+      "link": "https://www.pathofexile.com/shop/item/HavenwoodCloak",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 190,
+        "discount": 140
+      },
+      "twName": "背飾：庇護之木披風",
+      "twDesc": "在你的背後附加庇護之木披風。"
+    },
+    {
+      "english": {
+        "name": "Verdant Cloak",
+        "description": "Adds the Verdant Cloak to your body armour."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9WZXJkYW50Q2xvYWsifV0/abb3ba2cc0/VerdantCloak.png",
+      "link": "https://www.pathofexile.com/shop/item/VerdantCloak",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 190,
+        "discount": 140
+      },
+      "twName": "背飾：自然之力披風",
+      "twDesc": "在你的背後附加自然之力披風。"
+    },
+    {
+      "english": {
+        "name": "Darkwood Armour Pack",
+        "description": "Contains the Darkwood Body Armour, Gloves, Boots and Helmet armour skins (at a discounted price)."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Bcm1vdXJTZXQvRGFya3dvb2RBcm1vdXJTZXQifV0/369a805cb4/DarkwoodArmourSet.png",
+      "link": "https://www.pathofexile.com/shop/item/DarkwoodArmourPack",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 420,
+        "discount": 310
+      },
+      "twName": "不朽烏木組合包",
+      "twDesc": "包含了身體外觀：不朽烏木、頭部外觀：不朽烏木、腳部外觀：不朽烏木以及手部外觀：不朽烏木（這是優惠組合）。"
+    },
+    {
+      "english": {
+        "name": "Havenwood Armour Pack",
+        "description": "Contains the Havenwood Body Armour, Helmet, Boots and Gloves armour skins (at a discounted price)."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Bcm1vdXJTZXQvSGF2ZW53b29kQXJtb3VyIn1d/ad89599d18/HavenwoodArmour.png",
+      "link": "https://www.pathofexile.com/shop/item/HavenwoodArmourPack",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 420,
+        "discount": 310
+      },
+      "twName": "庇護之木組合包",
+      "twDesc": "包含了身體外觀：庇護之木、頭部外觀：庇護之木、腳部外觀：庇護之木以及手部外觀：庇護之木（這是優惠組合）。"
+    },
+    {
+      "english": {
+        "name": "Havenwood Character Effect",
+        "description": "Adds the Havenwood Character Effect to your character."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9DaGFyYWN0ZXIvSGF2ZW53b29kQ2hhcmFjdGVyRWZmZWN0In1d/85f244056b/HavenwoodCharacterEffect.png",
+      "link": "https://www.pathofexile.com/shop/item/HavenwoodCharacterEffect",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 210,
+        "discount": 155
+      },
+      "twName": "角色特效：庇護之木",
+      "twDesc": "為你的角色添加庇護之木特效。"
+    },
+    {
+      "english": {
+        "name": "Darkwood Aura Effect",
+        "description": "Replaces the standard effect on an Aura gem with a darkwood version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9BdXJhcy9EYXJrd29vZEF1cmFFZmZlY3QifV0/351bd7de0e/DarkwoodAuraEffect.png",
+      "link": "https://www.pathofexile.com/shop/item/DarkwoodAuraEffect",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 115,
+        "discount": 85
+      },
+      "twName": "光環效果．不朽烏木",
+      "twDesc": "你的光環特效替換為不朽烏木。"
+    },
+    {
+      "english": {
+        "name": "Darkwood Raise Spectre Skin",
+        "description": "Replaces the standard skin on a Raised Spectre with a darkwood version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9EYXJrd29vZFJhaXNlU3BlY3RyZVNraW4ifV0/753f718718/DarkwoodRaiseSpectreSkin.png",
+      "link": "https://www.pathofexile.com/shop/item/DarkwoodRaiseSpectreSkin",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 115,
+        "discount": 85
+      },
+      "twName": "束縛幽魂．不朽烏木",
+      "twDesc": "你的束縛幽魂特效替換為不朽烏木。"
+    },
+    {
+      "english": {
+        "name": "Tortoise Staff Skin",
+        "description": "Replaces the appearance of any staff to the Tortoise Staff."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvU25hcHBpbmdUdXJ0bGVEcnVpZFN0YWZmIiwicmVhbG0iOiJwb2UyIn1d/5cac7a06a1/SnappingTurtleDruidStaff.webp",
+      "link": "https://pathofexile2.com/shop/item/tortoise-staff-skin",
       "source": "poe2_normal",
       "kind": "discount",
       "price": {
-        "original": 50,
-        "discount": 40
+        "original": 115,
+        "discount": 85
       },
-      "specialEnd": "2026-10-27T00:00:00+00:00",
-      "twName": "公會可鑲嵌倉庫頁",
-      "twDesc": "為公會擴充一頁可鑲嵌物品頁。可鑲嵌倉庫頁可以儲存每種可鑲嵌物品各 5000 個。只有公會會長才能購買此商品。"
+      "specialEnd": "2026-10-28T00:00:00+00:00",
+      "twName": "長杖外觀：沉穩巨龜",
+      "twDesc": "將你的長杖外觀替換為沉穩巨龜。"
     },
     {
       "english": {
-        "name": "Guild Unique Collection Tab",
-        "description": "Add a Unique Collection Tab to your Guild Stash. Unique Collection Tabs can hold one of each Unique Item. Only Guild Leaders can buy this."
+        "name": "Verdant Earthshatter Effect",
+        "description": "Replaces the standard effect on an Earthshatter gem with a verdant version."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9ndWlsZC9VbmlxdWVHdWlsZFN0YXNoVGFiIiwicmVhbG0iOiJwb2UyIn1d/d456bcf3ce/UniqueGuildStashTab.webp",
-      "link": "https://pathofexile2.com/shop/item/guild-unique-collection-tab",
-      "source": "poe2_normal",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9WZXJkYW50RWFydGhzaGF0dGVyRWZmZWN0In1d/caf588bd48/VerdantEarthshatterEffect.png",
+      "link": "https://www.pathofexile.com/shop/item/VerdantEarthshatterEffect",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 115,
+        "discount": 85
+      },
+      "twName": "碎地重擊．自然之力",
+      "twDesc": "你的碎地重擊特效替換為自然之力。"
+    },
+    {
+      "english": {
+        "name": "Havenwood Bow and Quiver",
+        "description": "Contains the Havenwood Bow and Havenwood Quiver Skins."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9IYXZlbndvb2RRdWl2ZXJCb3dCdW5kbGUifV0/d4744d4c13/HavenwoodQuiverBowBundle.png",
+      "link": "https://www.pathofexile.com/shop/item/HavenwoodBowandQuiver",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 250,
+        "discount": 185
+      },
+      "twName": "庇護之木弓與箭袋",
+      "twDesc": "包含武器外觀：庇護之箭袋和武器外觀：庇護之木弓。"
+    },
+    {
+      "english": {
+        "name": "Darkwood Cloak",
+        "description": "Adds the Darkwood Cloak to your body armour."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9EYXJrd29vZENsb2FrIn1d/7f676f8b91/DarkwoodCloak.png",
+      "link": "https://www.pathofexile.com/shop/item/DarkwoodCloak",
+      "source": "poe1",
       "kind": "discount",
       "price": {
         "original": 175,
+        "discount": 130
+      },
+      "twName": "背飾：不朽烏木披風",
+      "twDesc": "在你的背後附加不朽烏木披風。"
+    },
+    {
+      "english": {
+        "name": "Spring Fae Wings",
+        "description": "Adds the Spring Fae Wings to your body armour. Sacred wisps beckon you towards portals, waypoints, area transitions and unique items on the ground."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvR3JlZW5GYWVMZWFmV2luZ3MiLCJyZWFsbSI6InBvZTIifV0/351b646759/GreenFaeLeafWings.webp",
+      "link": "https://pathofexile2.com/shop/item/spring-fae-wings",
+      "source": "poe2_variant",
+      "kind": "discount",
+      "price": {
+        "original": 295,
+        "discount": 220
+      },
+      "specialEnd": "2026-10-28T00:00:00+00:00",
+      "twName": "春日妖精羽翼",
+      "twDesc": "在你的背後附加一個春日妖精羽翼。聖潔妖精會呼喚你前往傳送門、傳送點、區域傳送門和地上的傳奇物品。"
+    },
+    {
+      "english": {
+        "name": "Crocolisk Staff Skin",
+        "description": "Replaces the appearance of any staff to the Crocolisk Staff."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvQ3JvY29kaWxlRHJ1aWRTdGFmZiIsInJlYWxtIjoicG9lMiJ9XQ/e11c10e6e0/CrocodileDruidStaff.webp",
+      "link": "https://pathofexile2.com/shop/item/crocolisk-staff-skin",
+      "source": "poe2_normal",
+      "kind": "discount",
+      "price": {
+        "original": 100,
+        "discount": 75
+      },
+      "specialEnd": "2026-10-28T00:00:00+00:00",
+      "twName": "長杖外觀：巨鱷神兵",
+      "twDesc": "將你的長杖外觀替換為巨鱷神兵。"
+    },
+    {
+      "english": {
+        "name": "Darkwood Cremation Effect",
+        "description": "Replaces the standard effect on a Cremation gem with a darkwood version."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9EYXJrd29vZENyZW1hdGlvbkVmZmVjdCJ9XQ/ee1a632cad/DarkwoodCremationEffect.png",
+      "link": "https://www.pathofexile.com/shop/item/DarkwoodCremationEffect",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 120,
+        "discount": 90
+      },
+      "twName": "熔炎送葬．不朽烏木",
+      "twDesc": "你的熔炎送葬特效替換為不朽烏木。"
+    },
+    {
+      "english": {
+        "name": "Druidic Helmet",
+        "description": "Replaces the appearance of an equipped helmet to the Druidic Helmet. Elemental wisps surround your head, which flare after you take fire, lightning, or cold damage."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9IYXRzL0RydWlkaWNIZWxtZXQifV0/db4e79f320/DruidicHelmet.png",
+      "link": "https://www.pathofexile.com/shop/item/DruidicHelmet",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 160,
+        "discount": 120
+      },
+      "twName": "頭部外觀：德魯伊",
+      "twDesc": "將你的頭部外觀替換為德魯伊。頭部周圍環繞著元素光球，當你受到火、閃電或冰冷傷害後會閃爍。"
+    },
+    {
+      "english": {
+        "name": "Havenwood Deer Pet",
+        "description": "This majestic deer will follow you on your journeys with decorum."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvUGV0cy9IYXZlbndvb2REZWVyIn1d/81b870b097/HavenwoodDeer.png",
+      "link": "https://www.pathofexile.com/shop/item/HavenwoodDeerPet",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 180,
+        "discount": 135
+      },
+      "twName": "寵物：庇護之木鹿",
+      "twDesc": "這隻庇護之木鹿會跟隨你踏遍鬼島。"
+    },
+    {
+      "english": {
+        "name": "Havenwood Portal Effect",
+        "description": "Replaces the standard effect on portals you create with the Havenwood Portal Effect."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Qb3J0YWxzL0hhdmVud29vZFBvcnRhbCJ9XQ/212d8b60f4/HavenwoodPortal.png",
+      "link": "https://www.pathofexile.com/shop/item/HavenwoodPortalEffect",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 160,
+        "discount": 120
+      },
+      "twName": "時空之門．庇護之木",
+      "twDesc": "將你所開啟的傳送門替換為庇護之木的時空之門。"
+    },
+    {
+      "english": {
+        "name": "Verdant Shield",
+        "description": "Replaces the appearance of a shield with the Verdant Shield."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TaGllbGRzL1ZlcmRhbnRTaGllbGQifV0/d9f28c0aaa/VerdantShield.png",
+      "link": "https://www.pathofexile.com/shop/item/VerdantShield",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 180,
+        "discount": 135
+      },
+      "twName": "護盾外觀：自然之力",
+      "twDesc": "將你的護盾外觀替換為自然之力。"
+    },
+    {
+      "english": {
+        "name": "Verdant Weapon",
+        "description": "Replaces the appearance of a Dagger, Wand, Claw, Sword, Two Hand Axe, Two Hand Mace, Staff, Bow or Quiver with the Verdant Weapon or Quiver."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvVmVyZGFudFdlYXBvblNraW4iLCJyZWFsbSI6InBvZTIifV0/bea41eace1/VerdantWeaponSkin.webp",
+      "link": "https://pathofexile2.com/shop/item/verdant-weapon",
+      "source": "poe2_normal",
+      "kind": "discount",
+      "price": {
+        "original": 180,
+        "discount": 135
+      },
+      "specialEnd": "2026-10-28T00:00:00+00:00",
+      "twName": "武器外觀：自然之力",
+      "twDesc": "將你的匕首、法杖、爪、劍、雙手斧、雙手錘、長杖、弓或箭袋外觀替換為自然之力。"
+    },
+    {
+      "english": {
+        "name": "Flutter of Butterflies Apparition Effect",
+        "description": "Adds the Flutter of Butterflies Apparition Effect to your character."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9DaGFyYWN0ZXIvRmx1dHRlck9mQnV0dGVyZmxpZXNBcHBhcmF0aW9uRWZmZWN0In1d/86033911c8/FlutterOfButterfliesApparationEffect.png",
+      "link": "https://www.pathofexile.com/shop/item/FlutterofButterfliesApparitionEffect",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 245,
+        "discount": 185
+      },
+      "twName": "項鍊特效：艷彩蝶影",
+      "twDesc": "將艷彩蝶影拘束於你的角色之中。"
+    },
+    {
+      "english": {
+        "name": "Overgrown Gargoyle Portal Effect",
+        "description": "Replaces the standard effect on portals you create with the Overgrown Gargoyle Portal Effect."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9jaGFyYWN0ZXItZWZmZWN0cy9PdmVyZ3Jvd25HYXJnb3lsZVBvcnRhbEVmZmVjdCIsInJlYWxtIjoicG9lMiJ9XQ/05a71beae1/OvergrownGargoylePortalEffect.webp",
+      "link": "https://pathofexile2.com/shop/item/overgrown-gargoyle-portal-effect",
+      "source": "poe2_variant",
+      "kind": "discount",
+      "price": {
+        "original": 185,
         "discount": 140
       },
-      "specialEnd": "2026-10-27T00:00:00+00:00",
-      "twName": "公會傳奇典藏倉庫頁",
-      "twDesc": "擴充一頁傳奇典藏倉庫頁至公會倉庫頁。傳奇典藏倉庫頁可以存放各傳奇物品 1 件。只有公會會長可以購買。"
+      "specialEnd": "2026-10-28T00:00:00+00:00",
+      "twName": "時空之門特效：黃金石像·蔓生",
+      "twDesc": "將你所開啟的傳送門替換為蔓生石像的時空之門。"
     },
     {
       "english": {
-        "name": "Map Stash Tab",
-        "description": "Add a Map Stash Tab to your account. Map stash tabs have 6 sub-stashes for every Waystone Tier, each able to hold 96 Waystones. You can change the name and colour for each sub-stash, and individually set each of them to public in order to list your items on the Trade website."
+        "name": "Crocolisk Armour Pack",
+        "description": "Contains the Crocolisk Helmet, Boots Gloves and Body Armour (at a discounted price)."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9hY2NvdW50LWZlYXR1cmVzL0xhcmdlTWFwU3Rhc2giLCJyZWFsbSI6InBvZTIifV0/d9cba60a0e/LargeMapStash.webp",
-      "link": "https://pathofexile2.com/shop/item/map-stash-tab",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvQ3JvY29kaWxlRHJ1aWRBcm1vdXJTZXQiLCJyZWFsbSI6InBvZTIifV0/700852ea58/CrocodileDruidArmourSet.webp",
+      "link": "https://pathofexile2.com/shop/item/crocolisk-armour-pack",
+      "source": "poe2_normal",
+      "kind": "discount",
+      "price": {
+        "original": 350,
+        "discount": 265
+      },
+      "specialEnd": "2026-10-28T00:00:00+00:00",
+      "twName": "巨鱷神兵護甲組合包",
+      "twDesc": "包含了頭部外觀：巨鱷神兵、腳部外觀：巨鱷神兵、手部外觀：巨鱷神兵，以及身體外觀：巨鱷神兵（這是優惠組合）。"
+    },
+    {
+      "english": {
+        "name": "Glimmersprite Wings",
+        "description": "Adds the Glimmersprite Wings to your body armour."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9HbGltbWVyc3ByaXRlV2luZ3MifV0/15839f5616/GlimmerspriteWings.png",
+      "link": "https://www.pathofexile.com/shop/item/GlimmerspriteWings",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 310,
+        "discount": 235
+      },
+      "twName": "背飾：微熠魂靈之翼",
+      "twDesc": "在你的背後附加微熠魂靈之翼。"
+    },
+    {
+      "english": {
+        "name": "Verdant Evertree Map Device",
+        "description": "The Verdant Evertree Map Device stands tall in your hideout, keeping track of the number of White, Yellow and Red Waystones you have completed. The Evertree will randomly select from its many roots to decide where the portals are opened for each Waystone."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9IaWRlb3V0L1RyZWVNYXBEZXZpY2UiLCJyZWFsbSI6InBvZTIifV0/b6ae9a2b29/TreeMapDevice.webp",
+      "link": "https://pathofexile2.com/shop/item/verdant-evertree-map-device",
+      "source": "poe2_variant",
+      "kind": "discount",
+      "price": {
+        "original": 250,
+        "discount": 190
+      },
+      "specialEnd": "2026-10-28T00:00:00+00:00",
+      "twName": "地圖裝置：翠綠長青樹",
+      "twDesc": "地圖裝置：翠綠長青樹在你的藏身處高聳挺拔，並會追蹤你完成的白色、黃色、紅色換界石。長青樹會隨機從多個樹根中決定每顆換界石開啟傳送門的位置。"
+    },
+    {
+      "english": {
+        "name": "Verdant Evertree Map Device (Guild)",
+        "description": "The Verdant Evertree Map Device stands tall in your guild hideout, keeping track of the number of White, Yellow and Red Waystones you have completed. The Evertree will randomly select from its many roots to decide where the portals are opened for each Waystone."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9IaWRlb3V0L1RyZWVNYXBEZXZpY2UiLCJyZWFsbSI6InBvZTIifV0/b6ae9a2b29/TreeMapDevice.webp",
+      "link": "https://pathofexile2.com/shop/item/verdant-evertree-map-device-guild",
+      "source": "poe2_variant",
+      "kind": "discount",
+      "price": {
+        "original": 250,
+        "discount": 190
+      },
+      "specialEnd": "2026-10-28T00:00:00+00:00",
+      "twName": "地圖裝置：翠綠長青樹（公會）",
+      "twDesc": "地圖裝置：翠綠長青樹在你的公會藏身處高聳挺拔，並會追蹤你完成的白色、黃色、紅色換界石。長青樹會隨機從多個樹根中決定每顆換界石開啟傳送門的位置。"
+    },
+    {
+      "english": {
+        "name": "River Toad King Portal Effect",
+        "description": "Replaces the standard effect on portals you create with the River Toad King Portal."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9jaGFyYWN0ZXItZWZmZWN0cy9SaXZlclRvYWRLaW5nUG9ydGFsIiwicmVhbG0iOiJwb2UyIn1d/8ea0abd62c/RiverToadKingPortal.webp",
+      "link": "https://pathofexile2.com/shop/item/river-toad-king-portal-effect",
+      "source": "poe2_variant",
+      "kind": "discount",
+      "price": {
+        "original": 190,
+        "discount": 145
+      },
+      "specialEnd": "2026-10-28T00:00:00+00:00",
+      "twName": "時空之門．流水王蟾",
+      "twDesc": "將你所開啟的傳送門替換為流水王蟾。"
+    },
+    {
+      "english": {
+        "name": "Crocolisk Bear Shapeshift Skin",
+        "description": "When shapeshifting into a Bear, you take the appearance of a Crocolisk bear."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9jaGFyYWN0ZXItZWZmZWN0cy9Dcm9jb2RpbGVEcnVpZEJlYXJTaGFwZXNoaWZ0RWZmZWN0IiwicmVhbG0iOiJwb2UyIn1d/4fc35ee4fd/CrocodileDruidBearShapeshiftEffect.webp",
+      "link": "https://pathofexile2.com/shop/item/crocolisk-bear-shapeshift-skin",
       "source": "poe2_normal",
       "kind": "discount",
       "price": {
         "original": 150,
-        "discount": 120
+        "discount": 115
       },
-      "specialEnd": "2026-10-27T00:00:00+00:00",
-      "twName": "輿圖倉庫頁",
-      "twDesc": "擴充一頁輿圖倉庫頁。輿圖倉庫頁可以放置每種類地圖共 72 張。"
+      "specialEnd": "2026-10-28T00:00:00+00:00",
+      "twName": "巨熊變形外觀：巨鱷神兵",
+      "twDesc": "在你變形成巨熊時，將外觀替換為巨鱷神兵。"
     },
     {
       "english": {
-        "name": "Premium Quad Stash Tab",
-        "description": "Add a premium Quad Stash Tab to your account. Premium Quad Stash Tabs have four times the space of regular Stash Tabs. They can be set to public and used to list your items on the Trade website."
+        "name": "Crocolisk Werewolf Shapeshift Skin",
+        "description": "When shapeshifting into a Werewolf, you take the appearance of a Crocolisk Werewolf."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9hY2NvdW50LWZlYXR1cmVzL1F1YWRUYWIiLCJyZWFsbSI6InBvZTIifV0/967a4bca16/QuadTab.webp",
-      "link": "https://pathofexile2.com/shop/item/premium-quad-stash-tab",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9jaGFyYWN0ZXItZWZmZWN0cy9XZXJld29sZkNyb2MiLCJyZWFsbSI6InBvZTIifV0/e45f28d801/WerewolfCroc.webp",
+      "link": "https://pathofexile2.com/shop/item/crocolisk-werewolf-shapeshift-skin",
       "source": "poe2_normal",
       "kind": "discount",
       "price": {
         "original": 150,
-        "discount": 120
+        "discount": 115
       },
-      "specialEnd": "2026-10-27T00:00:00+00:00",
-      "twName": "高級巨型倉庫頁",
-      "twDesc": "擴充一頁高級巨型倉庫頁，高級巨型倉庫頁是一般倉庫頁的四倍大小。"
+      "specialEnd": "2026-10-28T00:00:00+00:00",
+      "twName": "狼人變形外觀：巨鱷神兵",
+      "twDesc": "在你變形成狼人時，將外觀替換為巨鱷神兵。"
     },
     {
       "english": {
-        "name": "Merchant's Tab Bundle",
-        "description": "Adds six Merchant's Tab to your account. Merchant's Tabs can be used to sell your items to other players without being present for the sale. Find Ange in Kingsmarch to establish a hideout, then begin managing your shop and selling your items."
+        "name": "Crocolisk Wyvern Shapeshift Skin",
+        "description": "When shapeshifting into a Wyvern, you take the appearance of a Crocolisk wyvern."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9hY2NvdW50LWZlYXR1cmVzL01lcmNoYW50c1RhYiIsInJlYWxtIjoicG9lMiJ9XQ/101b2031bf/MerchantsTab.webp",
-      "link": "https://pathofexile2.com/shop/item/merchants-tab-bundle",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9jaGFyYWN0ZXItZWZmZWN0cy9Dcm9jb2RpbGVEcnVpZFd5dmVyblNoYXBlc2hpZnRFZmZlY3QiLCJyZWFsbSI6InBvZTIifV0/5b86706e2d/CrocodileDruidWyvernShapeshiftEffect.webp",
+      "link": "https://pathofexile2.com/shop/item/crocolisk-wyvern-shapeshift-skin",
       "source": "poe2_normal",
       "kind": "discount",
       "price": {
-        "original": 200,
-        "discount": 165
+        "original": 150,
+        "discount": 115
       },
-      "specialEnd": "2026-10-27T00:00:00+00:00",
-      "twName": "商人倉庫頁組合包",
-      "twDesc": "擴充一頁商人倉庫頁。商人倉庫頁可以用來向其他玩家販售物品，你本人不需要在場。在金司馬區尋找安潔以建立藏身處，接著開始管理你的商店並販售你的物品。"
+      "specialEnd": "2026-10-28T00:00:00+00:00",
+      "twName": "飛龍變形外觀：巨鱷神兵",
+      "twDesc": "在你變形成飛龍時，將外觀替換為巨鱷神兵。"
     },
     {
       "english": {
-        "name": "Premium Stash Tab Bundle",
-        "description": "Adds six extra premium tabs to your shared stash (at a discounted price). Premium tabs can be set to public and used to list your items on the Trade website. They can also have their name and colour changed whenever you want."
+        "name": "Jade Arctic Armour",
+        "description": "Replaces the standard effect on an Arctic Armour gem with a jade version."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9hY2NvdW50LWZlYXR1cmVzL0xhcmdlSW1hZ2VzdGFzaHRhYnByZW1pdW1pbWFnZSIsInJlYWxtIjoicG9lMiJ9XQ/b3d7e69a80/LargeImagestashtabpremiumimage.webp",
-      "link": "https://pathofexile2.com/shop/item/premium-stash-tab-bundle",
-      "source": "poe2_normal",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9KYWRlQXJjdGljQXJtb3VyIn1d/7d76e636c2/JadeArcticArmour.png",
+      "link": "https://www.pathofexile.com/shop/item/JadeArcticArmour",
+      "source": "poe1",
       "kind": "discount",
       "price": {
-        "original": 200,
-        "discount": 165
+        "original": 135,
+        "discount": 105
       },
-      "specialEnd": "2026-10-27T00:00:00+00:00",
-      "twName": "高級倉庫頁組合包",
-      "twDesc": "擴充六頁額外的高級倉庫頁（這是優惠組合），高級倉庫頁可以更改頁面標籤的顏色與名字。"
+      "twName": "翡翠極地裝甲",
+      "twDesc": "將極地裝甲的特效替換為青綠翡翠。"
     },
     {
       "english": {
-        "name": "Exile's Stash Bundle",
-        "description": "Adds a Currency Tab, Merchant's Tab, Unique Collection Tab, Fragment Tab, Flask Tab, Gem Tab, Augment Tab, Breach Tab, Expedition Tab, Ritual Tab, Delirium Tab, Essence Tab, and Quad Tab to your account (at a discounted price)."
+        "name": "Canopy Hideout",
+        "description": "Adds the Canopy Hideout to your account."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9hY2NvdW50LWZlYXR1cmVzL0N1cnJlbmN5VGFiIiwicmVhbG0iOiJwb2UyIn1d/b37575d158/CurrencyTab.webp",
-      "link": "https://pathofexile2.com/shop/item/exiles-stash-bundle",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9IaWRlb3V0L0Nhbm9weUhpZGVvdXQiLCJyZWFsbSI6InBvZTIifV0/937c219b30/CanopyHideout.webp",
+      "link": "https://pathofexile2.com/shop/item/canopy-hideout",
       "source": "poe2_normal",
       "kind": "discount",
       "price": {
-        "original": 605,
-        "discount": 500
+        "original": 300,
+        "discount": 240
       },
-      "specialEnd": "2026-10-27T00:00:00+00:00",
-      "twName": "流亡者的倉庫組合包",
-      "twDesc": "為你的帳號新增通貨倉庫頁、商人倉庫頁、傳奇倉庫頁、碎片倉庫頁、藥劑倉庫頁、寶石倉庫頁、增幅倉庫頁、裂痕倉庫頁、死境探險倉庫頁、祭祀倉庫頁、譫妄倉庫頁、精髓倉庫頁及巨型倉庫頁（這是優惠組合）。"
+      "specialEnd": "2026-10-28T00:00:00+00:00",
+      "twName": "藏身處：樹冠",
+      "twDesc": "新增藏身處：樹冠至你的帳號。"
+    },
+    {
+      "english": {
+        "name": "Canopy Hideout (Guild)",
+        "description": "Adds the Canopy Hideout to your Guild."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9IaWRlb3V0L0Nhbm9weUhpZGVvdXQiLCJyZWFsbSI6InBvZTIifV0/937c219b30/CanopyHideout.webp",
+      "link": "https://pathofexile2.com/shop/item/canopy-hideout-guild",
+      "source": "poe2_normal",
+      "kind": "discount",
+      "price": {
+        "original": 300,
+        "discount": 240
+      },
+      "specialEnd": "2026-10-28T00:00:00+00:00",
+      "twName": "藏身處：樹冠 (公會)",
+      "twDesc": "為你的公會增添樹冠藏身處。"
+    },
+    {
+      "english": {
+        "name": "Green Warp Rune Hideout Decoration",
+        "description": "Adds a Green Warp Rune Hideout Decoration to your personal Hideout, allowing you to warp to a destination in your hideout that you can place separately."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9IaWRlb3V0L1dhcnBSdW5lc0hpZGVvdXREZWNvcmF0aW9uR3JlZW4iLCJyZWFsbSI6InBvZTIifV0/b43f2d46ff/WarpRunesHideoutDecorationGreen.webp",
+      "link": "https://pathofexile2.com/shop/item/green-warp-rune-hideout-decoration",
+      "source": "poe2_variant",
+      "kind": "discount",
+      "price": {
+        "original": 50,
+        "discount": 40
+      },
+      "specialEnd": "2026-10-28T00:00:00+00:00",
+      "twName": "裝飾物：綠色傳送符紋",
+      "twDesc": "為你的藏身處添加一個綠色傳送符紋，讓你可以在藏身處中傳送。"
+    },
+    {
+      "english": {
+        "name": "Green Warp Rune Hideout Decoration (Guild)",
+        "description": "Adds a Green Warp Rune Hideout Decoration to your Guild Hideout, allowing you to warp to a destination in your hideout that you can place separately."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9IaWRlb3V0L1dhcnBSdW5lc0hpZGVvdXREZWNvcmF0aW9uR3JlZW4iLCJyZWFsbSI6InBvZTIifV0/b43f2d46ff/WarpRunesHideoutDecorationGreen.webp",
+      "link": "https://pathofexile2.com/shop/item/green-warp-rune-hideout-decoration-guild",
+      "source": "poe2_variant",
+      "kind": "discount",
+      "price": {
+        "original": 50,
+        "discount": 40
+      },
+      "specialEnd": "2026-10-28T00:00:00+00:00",
+      "twName": "裝飾物：綠色傳送符紋 (公會)",
+      "twDesc": "為你的公會增添此裝飾物。"
+    },
+    {
+      "english": {
+        "name": "Blood Moon Primal Effects Bundle",
+        "description": "Contains the Blood Moon Shred Effect, Blood Moon Cross Slash Effect, Blood MoonPounce Effect, Blood Moon Lunar Assault Effect, Blood Moon Lunar Blessing Effect, and Blood Moon Arctic Howl Effect (at a discounted price)."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9hbHRlcm5hdGUtc2tpbGwtZWZmZWN0cy9XZXJld29sZlZhbXBpcmVMdW5hckJsZXNzaW5nIiwicmVhbG0iOiJwb2UyIn1d/bc93443636/WerewolfVampireLunarBlessing.webp",
+      "link": "https://pathofexile2.com/shop/item/blood-moon-primal-effects-bundle",
+      "source": "poe2_normal",
+      "kind": "discount",
+      "price": {
+        "original": 400,
+        "discount": 340
+      },
+      "specialEnd": "2026-10-28T00:00:00+00:00",
+      "twName": "血月技能組合包",
+      "twDesc": "包含了裂碎．血月、縱橫劈斬．血月、猛撲．血月、月光突襲．血月、月光賜福．血月、以及極地狂嚎．血月（這是優惠組合）。"
     },
     {
       "english": {
@@ -2478,6 +2704,20 @@
     },
     {
       "english": {
+        "name": "Relic Stash Tab",
+        "description": "Add a Relic Stash Tab to your account."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9hY2NvdW50LWZlYXR1cmVzL1JlbGljVGFiIiwicmVhbG0iOiJwb2UyIn1d/d4e9ad365f/RelicTab.webp",
+      "link": "https://pathofexile2.com/shop/item/relic-stash-tab",
+      "source": "poe2_new",
+      "kind": "new",
+      "price": {
+        "original": 40,
+        "discount": 40
+      }
+    },
+    {
+      "english": {
         "name": "Return of the Ancients Mystery Box",
         "description": "Receive a random prize with a Return of the Ancients theme! It'll appear inside your MTX stash, waiting to be unwrapped."
       },
@@ -3931,6 +4171,71 @@
       },
       "twName": "升級特效．鳳凰展翅",
       "twDesc": "在你升級時增添一個鳳凰展翅效果。火焰翅膀效果會在當前區域內持續保持在角色上。"
+    },
+    {
+      "english": {
+        "name": "Not the Bees! Chest Extra Effect",
+        "description": "The Not the Bees! Chest Extra Effect causes chests to explode with bees!"
+      },
+      "link": "https://www.pathofexile.com/shop/item/NotTheBeesChestExtraEffect",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9DaGVzdE9wZW5FeHRyYUJlZXNFZmZlY3QifV0/a14382e585/ChestOpenExtraBeesEffect.png",
+      "source": "poe1",
+      "price": {
+        "discount": 70,
+        "original": 95
+      }
+    },
+    {
+      "english": {
+        "name": "Trapped Wisps Chest Extra Effect",
+        "description": "The Trapped Wisp Chest Extra Effects causes chests to explode with trapped wisps!"
+      },
+      "link": "https://www.pathofexile.com/shop/item/TrappedWispsChestExtraEffect",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9DaGVzdE9wZW5FeHRyYVdpc3BzRWZmZWN0In1d/f788e5bc05/ChestOpenExtraWispsEffect.png",
+      "source": "poe1",
+      "price": {
+        "discount": 70,
+        "original": 90
+      }
+    },
+    {
+      "english": {
+        "name": "Botanist's Powerful Back Attachment",
+        "description": "Adds the Botanist's Powerful Back Attachment to your body armour. Power Charges attach to a tree that just so happens to be growing out of your back."
+      },
+      "link": "https://www.pathofexile.com/shop/item/BotanistsPowerfulBackAttachment",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9Qb3dlcmZ1bFRyZWVCYWNrQXR0YWNobWVudCJ9XQ/4cb0845e6d/PowerfulTreeBackAttachment.png",
+      "source": "poe1",
+      "price": {
+        "discount": 155,
+        "original": 205
+      }
+    },
+    {
+      "english": {
+        "name": "Botanist's Frenzied Back Attachment",
+        "description": "Adds the Botanist's Frenzied Back Attachment to your body armour. Frenzy Charges attach to a tree that just so happens to be growing out of your back."
+      },
+      "link": "https://www.pathofexile.com/shop/item/BotanistsFrenziedBackAttachment",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9GcmVuemllZFRyZWVCYWNrQXR0YWNobWVudCJ9XQ/ae21a46f91/FrenziedTreeBackAttachment.png",
+      "source": "poe1",
+      "price": {
+        "discount": 150,
+        "original": 195
+      }
+    },
+    {
+      "english": {
+        "name": "Botanist's Enduring Back Attachment",
+        "description": "Adds the Botanist's Enduring Back Attachment to your body armour. Endurance Charges attach to a tree that just so happens to be growing out of your back."
+      },
+      "link": "https://www.pathofexile.com/shop/item/BotanistsEnduringBackAttachment",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9FbmR1cmluZ1RyZWVCYWNrQXR0YWNobWVudCJ9XQ/f0f6e47c41/EnduringTreeBackAttachment.png",
+      "source": "poe1",
+      "price": {
+        "discount": 145,
+        "original": 190
+      }
     }
   ]
 }
