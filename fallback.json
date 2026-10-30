@@ -1,85 +1,471 @@
 {
-  "date": "2026-10-29 23:15:55",
+  "date": "2026-10-30 07:04:02",
   "items": [
     {
       "english": {
-        "name": "Eldritch Spawn Pet",
-        "description": "This excitable eldritch spawn will energize your endeavours."
+        "name": "Arctic Weapon Effect",
+        "description": "Imbues a weapon with swirling ice."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvUGV0cy9FbGRyaXRjaFNwYXduUGV0In1d/174e469e5b/EldritchSpawnPet.png",
-      "link": "https://www.pathofexile.com/shop/item/EldritchSpawnPet",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vd2VhcG9uX2FyY3RpYyJ9XQ/87c56ee838/weapon_arctic.png",
+      "link": "https://www.pathofexile.com/shop/item/ArcticWeaponEffect",
       "source": "poe1",
       "kind": "discount",
       "price": {
-        "original": 60,
-        "discount": 40
+        "original": 250,
+        "discount": 145
       },
-      "twName": "寵物：異能謎物",
-      "twDesc": "這隻異能謎物會跟隨你踏遍鬼島。"
+      "twName": "武器特效：極地冰雪",
+      "twDesc": "為你的武器注入極寒的冰霜之力，使其被極地冰雪所環繞。"
     },
     {
       "english": {
-        "name": "Void Emperor Summon Skitterbots Skin",
-        "description": "Replaces the standard skin on a Summon Skitterbot gem with a void emperor version."
+        "name": "Infernal Weapon Effect",
+        "description": "Imbues a weapon with seething flame."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Db3JydXB0ZWRFbXBlcm9yU3VtbW9uU2tpdHRlcmJvdHMifV0/b0b8997ebc/CorruptedEmperorSummonSkitterbots.png",
-      "link": "https://www.pathofexile.com/shop/item/VoidEmperorSummonSkitterbotsSkin",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vd2VhcG9uX2luZmVybmFsIn1d/4f9d2e782c/weapon_infernal.png",
+      "link": "https://www.pathofexile.com/shop/item/InfernalWeaponEffect",
       "source": "poe1",
       "kind": "discount",
       "price": {
-        "original": 150,
-        "discount": 100
+        "original": 280,
+        "discount": 165
       },
-      "twName": "召喚探測機獸．虛空帝王",
-      "twDesc": "將技能「召喚探測機獸」的特效替換為虛空帝王。"
+      "twName": "武器特效：煉獄業火",
+      "twDesc": "為你的武器注入憤怒的烈焰之力，使其被煉獄業火所環繞。"
     },
     {
       "english": {
-        "name": "Madness Propagator Pet",
-        "description": "This peculiar pet will play peek-a-boo with you on your travels."
+        "name": "Lightning Weapon Effect",
+        "description": "Imbues a weapon with sparking lightning."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvUGV0cy9NYWRuZXNzUHJvcGFnYXRvclBldCJ9XQ/6d5c94e5ba/MadnessPropagatorPet.png",
-      "link": "https://www.pathofexile.com/shop/item/MadnessPropagatorPet",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vd2VhcG9uX2xpZ2h0bmluZyJ9XQ/4d75da3fb7/weapon_lightning.png",
+      "link": "https://www.pathofexile.com/shop/item/LightningWeaponEffect",
       "source": "poe1",
       "kind": "discount",
       "price": {
-        "original": 110,
-        "discount": 75
+        "original": 270,
+        "discount": 160
       },
-      "twName": "寵物：狂顛疫病",
-      "twDesc": "這隻狂顛疫病會跟隨你踏遍鬼島。"
+      "twName": "武器特效：雷霆風暴",
+      "twDesc": "為你的武器注入奔放的雷霆之力，使其被雷霆風暴所環繞。"
     },
     {
       "english": {
-        "name": "Void Character Effect",
-        "description": "Adds the Void Character Effect to your character."
+        "name": "Skin Transfer",
+        "description": "Transfers the visual appearance of one item to another of the same type, destroying the first item until reclaimed. (Consumable microtransaction)"
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9DaGFyYWN0ZXIvVm9pZENoYXJhY3RlckVmZmVjdCJ9XQ/353213c6b9/VoidCharacterEffect.png",
-      "link": "https://www.pathofexile.com/shop/item/VoidCharacterEffect",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvQ29uc1NraW5UcmFucyIsInJlYWxtIjoicG9lMiJ9XQ/2bac389ee3/ConsSkinTrans.webp",
+      "link": "https://pathofexile2.com/shop/item/skin-transfer",
+      "source": "poe2_variant",
+      "kind": "discount",
+      "price": {
+        "original": 6,
+        "discount": 4
+      },
+      "specialEnd": "2026-11-03T00:00:00+00:00",
+      "twName": "裝備塑形",
+      "twDesc": "將指定道具的外觀轉移到另一件同種類的道具上（被轉移外觀的道具將會被摧毀直到你將該外觀移除，消耗型道具。）"
+    },
+    {
+      "english": {
+        "name": "Dark Seraph Shield",
+        "description": "Replaces the appearance of a shield with the Dark Seraph Shield."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TaGllbGRzL0RhcmtTZXJhcGhTaGllbGQifV0/f2a4f9c235/DarkSeraphShield.png",
+      "link": "https://www.pathofexile.com/shop/item/DarkSeraphShield",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 200,
+        "discount": 135
+      },
+      "twName": "護盾外觀：聖權魔使",
+      "twDesc": "將你的護盾外觀替換為聖權魔使。"
+    },
+    {
+      "english": {
+        "name": "Seraph Shield",
+        "description": "Replaces the appearance of a shield with the Seraph Shield."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TaGllbGRzL1NlcmFwaFNoaWVsZCJ9XQ/ae25fae992/SeraphShield.png",
+      "link": "https://www.pathofexile.com/shop/item/SeraphShield",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 200,
+        "discount": 135
+      },
+      "twName": "護盾外觀：聖權神使",
+      "twDesc": "將你的護盾外觀替換為聖權神使之盾。"
+    },
+    {
+      "english": {
+        "name": "Ghostflame Weapon Effect",
+        "description": "Imbues a weapon with the Ghostflame weapon effect."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vd2VhcG9uX2dob3N0ZmxhbWUifV0/68f4a6d2f3/weapon_ghostflame.png",
+      "link": "https://www.pathofexile.com/shop/item/GhostflameWeaponEffect",
       "source": "poe1",
       "kind": "discount",
       "price": {
         "original": 220,
         "discount": 150
       },
-      "twName": "角色特效：虛空行者",
-      "twDesc": "為你的角色添加虛空行者。"
+      "twName": "武器特效：幽冷青焰",
+      "twDesc": "為你的武器注入鬼火之力，使其被幽冷青焰環繞。"
     },
     {
       "english": {
-        "name": "Void Emperor Lacerate Effect",
-        "description": "Replaces the standard effect on a Lacerate gem with a void emperor version."
+        "name": "Titan Maul",
+        "description": "Replaces the appearance of a Two Hand Mace, Axe or Sword with the Titan Maul."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Wb2lkRW1wZXJvckxhY2VyYXRlRWZmZWN0In1d/de267e1565/VoidEmperorLacerateEffect.png",
-      "link": "https://www.pathofexile.com/shop/item/VoidEmperorLacerateEffect",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vVGl0YW5NYXVsIn1d/d47d1e9164/TitanMaul.png",
+      "link": "https://www.pathofexile.com/shop/item/TitanMaul",
       "source": "poe1",
       "kind": "discount",
       "price": {
-        "original": 95,
-        "discount": 65
+        "original": 240,
+        "discount": 165
       },
-      "twName": "破空斬．虛空帝王",
-      "twDesc": "你的破空斬技能充滿了虛空帝王效果。"
+      "twName": "武器外觀：泰坦巨錘",
+      "twDesc": "將你的雙手劍、雙手斧、或雙手錘外觀替換為泰坦巨錘。"
+    },
+    {
+      "english": {
+        "name": "Infernal Axe",
+        "description": "Replaces the appearance of a Two Hand Axe, Mace or Sword with the Infernal Axe."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vSW5mZXJuYWxBeGVTa2luIn1d/08301f8bb0/InfernalAxeSkin.png",
+      "link": "https://www.pathofexile.com/shop/item/InfernalAxe",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 200,
+        "discount": 140
+      },
+      "twName": "武器外觀：煉獄魔斧",
+      "twDesc": "將你的雙手斧、雙手錘或雙手劍外觀替換為煉獄魔斧。"
+    },
+    {
+      "english": {
+        "name": "Purple Lightning Weapon Effect",
+        "description": "Imbues a weapon with purple lightning."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vd2VhcG9uX2xpZ2h0bmluZ3B1cnBsZSJ9XQ/cc0bc722f7/weapon_lightningpurple.png",
+      "link": "https://www.pathofexile.com/shop/item/PurpleLightningWeaponEffect",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 200,
+        "discount": 140
+      },
+      "twName": "武器特效：秘能風暴",
+      "twDesc": "為你的武器注入秘能風暴之力。"
+    },
+    {
+      "english": {
+        "name": "Skin Transfer x10",
+        "description": "A discounted pack of 10 consumable Skin Transfers."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvQ29uc1NraW5UcmFucyIsInJlYWxtIjoicG9lMiJ9XQ/2bac389ee3/ConsSkinTrans.webp",
+      "link": "https://pathofexile2.com/shop/item/skin-transfer-x10",
+      "source": "poe2_variant",
+      "kind": "discount",
+      "price": {
+        "original": 50,
+        "discount": 35
+      },
+      "specialEnd": "2026-11-03T00:00:00+00:00",
+      "twName": "裝備塑形包",
+      "twDesc": "以折扣價格購入 10 個裝備塑型道具。"
+    },
+    {
+      "english": {
+        "name": "Azure Seraph Weapon Effect",
+        "description": "Imbues a weapon with the Azure Seraph weapon effect."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vd2VhcG9uX3NlcmFwaF9henVyZSJ9XQ/d153f9dbd4/weapon_seraph_azure.png",
+      "link": "https://www.pathofexile.com/shop/item/AzureSeraphWeaponEffect",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 190,
+        "discount": 135
+      },
+      "twName": "武器特效：湛藍神使",
+      "twDesc": "為你的武器注入湛藍神使特效。"
+    },
+    {
+      "english": {
+        "name": "Carnage Shield",
+        "description": "Replaces the appearance of a shield with the Carnage Shield."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TaGllbGRzL0Nhcm5hZ2VTaGllbGQifV0/26752ca3ed/CarnageShield.png",
+      "link": "https://www.pathofexile.com/shop/item/CarnageShield",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 190,
+        "discount": 135
+      },
+      "twName": "護盾外觀：屠殺",
+      "twDesc": "將你的護盾外觀替換為屠殺。"
+    },
+    {
+      "english": {
+        "name": "Coldsnap Shield",
+        "description": "Replaces the appearance of a shield with the Coldsnap Shield."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TaGllbGRzL0NvbGRzbmFwU2hpZWxkIn1d/7cd3bb8fc0/ColdsnapShield.png",
+      "link": "https://www.pathofexile.com/shop/item/ColdsnapShield",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 185,
+        "discount": 135
+      },
+      "twName": "護盾外觀：冰霜暴雪",
+      "twDesc": "將你的護盾外觀替換為冰霜暴雪。"
+    },
+    {
+      "english": {
+        "name": "Pandemonium Shield",
+        "description": "Replaces the appearance of a shield with the Pandemonium Shield."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TaGllbGRzL1BhbmRlbW9uaXVtU2hpZWxkU2tpbiJ9XQ/f454428d7f/PandemoniumShieldSkin.png",
+      "link": "https://www.pathofexile.com/shop/item/PandemoniumShield",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 360,
+        "discount": 265
+      },
+      "twName": "護盾外觀：煉獄浩劫",
+      "twDesc": "將你的護盾外觀替換為煉獄浩劫。"
+    },
+    {
+      "english": {
+        "name": "Transcendence Shield",
+        "description": "Replaces the appearance of a shield with the Transcendence Shield."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TaGllbGRzL1RyYW5zY2VuZGVuY2VTaGllbGRTa2luIn1d/0371cd9789/TranscendenceShieldSkin.png",
+      "link": "https://www.pathofexile.com/shop/item/TranscendenceShield",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 360,
+        "discount": 265
+      },
+      "twName": "護盾外觀：異能謎力",
+      "twDesc": "將你的護盾外觀替換為異能謎力。"
+    },
+    {
+      "english": {
+        "name": "Astral Weapon Effect",
+        "description": "Imbues a weapon with the Astral Weapon Effect."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vd2VhcG9uX0FzdHJhbFdlYXBvbkVmZmVjdCJ9XQ/9483750a8d/weapon_AstralWeaponEffect.png",
+      "link": "https://www.pathofexile.com/shop/item/AstralWeaponEffect",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 190,
+        "discount": 140
+      },
+      "twName": "武器特效：璀璨星際",
+      "twDesc": "為你的武器注入璀璨星際。"
+    },
+    {
+      "english": {
+        "name": "Balefire Weapon",
+        "description": "Replaces the appearance of any weapon with the Balefire Weapon or quiver with the Balefire Quiver."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vQmFsZWZpcmVXZWFwb25Ta2luIn1d/d6f048fc84/BalefireWeaponSkin.png",
+      "link": "https://www.pathofexile.com/shop/item/BalefireWeapon",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 190,
+        "discount": 140
+      },
+      "twName": "武器外觀：野火",
+      "twDesc": "將你的武器外觀替換為野火。"
+    },
+    {
+      "english": {
+        "name": "Celestial Staff",
+        "description": "Replaces the appearance of a Staff with the Celestial Staff."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vQ2VsZXN0aWFsU3RhZmYifV0/db5dd9dd10/CelestialStaff.png",
+      "link": "https://www.pathofexile.com/shop/item/CelestialStaff",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 190,
+        "discount": 140
+      },
+      "twName": "武器外觀：眾星之杖",
+      "twDesc": "將你的長杖外觀替換為眾星之杖。"
+    },
+    {
+      "english": {
+        "name": "Dark Magic Weapon Effect",
+        "description": "Imbues a weapon with the Dark Magic Weapon Effect."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vd2VhcG9uX0RhcmtNYWdpY1dlYXBvbkVmZmVjdCJ9XQ/4c97eb1758/weapon_DarkMagicWeaponEffect.png",
+      "link": "https://www.pathofexile.com/shop/item/DarkMagicWeaponEffect",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 190,
+        "discount": 140
+      },
+      "twName": "武器特效：黑魔法",
+      "twDesc": "為你的武器注入黑魔法。"
+    },
+    {
+      "english": {
+        "name": "Dragon Hunter Weapon Effect",
+        "description": "Imbues a weapon with the Dragon Hunter Weapon Effect."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vd2VhcG9uX0RyYWdvbkh1bnRlciJ9XQ/af098f5e92/weapon_DragonHunter.png",
+      "link": "https://www.pathofexile.com/shop/item/DragonHunterWeaponEffect",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 190,
+        "discount": 140
+      },
+      "twName": "武器特效：獵龍幻士",
+      "twDesc": "將你的武器注入獵龍幻士效果。"
+    },
+    {
+      "english": {
+        "name": "Dragon Shield",
+        "description": "Replaces the appearance of a shield with the Dragon Shield."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TaGllbGRzL0RyYWdvblNoaWVsZCJ9XQ/3c67bb2d7a/DragonShield.png",
+      "link": "https://www.pathofexile.com/shop/item/DragonShield",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 190,
+        "discount": 140
+      },
+      "twName": "護盾外觀：龍魂",
+      "twDesc": "將你的護盾外觀替換為龍魂。"
+    },
+    {
+      "english": {
+        "name": "Harmonious Weapon",
+        "description": "Replaces the appearance of any weapon with the Harmonious Weapon."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vSGFybW9uaW91c1dlYXBvblNraW4ifV0/7c26b8c486/HarmoniousWeaponSkin.png",
+      "link": "https://www.pathofexile.com/shop/item/HarmoniousWeapon",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 190,
+        "discount": 140
+      },
+      "twName": "武器外觀：和煦太祥",
+      "twDesc": "將你的任一武器外觀替換為和煦太祥。"
+    },
+    {
+      "english": {
+        "name": "Illusionist Shield",
+        "description": "Replaces the appearance of a shield with the Illusionist Shield."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TaGllbGRzL0lsbHVzaW9uaXN0U2hpZWxkU2tpbiJ9XQ/88c36941a3/IllusionistShieldSkin.png",
+      "link": "https://www.pathofexile.com/shop/item/IllusionistShield",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 190,
+        "discount": 140
+      },
+      "twName": "護盾外觀：神幻術士",
+      "twDesc": "將你的護盾外觀替換為神幻術士。"
+    },
+    {
+      "english": {
+        "name": "Mercurial Shield",
+        "description": "Replaces the appearance of a shield with the Mercurial Shield."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TaGllbGRzL01lcmN1cmlhbFNoaWVsZCJ9XQ/5c150012e0/MercurialShield.png",
+      "link": "https://www.pathofexile.com/shop/item/MercurialShield",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 190,
+        "discount": 140
+      },
+      "twName": "護盾外觀：水星逆行",
+      "twDesc": "將你的護盾外觀替換為水星逆行。"
+    },
+    {
+      "english": {
+        "name": "Nightwatch Weapon Effect",
+        "description": "Imbues a weapon with the Nightwatch Weapon Effect."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vd2VhcG9uX05pZ2h0d2F0Y2hXZWFwb25FZmZlY3QifV0/38572c5918/weapon_NightwatchWeaponEffect.png",
+      "link": "https://www.pathofexile.com/shop/item/NightwatchWeaponEffect",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 190,
+        "discount": 140
+      },
+      "twName": "武器特效：守夜先鋒",
+      "twDesc": "為你的武器注入守夜先鋒。"
+    },
+    {
+      "english": {
+        "name": "Pestilence Weapon Effect",
+        "description": "Imbues a weapon with the Pestilence Weapon Effect."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vd2VhcG9uX3Blc3RpbGVuY2UifV0/7a4663d6e6/weapon_pestilence.png",
+      "link": "https://www.pathofexile.com/shop/item/PestilenceWeaponEffect",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 190,
+        "discount": 140
+      },
+      "twName": "武器特效：病死瘟疫",
+      "twDesc": "為你的武器注入病死瘟疫的特效。"
+    },
+    {
+      "english": {
+        "name": "Vaal Orb Weapon",
+        "description": "Replaces the appearance of an Axe, Sword, Mace, Staff or Bow with the Vaal Orb Weapon."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vVmFhbE9yYldlYXBvblNraW4ifV0/4e1ce7eea9/VaalOrbWeaponSkin.png",
+      "link": "https://www.pathofexile.com/shop/item/VaalOrbWeapon",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 190,
+        "discount": 140
+      },
+      "twName": "武器外觀：瓦爾寶珠",
+      "twDesc": "將你的斧、劍、錘、長杖或弓外觀替換為瓦爾寶珠。"
+    },
+    {
+      "english": {
+        "name": "Viper Bow",
+        "description": "Replaces the appearance of a Bow with the Viper Bow."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vVmlwZXJCb3cifV0/fa99a2b6fe/ViperBow.png",
+      "link": "https://www.pathofexile.com/shop/item/ViperBow",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 190,
+        "discount": 140
+      },
+      "twName": "武器外觀：至尊毒蛇弓",
+      "twDesc": "將你的弓外觀替換為至尊毒蛇弓。"
     },
     {
       "english": {
@@ -92,171 +478,1278 @@
       "kind": "discount",
       "price": {
         "original": 190,
-        "discount": 130
+        "discount": 140
       },
       "twName": "武器特效：虛空行者",
       "twDesc": "為你的武器注入虛空行者。"
     },
     {
       "english": {
-        "name": "Void Detonate Dead Effect",
-        "description": "Replaces the standard effect on a Detonate Dead gem with a void version."
+        "name": "Arcane Celestial Shield",
+        "description": "Replaces the appearance of a shield with the Arcane Celestial Shield."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Wb2lkRGV0b25hdGVEZWFkRWZmZWN0In1d/aa4aaa2583/VoidDetonateDeadEffect.png",
-      "link": "https://www.pathofexile.com/shop/item/VoidDetonateDeadEffect",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TaGllbGRzL0FyY2FuZUNlbGVzdGlhbFNoaWVsZCJ9XQ/103fde1f15/ArcaneCelestialShield.png",
+      "link": "https://www.pathofexile.com/shop/item/ArcaneCelestialShield",
       "source": "poe1",
       "kind": "discount",
       "price": {
-        "original": 130,
-        "discount": 90
+        "original": 210,
+        "discount": 155
       },
-      "twName": "屍體爆破．虛空",
-      "twDesc": "你的屍體爆破特效替換為虛空。"
+      "twName": "護盾外觀：秘能眾星",
+      "twDesc": "將你的護盾外觀替換為秘能眾星。"
     },
     {
       "english": {
-        "name": "Void Emperor Arcane Cloak Effect",
-        "description": "Replaces the standard effect on an Arcane Cloak gem with a void emperor version."
+        "name": "Arctic Shield",
+        "description": "Replaces the appearance of a shield with the Arctic Shield."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Wb2lkRW1wZXJvckFyY2FuZUNsb2FrIn1d/14b671047a/VoidEmperorArcaneCloak.png",
-      "link": "https://www.pathofexile.com/shop/item/VoidEmperorArcaneCloakEffect",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TaGllbGRzL0FyY3RpY1NoaWVsZCJ9XQ/836422030c/ArcticShield.png",
+      "link": "https://www.pathofexile.com/shop/item/ArcticShield",
       "source": "poe1",
       "kind": "discount",
       "price": {
-        "original": 130,
-        "discount": 90
+        "original": 210,
+        "discount": 155
       },
-      "twName": "秘能披風．虛空帝王",
-      "twDesc": "你的秘能披風特效替換為虛空帝王。"
+      "twName": "護盾外觀：極地冰雪",
+      "twDesc": "將你的護盾外觀替換為極地冰雪。"
     },
     {
       "english": {
-        "name": "Void Emperor Aura Effect",
-        "description": "Replaces the standard effect on an Aura gem with a void emperor version."
+        "name": "Celestial Shield",
+        "description": "Replaces the appearance of a shield with the Celestial Shield."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9BdXJhcy9Wb2lkRW1wZXJvckF1cmFFZmZlY3QifV0/c0b954d908/VoidEmperorAuraEffect.png",
-      "link": "https://www.pathofexile.com/shop/item/VoidEmperorAuraEffect",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TaGllbGRzL0NlbGVzdGlhbFNoaWVsZCJ9XQ/d24adaf90e/CelestialShield.png",
+      "link": "https://www.pathofexile.com/shop/item/CelestialShield",
       "source": "poe1",
       "kind": "discount",
       "price": {
-        "original": 130,
-        "discount": 90
+        "original": 210,
+        "discount": 155
       },
-      "twName": "光環效果．虛空帝王",
-      "twDesc": "你的光環特效替換為虛空帝王。"
+      "twName": "護盾外觀：眾星之盾",
+      "twDesc": "將你的護盾外觀替換為眾星之盾。"
     },
     {
       "english": {
-        "name": "Void Emperor Cremation Effect",
-        "description": "Replaces the standard effect on a Cremation gem with a void emperor version."
+        "name": "Darkprism Shield",
+        "description": "Replaces the appearance of a shield with the Darkprism Shield."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Wb2lkRW1wZXJvckNyZW1hdGlvbkVmZmVjdCJ9XQ/bddec61b2b/VoidEmperorCremationEffect.png",
-      "link": "https://www.pathofexile.com/shop/item/VoidEmperorCremationEffect",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TaGllbGRzL0RhcmtwcmlzbVNoaWVsZCJ9XQ/0781099c3e/DarkprismShield.png",
+      "link": "https://www.pathofexile.com/shop/item/DarkprismShield",
       "source": "poe1",
       "kind": "discount",
       "price": {
-        "original": 130,
-        "discount": 90
+        "original": 210,
+        "discount": 155
       },
-      "twName": "熔岩送葬．虛空帝王",
-      "twDesc": "你的熔岩送葬技能充滿了虛空帝王效果。"
+      "twName": "護盾外觀：黑曜稜石",
+      "twDesc": "將你的護盾外觀替換為黑曜稜石。"
     },
     {
       "english": {
-        "name": "Void Spark Effect",
-        "description": "Replaces the standard effect on a Spark gem with a void version."
+        "name": "Demonic Celestial Shield",
+        "description": "Replaces the appearance of a shield with the Demonic Celestial Shield."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Wb2lkU3BhcmtFZmZlY3QifV0/8339bfa15b/VoidSparkEffect.png",
-      "link": "https://www.pathofexile.com/shop/item/VoidSparkEffect",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TaGllbGRzL0RlbW9uaWNDZWxlc3RpYWxTaGllbGQifV0/8de4250244/DemonicCelestialShield.png",
+      "link": "https://www.pathofexile.com/shop/item/DemonicCelestialShield",
       "source": "poe1",
       "kind": "discount",
       "price": {
-        "original": 130,
-        "discount": 90
+        "original": 210,
+        "discount": 155
       },
-      "twName": "電球．虛空",
-      "twDesc": "你的電球特效替換為虛空。"
+      "twName": "護盾外觀：惡魔眾星",
+      "twDesc": "將你的護盾外觀替換為惡魔眾星。"
     },
     {
       "english": {
-        "name": "Void Volatile Dead Effect",
-        "description": "Replaces the standard effect on a Volatile Dead gem with a void version."
+        "name": "Direblade Weapon Effect",
+        "description": "Imbues a weapon with the Direblade Weapon Effect."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Wb2lkVm9sYXRpbGVEZWFkRWZmZWN0In1d/efabc18568/VoidVolatileDeadEffect.png",
-      "link": "https://www.pathofexile.com/shop/item/VoidVolatileDeadEffect",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vd2VhcG9uX0RpcmVibGFkZVdlYXBvbkVmZmVjdCJ9XQ/c49df47219/weapon_DirebladeWeaponEffect.png",
+      "link": "https://www.pathofexile.com/shop/item/DirebladeWeaponEffect",
       "source": "poe1",
       "kind": "discount",
       "price": {
-        "original": 130,
-        "discount": 90
+        "original": 210,
+        "discount": 155
       },
-      "twName": "致命之息．虛空",
-      "twDesc": "你的致命之息特效替換為虛空。"
+      "twName": "武器特效：恐怖之刃",
+      "twDesc": "為你的武器注入恐怖之刃。"
     },
     {
       "english": {
-        "name": "Void Emperor Weapon Skin",
-        "description": "Changes the appearance of any equipped Claw, Dagger, Wand, Sword, One Hand Axe or One Hand Mace to the Void Emperor Weapon."
+        "name": "Dreadspire Weapon",
+        "description": "Replaces the appearance of a Sword, One Hand Axe, One Hand Mace or Staff with the Dreadspire Weapon."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vQ29ycnVwdGVkRW1wZXJvciJ9XQ/9c277d59ff/CorruptedEmperor.png",
-      "link": "https://www.pathofexile.com/shop/item/VoidEmperorWeaponSkin",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vRHJlYWRzcGlyZVdlYXBvblNraW4ifV0/790c72b314/DreadspireWeaponSkin.png",
+      "link": "https://www.pathofexile.com/shop/item/DreadspireWeapon",
       "source": "poe1",
       "kind": "discount",
       "price": {
-        "original": 180,
-        "discount": 125
+        "original": 210,
+        "discount": 155
       },
-      "twName": "武器外觀：虛空帝王",
-      "twDesc": "將你的爪、匕首、法杖、單手或雙手劍、單手斧和單手錘外觀替換為虛空帝王。"
+      "twName": "武器外觀：恐懼尖刺",
+      "twDesc": "將你的劍、單手斧、單手錘或長杖外觀替換為恐懼尖刺。"
     },
     {
       "english": {
-        "name": "Void Desecrate Effect",
-        "description": "Replaces the standard effect on a Desecrate gem with a void version."
+        "name": "Frost Viking Weapon",
+        "description": "Replaces the appearance of a Sword, Axe or Mace with the Frost Viking Weapon."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Wb2lkRGVzZWNyYXRlRWZmZWN0In1d/0741e75bfb/VoidDesecrateEffect.png",
-      "link": "https://www.pathofexile.com/shop/item/VoidDesecrateEffect",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vRnJvc3RWaWtpbmdXZWFwb25Ta2luIn1d/a3ef749770/FrostVikingWeaponSkin.png",
+      "link": "https://www.pathofexile.com/shop/item/FrostVikingWeapon",
       "source": "poe1",
       "kind": "discount",
       "price": {
-        "original": 115,
-        "discount": 80
+        "original": 210,
+        "discount": 155
       },
-      "twName": "褻瀆．虛空",
-      "twDesc": "你的褻瀆特效替換為虛空。"
+      "twName": "武器外觀：霜寒維京",
+      "twDesc": "將你的劍、斧或錘外觀替換為霜寒維京。"
     },
     {
       "english": {
-        "name": "Void Emperor Portal Effect",
-        "description": "Replaces the standard effect on portals you create with the Void Emperor Portal Effect."
+        "name": "Ghostflame Shield",
+        "description": "Replaces the appearance of a shield with the Ghostflame Shield."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Qb3J0YWxzL1ZvaWRFbXBlcm9yUG9ydGFsIn1d/0703196131/VoidEmperorPortal.png",
-      "link": "https://www.pathofexile.com/shop/item/VoidEmperorPortalEffect",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TaGllbGRzL0dob3N0ZmxhbWVTaGllbGQifV0/d4dfcd021b/GhostflameShield.png",
+      "link": "https://www.pathofexile.com/shop/item/GhostflameShield",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 210,
+        "discount": 155
+      },
+      "twName": "護盾外觀：幽冷青焰",
+      "twDesc": "將你的護盾外觀替換為幽冷青焰。"
+    },
+    {
+      "english": {
+        "name": "Illusionist Weapon",
+        "description": "Replaces the appearance of any equipped Sword, Axe, Mace or Staff to the Illusionist Weapon."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vSWxsdXNpb25pc3RXZWFwb25Ta2luIn1d/7ae2edd770/IllusionistWeaponSkin.png",
+      "link": "https://www.pathofexile.com/shop/item/IllusionistWeapon",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 210,
+        "discount": 155
+      },
+      "twName": "武器外觀：神幻術士之劍",
+      "twDesc": "將你的劍、斧、錘或長杖外觀替換為神幻術士之劍。"
+    },
+    {
+      "english": {
+        "name": "Infernal Celestial Shield",
+        "description": "Replaces the appearance of a shield with the Infernal Celestial Shield."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TaGllbGRzL0luZmVybmFsQ2VsZXN0aWFsU2hpZWxkIn1d/9575f00b19/InfernalCelestialShield.png",
+      "link": "https://www.pathofexile.com/shop/item/InfernalCelestialShield",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 210,
+        "discount": 155
+      },
+      "twName": "護盾外觀：煉獄眾星",
+      "twDesc": "將你的護盾外觀替換為煉獄眾星。"
+    },
+    {
+      "english": {
+        "name": "Magma Shield",
+        "description": "Replaces the appearance of a shield with the Magma Shield."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TaGllbGRzL01hZ21hU2hpZWxkIn1d/a5971ebdef/MagmaShield.png",
+      "link": "https://www.pathofexile.com/shop/item/MagmaShield",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 210,
+        "discount": 155
+      },
+      "twName": "護盾外觀：熔岩之心",
+      "twDesc": "將你的護盾外觀替換為熔岩之心。"
+    },
+    {
+      "english": {
+        "name": "Manticore Shield",
+        "description": "Replaces the appearance of a shield with the Manticore Shield."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TaGllbGRzL01hbnRpY29yZVNoaWVsZCJ9XQ/a2ebc0b74c/ManticoreShield.png",
+      "link": "https://www.pathofexile.com/shop/item/ManticoreShield",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 210,
+        "discount": 155
+      },
+      "twName": "護盾外觀：獅身幻獸",
+      "twDesc": "將你的護盾外觀替換為獅身幻獸。"
+    },
+    {
+      "english": {
+        "name": "Necrolord Weapon",
+        "description": "Replaces the appearance of any weapon with the Necrolord Weapon."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vTmVjcm9sb3JkV2VhcG9uU2tpbiJ9XQ/ac6e85049c/NecrolordWeaponSkin.png",
+      "link": "https://www.pathofexile.com/shop/item/NecrolordWeapon",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 210,
+        "discount": 155
+      },
+      "twName": "武器外觀：亡魂領主",
+      "twDesc": "將你的武器外觀替換為亡魂領主。"
+    },
+    {
+      "english": {
+        "name": "Stormcaller Shield",
+        "description": "Replaces the appearance of a shield with the Stormcaller Shield."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TaGllbGRzL1N0b3JtQ2FsbGVyU2hpZWxkIn1d/7d8081cdb3/StormCallerShield.png",
+      "link": "https://www.pathofexile.com/shop/item/StormcallerShield",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 210,
+        "discount": 155
+      },
+      "twName": "護盾外觀：風暴者",
+      "twDesc": "將你的護盾外觀替換為風暴者。"
+    },
+    {
+      "english": {
+        "name": "Stygian Shield",
+        "description": "Replaces the appearance of a shield with the Stygian Shield."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TaGllbGRzL1N0eWdpYW5TaGllbGQifV0/5cd20a954d/StygianShield.png",
+      "link": "https://www.pathofexile.com/shop/item/StygianShield",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 210,
+        "discount": 155
+      },
+      "twName": "護盾外觀：冥河",
+      "twDesc": "將你的護盾外觀替換為冥河。"
+    },
+    {
+      "english": {
+        "name": "Thaumaturgy Shield",
+        "description": "Replaces the appearance of a shield with the Thaumaturgy Shield."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TaGllbGRzL1RoYXVtYXR1cmd5U2hpZWxkU2tpbiJ9XQ/31364673b2/ThaumaturgyShieldSkin.png",
+      "link": "https://www.pathofexile.com/shop/item/ThaumaturgyShield",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 210,
+        "discount": 155
+      },
+      "twName": "護盾外觀：奇幻魔術",
+      "twDesc": "將你的護盾外觀替換為奇幻魔術。"
+    },
+    {
+      "english": {
+        "name": "Dark Magic Weapon",
+        "description": "Replaces the appearance of any Sword, One Hand Axe or One Hand Mace with the Dark Magic Weapon."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vRGFya01hZ2ljV2VhcG9uU2tpbiJ9XQ/c760539f64/DarkMagicWeaponSkin.png",
+      "link": "https://www.pathofexile.com/shop/item/DarkMagicWeapon",
       "source": "poe1",
       "kind": "discount",
       "price": {
         "original": 230,
-        "discount": 160
+        "discount": 170
       },
-      "twName": "時空之門．虛空帝王",
-      "twDesc": "將你所開啟的傳送門替換為虛空帝王的時空之門。"
+      "twName": "武器外觀：黑魔法",
+      "twDesc": "將你的劍、單手斧或單手錘外觀替換為黑魔法。"
     },
     {
       "english": {
-        "name": "Auspicious Gargoyle Portal Effect",
-        "description": "Replaces the standard effect on portals you create with the Auspicious Gargoyle Portal Effect."
+        "name": "Overlord Weapon",
+        "description": "Replaces the appearance of a Sword, Axe or Two Hand Mace with the Overlord Weapon."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9jaGFyYWN0ZXItZWZmZWN0cy9Hb2xkR2FyZ295bGVQb3J0YWxFZmZlY3QiLCJyZWFsbSI6InBvZTIifV0/a3dc29c256/GoldGargoylePortalEffect.webp",
-      "link": "https://pathofexile2.com/shop/item/auspicious-gargoyle-portal-effect",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vT3ZlcmxvcmRXZWFwb25Ta2luIn1d/e98833236b/OverlordWeaponSkin.png",
+      "link": "https://www.pathofexile.com/shop/item/OverlordWeapon",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 230,
+        "discount": 170
+      }
+    },
+    {
+      "english": {
+        "name": "Royal Fluttering Scarab Shield",
+        "description": "Replaces the appearance of a shield with the Royal Fluttering Scarab Shield. A swarm of scarabs circle around you whenever you block."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvUm95YWxGbHV0dGVyaW5nU2NhcmFiU2hpZWxkIiwicmVhbG0iOiJwb2UyIn1d/d971de6d30/RoyalFlutteringScarabShield.webp",
+      "link": "https://pathofexile2.com/shop/item/royal-fluttering-scarab-shield",
       "source": "poe2_variant",
       "kind": "discount",
       "price": {
-        "original": 215,
+        "original": 230,
+        "discount": 170
+      },
+      "specialEnd": "2026-11-03T00:00:00+00:00",
+      "twName": "護盾外觀：皇家飛舞聖甲蟲",
+      "twDesc": "將你的護盾外觀替換為皇家飛舞聖甲蟲。每當你格擋時就會有一群聖甲蟲在你身邊飛舞。"
+    },
+    {
+      "english": {
+        "name": "Tortoise Staff Skin",
+        "description": "Replaces the appearance of any staff to the Tortoise Staff."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvU25hcHBpbmdUdXJ0bGVEcnVpZFN0YWZmIiwicmVhbG0iOiJwb2UyIn1d/5cac7a06a1/SnappingTurtleDruidStaff.webp",
+      "link": "https://pathofexile2.com/shop/item/tortoise-staff-skin",
+      "source": "poe2_normal",
+      "kind": "discount",
+      "price": {
+        "original": 115,
+        "discount": 85
+      },
+      "specialEnd": "2026-11-03T00:00:00+00:00",
+      "twName": "長杖外觀：沉穩巨龜",
+      "twDesc": "將你的長杖外觀替換為沉穩巨龜。"
+    },
+    {
+      "english": {
+        "name": "Vulcan Shield",
+        "description": "Replaces the appearance of a shield with the Vulcan Shield."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TaGllbGRzL1Z1bGNhblNoaWVsZCJ9XQ/7385c9c07f/VulcanShield.png",
+      "link": "https://www.pathofexile.com/shop/item/VulcanShield",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 230,
+        "discount": 170
+      },
+      "twName": "護盾外觀：火山炎神",
+      "twDesc": "將你的護盾外觀替換為火山炎神。"
+    },
+    {
+      "english": {
+        "name": "Vulcan Weapon",
+        "description": "Replaces the appearance of any weapon with the Vulcan Weapon."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vVnVsY2FuV2VhcG9uU2tpbiJ9XQ/43517855c1/VulcanWeaponSkin.png",
+      "link": "https://www.pathofexile.com/shop/item/VulcanWeapon",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 230,
+        "discount": 170
+      },
+      "twName": "武器外觀：火山炎神",
+      "twDesc": "將你的任一武器外觀替換為火山炎神。"
+    },
+    {
+      "english": {
+        "name": "Coldsnap Bow and Quiver",
+        "description": "Contains the Coldsnap Bow and Coldsnap Quiver Skins."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Db2xkc25hcFF1aXZlcmFuZGJvdyJ9XQ/2b0dd2e4cb/ColdsnapQuiverandbow.png",
+      "link": "https://www.pathofexile.com/shop/item/ColdsnapBowandQuiver",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 250,
+        "discount": 185
+      },
+      "twName": "冰霜暴雪弓與箭袋",
+      "twDesc": "包含武器外觀：霜暴箭袋和武器外觀：寒霜暴弓。"
+    },
+    {
+      "english": {
+        "name": "Dragon Hunter Bow and Quiver",
+        "description": "Contains the Dragon Hunter Bow and Quiver."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vRHJhZ29uSHVudGVyQm93YW5kUXVpdmVyIn1d/a490a2999a/DragonHunterBowandQuiver.png",
+      "link": "https://www.pathofexile.com/shop/item/DragonHunterBowandQuiver",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 250,
+        "discount": 185
+      },
+      "twName": "獵龍幻士之弓與箭袋",
+      "twDesc": "包含武器外觀：獵龍幻士箭袋和武器外觀：獵龍幻士之弓。"
+    },
+    {
+      "english": {
+        "name": "Havenwood Bow and Quiver",
+        "description": "Contains the Havenwood Bow and Havenwood Quiver Skins."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9IYXZlbndvb2RRdWl2ZXJCb3dCdW5kbGUifV0/d4744d4c13/HavenwoodQuiverBowBundle.png",
+      "link": "https://www.pathofexile.com/shop/item/HavenwoodBowandQuiver",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 250,
+        "discount": 185
+      },
+      "twName": "庇護之木弓與箭袋",
+      "twDesc": "包含武器外觀：庇護之箭袋和武器外觀：庇護之木弓。"
+    },
+    {
+      "english": {
+        "name": "Celestial Weapon Effect",
+        "description": "Imbues a weapon with the astral Celestial effect."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vd2VhcG9uX2NlbGVzdGlhbCJ9XQ/755b5c066b/weapon_celestial.png",
+      "link": "https://www.pathofexile.com/shop/item/CelestialWeaponEffect",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 275,
+        "discount": 205
+      },
+      "twName": "武器特效：眾星之力",
+      "twDesc": "為你的武器注入眾星之力。"
+    },
+    {
+      "english": {
+        "name": "Arcane Infernal Axe",
+        "description": "Replaces the appearance of a Two Hand Axe with the Arcane Infernal Axe."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vQXJjYW5lSW5mZXJuYWxBeGUifV0/fed4f035e8/ArcaneInfernalAxe.png",
+      "link": "https://www.pathofexile.com/shop/item/ArcaneInfernalAxe",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 200,
         "discount": 150
       },
-      "specialEnd": "2026-10-30T00:00:00+00:00",
-      "twName": "時空之門特效：吉祥石像",
-      "twDesc": "將你所開啟的傳送門替換為吉祥石像的時空之門。"
+      "twName": "武器外觀：奧術煉獄魔斧",
+      "twDesc": "將你雙手斧外觀替換為奧術煉獄魔斧。"
+    },
+    {
+      "english": {
+        "name": "Breachlord's Crusader Mace",
+        "description": "Replaces the appearance of any mace to the Breachlord's Crusader Mace."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvQnJlYWNobG9yZHNDcnVzYWRlck1hY2UiLCJyZWFsbSI6InBvZTIifV0/93559a5b4a/BreachlordsCrusaderMace.webp",
+      "link": "https://pathofexile2.com/shop/item/breachlords-crusader-mace",
+      "source": "poe2_variant",
+      "kind": "discount",
+      "price": {
+        "original": 160,
+        "discount": 120
+      },
+      "specialEnd": "2026-11-03T00:00:00+00:00",
+      "twName": "錘外觀：裂痕王聖戰軍",
+      "twDesc": "將你的錘外觀替換為裂痕王聖戰軍錘。"
+    },
+    {
+      "english": {
+        "name": "Breachlord's Knight Mace",
+        "description": "Replaces the appearance of any mace to the Breachlord's Knight Mace."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvQnJlYWNobG9yZHNLbmlnaHRNYWNlIiwicmVhbG0iOiJwb2UyIn1d/f82c06bce6/BreachlordsKnightMace.webp",
+      "link": "https://pathofexile2.com/shop/item/breachlords-knight-mace",
+      "source": "poe2_variant",
+      "kind": "discount",
+      "price": {
+        "original": 180,
+        "discount": 135
+      },
+      "specialEnd": "2026-11-03T00:00:00+00:00",
+      "twName": "錘外觀：裂痕王騎士",
+      "twDesc": "將你的錘外觀替換為裂痕王騎士錘。"
+    },
+    {
+      "english": {
+        "name": "Breachlord's Knight Quarterstaff",
+        "description": "Replaces the appearance of any quarterstaff to the Breachlord's Knight Quarterstaff."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvQnJlYWNobG9yZHNLbmlnaHRRdWFydGVyc3RhZmYiLCJyZWFsbSI6InBvZTIifV0/f5953a1184/BreachlordsKnightQuarterstaff.webp",
+      "link": "https://pathofexile2.com/shop/item/breachlords-knight-quarterstaff",
+      "source": "poe2_variant",
+      "kind": "discount",
+      "price": {
+        "original": 120,
+        "discount": 90
+      },
+      "specialEnd": "2026-11-03T00:00:00+00:00",
+      "twName": "細杖外觀：裂痕王騎士",
+      "twDesc": "將你的細杖外觀替換為裂痕王騎士細杖。"
+    },
+    {
+      "english": {
+        "name": "Chaosborn Druid's Rare Finisher Effect",
+        "description": "Imbues a weapon with the Chaosborn Druid's Rare Finisher Effect to any weapon. It amplifies the deaths of Rare Monsters you kill."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvQnJhbWJsZWdoYXN0VGVudGFjbGVGaW5pc2hlciIsInJlYWxtIjoicG9lMiJ9XQ/290811d64f/BrambleghastTentacleFinisher.webp",
+      "link": "https://pathofexile2.com/shop/item/chaosborn-druids-rare-finisher-effect",
+      "source": "poe2_normal",
+      "kind": "discount",
+      "price": {
+        "original": 120,
+        "discount": 90
+      },
+      "specialEnd": "2026-11-03T00:00:00+00:00",
+      "twName": "稀有終結特效：混沌德魯伊",
+      "twDesc": "為你的武器注入稀有終結特效：混沌德魯伊。會增幅你擊殺稀有怪物的死亡效果。"
+    },
+    {
+      "english": {
+        "name": "Cordyceps Bow",
+        "description": "Replaces the appearance of a bow with the Cordyceps Bow. The corpses of slain enemies are infected with fungal growths."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vQ29yZHljZXBCb3cifV0/47c6592273/CordycepBow.png",
+      "link": "https://www.pathofexile.com/shop/item/CordycepsBow",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 220,
+        "discount": 165
+      },
+      "twName": "武器外觀：冬蟲夏草",
+      "twDesc": "將你的弓外觀替換為冬蟲夏草。死亡敵人的屍體被真菌感染。"
+    },
+    {
+      "english": {
+        "name": "Crocolisk Staff Skin",
+        "description": "Replaces the appearance of any staff to the Crocolisk Staff."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvQ3JvY29kaWxlRHJ1aWRTdGFmZiIsInJlYWxtIjoicG9lMiJ9XQ/e11c10e6e0/CrocodileDruidStaff.webp",
+      "link": "https://pathofexile2.com/shop/item/crocolisk-staff-skin",
+      "source": "poe2_normal",
+      "kind": "discount",
+      "price": {
+        "original": 100,
+        "discount": 75
+      },
+      "specialEnd": "2026-11-03T00:00:00+00:00",
+      "twName": "長杖外觀：巨鱷神兵",
+      "twDesc": "將你的長杖外觀替換為巨鱷神兵。"
+    },
+    {
+      "english": {
+        "name": "Darkprism Weapon",
+        "description": "Replaces the appearance of any equipped Sword, Axe, Mace or Staff to the Darkprism Weapon."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vRGFya3ByaXNtMkhTd29yZCJ9XQ/1f679f38da/Darkprism2HSword.png",
+      "link": "https://www.pathofexile.com/shop/item/DarkprismWeapon",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 200,
+        "discount": 150
+      },
+      "twName": "武器外觀：黑曜稜劍",
+      "twDesc": "將你的劍、斧、錘或長杖外觀替換為黑曜稜劍。"
+    },
+    {
+      "english": {
+        "name": "Darkprism Weapon Effect",
+        "description": "Imbues a weapon with the Darkprism Weapon Effect."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vd2VhcG9uX2RhcmtwcmlzbSJ9XQ/8eef7fa442/weapon_darkprism.png",
+      "link": "https://www.pathofexile.com/shop/item/DarkprismWeaponEffect",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 200,
+        "discount": 150
+      },
+      "twName": "武器特效：黑曜稜石",
+      "twDesc": "為你的武器注入黑曜稜石。"
+    },
+    {
+      "english": {
+        "name": "Demon King Shield",
+        "description": "Replaces the appearance of a shield with the Demon King Shield."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TaGllbGRzL0RlbW9ua2luZ1NoaWVsZCJ9XQ/0a54c547bf/DemonkingShield.png",
+      "link": "https://www.pathofexile.com/shop/item/DemonKingShield",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 200,
+        "discount": 150
+      },
+      "twName": "護盾外觀：惡魔領主",
+      "twDesc": "將你的護盾外觀替換為漆桃霸主。"
+    },
+    {
+      "english": {
+        "name": "Direblade Weapon",
+        "description": "Replaces the appearance of a Dagger, Wand, Claw, Sword, Axe, Mace, Bow or Quiver with the Direblade Weapon."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vRGlyZWJsYWRlV2VhcG9uU2tpbiJ9XQ/352b3cb847/DirebladeWeaponSkin.png",
+      "link": "https://www.pathofexile.com/shop/item/DirebladeWeapon",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 220,
+        "discount": 165
+      },
+      "twName": "武器外觀：恐怖之刃",
+      "twDesc": "將你的匕首、法杖、爪、劍、斧、錘、弓或箭袋外觀替換為恐怖之刃。"
+    },
+    {
+      "english": {
+        "name": "Divergence Weapon",
+        "description": "Replaces the appearance of any weapon with the Divergence Weapon."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vRGl2ZXJnZW5jZVdlYXBvblNraW4ifV0/7aa2981287/DivergenceWeaponSkin.png",
+      "link": "https://www.pathofexile.com/shop/item/DivergenceWeapon",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 180,
+        "discount": 135
+      },
+      "twName": "武器特效：異種分歧",
+      "twDesc": "將你的任一武器外觀替換為異種分歧。"
+    },
+    {
+      "english": {
+        "name": "Divergence Weapon Effect",
+        "description": "Imbues a weapon with the Divergence Weapon Effect."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vd2VhcG9uX2RpdmVyZ2VuY2UifV0/560f990619/weapon_divergence.png",
+      "link": "https://www.pathofexile.com/shop/item/DivergenceWeaponEffect",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 180,
+        "discount": 135
+      },
+      "twName": "武器外觀：異種分歧",
+      "twDesc": "為你的武器注入異種分歧。"
+    },
+    {
+      "english": {
+        "name": "Divine Infernal Axe",
+        "description": "Replaces the appearance of a Two Hand Axe or Two Hand Mace with the Divine Infernal Axe."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vRGl2aW5lSW5mZXJuYWxBeGVTa2luIn1d/7b0cb65134/DivineInfernalAxeSkin.png",
+      "link": "https://www.pathofexile.com/shop/item/DivineInfernalAxe",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 200,
+        "discount": 150
+      },
+      "twName": "武器外觀：神聖煉獄魔斧",
+      "twDesc": "將你的雙手斧或雙手錘外觀替換為神聖煉獄魔斧。"
+    },
+    {
+      "english": {
+        "name": "Doryani's Crash Landing Unique Finisher Effect",
+        "description": "Imbues a weapon with a Doryani's Crash Landing Unique Finisher Effect. It amplifies the deaths of Unique Monsters you kill."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvRG9yeWFuaUNyYXNoTGFuZGluZ1VuaXF1ZUZpbmlzaGVyRWZmZWN0IiwicmVhbG0iOiJwb2UyIn1d/a579d71344/DoryaniCrashLandingUniqueFinisherEffect.webp",
+      "link": "https://pathofexile2.com/shop/item/doryanis-crash-landing-unique-finisher-effect",
+      "source": "poe2_normal",
+      "kind": "discount",
+      "price": {
+        "original": 120,
+        "discount": 90
+      },
+      "specialEnd": "2026-11-03T00:00:00+00:00",
+      "twName": "傳奇終結特效：多里亞尼的墜擊",
+      "twDesc": "為武器注入稀有終結特效：多里亞尼的粉碎墜降。會增幅你擊殺稀有怪物的死亡效果。"
+    },
+    {
+      "english": {
+        "name": "Dun Shield",
+        "description": "Replaces the appearance of a shield with the Dun Shield."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TaGllbGRzL0R1blNoaWVsZCJ9XQ/76553dbe85/DunShield.png",
+      "link": "https://www.pathofexile.com/shop/item/DunShield",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 200,
+        "discount": 150
+      },
+      "twName": "護盾外觀：盾甲",
+      "twDesc": "將你的護盾外觀替換為盾甲。"
+    },
+    {
+      "english": {
+        "name": "Dusk Weapon Effect",
+        "description": "Imbues a weapon with a dusk effect."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vd2VhcG9uX2R1c2sifV0/6288f4876a/weapon_dusk.png",
+      "link": "https://www.pathofexile.com/shop/item/DuskWeaponEffect",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 200,
+        "discount": 150
+      },
+      "twName": "武器特效：夜色暗暮",
+      "twDesc": "為你的武器注入夜色暗暮效果。此特效可以重複使用。"
+    },
+    {
+      "english": {
+        "name": "Glimmerwood Shield",
+        "description": "Replaces the appearance of a shield with the Glimmerwood Shield."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TaGllbGRzL0dsaW1tZXJ3b29kU2hpZWxkU2tpbiJ9XQ/b04c560ce4/GlimmerwoodShieldSkin.png",
+      "link": "https://www.pathofexile.com/shop/item/GlimmerwoodShield",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 220,
+        "discount": 165
+      },
+      "twName": "護盾外觀：微熠之森",
+      "twDesc": "將你的護盾外觀替換為微熠之森。"
+    },
+    {
+      "english": {
+        "name": "Gold Fluttering Scarab Shield",
+        "description": "Replaces the appearance of a shield with the Gold Fluttering Scarab Shield. A swarm of scarabs circle around you whenever you block."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvR29sZEZsdXR0ZXJpbmdTY2FyYWJTaGllbGQiLCJyZWFsbSI6InBvZTIifV0/743bd4fd04/GoldFlutteringScarabShield.webp",
+      "link": "https://pathofexile2.com/shop/item/gold-fluttering-scarab-shield",
+      "source": "poe2_variant",
+      "kind": "discount",
+      "price": {
+        "original": 240,
+        "discount": 180
+      },
+      "specialEnd": "2026-11-03T00:00:00+00:00",
+      "twName": "護盾外觀：黃金飛舞聖甲蟲",
+      "twDesc": "將你的護盾外觀替換為黃金飛舞聖甲蟲。每當你格擋時就會有一群聖甲蟲在你身邊飛舞。"
+    },
+    {
+      "english": {
+        "name": "Harmonious Weapon Effect",
+        "description": "Imbues a weapon with the Harmonious Weapon Effect."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vd2VhcG9uX0hhcm1vbmlvdXNXZWFwb25FZmZlY3QifV0/bc217145ef/weapon_HarmoniousWeaponEffect.png",
+      "link": "https://www.pathofexile.com/shop/item/HarmoniousWeaponEffect",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 180,
+        "discount": 135
+      },
+      "twName": "武器特效：和煦太祥",
+      "twDesc": "為你的武器注入和煦太祥。"
+    },
+    {
+      "english": {
+        "name": "Harmony Weapon Effect",
+        "description": "Imbues a weapon with the Harmony Weapon Effect."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vd2VhcG9uX0hhcm1vbnlXZWFwb25FZmZlY3QifV0/43a71dc8fb/weapon_HarmonyWeaponEffect.png",
+      "link": "https://www.pathofexile.com/shop/item/HarmonyWeaponEffect",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 360,
+        "discount": 270
+      },
+      "twName": "武器特效：萬物和諧",
+      "twDesc": "為你的武器注入萬物和諧。"
+    },
+    {
+      "english": {
+        "name": "Heartseeker Weapon",
+        "description": "Replaces the appearance of a Sword, Axe or Mace with the Heartseeker Weapon."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vSGVhcnRzZWVrZXJXZWFwb24ifV0/7c0d990279/HeartseekerWeapon.png",
+      "link": "https://www.pathofexile.com/shop/item/HeartseekerWeapon",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 220,
+        "discount": 165
+      },
+      "twName": "武器外觀：血心探索",
+      "twDesc": "將你的劍、斧或錘外觀替換為血心探索。"
+    },
+    {
+      "english": {
+        "name": "Heritage Weapon",
+        "description": "Replaces the appearance of any Dagger, Wand, Claw, Sword, Axe, Mace or Staff with the Heritage Weapon."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vSGVyaXRhZ2VXZWFwb25Ta2luIn1d/3e529b2d72/HeritageWeaponSkin.png",
+      "link": "https://www.pathofexile.com/shop/item/HeritageWeapon",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 180,
+        "discount": 135
+      },
+      "twName": "武器外觀：世代傳承",
+      "twDesc": "將你的匕首、法杖、爪、劍、斧、錘或長杖武器外觀替換為世代傳承。"
+    },
+    {
+      "english": {
+        "name": "Heritage Weapon Effect",
+        "description": "Imbues a weapon with the Heritage Weapon Effect."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vd2VhcG9uX0hlcml0YWdlV2VhcG9uRWZmZWN0In1d/3e0ffb1bb8/weapon_HeritageWeaponEffect.png",
+      "link": "https://www.pathofexile.com/shop/item/HeritageWeaponEffect",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 180,
+        "discount": 135
+      },
+      "twName": "武器特效：世代傳承",
+      "twDesc": "為你的武器注入世代傳承。"
+    },
+    {
+      "english": {
+        "name": "Honour Guard Shield Skin",
+        "description": "Replaces the appearance of any shield or buckler to the Honour Guard Shield."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvSG9ub3VyR3VhcmRCdWNrbGVyU2tpbiIsInJlYWxtIjoicG9lMiJ9XQ/a96e567d97/HonourGuardBucklerSkin.webp",
+      "link": "https://pathofexile2.com/shop/item/honour-guard-shield-skin",
+      "source": "poe2_normal",
+      "kind": "discount",
+      "price": {
+        "original": 100,
+        "discount": 75
+      },
+      "specialEnd": "2026-11-03T00:00:00+00:00",
+      "twName": "護盾外觀：榮光守衛",
+      "twDesc": "將你的護盾或輕盾外觀替換為榮光守衛盾牌。"
+    },
+    {
+      "english": {
+        "name": "Honour Guard Spear Skin",
+        "description": "Replaces the appearance of any spear to the Honour Guard Spear."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvSG9ub3VyR3VhcmRTcGVhclNraW4iLCJyZWFsbSI6InBvZTIifV0/a839a24cdb/HonourGuardSpearSkin.webp",
+      "link": "https://pathofexile2.com/shop/item/honour-guard-spear-skin",
+      "source": "poe2_normal",
+      "kind": "discount",
+      "price": {
+        "original": 100,
+        "discount": 75
+      },
+      "specialEnd": "2026-11-03T00:00:00+00:00",
+      "twName": "長矛外觀：榮光守衛",
+      "twDesc": "將你的長矛外觀替換為榮光守衛長矛。"
+    },
+    {
+      "english": {
+        "name": "Iron Fluttering Scarab Shield",
+        "description": "Replaces the appearance of a shield with the Iron Fluttering Scarab Shield. A swarm of scarabs circle around you whenever you block."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvSXJvbkZsdXR0ZXJpbmdTY2FyYWJTaGllbGQiLCJyZWFsbSI6InBvZTIifV0/2f8803705a/IronFlutteringScarabShield.webp",
+      "link": "https://pathofexile2.com/shop/item/iron-fluttering-scarab-shield",
+      "source": "poe2_variant",
+      "kind": "discount",
+      "price": {
+        "original": 220,
+        "discount": 165
+      },
+      "specialEnd": "2026-11-03T00:00:00+00:00",
+      "twName": "護盾外觀：鐵之飛舞聖甲蟲",
+      "twDesc": "將你的護盾外觀替換為鐵之飛舞聖甲蟲。每當你格擋時就會有一群聖甲蟲在你身邊飛舞。"
+    },
+    {
+      "english": {
+        "name": "Malachai's Demise Rare Finisher Effect",
+        "description": "Imbues a weapon with a Malachai's Demise Rare Finisher Effect. It amplifies the deaths of Rare Monsters you kill."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvTWFsYWNoYWlzRGVtaXNlUmFyZUZpbmlzaGVyRWZmZWN0IiwicmVhbG0iOiJwb2UyIn1d/f9829b8c7e/MalachaisDemiseRareFinisherEffect.webp",
+      "link": "https://pathofexile2.com/shop/item/malachais-demise-rare-finisher-effect",
+      "source": "poe2_normal",
+      "kind": "discount",
+      "price": {
+        "original": 120,
+        "discount": 90
+      },
+      "specialEnd": "2026-11-03T00:00:00+00:00",
+      "twName": "終結特效：瑪拉凱駕崩",
+      "twDesc": "為你的武器注入終結特效：瑪拉凱駕崩。會增幅你擊殺稀有怪物的死亡效果。"
+    },
+    {
+      "english": {
+        "name": "Merchant Weapon",
+        "description": "Replaces the appearance of a Dagger, Wand, Claw, Sword, One Hand Axe or One Hand Mace with the Merchant Weapon."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vTWVyY2hhbnRXZWFwb25Ta2luIn1d/6d93c2ccf6/MerchantWeaponSkin.png",
+      "link": "https://www.pathofexile.com/shop/item/MerchantWeapon",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 200,
+        "discount": 150
+      },
+      "twName": "武器外觀：大盤商",
+      "twDesc": "將你的匕首、法杖、爪、劍、單手斧或單手錘外觀替換為大盤商。"
+    },
+    {
+      "english": {
+        "name": "Midnight Pact Weapon Effect",
+        "description": "Imbues a weapon with the Midnight Pact Weapon Effect."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vd2VhcG9uX01pZG5pZ2h0UGFjdCJ9XQ/c0e17ff48e/weapon_MidnightPact.png",
+      "link": "https://www.pathofexile.com/shop/item/MidnightPactWeaponEffect",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 360,
+        "discount": 270
+      },
+      "twName": "武器特效：血夜冥約",
+      "twDesc": "為你的武器注入血夜冥約。"
+    },
+    {
+      "english": {
+        "name": "Nightfall Weapon Effect",
+        "description": "Imbues a weapon with the Nightfall Weapon Effect."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vd2VhcG9uX05pZ2h0ZmFsbFdlYXBvbkVmZmVjdCJ9XQ/bb4fe9a44d/weapon_NightfallWeaponEffect.png",
+      "link": "https://www.pathofexile.com/shop/item/NightfallWeaponEffect",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 180,
+        "discount": 135
+      },
+      "twName": "武器特效：暮黑夜色",
+      "twDesc": "為你的武器注入暮黑夜色。"
+    },
+    {
+      "english": {
+        "name": "Oblivion Weapon",
+        "description": "Replaces the appearance of a dagger, wand, claw, sword, mace, staff or bow with the Oblivion Weapon."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vT2JsaXZpb25XZWFwb25Ta2luIn1d/05b9c0b1e9/OblivionWeaponSkin.png",
+      "link": "https://www.pathofexile.com/shop/item/OblivionWeapon",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 220,
+        "discount": 165
+      },
+      "twName": "武器外觀：忘卻虛空",
+      "twDesc": "將你的匕首、法杖、爪、劍、錘、弓或長杖外觀替換為忘卻虛空。"
+    },
+    {
+      "english": {
+        "name": "Onyx Oblivion Weapon",
+        "description": "Replaces the appearance of a dagger, wand, claw, sword, mace, staff or bow with the Onyx Oblivion Weapon."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vT255eE9ibGl2aW9uV2VhcG9uU2tpbiJ9XQ/1b84209bcf/OnyxOblivionWeaponSkin.png",
+      "link": "https://www.pathofexile.com/shop/item/OnyxOblivionWeapon",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 220,
+        "discount": 165
+      },
+      "twName": "武器外觀：黑曜虛空",
+      "twDesc": "將你的劍、斧、錘、長杖或弓武器外觀替換為黑曜虛空。"
+    },
+    {
+      "english": {
+        "name": "Oriath Axe",
+        "description": "Replaces the appearance of any equipped Sword, Axe, Mace or Staff with the Oriath Axe."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vT3JpYXRoQXhlIn1d/5fd769ae7f/OriathAxe.png",
+      "link": "https://www.pathofexile.com/shop/item/OriathAxe",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 360,
+        "discount": 270
+      },
+      "twName": "武器外觀：榮光奧瑞亞巨斧",
+      "twDesc": "將你的雙手劍、雙手錘、長杖或雙手斧外觀替換為榮光奧瑞亞巨斧。"
+    },
+    {
+      "english": {
+        "name": "Oriath Shield",
+        "description": "Replaces the appearance of a shield with the Oriath Shield."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TaGllbGRzL09yaWF0aFNoaWVsZCJ9XQ/6f6d646fed/OriathShield.png",
+      "link": "https://www.pathofexile.com/shop/item/OriathShield",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 360,
+        "discount": 270
+      },
+      "twName": "護盾外觀：榮光奧瑞亞",
+      "twDesc": "將你的護盾外觀替換為榮光奧瑞亞。"
+    },
+    {
+      "english": {
+        "name": "Plummeting Chaos Rare Finisher Effect",
+        "description": "Imbues a weapon with the Plummeting Chaos Rare Finisher Effect. It amplifies the deaths of Rare Monsters you kill."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvQ2hhb3NPcmJGaW5pc2hlciIsInJlYWxtIjoicG9lMiJ9XQ/74517324b0/ChaosOrbFinisher.webp",
+      "link": "https://pathofexile2.com/shop/item/plummeting-chaos-rare-finisher-effect",
+      "source": "poe2_normal",
+      "kind": "discount",
+      "price": {
+        "original": 140,
+        "discount": 105
+      },
+      "specialEnd": "2026-11-03T00:00:00+00:00",
+      "twName": "稀有終結特效：墮落混沌",
+      "twDesc": "為你的武器注入稀有終結特效：墮落混沌。會增幅你擊殺稀有怪物的死亡效果。"
+    },
+    {
+      "english": {
+        "name": "Plummeting Mirror Rare Finisher Effect",
+        "description": "Imbues a weapon with the Plummeting Mirror Rare Finisher Effect. It amplifies the deaths of Rare Monsters you kill."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvTWlycm9yRmluaXNoZXIiLCJyZWFsbSI6InBvZTIifV0/a16470a3b5/MirrorFinisher.webp",
+      "link": "https://pathofexile2.com/shop/item/plummeting-mirror-rare-finisher-effect",
+      "source": "poe2_normal",
+      "kind": "discount",
+      "price": {
+        "original": 180,
+        "discount": 135
+      },
+      "specialEnd": "2026-11-03T00:00:00+00:00",
+      "twName": "稀有終結特效：墮落魔鏡",
+      "twDesc": "為你的武器注入稀有終結特效：墮落魔鏡。會增幅你擊殺稀有怪物的死亡效果。"
+    },
+    {
+      "english": {
+        "name": "Purifier's Swordstorm Rare Finisher Effect",
+        "description": "Imbues a weapon with a  Purifiers Swordstorm Rare Finisher Effect. It amplifies the deaths of Rare Monsters you kill."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvUHVyaWZpZXJTd29yZHN0b3JtUmFyZUZpbmlzaGVyRWZmZWN0IiwicmVhbG0iOiJwb2UyIn1d/a974843846/PurifierSwordstormRareFinisherEffect.webp",
+      "link": "https://pathofexile2.com/shop/item/purifiers-swordstorm-rare-finisher-effect",
+      "source": "poe2_normal",
+      "kind": "discount",
+      "price": {
+        "original": 140,
+        "discount": 105
+      },
+      "specialEnd": "2026-11-03T00:00:00+00:00",
+      "twName": "終結特效：淨化御劍",
+      "twDesc": "為你的武器注入終結特效：淨化御劍。會增幅你擊殺稀有怪物的死亡效果。"
+    },
+    {
+      "english": {
+        "name": "Scourgelord Weapon",
+        "description": "Replaces the appearance of a Dagger, Wand, Claw, Sword, Axe, Mace or Bow with the Scourgelord Weapon."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vU2NvdXJnZWxvcmRXZWFwb25Ta2luIn1d/83bd71682b/ScourgelordWeaponSkin.png",
+      "link": "https://www.pathofexile.com/shop/item/ScourgelordWeapon",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 220,
+        "discount": 165
+      },
+      "twName": "武器外觀：災魘魔君",
+      "twDesc": "將你的匕首、法杖、爪、劍、斧、錘或弓武器外觀替換為災魘魔君。"
+    },
+    {
+      "english": {
+        "name": "Silver Marionette Weapon Skin",
+        "description": "Changes the appearance of any equipped Sceptre, Wand, Focus, or Staff to the Silver Marionette Weapon Skin."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvTWFyaW9uZXR0ZXNSZXZlbmdlV2VhcG9uU2tpbiIsInJlYWxtIjoicG9lMiJ9XQ/4eb9a6d0c8/MarionettesRevengeWeaponSkin.webp",
+      "link": "https://pathofexile2.com/shop/item/silver-marionette-weapon-skin",
+      "source": "poe2_variant",
+      "kind": "discount",
+      "price": {
+        "original": 160,
+        "discount": 120
+      },
+      "specialEnd": "2026-11-03T00:00:00+00:00",
+      "twName": "武器外觀：白銀縫偶",
+      "twDesc": "將任何已裝備的權杖、法杖、法器、或長杖的武器外觀替換為白銀縫偶。"
+    },
+    {
+      "english": {
+        "name": "Sin and Innocence Longsword",
+        "description": "Replaces the appearance of a Two Hand Sword, Axe or Mace with the Sin and Innocence LongSword."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vU2luSW5ub2NlbmNlU3dvcmQifV0/16419bf3b0/SinInnocenceSword.png",
+      "link": "https://www.pathofexile.com/shop/item/SinandInnocenceLongsword",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 360,
+        "discount": 270
+      },
+      "twName": "武器外觀：罪善．長劍",
+      "twDesc": "將你的雙手劍、雙手錘或雙手斧外觀替換為罪善．長劍。"
+    },
+    {
+      "english": {
+        "name": "Sin and Innocence Shield",
+        "description": "Replaces the appearance of a shield with the Sin and Innocence Shield."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TaGllbGRzL1NpbmFuZElubm9jZW5jZVNoaWVsZCJ9XQ/77efda70c5/SinandInnocenceShield.png",
+      "link": "https://www.pathofexile.com/shop/item/SinandInnocenceShield",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 360,
+        "discount": 270
+      },
+      "twName": "護盾外觀：罪善．救贖",
+      "twDesc": "將你的護盾外觀替換為罪善．救贖。"
+    },
+    {
+      "english": {
+        "name": "Sin and Innocence Sword",
+        "description": "Replaces the appearance of a One Hand Sword, Mace or Axe with the Sin and Innocence Sword."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vU2luSW5ub2NlbmNlMUhhbmRlZFN3b3JkIn1d/a7e84fbfdd/SinInnocence1HandedSword.png",
+      "link": "https://www.pathofexile.com/shop/item/SinandInnocenceSword",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 360,
+        "discount": 270
+      },
+      "twName": "武器外觀：罪善．短劍",
+      "twDesc": "將你的單手劍、單手錘、權杖或單手斧外觀替換為罪善．短劍。"
+    },
+    {
+      "english": {
+        "name": "Spectre Staff",
+        "description": "Replaces the appearance of a Staff, Two Hand Sword, Axe or Mace with the Spectre Staff."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vU3BlY3RyZVN0YWZmIn1d/d95bc92fb5/SpectreStaff.png",
+      "link": "https://www.pathofexile.com/shop/item/SpectreStaff",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 360,
+        "discount": 270
+      },
+      "twName": "武器外觀：魅影幽魂之杖",
+      "twDesc": "將你的長杖、雙手劍、雙手斧或雙手錘外觀替換為魅影幽魂之杖。"
+    },
+    {
+      "english": {
+        "name": "Stygian Weapon",
+        "description": "Replaces the appearance of any equipped Claw, Dagger, Wand, Sword, Axe or Mace with the Stygian Weapon."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vU3R5Z2lhbldlYXBvblNraW4ifV0/088b26a17a/StygianWeaponSkin.png",
+      "link": "https://www.pathofexile.com/shop/item/StygianWeapon",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 220,
+        "discount": 165
+      },
+      "twName": "武器外觀：冥河",
+      "twDesc": "將你的爪、匕首、法杖、劍、斧或錘外觀替換為冥河。"
+    },
+    {
+      "english": {
+        "name": "Sun Clan Raider Buckler Skin",
+        "description": "Replaces the appearance of any buckler to the Sun Clan Raider Buckler."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvSHllbmFSYW5nZXJCdWNrbGVyU2tpbiIsInJlYWxtIjoicG9lMiJ9XQ/67716809e1/HyenaRangerBucklerSkin.webp",
+      "link": "https://pathofexile2.com/shop/item/sun-clan-raider-buckler-skin",
+      "source": "poe2_normal",
+      "kind": "discount",
+      "price": {
+        "original": 120,
+        "discount": 90
+      },
+      "specialEnd": "2026-11-03T00:00:00+00:00",
+      "twName": "輕盾外觀：太陽氏族俠客",
+      "twDesc": "將你的輕盾外觀替換為太陽氏族俠客輕盾。"
+    },
+    {
+      "english": {
+        "name": "Sun Clan Raider Spear Skin",
+        "description": "Replaces the appearance of any spear to the Sun Clan Raider Spear."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvSHllbmFSYW5nZXJTcGVhclNraW4iLCJyZWFsbSI6InBvZTIifV0/c2bff60945/HyenaRangerSpearSkin.webp",
+      "link": "https://pathofexile2.com/shop/item/sun-clan-raider-spear-skin",
+      "source": "poe2_normal",
+      "kind": "discount",
+      "price": {
+        "original": 120,
+        "discount": 90
+      },
+      "specialEnd": "2026-11-03T00:00:00+00:00",
+      "twName": "長矛外觀：太陽氏族俠客",
+      "twDesc": "將你的長矛外觀替換為太陽氏族俠客長矛。"
+    },
+    {
+      "english": {
+        "name": "Torture Mace",
+        "description": "Replaces the appearance of any Two-hand Mace to the Torture Mace."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvVG9ydHVyZU1hY2UiLCJyZWFsbSI6InBvZTIifV0/6e2a2caf82/TortureMace.webp",
+      "link": "https://pathofexile2.com/shop/item/torture-mace",
+      "source": "poe2_normal",
+      "kind": "discount",
+      "price": {
+        "original": 120,
+        "discount": 90
+      },
+      "specialEnd": "2026-11-03T00:00:00+00:00",
+      "twName": "刑罰重錘",
+      "twDesc": "將你的雙手錘外觀替換為刑罰重錘。"
+    },
+    {
+      "english": {
+        "name": "Transcendence Dagger",
+        "description": "Replaces the appearance of any Dagger, Wand or Claw with the Transcendence Dagger."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vVHJhbnNjZW5kZW5jZURhZ2dlciJ9XQ/144e8af8bd/TranscendenceDagger.png",
+      "link": "https://www.pathofexile.com/shop/item/TranscendenceDagger",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 360,
+        "discount": 270
+      },
+      "twName": "武器外觀：異能謎力匕首",
+      "twDesc": "將你的匕首、法杖或爪外觀替換為異能謎力匕首。"
+    },
+    {
+      "english": {
+        "name": "Vaal Chrono Seer Weapon Skin",
+        "description": "Replaces the appearance of a Wand, Staff, Sceptre or Focus with the Vaal Chrono Seer Weapon Skin."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvVmFhbENocm9ub1NlZXJXZWFwb25Ta2luIiwicmVhbG0iOiJwb2UyIn1d/21b3810b43/VaalChronoSeerWeaponSkin.webp",
+      "link": "https://pathofexile2.com/shop/item/vaal-chrono-seer-weapon-skin",
+      "source": "poe2_normal",
+      "kind": "discount",
+      "price": {
+        "original": 200,
+        "discount": 150
+      },
+      "specialEnd": "2026-11-03T00:00:00+00:00",
+      "twName": "武器外觀：瓦爾時空先知",
+      "twDesc": "將你的法杖、長杖、權杖或法器外觀替換為瓦爾時空先知武器外觀。"
+    },
+    {
+      "english": {
+        "name": "Verdant Weapon",
+        "description": "Replaces the appearance of a Dagger, Wand, Claw, Sword, Two Hand Axe, Two Hand Mace, Staff, Bow or Quiver with the Verdant Weapon or Quiver."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvVmVyZGFudFdlYXBvblNraW4iLCJyZWFsbSI6InBvZTIifV0/bea41eace1/VerdantWeaponSkin.webp",
+      "link": "https://pathofexile2.com/shop/item/verdant-weapon",
+      "source": "poe2_normal",
+      "kind": "discount",
+      "price": {
+        "original": 180,
+        "discount": 135
+      },
+      "specialEnd": "2026-11-03T00:00:00+00:00",
+      "twName": "武器外觀：自然之力",
+      "twDesc": "將你的匕首、法杖、爪、劍、雙手斧、雙手錘、長杖、弓或箭袋外觀替換為自然之力。"
     },
     {
       "english": {
@@ -269,364 +1762,583 @@
       "kind": "discount",
       "price": {
         "original": 200,
-        "discount": 140
+        "discount": 150
       },
       "twName": "武器外觀：虛空行者",
       "twDesc": "將你的匕首、法杖、爪、劍、錘、斧或弓外觀替換為虛空行者。"
     },
     {
       "english": {
-        "name": "Void Wings",
-        "description": "Adds the Void Wings to your body armour."
+        "name": "Voidbane Shield",
+        "description": "Replaces the appearance of a shield with the Voidbane Shield. Its effect scales with the highest level chaos spell that you have used in the area."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9Wb2lkV2luZ3MifV0/800167dec1/VoidWings.png",
-      "link": "https://www.pathofexile.com/shop/item/VoidWings",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TaGllbGRzL1B1cnBsZUNoYW9zU3BlbGxzU2hpZWxkIn1d/85fbeaf1eb/PurpleChaosSpellsShield.png",
+      "link": "https://www.pathofexile.com/shop/item/VoidbaneShield",
       "source": "poe1",
       "kind": "discount",
       "price": {
-        "original": 320,
-        "discount": 225
+        "original": 240,
+        "discount": 180
       },
-      "twName": "背飾：虛空異觸",
-      "twDesc": "在你的背後附加一個虛空異觸。"
+      "twName": "護盾外觀：虛空災星",
+      "twDesc": "將你的護盾外觀替換為虛空災星。效果受你在該區域使用的最高等混沌法術影響。"
     },
     {
       "english": {
-        "name": "Void Emperor Bladefall Effect",
-        "description": "Replaces the standard effect on a Bladefall gem with a void emperor version."
+        "name": "Wild Shield",
+        "description": "Replaces the appearance of a shield with the Wild Shield."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Wb2lkRW1wZXJvckJsYWRlZmFsbEVmZmVjdCJ9XQ/ffcad66610/VoidEmperorBladefallEffect.png",
-      "link": "https://www.pathofexile.com/shop/item/VoidEmperorBladefallEffect",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TaGllbGRzL1dpbGRTaGllbGRTa2luIn1d/f151613485/WildShieldSkin.png",
+      "link": "https://www.pathofexile.com/shop/item/WildShield",
       "source": "poe1",
       "kind": "discount",
       "price": {
-        "original": 135,
-        "discount": 95
-      },
-      "twName": "虛空刀雨．虛空帝王",
-      "twDesc": "你的虛空刀雨特效替換為虛空帝王。"
-    },
-    {
-      "english": {
-        "name": "Elder Portal Effect",
-        "description": "Replaces the standard effect on portals you create with the Elder Portal Effect."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Qb3J0YWxzL0VsZGVyUG9ydGFsRWZmZWN0In1d/aec6384272/ElderPortalEffect.png",
-      "link": "https://www.pathofexile.com/shop/item/ElderPortalEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 190,
+        "original": 180,
         "discount": 135
       },
-      "twName": "時空之門．異界尊師",
-      "twDesc": "將你所開啟的傳送門替換為異界尊師的時空之門。"
+      "twName": "護盾外觀：荒野狂徒",
+      "twDesc": "將你的護盾外觀替換為荒野狂徒。"
     },
     {
       "english": {
-        "name": "Elder Armour Pack",
-        "description": "Contains the Elder Body Armour, Helmet, Boots and Gloves armour skins (at a discounted price)."
+        "name": "Witchhunter Crossbow Skin",
+        "description": "Replaces the appearance of a crossbow with the Witchhunter Crossbow."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Bcm1vdXJTZXQvRWxkZXJBcm1vdXIifV0/ebafb2d671/ElderArmour.png",
-      "link": "https://www.pathofexile.com/shop/item/ElderArmourPack",
-      "source": "poe1",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvV2l0Y2hodW50ZXJDcm9zc2JvdyIsInJlYWxtIjoicG9lMiJ9XQ/8b4f7bde82/WitchhunterCrossbow.webp",
+      "link": "https://pathofexile2.com/shop/item/witchhunter-crossbow-skin",
+      "source": "poe2_variant",
       "kind": "discount",
       "price": {
-        "original": 420,
-        "discount": 300
+        "original": 100,
+        "discount": 75
       },
-      "twName": "異界尊師組合包",
-      "twDesc": "包含了身體外觀：異界尊師、頭部外觀：異界尊師、腳部外觀：異界尊師以及手部外觀：異界尊師（這是優惠組合）。"
+      "specialEnd": "2026-11-03T00:00:00+00:00",
+      "twName": "十字弓外觀：女巫獵人",
+      "twDesc": "將你的十字弓外觀替換為女巫獵人十字弓。"
     },
     {
       "english": {
-        "name": "Ooze Character Effect",
-        "description": "Adds the Ooze Character Effect to your character."
+        "name": "Xesht's Clap Rare Finisher Effect",
+        "description": "Imbues a weapon with the Xesht's Clap Rare Finisher Effect. It amplifies the deaths of Rare Monsters you kill."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9DaGFyYWN0ZXIvT296ZUNoYXJhY3RlckVmZmVjdCJ9XQ/b1f379247e/OozeCharacterEffect.png",
-      "link": "https://www.pathofexile.com/shop/item/OozeCharacterEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 210,
-        "discount": 150
-      },
-      "twName": "角色特效：軟泥",
-      "twDesc": "為你的角色添加軟泥。"
-    },
-    {
-      "english": {
-        "name": "Void Emperor Armour Pack",
-        "description": "Contains the Void Emperor Body Armour, Helmet, Boots and Gloves armour skins (at a discounted price)."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Bcm1vdXJTZXQvVm9pZEVtcGVyb3JBcm1vdXIifV0/7c331f431b/VoidEmperorArmour.png",
-      "link": "https://www.pathofexile.com/shop/item/VoidEmperorArmourPack",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 420,
-        "discount": 300
-      },
-      "twName": "虛空帝王組合包",
-      "twDesc": "包含了身體外觀：虛空帝王、頭部外觀：虛空帝王、腳部外觀：虛空帝王以及手部外觀：虛空帝王（這是優惠組合）。"
-    },
-    {
-      "english": {
-        "name": "Void Emperor Character Effect",
-        "description": "Adds the Void Emperor Character Effect to your character."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9DaGFyYWN0ZXIvQ29ycnVwdGVkRW1wZXJvckNoYXJhY3RlckVmZmVjdCJ9XQ/63d50dea23/CorruptedEmperorCharacterEffect.png",
-      "link": "https://www.pathofexile.com/shop/item/VoidEmperorCharacterEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 210,
-        "discount": 150
-      },
-      "twName": "角色特效：虛空帝王",
-      "twDesc": "為你的角色添加虛空帝王特效。"
-    },
-    {
-      "english": {
-        "name": "Void Emperor Lightning Strike Effect",
-        "description": "Replaces the standard effect on a Lightning Strike gem with a void emperor version."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Wb2lkRW1wZXJvckxpZ2h0bmluZ1N0cmlrZVNraWxsRWZmZWN0In1d/5a4fd1bd01/VoidEmperorLightningStrikeSkillEffect.png",
-      "link": "https://www.pathofexile.com/shop/item/VoidEmperorLightningStrikeEffect",
-      "source": "poe1",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvWGVzaHRDbGFwUmFyZUZpbmlzaGVyRWZmZWN0IiwicmVhbG0iOiJwb2UyIn1d/a19ddce0a9/XeshtClapRareFinisherEffect.webp",
+      "link": "https://pathofexile2.com/shop/item/xeshts-clap-rare-finisher-effect",
+      "source": "poe2_normal",
       "kind": "discount",
       "price": {
         "original": 140,
-        "discount": 100
+        "discount": 105
       },
-      "twName": "閃電打擊．虛空帝王",
-      "twDesc": "將技能「閃電打擊」的特效替換為虛空帝王。"
+      "specialEnd": "2026-11-03T00:00:00+00:00",
+      "twName": "稀有終結特效：烈許之聲",
+      "twDesc": "為你的武器注入稀有終結特效：烈許之聲。會增幅你擊殺稀有怪物的死亡效果。"
     },
     {
       "english": {
-        "name": "Void Portal Effect",
-        "description": "Replaces the standard effect on portals you create with the Void Portal Effect."
+        "name": "Angelic Bow and Quiver",
+        "description": "Contains the Angelic Bow and Quiver."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Qb3J0YWxzL1ZvaWRQb3J0YWwifV0/86e422f891/VoidPortal.png",
-      "link": "https://www.pathofexile.com/shop/item/VoidPortalEffect",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9BbmdlbGljUXVpdmVyYW5kQm93In1d/fdddb7c7e8/AngelicQuiverandBow.png",
+      "link": "https://www.pathofexile.com/shop/item/AngelicBowandQuiver",
       "source": "poe1",
       "kind": "discount",
       "price": {
-        "original": 140,
-        "discount": 100
+        "original": 185,
+        "discount": 140
       },
-      "twName": "時空之門．虛空行者",
-      "twDesc": "將你所開啟的傳送門替換為虛空行者的時空之門。"
+      "twName": "綺麗天使弓與箭袋",
+      "twDesc": "包含武器外觀：綺麗天使袋和武器外觀：綺麗天使之弓（這是優惠組合）。"
     },
     {
       "english": {
-        "name": "Void Emperor Blade Blast Effect",
-        "description": "Replaces the standard effect on an Blade Blast gem with a void emperor version."
+        "name": "Necrotic Shield",
+        "description": "Replaces the appearance of a shield with the Necrotic Shield."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Wb2lkRW1wZXJvckJsYWRlQmxhc3RFZmZlY3QifV0/8d3a2b5da0/VoidEmperorBladeBlastEffect.png",
-      "link": "https://www.pathofexile.com/shop/item/VoidEmperorBladeBlastEffect",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TaGllbGRzL05lY3JvdGljU2hpZWxkIn1d/464c96d0d8/NecroticShield.png",
+      "link": "https://www.pathofexile.com/shop/item/NecroticShield",
       "source": "poe1",
       "kind": "discount",
       "price": {
-        "original": 125,
-        "discount": 90
+        "original": 185,
+        "discount": 140
       },
-      "twName": "劍刃爆破．虛空帝王",
-      "twDesc": "你的劍刃爆破特效替換為虛空帝王。"
+      "twName": "護盾外觀：亡者之息",
+      "twDesc": "將你的護盾外觀替換為亡者之息。"
     },
     {
       "english": {
-        "name": "Void Emperor Blastchain Mine Effect",
-        "description": "Replaces the standard effect on a Blastchain Mine Support gem or High-Impact Mine Support gem with a corrupted void version."
+        "name": "Plummeting Exalted Rare Finisher Effect",
+        "description": "Imbues a weapon with the Plummeting Exalted Rare Finisher Effect. It amplifies the deaths of Rare Monsters you kill."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Db3JydXB0ZWRFbXBlcm9yQmxhc3RjaGFpbk1pbmVFZmZlY3QifV0/61cb0985ac/CorruptedEmperorBlastchainMineEffect.png",
-      "link": "https://www.pathofexile.com/shop/item/VoidEmperorBlastchainMineEffect",
-      "source": "poe1",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvRXhhbHRlZE9yYkZpbmlzaGVyIiwicmVhbG0iOiJwb2UyIn1d/b1f61f6527/ExaltedOrbFinisher.webp",
+      "link": "https://pathofexile2.com/shop/item/plummeting-exalted-rare-finisher-effect",
+      "source": "poe2_normal",
       "kind": "discount",
       "price": {
-        "original": 125,
-        "discount": 90
-      },
-      "twName": "爆破連鎖地雷．虛空帝王",
-      "twDesc": "將技能「爆破連鎖地雷輔助」或「高能地雷輔助」的特效替換為虛空帝王。"
-    },
-    {
-      "english": {
-        "name": "Void Emperor Icicle Mine Effect",
-        "description": "Replaces the standard effect on an Icicle Mine gem with a void emperor version."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Db3JydXB0ZWRFbXBlcm9ySWNpY2xlTWluZUVmZmVjdCJ9XQ/3fce94817b/CorruptedEmperorIcicleMineEffect.png",
-      "link": "https://www.pathofexile.com/shop/item/VoidEmperorIcicleMineEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 125,
-        "discount": 90
-      },
-      "twName": "冰雹地雷．虛空帝王",
-      "twDesc": "將技能「冰雹地雷」的特效替換為虛空帝王。"
-    },
-    {
-      "english": {
-        "name": "Void Emperor Pyroclast Mine Effect",
-        "description": "Replaces the standard effect on a Pyroclast Mine gem with a void emperor version."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Db3JydXB0ZWRFbXBlcm9yUHlyb2NsYXN0TWluZUVmZmVjdCJ9XQ/2c4bf41cd2/CorruptedEmperorPyroclastMineEffect.png",
-      "link": "https://www.pathofexile.com/shop/item/VoidEmperorPyroclastMineEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 125,
-        "discount": 90
-      },
-      "twName": "炎爆新星地雷．虛空帝王",
-      "twDesc": "將技能「炎爆新星地雷」的特效替換為虛空帝王。"
-    },
-    {
-      "english": {
-        "name": "Void Emperor Stormblast Mine Effect",
-        "description": "Replaces the standard effect on a Stormblast Mine gem with a void emperor version."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Db3JydXB0ZWRFbXBlcm9yU3Rvcm1ibGFzdE1pbmVFZmZlY3QifV0/cd7d6bc00e/CorruptedEmperorStormblastMineEffect.png",
-      "link": "https://www.pathofexile.com/shop/item/VoidEmperorStormblastMineEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 125,
-        "discount": 90
-      },
-      "twName": "風爆地雷．虛空帝王",
-      "twDesc": "將技能「風爆地雷」的特效替換為虛空帝王。"
-    },
-    {
-      "english": {
-        "name": "Void Hideout",
-        "description": "Adds the Void Hideout to your account."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9Wb2lkSGlkZW91dCJ9XQ/94bebe382c/VoidHideout.png",
-      "link": "https://www.pathofexile.com/shop/item/VoidHideout",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 250,
-        "discount": 180
-      },
-      "twName": "藏身處：飄渺虛空",
-      "twDesc": "新增藏身處：飄渺虛空至你的帳號。"
-    },
-    {
-      "english": {
-        "name": "Void Hideout (Guild)",
-        "description": "Adds the Void Hideout to your Guild."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvSGlkZW91dC9Wb2lkSGlkZW91dCJ9XQ/94bebe382c/VoidHideout.png",
-      "link": "https://www.pathofexile.com/shop/item/VoidHideoutGuild",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 250,
-        "discount": 180
-      },
-      "twName": "藏身處：飄渺虛空 (公會)",
-      "twDesc": "為你的公會增添此藏身處。"
-    },
-    {
-      "english": {
-        "name": "Void Emperor Artillery Ballista",
-        "description": "Replaces the standard effect on an Artillery Ballista gem with a Void Emperor version."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Wb2lkRW1wZXJvckFydGlsbGVyeUJhbGxpc3RhIn1d/6d6051dcda/VoidEmperorArtilleryBallista.png",
-      "link": "https://www.pathofexile.com/shop/item/VoidEmperorArtilleryBallista",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 150,
+        "original": 145,
         "discount": 110
       },
-      "twName": "火砲砲塔．虛空帝王",
-      "twDesc": "將技能「火砲砲塔」的特效替換為虛空帝王。"
+      "specialEnd": "2026-11-03T00:00:00+00:00",
+      "twName": "稀有終結特效：墮落崇高",
+      "twDesc": "為你的武器注入稀有終結特效：墮落崇高。會增幅你擊殺稀有怪物的死亡效果。"
     },
     {
       "english": {
-        "name": "Void Emperor Lightning Arrow",
-        "description": "Replaces the standard effect on a Lightning Arrow gem with a Void Emperor version."
+        "name": "Saqawal's Fate Rare Finisher Effect",
+        "description": "Imbues a weapon with a Saqawal's Fate Rare Finisher Effect. It amplifies the deaths of Rare Monsters you kill."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Wb2lkRW1wZXJvckxpZ2h0bmluZ0Fycm93In1d/6a10b4467f/VoidEmperorLightningArrow.png",
-      "link": "https://www.pathofexile.com/shop/item/VoidEmperorLightningArrow",
-      "source": "poe1",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvU2FxYXdhbHNGYXRlUmFyZUZpbmlzaGVyRWZmZWN0IiwicmVhbG0iOiJwb2UyIn1d/10d215d1fa/SaqawalsFateRareFinisherEffect.webp",
+      "link": "https://pathofexile2.com/shop/item/saqawals-fate-rare-finisher-effect",
+      "source": "poe2_normal",
       "kind": "discount",
       "price": {
-        "original": 150,
-        "discount": 110
+        "original": 125,
+        "discount": 95
       },
-      "twName": "閃電箭矢．虛空帝王",
-      "twDesc": "將技能「閃電箭矢」的特效替換為虛空帝王。"
+      "specialEnd": "2026-11-03T00:00:00+00:00",
+      "twName": "終結特效：斯卡沃命運",
+      "twDesc": "為你的武器注入終結特效：斯卡沃命運。會增幅你擊殺稀有怪物的死亡效果。"
     },
     {
       "english": {
-        "name": "Void Emperor Planetary Orb",
-        "description": "The Void Emperor Planetary Orb Character Effect creates miniature planets which your Endurance, Frenzy and Power Charges orbit."
+        "name": "Sorcerer Wand",
+        "description": "Replaces the appearance of a Wand with the Sorcerer Wand, a weapon that grows as your spell damage increases."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9jaGFyYWN0ZXItZWZmZWN0cy9Wb2lkRW1wZXJvclBsYW5ldGFyeU9yYiIsInJlYWxtIjoicG9lMiJ9XQ/da1dd4eb04/VoidEmperorPlanetaryOrb.webp",
-      "link": "https://pathofexile2.com/shop/item/void-emperor-planetary-orb",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvU29yY2VyZXJXYW5kU2tpbiIsInJlYWxtIjoicG9lMiJ9XQ/aad68071ed/SorcererWandSkin.webp",
+      "link": "https://pathofexile2.com/shop/item/sorcerer-wand",
+      "source": "poe2_normal",
+      "kind": "discount",
+      "price": {
+        "original": 230,
+        "discount": 175
+      },
+      "specialEnd": "2026-11-03T00:00:00+00:00",
+      "twName": "武器外觀：巫師魔杖",
+      "twDesc": "將你的法杖外觀替換為巫師魔杖。它的外觀與你的法術傷害成比例。"
+    },
+    {
+      "english": {
+        "name": "Defiler's Rare Finisher Effect",
+        "description": "Imbues a weapon with the Defiler's Rare Finisher Effect. It amplifies the deaths of Rare Monsters you kill."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvRmlsdGh5UXVlZW5GaW5pc2hlckVmZmVjdCIsInJlYWxtIjoicG9lMiJ9XQ/71dc8523ba/FilthyQueenFinisherEffect.webp",
+      "link": "https://pathofexile2.com/shop/item/defilers-rare-finisher-effect",
+      "source": "poe2_normal",
+      "kind": "discount",
+      "price": {
+        "original": 105,
+        "discount": 80
+      },
+      "specialEnd": "2026-11-03T00:00:00+00:00",
+      "twName": "稀有終結特效：玷汙者",
+      "twDesc": "為你的武器注入稀有終結特效：玷汙者。會增幅你擊殺稀有怪物的死亡效果。"
+    },
+    {
+      "english": {
+        "name": "Awakener's Weapon Effect",
+        "description": "Imbues a weapon with the Awakener's Weapon Effect."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvQXdha2VuZXJzV2VhcG9uRWZmZWN0IiwicmVhbG0iOiJwb2UyIn1d/43d0209ce6/AwakenersWeaponEffect.webp",
+      "link": "https://pathofexile2.com/shop/item/awakeners-weapon-effect",
+      "source": "poe2_normal",
+      "kind": "discount",
+      "price": {
+        "original": 170,
+        "discount": 130
+      },
+      "specialEnd": "2026-11-03T00:00:00+00:00",
+      "twName": "武器特效．喚醒者",
+      "twDesc": "為你的武器注入喚醒者特效。"
+    },
+    {
+      "english": {
+        "name": "Verisium Weapon Effect",
+        "description": "Imbues a weapon with the Verisium Weapon Effect."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvVmVyaXNpdW1XZWFwb25FZmZlY3QiLCJyZWFsbSI6InBvZTIifV0/991b723dd2/VerisiumWeaponEffect.webp",
+      "link": "https://pathofexile2.com/shop/item/verisium-weapon-effect",
+      "source": "poe2_normal",
+      "kind": "discount",
+      "price": {
+        "original": 170,
+        "discount": 130
+      },
+      "specialEnd": "2026-11-03T00:00:00+00:00",
+      "twName": "武器特效．維里西姆",
+      "twDesc": "為你的武器注入維里西姆特效。"
+    },
+    {
+      "english": {
+        "name": "Bronze Marionette Weapon Skin",
+        "description": "Changes the appearance of any equipped Sceptre, Wand, Focus, or Staff to the Bronze Marionette Weapon Skin."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvTWFyaW9uZXR0ZXNSZXZlbmdlV2VhcG9uU2tpblBvcmNlbGFpbiIsInJlYWxtIjoicG9lMiJ9XQ/a4bc387d72/MarionettesRevengeWeaponSkinPorcelain.webp",
+      "link": "https://pathofexile2.com/shop/item/bronze-marionette-weapon-skin",
       "source": "poe2_variant",
       "kind": "discount",
       "price": {
         "original": 150,
-        "discount": 110
+        "discount": 115
       },
-      "specialEnd": "2026-10-30T00:00:00+00:00",
-      "twName": "背飾：絢麗行星．虛空",
-      "twDesc": "為你的角色添加絢麗行星．虛空。創造微型星球，你的耐力、狂怒和暴擊球會環繞它。"
+      "specialEnd": "2026-11-03T00:00:00+00:00",
+      "twName": "武器外觀：黃銅縫偶",
+      "twDesc": "將任何已裝備的權杖、法杖、法器、或長杖的武器外觀替換為黃銅縫偶。"
     },
     {
       "english": {
-        "name": "Void Emperor Ice Spear Effect",
-        "description": "Replaces the standard effect on an Ice Spear gem with a void emperor version."
+        "name": "Djinn Weapon Skin",
+        "description": "Changes the appearance of any equipped Wand, Sceptre, Quarterstaff, Spear or Focus to the Djinn Weapon Skin."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Wb2lkRW1wZXJvckljZVNwZWFyRWZmZWN0In1d/f22c723bc8/VoidEmperorIceSpearEffect.png",
-      "link": "https://www.pathofexile.com/shop/item/VoidEmperorIceSpearEffect",
-      "source": "poe1",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvRGppbm5XZWFwb25Ta2luIiwicmVhbG0iOiJwb2UyIn1d/24b06b9a7d/DjinnWeaponSkin.webp",
+      "link": "https://pathofexile2.com/shop/item/djinn-weapon-skin",
+      "source": "poe2_normal",
       "kind": "discount",
       "price": {
-        "original": 135,
-        "discount": 100
+        "original": 150,
+        "discount": 115
       },
-      "twName": "冰矛．虛空帝王",
-      "twDesc": "將技能「冰矛」的特效替換為虛空帝王。"
+      "specialEnd": "2026-11-03T00:00:00+00:00",
+      "twName": "武器外觀：巨靈",
+      "twDesc": "將你的法杖、權杖、細杖、長矛或法器外觀替換為巨靈武器外觀。"
     },
     {
       "english": {
-        "name": "Eldritch Planetary Orb",
-        "description": "The Eldritch Planetary Orb Character Effect creates miniature planets which your Endurance, Frenzy and Power Charges orbit."
+        "name": "Originator's Weapon Effect",
+        "description": "Imbues a weapon with the Originator's Weapon Effect."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9jaGFyYWN0ZXItZWZmZWN0cy9FbGRyaXRjaFBsYW5ldGFyeU9yYiIsInJlYWxtIjoicG9lMiJ9XQ/68ed82f849/EldritchPlanetaryOrb.webp",
-      "link": "https://pathofexile2.com/shop/item/eldritch-planetary-orb",
-      "source": "poe2_variant",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvT3JpZ2luYXRvcnNXZWFwb25FZmZlY3QiLCJyZWFsbSI6InBvZTIifV0/9601cdbceb/OriginatorsWeaponEffect.webp",
+      "link": "https://pathofexile2.com/shop/item/originators-weapon-effect",
+      "source": "poe2_normal",
+      "kind": "discount",
+      "price": {
+        "original": 150,
+        "discount": 115
+      },
+      "specialEnd": "2026-11-03T00:00:00+00:00",
+      "twName": "武器特效：開創者",
+      "twDesc": "為武器注入開創者武器特效。"
+    },
+    {
+      "english": {
+        "name": "Plummeting Vaal Rare Finisher Effect",
+        "description": "Imbues a weapon with the Plummeting Vaal Rare Finisher Effectn. It amplifies the deaths of Rare Monsters you kill."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvVmFhbE9yYkZpbmlzaGVyIiwicmVhbG0iOiJwb2UyIn1d/343acca8e4/VaalOrbFinisher.webp",
+      "link": "https://pathofexile2.com/shop/item/plummeting-vaal-rare-finisher-effect",
+      "source": "poe2_normal",
+      "kind": "discount",
+      "price": {
+        "original": 150,
+        "discount": 115
+      },
+      "specialEnd": "2026-11-03T00:00:00+00:00",
+      "twName": "稀有終結特效：墮落瓦爾",
+      "twDesc": "為你的武器注入稀有終結特效：墮落瓦爾。會增幅你擊殺稀有怪物的死亡效果。"
+    },
+    {
+      "english": {
+        "name": "Stormborne Weapon Skin",
+        "description": "Replaces the appearance of any equipped Spear, Quarterstaff, Shield, Buckler, Bow or Quiver to the Stormborne Weapon Skin."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvU3Rvcm1ib3JuZUh1bnRyZXNzV2VhcG9uU2tpbiIsInJlYWxtIjoicG9lMiJ9XQ/3ef6bce4d8/StormborneHuntressWeaponSkin.webp",
+      "link": "https://pathofexile2.com/shop/item/stormborne-weapon-skin",
+      "source": "poe2_normal",
+      "kind": "discount",
+      "price": {
+        "original": 150,
+        "discount": 115
+      },
+      "specialEnd": "2026-11-03T00:00:00+00:00",
+      "twName": "武器外觀：起源風暴",
+      "twDesc": "將任何已裝備的長矛、細杖、盾牌、輕盾、弓、或箭袋的武器外觀替換為起源風暴。"
+    },
+    {
+      "english": {
+        "name": "Vampire's Weapon Effect",
+        "description": "Imbues a weapon with the Vampire's Weapon Effect."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvVmFtcGlyZVdlYXBvbkVmZmVjdCIsInJlYWxtIjoicG9lMiJ9XQ/ae2d095ba1/VampireWeaponEffect.webp",
+      "link": "https://pathofexile2.com/shop/item/vampires-weapon-effect",
+      "source": "poe2_normal",
+      "kind": "discount",
+      "price": {
+        "original": 150,
+        "discount": 115
+      },
+      "specialEnd": "2026-11-03T00:00:00+00:00",
+      "twName": "武器特效：吸血鬼",
+      "twDesc": "為你的武器注入吸血鬼特效。"
+    },
+    {
+      "english": {
+        "name": "Doryani's Freeze Ray Rare Finisher Effect",
+        "description": "Imbues a weapon with a Doryani's Freeze Ray Rare Finisher Effect. It amplifies the deaths of Rare Monsters you kill."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvRG9yeWFuaUljZUZpbmlzaGVyRWZmZWN0IiwicmVhbG0iOiJwb2UyIn1d/8d3e90f464/DoryaniIceFinisherEffect.webp",
+      "link": "https://pathofexile2.com/shop/item/doryanis-freeze-ray-rare-finisher-effect",
+      "source": "poe2_normal",
       "kind": "discount",
       "price": {
         "original": 130,
         "discount": 100
       },
-      "specialEnd": "2026-10-30T00:00:00+00:00",
-      "twName": "背飾：絢麗行星．異能",
-      "twDesc": "為你的角色添加絢麗行星．異能。創造微型星球，你的耐力、狂怒和暴擊球會環繞它。"
+      "specialEnd": "2026-11-03T00:00:00+00:00",
+      "twName": "稀有終結特效：多里亞尼的冰凍光線",
+      "twDesc": "為武器注入稀有終結特效：多里亞尼的冰凍光線。會增幅你擊殺稀有怪物的死亡效果。"
     },
     {
       "english": {
-        "name": "Void Emperor Mine Bundle",
-        "description": "Contains the Void Emperor Stormblast Mine, Icicle Mine, Pyroclast Mine, Blastchain Mine Support and Summon Skitterbots Skill Effects at a discounted price."
+        "name": "Fractured Dreamer Weapon Skin",
+        "description": "Changes the appearance of any equipped Wand, Sceptre, Staff, Spear, Buckler or Focus to the Fractured Dreamer Weapon Skin."
       },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Wb2lkRW1wZXJvck1pbmVCdW5kbGUifV0/66e144b006/VoidEmperorMineBundle.png",
-      "link": "https://www.pathofexile.com/shop/item/VoidEmperorMineBundle",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvRnJhY3R1cmVkRHJlYW1lcldlYXBvblNraW4iLCJyZWFsbSI6InBvZTIifV0/b0bb12b702/FracturedDreamerWeaponSkin.webp",
+      "link": "https://pathofexile2.com/shop/item/fractured-dreamer-weapon-skin",
+      "source": "poe2_variant",
+      "kind": "discount",
+      "price": {
+        "original": 195,
+        "discount": 150
+      },
+      "specialEnd": "2026-11-03T00:00:00+00:00",
+      "twName": "武器外觀：破裂幻夢者",
+      "twDesc": "將你的法杖、權杖、長杖、長矛、輕盾或法器外觀替換為破裂幻夢者武器外觀。"
+    },
+    {
+      "english": {
+        "name": "Kaom's Desire Rare Finisher Effect",
+        "description": "Imbues a weapon with a Kaom's Desire Rare Finisher Effect. It amplifies the deaths of Rare Monsters you kill."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvS2FvbXNEZXNpcmVSYXJlRmluaXNoZXJFZmZlY3QiLCJyZWFsbSI6InBvZTIifV0/c63cc6f83d/KaomsDesireRareFinisherEffect.webp",
+      "link": "https://pathofexile2.com/shop/item/kaoms-desire-rare-finisher-effect",
+      "source": "poe2_normal",
+      "kind": "discount",
+      "price": {
+        "original": 130,
+        "discount": 100
+      },
+      "specialEnd": "2026-11-03T00:00:00+00:00",
+      "twName": "終結特效：岡姆慾望",
+      "twDesc": "為你的武器注入終結特效：岡姆慾望。會增幅你擊殺稀有怪物的死亡效果。"
+    },
+    {
+      "english": {
+        "name": "Lich's Gaze Shield",
+        "description": "Replaces the appearance of a shield with the Lich's Gaze Shield."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvTGljaHNHYXplU2hpZWxkIiwicmVhbG0iOiJwb2UyIn1d/fd37eeb140/LichsGazeShield.webp",
+      "link": "https://pathofexile2.com/shop/item/lichs-gaze-shield",
+      "source": "poe2_normal",
+      "kind": "discount",
+      "price": {
+        "original": 130,
+        "discount": 100
+      },
+      "specialEnd": "2026-11-03T00:00:00+00:00",
+      "twName": "護盾外觀：巫妖凝視",
+      "twDesc": "將你的護盾外觀替換為巫妖凝視。"
+    },
+    {
+      "english": {
+        "name": "Warden's Weapon Skin",
+        "description": "Replaces the appearance of any equipped Staff or Sceptre to the Warden's Weapon Skin."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvS2V5U3RhZmYiLCJyZWFsbSI6InBvZTIifV0/458425e13b/KeyStaff.webp",
+      "link": "https://pathofexile2.com/shop/item/wardens-weapon-skin",
+      "source": "poe2_normal",
+      "kind": "discount",
+      "price": {
+        "original": 130,
+        "discount": 100
+      },
+      "specialEnd": "2026-11-03T00:00:00+00:00",
+      "twName": "武器外觀：典獄長",
+      "twDesc": "將你的長杖或權杖外觀替換為典獄長。"
+    },
+    {
+      "english": {
+        "name": "Breachlord's Crusader Quarterstaff",
+        "description": "Replaces the appearance of any quarterstaff to the Breachlord's Crusader Quarterstaff."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvQnJlYWNobG9yZHNDcnVzYWRlclF1YXJ0ZXJzdGFmZiIsInJlYWxtIjoicG9lMiJ9XQ/e0d2b1117a/BreachlordsCrusaderQuarterstaff.webp",
+      "link": "https://pathofexile2.com/shop/item/breachlords-crusader-quarterstaff",
+      "source": "poe2_variant",
+      "kind": "discount",
+      "price": {
+        "original": 110,
+        "discount": 85
+      },
+      "specialEnd": "2026-11-03T00:00:00+00:00",
+      "twName": "細杖外觀：裂痕王聖戰軍",
+      "twDesc": "將你的細杖外觀替換為裂痕王聖戰軍細杖。"
+    },
+    {
+      "english": {
+        "name": "Tormentor's Rare Finisher Effect",
+        "description": "Imbues a weapon with the Tormentor's Rare Finisher Effect. It amplifies the deaths of Rare Monsters you kill."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvVG9ybWVudG9yc1JhcmVGaW5pc2hlckVmZmVjdCIsInJlYWxtIjoicG9lMiJ9XQ/1cabdf51e7/TormentorsRareFinisherEffect.webp",
+      "link": "https://pathofexile2.com/shop/item/tormentors-rare-finisher-effect",
+      "source": "poe2_normal",
+      "kind": "discount",
+      "price": {
+        "original": 110,
+        "discount": 85
+      },
+      "specialEnd": "2026-11-03T00:00:00+00:00",
+      "twName": "稀有終結特效：折磨者",
+      "twDesc": "為你的武器注入稀有終結特效：折磨者。會增幅你擊殺稀有怪物的死亡效果。"
+    },
+    {
+      "english": {
+        "name": "Skin Transfer x50",
+        "description": "A discounted pack of 50 consumable Skin Transfers."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvQ29uc1NraW5UcmFucyIsInJlYWxtIjoicG9lMiJ9XQ/2bac389ee3/ConsSkinTrans.webp",
+      "link": "https://pathofexile2.com/shop/item/skin-transfer-x50",
+      "source": "poe2_variant",
+      "kind": "discount",
+      "price": {
+        "original": 200,
+        "discount": 155
+      },
+      "specialEnd": "2026-11-03T00:00:00+00:00",
+      "twName": "裝備塑形包（家庭號）",
+      "twDesc": "以折扣價格購入 50 個裝備塑型道具。"
+    },
+    {
+      "english": {
+        "name": "Chayula's Grasp Rare Finisher Effect",
+        "description": "Imbues a weapon with a Chayula's Grasp Rare Finisher Effect. It amplifies the deaths of Rare Monsters you kill."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvQ2hheXVsYXNHcmFzcFJhcmVGaW5pc2hlckVmZmVjdCIsInJlYWxtIjoicG9lMiJ9XQ/e3a6d4324d/ChayulasGraspRareFinisherEffect.webp",
+      "link": "https://pathofexile2.com/shop/item/chayulas-grasp-rare-finisher-effect",
+      "source": "poe2_normal",
+      "kind": "discount",
+      "price": {
+        "original": 135,
+        "discount": 105
+      },
+      "specialEnd": "2026-11-03T00:00:00+00:00",
+      "twName": "終結特效：夏烏拉之握",
+      "twDesc": "為你的武器注入終結特效：夏烏拉之握。會增幅你擊殺稀有怪物的死亡效果。"
+    },
+    {
+      "english": {
+        "name": "Divine Artillery Strike Rare Finisher Effect",
+        "description": "Imbues a weapon with the Divine Artillery Strike Rare Finisher Effect. It amplifies the deaths of Rare Monsters you kill."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvRGl2aW5lQXJ0aWxsZXJ5U3RyaWtlUmFyZUZpbmlzaGVyIiwicmVhbG0iOiJwb2UyIn1d/8ee2e7854c/DivineArtilleryStrikeRareFinisher.webp",
+      "link": "https://pathofexile2.com/shop/item/divine-artillery-strike-rare-finisher-effect",
+      "source": "poe2_normal",
+      "kind": "discount",
+      "price": {
+        "original": 135,
+        "discount": 105
+      },
+      "specialEnd": "2026-11-03T00:00:00+00:00",
+      "twName": "稀有終結特效：神聖火砲之擊",
+      "twDesc": "為你的武器注入稀有終結特效：神聖火砲之擊。會增幅你擊殺稀有怪物的死亡效果。"
+    },
+    {
+      "english": {
+        "name": "Doryani's Flamethrower Rare Finisher Effect",
+        "description": "Imbues a weapon with a Doryani's Flamethrower Rare Finisher Effect. It amplifies the deaths of Rare Monsters you kill."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvRG9yeWFuaUZsYW1ldGhyb3dlckZpbmlzaGVyRWZmZWN0IiwicmVhbG0iOiJwb2UyIn1d/1e99e5a6af/DoryaniFlamethrowerFinisherEffect.webp",
+      "link": "https://pathofexile2.com/shop/item/doryanis-flamethrower-rare-finisher-effect",
+      "source": "poe2_normal",
+      "kind": "discount",
+      "price": {
+        "original": 135,
+        "discount": 105
+      },
+      "specialEnd": "2026-11-03T00:00:00+00:00",
+      "twName": "稀有終結特效：多里亞尼的火焰噴射",
+      "twDesc": "為武器注入稀有終結特效：多里亞尼的火焰噴射。會增幅你擊殺稀有怪物的死亡效果。"
+    },
+    {
+      "english": {
+        "name": "Fractured Nightmare Weapon Skin",
+        "description": "Changes the appearance of any equipped Wand, Sceptre, Staff, Spear, Buckler or Focus to the Fractured Nightmare Weapon Skin."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvRnJhY3R1cmVkTmlnaHRtYXJlV2VhcG9uU2tpbiIsInJlYWxtIjoicG9lMiJ9XQ/3a7ef367f3/FracturedNightmareWeaponSkin.webp",
+      "link": "https://pathofexile2.com/shop/item/fractured-nightmare-weapon-skin",
+      "source": "poe2_variant",
+      "kind": "discount",
+      "price": {
+        "original": 180,
+        "discount": 140
+      },
+      "specialEnd": "2026-11-03T00:00:00+00:00",
+      "twName": "武器外觀：破裂夢魘",
+      "twDesc": "將你的法杖、權杖、長杖、長矛、輕盾或法器外觀替換為破裂夢魘武器外觀。"
+    },
+    {
+      "english": {
+        "name": "Ghoulhunter Crossbow Skin",
+        "description": "Replaces the appearance of a crossbow with the Ghoulhunter Crossbow."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvR2hvdWxodW50ZXJDcm9zc2JvdyIsInJlYWxtIjoicG9lMiJ9XQ/60847fc361/GhoulhunterCrossbow.webp",
+      "link": "https://pathofexile2.com/shop/item/ghoulhunter-crossbow-skin",
+      "source": "poe2_variant",
+      "kind": "discount",
+      "price": {
+        "original": 90,
+        "discount": 70
+      },
+      "specialEnd": "2026-11-03T00:00:00+00:00",
+      "twName": "十字弓外觀：活屍獵人",
+      "twDesc": "將你的十字弓外觀替換為活屍獵人十字弓。"
+    },
+    {
+      "english": {
+        "name": "Doryani's Laser Beam Rare Finisher Effect",
+        "description": "Imbues a weapon with a Doryani's Laser Beam Rare Finisher Effect. It amplifies the deaths of Rare Monsters you kill."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvRG9yeWFuaUxhc2VyRmluaXNoZXJFZmZlY3QiLCJyZWFsbSI6InBvZTIifV0/9bcb393048/DoryaniLaserFinisherEffect.webp",
+      "link": "https://pathofexile2.com/shop/item/doryanis-laser-beam-rare-finisher-effect",
+      "source": "poe2_normal",
+      "kind": "discount",
+      "price": {
+        "original": 140,
+        "discount": 110
+      },
+      "specialEnd": "2026-11-03T00:00:00+00:00",
+      "twName": "稀有終結特效：多里亞尼的雷射光束 ",
+      "twDesc": "為武器注入稀有終結特效：多里亞尼的雷射光束。會增幅你擊殺稀有怪物的死亡效果。"
+    },
+    {
+      "english": {
+        "name": "Doryani's Refracted Lasers Rare Finisher Effect",
+        "description": "Imbues a weapon with a Doryani's Refracted Lasers Rare Finisher Effect. It amplifies the deaths of Rare Monsters you kill."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvRG9yeWFuaURpc2NvRmluaXNoZXJFZmZlY3QiLCJyZWFsbSI6InBvZTIifV0/5794187b3c/DoryaniDiscoFinisherEffect.webp",
+      "link": "https://pathofexile2.com/shop/item/doryanis-refracted-lasers-rare-finisher-effect",
+      "source": "poe2_normal",
+      "kind": "discount",
+      "price": {
+        "original": 145,
+        "discount": 115
+      },
+      "specialEnd": "2026-11-03T00:00:00+00:00",
+      "twName": "稀有終結特效：多里亞尼的偏折雷射",
+      "twDesc": "為武器注入稀有終結特效：多里亞尼的偏折雷射。會增幅你擊殺稀有怪物的死亡效果。"
+    },
+    {
+      "english": {
+        "name": "Ethercraft Weapon Effect Pack",
+        "description": "Contains the Savage, Enraged, Tranquil and Chaotic Ethercraft Weapon Effects."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vd2VhcG9uX0V0aGVyY3JhZnRXZWFwb25FZmZlY3QifV0/373167158c/weapon_EthercraftWeaponEffect.png",
+      "link": "https://www.pathofexile.com/shop/item/EthercraftWeaponEffectPack",
       "source": "poe1",
       "kind": "discount",
       "price": {
-        "original": 400,
-        "discount": 320
+        "original": 375,
+        "discount": 310
       },
-      "twName": "虛空帝王地雷包",
-      "twDesc": "包含召喚探測機獸．虛空帝王、遙控地雷輔助．虛空帝王、風爆地雷．虛空帝王、冰雹地雷．虛空帝王和炎爆新星地雷．虛空帝王（這是優惠組合）。"
+      "twName": "乙太工藝武器特效組合包",
+      "twDesc": "包含了武器特效：混沌．乙太工藝、鎮靜．乙太工藝、狂怒．乙太工藝和殘暴．乙太工藝。"
     },
     {
       "english": {
@@ -1137,22 +2849,6 @@
       },
       "twName": "角色外觀：黃銅縫偶",
       "twDesc": "將你的角色外觀替換為黃銅縫偶。"
-    },
-    {
-      "english": {
-        "name": "Bronze Marionette Weapon Skin",
-        "description": "Changes the appearance of any equipped Sceptre, Wand, Focus, or Staff to the Bronze Marionette Weapon Skin."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvTWFyaW9uZXR0ZXNSZXZlbmdlV2VhcG9uU2tpblBvcmNlbGFpbiIsInJlYWxtIjoicG9lMiJ9XQ/a4bc387d72/MarionettesRevengeWeaponSkinPorcelain.webp",
-      "link": "https://pathofexile2.com/shop/item/bronze-marionette-weapon-skin",
-      "source": "poe2_new",
-      "kind": "new",
-      "price": {
-        "original": 150,
-        "discount": 150
-      },
-      "twName": "武器外觀：黃銅縫偶",
-      "twDesc": "將任何已裝備的權杖、法杖、法器、或長杖的武器外觀替換為黃銅縫偶。"
     },
     {
       "english": {
@@ -2542,22 +4238,6 @@
     },
     {
       "english": {
-        "name": "Silver Marionette Weapon Skin",
-        "description": "Changes the appearance of any equipped Sceptre, Wand, Focus, or Staff to the Silver Marionette Weapon Skin."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvTWFyaW9uZXR0ZXNSZXZlbmdlV2VhcG9uU2tpbiIsInJlYWxtIjoicG9lMiJ9XQ/4eb9a6d0c8/MarionettesRevengeWeaponSkin.webp",
-      "link": "https://pathofexile2.com/shop/item/silver-marionette-weapon-skin",
-      "source": "poe2_new",
-      "kind": "new",
-      "price": {
-        "original": 160,
-        "discount": 160
-      },
-      "twName": "武器外觀：白銀縫偶",
-      "twDesc": "將任何已裝備的權杖、法杖、法器、或長杖的武器外觀替換為白銀縫偶。"
-    },
-    {
-      "english": {
         "name": "Skeleton Skin",
         "description": "Replaces the appearance of your character skin with the Skeleton character skin."
       },
@@ -3051,22 +4731,6 @@
       },
       "twName": "破風爆裂．石拳磐衛",
       "twDesc": "將技能「破風爆裂」的特效替換為石拳磐衛。"
-    },
-    {
-      "english": {
-        "name": "Stormborne Weapon Skin",
-        "description": "Replaces the appearance of any equipped Spear, Quarterstaff, Shield, Buckler, Bow or Quiver to the Stormborne Weapon Skin."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJEQXJ0L1Nob3AvaXRlbS9pdGVtLWVmZmVjdHMvU3Rvcm1ib3JuZUh1bnRyZXNzV2VhcG9uU2tpbiIsInJlYWxtIjoicG9lMiJ9XQ/3ef6bce4d8/StormborneHuntressWeaponSkin.webp",
-      "link": "https://pathofexile2.com/shop/item/stormborne-weapon-skin",
-      "source": "poe2_new",
-      "kind": "new",
-      "price": {
-        "original": 150,
-        "discount": 150
-      },
-      "twName": "武器外觀：起源風暴",
-      "twDesc": "將任何已裝備的長矛、細杖、盾牌、輕盾、弓、或箭袋的武器外觀替換為起源風暴。"
     },
     {
       "english": {
@@ -3790,29 +5454,319 @@
     },
     {
       "english": {
-        "name": "Void Emperor Electroswarm Character Effect",
-        "description": "The Void Emperor Electroswarm Character Effect surrounds your character with floating jellyfish that become charged with electricity over time and funnel that electricity into your character whenever you use a lightning skill."
+        "name": "Eternal Revelation Blade",
+        "description": "Changes the appearance of any equipped sword to the Eternal Revelation Blade. The blade has a protective outer layer that shatters as you hit enemies, revealing a core of divine energy."
       },
-      "link": "https://www.pathofexile.com/shop/item/VoidEmperorElectroswarmCharacterEffect",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9DaGFyYWN0ZXIvVm9pZEVtcGVyb3JFbGVjdHJvc3dhcm1DaGFyYWN0ZXJFZmZlY3QifV0/506379bda2/VoidEmperorElectroswarmCharacterEffect.png",
+      "link": "https://www.pathofexile.com/shop/item/EternalRevelationBlade",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vRXRlcm5hbFJldmVsYXRpb25CbGFkZSJ9XQ/a407e58054/EternalRevelationBlade.png",
       "source": "poe1",
       "price": {
         "discount": 180,
+        "original": 240
+      }
+    },
+    {
+      "english": {
+        "name": "Cleansed Revelation Blade",
+        "description": "Changes the appearance of any equipped sword to the Cleansed Revelation Blade. The blade has a protective outer layer that shatters as you hit enemies, revealing a core of divine energy."
+      },
+      "link": "https://www.pathofexile.com/shop/item/CleansedRevelationBlade",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vQ2xlYW5zZWRSZXZlbGF0aW9uQmxhZGUifV0/a8b74bcd56/CleansedRevelationBlade.png",
+      "source": "poe1",
+      "price": {
+        "discount": 190,
         "original": 250
       }
     },
     {
       "english": {
-        "name": "Regal Shardbound Portal Effect",
-        "description": "The Regal Shardbound Portal pulses hypnotically and scans nearby players to make sure they're suitable for entry."
+        "name": "Defiled Revelation Blade",
+        "description": "Changes the appearance of any equipped sword to the Defiled Revelation Blade. The blade has a protective outer layer that shatters as you hit enemies, revealing a core of divine energy."
       },
-      "link": "https://www.pathofexile.com/shop/item/RegalShardboundPortalEffect",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Qb3J0YWxzL1JlZ2FsU2hhcmRib3VuZFBvcnRhbEVmZmVjdCJ9XQ/4d95b905ee/RegalShardboundPortalEffect.png",
+      "link": "https://www.pathofexile.com/shop/item/DefiledRevelationBlade",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vRGVmaWxlZFJldmVsYXRpb25CbGFkZSJ9XQ/29c7fdd35f/DefiledRevelationBlade.png",
       "source": "poe1",
       "price": {
-        "discount": 140,
-        "original": 190
+        "discount": 190,
+        "original": 255
       }
+    },
+    {
+      "english": {
+        "name": "Spectral Deathnotch Bow",
+        "description": "Replaces the appearance of a bow with the Spectral Deathnotch Bow. It changes the appearance of your bow, its arrows, and displays arrows notched on your bow based on how many you fired in your last attack."
+      },
+      "link": "https://www.pathofexile.com/shop/item/SpectralDeathnotchBow",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vU3BlY3RyYWxEZWF0aG5vdGNoQm93In1d/a4c7684b06/SpectralDeathnotchBow.png",
+      "source": "poe1",
+      "price": {
+        "discount": 155,
+        "original": 210
+      }
+    },
+    {
+      "english": {
+        "name": "Automaton Deathnotch Bow",
+        "description": "Replaces the appearance of a bow with the Automaton Deathnotch Bow. It changes the appearance of your bow, its arrows, and displays arrows notched on your bow based on how many you fired in your last attack."
+      },
+      "link": "https://www.pathofexile.com/shop/item/AutomatonDeathnotchBow",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vQXV0b21hdG9uRGVhdGhub3RjaEJvdyJ9XQ/ad14d27390/AutomatonDeathnotchBow.png",
+      "source": "poe1",
+      "price": {
+        "discount": 155,
+        "original": 210
+      }
+    },
+    {
+      "english": {
+        "name": "Shadow Deathnotch Bow",
+        "description": "Replaces the appearance of a bow with the Shadow Deathnotch Bow. It changes the appearance of your bow, its arrows, and displays arrows notched on your bow based on how many you fired in your last attack."
+      },
+      "link": "https://www.pathofexile.com/shop/item/ShadowDeathnotchBow",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vU2hhZG93RGVhdGhub3RjaEJvdyJ9XQ/fe28fb1f0d/ShadowDeathnotchBow.png",
+      "source": "poe1",
+      "price": {
+        "discount": 165,
+        "original": 220
+      }
+    },
+    {
+      "english": {
+        "name": "Arcane Deathnotch Bow",
+        "description": "Replaces the appearance of a bow with the Arcane Deathnotch Bow. It changes the appearance of your bow, its arrows, and displays arrows notched on your bow based on how many you fired in your last attack."
+      },
+      "link": "https://www.pathofexile.com/shop/item/ArcaneDeathnotchBow",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vQXJjYW5lRGVhdGhub3RjaEJvdyJ9XQ/6885232b7a/ArcaneDeathnotchBow.png",
+      "source": "poe1",
+      "price": {
+        "discount": 165,
+        "original": 220
+      }
+    },
+    {
+      "english": {
+        "name": "Onyx Oblivion Weapon Effect",
+        "description": "Imbues a weapon with the Onyx Oblivion Weapon Effect."
+      },
+      "link": "https://www.pathofexile.com/shop/item/OnyxOblivionWeaponEffect",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vd2VhcG9uX09ueXhPYmxpdmlvbldlYXBvbkVmZmVjdCJ9XQ/5f3674168f/weapon_OnyxOblivionWeaponEffect.png",
+      "source": "poe1",
+      "price": {
+        "discount": 135,
+        "original": 180
+      }
+    },
+    {
+      "english": {
+        "name": "Deepwater Weapon Effect",
+        "description": "Imbues a weapon with the Deepwater Weapon Effect."
+      },
+      "link": "https://www.pathofexile.com/shop/item/DeepwaterWeaponEffect",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vd2VhcG9uX0RlZXB3YXRlcldlYXBvbkVmZmVjdCJ9XQ/bb1c844405/weapon_DeepwaterWeaponEffect.png",
+      "source": "poe1",
+      "price": {
+        "discount": 135,
+        "original": 180
+      }
+    },
+    {
+      "english": {
+        "name": "Siren Weapon Effect",
+        "description": "Imbues a weapon with the Siren Weapon Effect."
+      },
+      "link": "https://www.pathofexile.com/shop/item/SirenWeaponEffect",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vd2VhcG9uX3NpcmVuIn1d/9ba2fad174/weapon_siren.png",
+      "source": "poe1",
+      "price": {
+        "discount": 135,
+        "original": 180
+      }
+    },
+    {
+      "english": {
+        "name": "Deepwater Weapon",
+        "description": "Replaces the appearance of a dagger, wand, claw, sword, axe, mace or staff with the Deepwater Weapon."
+      },
+      "link": "https://www.pathofexile.com/shop/item/DeepwaterWeapon",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vRGVlcHdhdGVyV2VhcG9uU2tpbiJ9XQ/8c521dbc5d/DeepwaterWeaponSkin.png",
+      "source": "poe1",
+      "price": {
+        "discount": 135,
+        "original": 180
+      }
+    },
+    {
+      "english": {
+        "name": "Siren Weapon",
+        "description": "Replaces the appearance of any weapon with the Siren Weapon."
+      },
+      "link": "https://www.pathofexile.com/shop/item/SirenWeapon",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vU2lyZW5XZWFwb25Ta2luIn1d/255a847c0b/SirenWeaponSkin.png",
+      "source": "poe1",
+      "price": {
+        "discount": 135,
+        "original": 180
+      }
+    },
+    {
+      "english": {
+        "name": "Madcap Shield Skin",
+        "description": "Replaces the appearance of a shield with the Madcap Shield Skin."
+      },
+      "link": "https://www.pathofexile.com/shop/item/MadcapShieldSkin",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TaGllbGRzL01hZGNhcFNoaWVsZCJ9XQ/705c86d94b/MadcapShield.png",
+      "source": "poe1",
+      "price": {
+        "discount": 135,
+        "original": 180
+      }
+    },
+    {
+      "english": {
+        "name": "Huntsman Shield Skin",
+        "description": "Replaces the appearance of a shield with the Huntsman Shield Skin."
+      },
+      "link": "https://www.pathofexile.com/shop/item/HuntsmanShieldSkin",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TaGllbGRzL0h1bnRzbWFuU2hpZWxkIn1d/3a0701aa02/HuntsmanShield.png",
+      "source": "poe1",
+      "price": {
+        "discount": 135,
+        "original": 180
+      }
+    },
+    {
+      "english": {
+        "name": "Black Hole Rare Finisher Effect",
+        "description": "Imbues a weapon with a Black Hole Rare Finisher Effect. It amplifies the deaths of Rare Monsters you kill."
+      },
+      "link": "https://www.pathofexile.com/shop/item/BlackHoleRareFinisherEffect",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vQmxhY2tIb2xlT25LaWxsRWZmZWN0In1d/b9a8e8bf26/BlackHoleOnKillEffect.png",
+      "source": "poe1",
+      "price": {
+        "discount": 120,
+        "original": 160
+      }
+    },
+    {
+      "english": {
+        "name": "Gorgon Shield",
+        "description": "Replaces the appearance of a shield with the Gorgon Shield."
+      },
+      "link": "https://www.pathofexile.com/shop/item/GorgonShield",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TaGllbGRzL0dvcmdvblNoaWVsZCJ9XQ/4316e0eda4/GorgonShield.png",
+      "source": "poe1",
+      "price": {
+        "discount": 120,
+        "original": 170
+      }
+    },
+    {
+      "english": {
+        "name": "Anchor Drop Rare Finisher Effect",
+        "description": "Imbues a weapon with an Anchor Drop Rare Finisher Effect. It amplifies the deaths of Rare Monsters you kill."
+      },
+      "link": "https://www.pathofexile.com/shop/item/AnchorDropRareFinisherEffect",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vQW5jaG9yRHJvcG9uS2lsbEVmZmVjdCJ9XQ/98b507b2c2/AnchorDroponKillEffect.png",
+      "source": "poe1",
+      "price": {
+        "discount": 110,
+        "original": 145
+      }
+    },
+    {
+      "english": {
+        "name": "Necrotic Flames Rare Finisher Effect",
+        "description": "Imbues a weapon with a Necrotic Flames Rare Finisher Effect to any weapon. It amplifies the deaths of Rare Monsters you kill."
+      },
+      "link": "https://www.pathofexile.com/shop/item/NecroticFlamesRareFinisherEffect",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vTmVjcm90aWNGbGFtZXNSYXJlRmluaXNoZXJFZmZlY3QifV0/f1f86ccf5a/NecroticFlamesRareFinisherEffect.png",
+      "source": "poe1",
+      "price": {
+        "discount": 110,
+        "original": 145
+      }
+    },
+    {
+      "english": {
+        "name": "Pillar of Flame Rare Finisher Effect",
+        "description": "Imbues a weapon with the Pillar of Flame Rare Finisher Effect. It amplifies the deaths of Rare Monsters you kill."
+      },
+      "link": "https://www.pathofexile.com/shop/item/PillarOfFlameRareFinisherEffect",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vUGlsbGFyT2ZGbGFtZU9uS2lsbCJ9XQ/1096731e8f/PillarOfFlameOnKill.png",
+      "source": "poe1",
+      "price": {
+        "discount": 105,
+        "original": 130
+      }
+    },
+    {
+      "english": {
+        "name": "Consuming Tentacle Rare Finisher Effect",
+        "description": "Imbues a weapon with a Consuming Tentacle Rare Finisher Effect. It amplifies the deaths of Rare Monsters you kill."
+      },
+      "link": "https://www.pathofexile.com/shop/item/ConsumingTentacleRareFinisherEffect",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vVGVudGFjbGVDb25zdW1lT25LaWxsIn1d/690e3b25f2/TentacleConsumeOnKill.png",
+      "source": "poe1",
+      "price": {
+        "discount": 100,
+        "original": 135
+      }
+    },
+    {
+      "english": {
+        "name": "Celestial Emperor Rare Finisher Effect",
+        "description": "Imbues a weapon with a Celestial Emperor Rare Finisher Effect to any weapon. It amplifies the deaths of Rare Monsters you kill."
+      },
+      "link": "https://www.pathofexile.com/shop/item/CelestialEmperorRareFinisherEffect",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vQ2VsZXN0aWFsRW1wZXJvclJhcmVGaW5pc2hlckVmZmVjdCJ9XQ/8cdcc43ce7/CelestialEmperorRareFinisherEffect.png",
+      "source": "poe1",
+      "price": {
+        "discount": 100,
+        "original": 130
+      }
+    },
+    {
+      "english": {
+        "name": "Dragon Fire Rare Finisher Effect",
+        "description": "Imbues a weapon with a Dragon Fire Rare Finisher Effect. It amplifies the deaths of Rare Monsters you kill."
+      },
+      "link": "https://www.pathofexile.com/shop/item/DragonFireRareFinisherEffect",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vRHJhZ29uRmlyZU9uS2lsbCJ9XQ/5d3d850eb9/DragonFireOnKill.png",
+      "source": "poe1",
+      "price": {
+        "discount": 95,
+        "original": 125
+      }
+    },
+    {
+      "english": {
+        "name": "Goblin Witchdoctor Weapon Skin",
+        "description": "Replaces the appearance of a Spear, Shield, Buckler, Bow or Quiver with the Goblin Witchdoctor Weapon Skin."
+      },
+      "link": "https://pathofexile2.com/shop/item/goblin-witchdoctor-weapon-skin",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vR29ibGluV2l0Y2hkb2N0b3JXZWFwb25Ta2luIiwicmVhbG0iOiJwb2UyIn1d/1c6ab051b0/GoblinWitchdoctorWeaponSkin.webp",
+      "source": "poe2_variant",
+      "price": {
+        "discount": 135,
+        "original": 175
+      },
+      "twName": "武器外觀：哥布林巫醫",
+      "twDesc": "將你的長矛、盾牌、輕盾、弓或箭袋外觀替換為哥布林巫醫武器外觀。"
+    },
+    {
+      "english": {
+        "name": "Goblin Shaman Weapon Skin",
+        "description": "Replaces the appearance of a Spear, Shield, Buckler, Bow or Quiver with the Goblin Shaman Weapon Skin."
+      },
+      "link": "https://pathofexile2.com/shop/item/goblin-shaman-weapon-skin",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vR29ibGluU2hhbWFuV2VhcG9uU2tpbiIsInJlYWxtIjoicG9lMiJ9XQ/cb215eba1d/GoblinShamanWeaponSkin.webp",
+      "source": "poe2_variant",
+      "price": {
+        "discount": 125,
+        "original": 160
+      },
+      "twName": "武器外觀：哥布林薩滿",
+      "twDesc": "將你的長矛、盾牌、輕盾、弓或箭袋外觀替換為哥布林薩滿武器外觀。"
     }
   ]
 }
