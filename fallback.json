@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-02 07:38:28",
+  "date": "2026-11-02 22:18:05",
   "items": [
     {
       "english": {
@@ -1683,6 +1683,36 @@
       "specialEnd": "2026-11-03T00:00:00+00:00",
       "twName": "長矛外觀：太陽氏族俠客",
       "twDesc": "將你的長矛外觀替換為太陽氏族俠客長矛。"
+    },
+    {
+      "english": {
+        "name": "Sunrise Shield",
+        "description": "Replaces the appearance of a shield with the Sunrise Shield."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TaGllbGRzL1N1bnJpc2VTaGllbGRTa2luIn1d/ae23788d4f/SunriseShieldSkin.png",
+      "link": "https://www.pathofexile.com/shop/item/SunriseShield",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 180,
+        "discount": 135
+      }
+    },
+    {
+      "english": {
+        "name": "Sunrise Weapon Effect",
+        "description": "Imbues a weapon with the Sunrise Weapon Effect."
+      },
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vd2VhcG9uX1N1bnJpc2VXZWFwb25FZmZlY3QifV0/e1f81f80f0/weapon_SunriseWeaponEffect.png",
+      "link": "https://www.pathofexile.com/shop/item/SunriseWeaponEffect",
+      "source": "poe1",
+      "kind": "discount",
+      "price": {
+        "original": 180,
+        "discount": 135
+      },
+      "twName": "武器特效：輝蘊朝陽",
+      "twDesc": "為你的武器注入輝蘊朝陽。"
     },
     {
       "english": {
