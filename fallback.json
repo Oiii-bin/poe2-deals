@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-06 19:56:24",
+  "date": "2026-11-07 07:05:10",
   "items": [
     {
       "english": {
@@ -5393,19 +5393,6 @@
     },
     {
       "english": {
-        "name": "Eternal Revelation Blade",
-        "description": "Changes the appearance of any equipped sword to the Eternal Revelation Blade. The blade has a protective outer layer that shatters as you hit enemies, revealing a core of divine energy."
-      },
-      "link": "https://www.pathofexile.com/shop/item/EternalRevelationBlade",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vRXRlcm5hbFJldmVsYXRpb25CbGFkZSJ9XQ/a407e58054/EternalRevelationBlade.png",
-      "source": "poe1",
-      "price": {
-        "discount": 170,
-        "original": 240
-      }
-    },
-    {
-      "english": {
         "name": "Ashcaller Body Armour",
         "description": "Replaces the appearance of a piece of body armour with the Ashcaller Body Armour, which causes ash to fall around you."
       },
@@ -5415,6 +5402,19 @@
       "price": {
         "discount": 205,
         "original": 270
+      }
+    },
+    {
+      "english": {
+        "name": "Eternal Revelation Blade",
+        "description": "Changes the appearance of any equipped sword to the Eternal Revelation Blade. The blade has a protective outer layer that shatters as you hit enemies, revealing a core of divine energy."
+      },
+      "link": "https://www.pathofexile.com/shop/item/EternalRevelationBlade",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vRXRlcm5hbFJldmVsYXRpb25CbGFkZSJ9XQ/a407e58054/EternalRevelationBlade.png",
+      "source": "poe1",
+      "price": {
+        "discount": 170,
+        "original": 240
       }
     },
     {
