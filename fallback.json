@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-13 20:28:07",
+  "date": "2026-11-14 07:35:09",
   "items": [
     {
       "english": {
@@ -7974,15 +7974,15 @@
     },
     {
       "english": {
-        "name": "Void Emperor Electroswarm Character Effect",
-        "description": "The Void Emperor Electroswarm Character Effect surrounds your character with floating jellyfish that become charged with electricity over time and funnel that electricity into your character whenever you use a lightning skill."
+        "name": "Electroswarm Character Effect",
+        "description": "The Electroswarm Character Effect surrounds your character with floating jellyfish that become charged with electricity over time and funnel that electricity into your character whenever you use a lightning skill."
       },
-      "link": "https://www.pathofexile.com/shop/item/VoidEmperorElectroswarmCharacterEffect",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9DaGFyYWN0ZXIvVm9pZEVtcGVyb3JFbGVjdHJvc3dhcm1DaGFyYWN0ZXJFZmZlY3QifV0/506379bda2/VoidEmperorElectroswarmCharacterEffect.png",
+      "link": "https://www.pathofexile.com/shop/item/ElectroswarmCharacterEffect",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9DaGFyYWN0ZXIvRWxlY3Ryb3N3YXJtQ2hhcmFjdGVyRWZmZWN0In1d/af5c33e521/ElectroswarmCharacterEffect.png",
       "source": "poe1",
       "price": {
-        "discount": 190,
-        "original": 250
+        "discount": 170,
+        "original": 230
       }
     },
     {
@@ -8013,15 +8013,15 @@
     },
     {
       "english": {
-        "name": "Electroswarm Character Effect",
-        "description": "The Electroswarm Character Effect surrounds your character with floating jellyfish that become charged with electricity over time and funnel that electricity into your character whenever you use a lightning skill."
+        "name": "Void Emperor Electroswarm Character Effect",
+        "description": "The Void Emperor Electroswarm Character Effect surrounds your character with floating jellyfish that become charged with electricity over time and funnel that electricity into your character whenever you use a lightning skill."
       },
-      "link": "https://www.pathofexile.com/shop/item/ElectroswarmCharacterEffect",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9DaGFyYWN0ZXIvRWxlY3Ryb3N3YXJtQ2hhcmFjdGVyRWZmZWN0In1d/af5c33e521/ElectroswarmCharacterEffect.png",
+      "link": "https://www.pathofexile.com/shop/item/VoidEmperorElectroswarmCharacterEffect",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9DaGFyYWN0ZXIvVm9pZEVtcGVyb3JFbGVjdHJvc3dhcm1DaGFyYWN0ZXJFZmZlY3QifV0/506379bda2/VoidEmperorElectroswarmCharacterEffect.png",
       "source": "poe1",
       "price": {
-        "discount": 170,
-        "original": 230
+        "discount": 190,
+        "original": 250
       }
     },
     {
@@ -8322,36 +8322,6 @@
     },
     {
       "english": {
-        "name": "Ghoulhunter Back Attachment",
-        "description": "Adds the Ghoulhunter Back Attachment to your character."
-      },
-      "link": "https://pathofexile2.com/shop/item/ghoulhunter-back-attachment",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9XaGl0ZVdpdGNoaHVudGVyQmFja0F0dGFjaG1lbnQiLCJyZWFsbSI6InBvZTIifV0/8f966564eb/WhiteWitchhunterBackAttachment.webp",
-      "source": "poe2_variant",
-      "price": {
-        "discount": 100,
-        "original": 130
-      },
-      "twName": "背飾：活屍獵人",
-      "twDesc": "為你的角色添加活屍獵人背飾。"
-    },
-    {
-      "english": {
-        "name": "Witchhunter Back Attachment",
-        "description": "Adds the Witchhunter Back Attachment to your character."
-      },
-      "link": "https://pathofexile2.com/shop/item/witchhunter-back-attachment",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9XaXRjaGh1bnRlckJhY2tBdHRhY2htZW50IiwicmVhbG0iOiJwb2UyIn1d/72843ff298/WitchhunterBackAttachment.webp",
-      "source": "poe2_variant",
-      "price": {
-        "discount": 115,
-        "original": 150
-      },
-      "twName": "背飾：女巫獵人",
-      "twDesc": "為你的角色添加女巫獵人背飾。"
-    },
-    {
-      "english": {
         "name": "Anchor Drop Rare Finisher Effect",
         "description": "Imbues a weapon with an Anchor Drop Rare Finisher Effect. It amplifies the deaths of Rare Monsters you kill."
       },
@@ -8419,32 +8389,6 @@
     },
     {
       "english": {
-        "name": "Cerulean Crustacean Helmet",
-        "description": "Replaces the appearance of a piece of headgear with the Cerulean Crustacean Helmet."
-      },
-      "link": "https://www.pathofexile.com/shop/item/CeruleanCrustaceanHelmet",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9IYXRzL0NlcnVsZWFuQ3JhYkhlbG1ldCJ9XQ/779efb4db1/CeruleanCrabHelmet.png",
-      "source": "poe1",
-      "price": {
-        "discount": 100,
-        "original": 130
-      }
-    },
-    {
-      "english": {
-        "name": "Coral Crustacean Helmet",
-        "description": "Replaces the appearance of a piece of headgear with the Coral Crustacean Helmet."
-      },
-      "link": "https://www.pathofexile.com/shop/item/CoralCrustaceanHelmet",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9IYXRzL0NvcmFsQ3JhYkhlbG1ldCJ9XQ/3b511caf03/CoralCrabHelmet.png",
-      "source": "poe1",
-      "price": {
-        "discount": 105,
-        "original": 135
-      }
-    },
-    {
-      "english": {
         "name": "Pillar of Flame Rare Finisher Effect",
         "description": "Imbues a weapon with the Pillar of Flame Rare Finisher Effect. It amplifies the deaths of Rare Monsters you kill."
       },
@@ -8455,6 +8399,36 @@
         "discount": 100,
         "original": 130
       }
+    },
+    {
+      "english": {
+        "name": "Ghoulhunter Back Attachment",
+        "description": "Adds the Ghoulhunter Back Attachment to your character."
+      },
+      "link": "https://pathofexile2.com/shop/item/ghoulhunter-back-attachment",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9XaGl0ZVdpdGNoaHVudGVyQmFja0F0dGFjaG1lbnQiLCJyZWFsbSI6InBvZTIifV0/8f966564eb/WhiteWitchhunterBackAttachment.webp",
+      "source": "poe2_variant",
+      "price": {
+        "discount": 100,
+        "original": 130
+      },
+      "twName": "背飾：活屍獵人",
+      "twDesc": "為你的角色添加活屍獵人背飾。"
+    },
+    {
+      "english": {
+        "name": "Witchhunter Back Attachment",
+        "description": "Adds the Witchhunter Back Attachment to your character."
+      },
+      "link": "https://pathofexile2.com/shop/item/witchhunter-back-attachment",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9XaXRjaGh1bnRlckJhY2tBdHRhY2htZW50IiwicmVhbG0iOiJwb2UyIn1d/72843ff298/WitchhunterBackAttachment.webp",
+      "source": "poe2_variant",
+      "price": {
+        "discount": 115,
+        "original": 150
+      },
+      "twName": "背飾：女巫獵人",
+      "twDesc": "為你的角色添加女巫獵人背飾。"
     },
     {
       "english": {
@@ -8521,6 +8495,32 @@
       "price": {
         "discount": 100,
         "original": 130
+      }
+    },
+    {
+      "english": {
+        "name": "Cerulean Crustacean Helmet",
+        "description": "Replaces the appearance of a piece of headgear with the Cerulean Crustacean Helmet."
+      },
+      "link": "https://www.pathofexile.com/shop/item/CeruleanCrustaceanHelmet",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9IYXRzL0NlcnVsZWFuQ3JhYkhlbG1ldCJ9XQ/779efb4db1/CeruleanCrabHelmet.png",
+      "source": "poe1",
+      "price": {
+        "discount": 100,
+        "original": 130
+      }
+    },
+    {
+      "english": {
+        "name": "Coral Crustacean Helmet",
+        "description": "Replaces the appearance of a piece of headgear with the Coral Crustacean Helmet."
+      },
+      "link": "https://www.pathofexile.com/shop/item/CoralCrustaceanHelmet",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9IYXRzL0NvcmFsQ3JhYkhlbG1ldCJ9XQ/3b511caf03/CoralCrabHelmet.png",
+      "source": "poe1",
+      "price": {
+        "discount": 105,
+        "original": 135
       }
     },
     {
@@ -8607,6 +8607,142 @@
     },
     {
       "english": {
+        "name": "Something Fishy Chest Extra Effect",
+        "description": "The Something Fishy Chest Extra Effect causes chests to explode with smelly fish!"
+      },
+      "link": "https://www.pathofexile.com/shop/item/SomethingFishyChestExtraEffect",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9DaGVzdE9wZW5FeHRyYUZpc2hFZmZlY3QifV0/bbfe62b1f5/ChestOpenExtraFishEffect.png",
+      "source": "poe1",
+      "price": {
+        "discount": 65,
+        "original": 85
+      }
+    },
+    {
+      "english": {
+        "name": "Trapped Wisps Chest Extra Effect",
+        "description": "The Trapped Wisp Chest Extra Effects causes chests to explode with trapped wisps!"
+      },
+      "link": "https://www.pathofexile.com/shop/item/TrappedWispsChestExtraEffect",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9DaGVzdE9wZW5FeHRyYVdpc3BzRWZmZWN0In1d/f788e5bc05/ChestOpenExtraWispsEffect.png",
+      "source": "poe1",
+      "price": {
+        "discount": 70,
+        "original": 90
+      }
+    },
+    {
+      "english": {
+        "name": "Not the Bees! Chest Extra Effect",
+        "description": "The Not the Bees! Chest Extra Effect causes chests to explode with bees!"
+      },
+      "link": "https://www.pathofexile.com/shop/item/NotTheBeesChestExtraEffect",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9DaGVzdE9wZW5FeHRyYUJlZXNFZmZlY3QifV0/a14382e585/ChestOpenExtraBeesEffect.png",
+      "source": "poe1",
+      "price": {
+        "discount": 70,
+        "original": 95
+      }
+    },
+    {
+      "english": {
+        "name": "Nethermancer Boots",
+        "description": "Replaces the appearance of a pair of boots with the Nethermancer Boots."
+      },
+      "link": "https://pathofexile2.com/shop/item/nethermancer-boots",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9zaG9lcy9OZXRoZXJtYW5jZXJBcm1vdXJCb290cyIsInJlYWxtIjoicG9lMiJ9XQ/bbfc071ccb/NethermancerArmourBoots.webp",
+      "source": "poe2_normal",
+      "price": {
+        "discount": 60,
+        "original": 80
+      },
+      "twName": "腳部外觀：幽冥術士",
+      "twDesc": "將你的腳部外觀替換為幽冥術士。"
+    },
+    {
+      "english": {
+        "name": "Eldritch Monarch Boots",
+        "description": "Replaces the appearance of a pair of boots with the Eldritch Monarch Boots."
+      },
+      "link": "https://www.pathofexile.com/shop/item/EldritchMonarchBoots",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9zaG9lcy9FbGRyaXRjaE1vbmFyY2hCb290cyJ9XQ/8fac140ec8/EldritchMonarchBoots.png",
+      "source": "poe1",
+      "price": {
+        "discount": 65,
+        "original": 85
+      }
+    },
+    {
+      "english": {
+        "name": "Eldritch Royalty Boots",
+        "description": "Replaces the appearance of a pair of boots with the Eldritch Royalty Boots."
+      },
+      "link": "https://www.pathofexile.com/shop/item/EldritchRoyaltyBoots",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9zaG9lcy9FbGRyaXRjaFJveWFsdHlCb290cyJ9XQ/b58b2d9ff8/EldritchRoyaltyBoots.png",
+      "source": "poe1",
+      "price": {
+        "discount": 60,
+        "original": 80
+      }
+    },
+    {
+      "english": {
+        "name": "Cerulean Crustacean Boots",
+        "description": "Replaces the appearance of a pair of boots with the Cerulean Crustacean Boots."
+      },
+      "link": "https://www.pathofexile.com/shop/item/CeruleanCrustaceanBoots",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9zaG9lcy9DZXJ1bGVhbkNyYWJCb290cyJ9XQ/0f4c757589/CeruleanCrabBoots.png",
+      "source": "poe1",
+      "price": {
+        "discount": 60,
+        "original": 80
+      }
+    },
+    {
+      "english": {
+        "name": "Coral Crustacean Boots",
+        "description": "Replaces the appearance of a pair of boots with the Coral Crustacean Boots."
+      },
+      "link": "https://www.pathofexile.com/shop/item/CoralCrustaceanBoots",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9zaG9lcy9Db3JhbENyYWJCb290cyJ9XQ/951178df0f/CoralCrabBoots.png",
+      "source": "poe1",
+      "price": {
+        "discount": 65,
+        "original": 85
+      }
+    },
+    {
+      "english": {
+        "name": "Goblin Witchdoctor Skin",
+        "description": "Replaces your character model wtih a Goblin Witchdoctor Skin."
+      },
+      "link": "https://pathofexile2.com/shop/item/goblin-witchdoctor-skin",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9DaGFyYWN0ZXIvR29ibGluU2hhbWFuU2tpbldoaXRlIiwicmVhbG0iOiJwb2UyIn1d/732ff65f29/GoblinShamanSkinWhite.webp",
+      "source": "poe2_variant",
+      "price": {
+        "discount": 70,
+        "original": 90
+      },
+      "twName": "外觀：哥布林巫醫",
+      "twDesc": "將你的角色模組替換為哥布林巫醫。"
+    },
+    {
+      "english": {
+        "name": "Goblin Shaman Skin",
+        "description": "Replaces your character model wtih a Goblin Shaman Skin."
+      },
+      "link": "https://pathofexile2.com/shop/item/goblin-shaman-skin",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9DaGFyYWN0ZXIvR29ibGluU2hhbWFuU2tpbkdyZWVuIiwicmVhbG0iOiJwb2UyIn1d/f54e3091f7/GoblinShamanSkinGreen.webp",
+      "source": "poe2_variant",
+      "price": {
+        "discount": 60,
+        "original": 80
+      },
+      "twName": "外觀：哥布林薩滿",
+      "twDesc": "將你的角色模組替換為哥布林薩滿。"
+    },
+    {
+      "english": {
         "name": "Ashcaller Gloves",
         "description": "Replaces the appearance of a pair of gloves with the Ashcaller Gloves."
       },
@@ -8625,6 +8761,32 @@
       },
       "link": "https://www.pathofexile.com/shop/item/SnowcallerGloves",
       "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9nbG92ZXMvV2ludGVyUGxhdGVHbG92ZXMifV0/8e9ffee876/WinterPlateGloves.png",
+      "source": "poe1",
+      "price": {
+        "discount": 60,
+        "original": 80
+      }
+    },
+    {
+      "english": {
+        "name": "Ashcaller Boots",
+        "description": "Replaces the appearance of a pair of boots with the Ashcaller Boots."
+      },
+      "link": "https://www.pathofexile.com/shop/item/AshcallerBoots",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9zaG9lcy9Bc2hQbGF0ZUJvb3RzIn1d/3a016f4220/AshPlateBoots.png",
+      "source": "poe1",
+      "price": {
+        "discount": 65,
+        "original": 85
+      }
+    },
+    {
+      "english": {
+        "name": "Snowcaller Boots",
+        "description": "Replaces the appearance of a pair of boots with the Snowcaller Boots."
+      },
+      "link": "https://www.pathofexile.com/shop/item/SnowcallerBoots",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9zaG9lcy9XaW50ZXJQbGF0ZUJvb3RzIn1d/01ca8fe1ec/WinterPlateBoots.png",
       "source": "poe1",
       "price": {
         "discount": 60,
@@ -8689,116 +8851,6 @@
     },
     {
       "english": {
-        "name": "Nethermancer Boots",
-        "description": "Replaces the appearance of a pair of boots with the Nethermancer Boots."
-      },
-      "link": "https://pathofexile2.com/shop/item/nethermancer-boots",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9zaG9lcy9OZXRoZXJtYW5jZXJBcm1vdXJCb290cyIsInJlYWxtIjoicG9lMiJ9XQ/bbfc071ccb/NethermancerArmourBoots.webp",
-      "source": "poe2_normal",
-      "price": {
-        "discount": 60,
-        "original": 80
-      },
-      "twName": "腳部外觀：幽冥術士",
-      "twDesc": "將你的腳部外觀替換為幽冥術士。"
-    },
-    {
-      "english": {
-        "name": "Something Fishy Chest Extra Effect",
-        "description": "The Something Fishy Chest Extra Effect causes chests to explode with smelly fish!"
-      },
-      "link": "https://www.pathofexile.com/shop/item/SomethingFishyChestExtraEffect",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9DaGVzdE9wZW5FeHRyYUZpc2hFZmZlY3QifV0/bbfe62b1f5/ChestOpenExtraFishEffect.png",
-      "source": "poe1",
-      "price": {
-        "discount": 65,
-        "original": 85
-      }
-    },
-    {
-      "english": {
-        "name": "Trapped Wisps Chest Extra Effect",
-        "description": "The Trapped Wisp Chest Extra Effects causes chests to explode with trapped wisps!"
-      },
-      "link": "https://www.pathofexile.com/shop/item/TrappedWispsChestExtraEffect",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9DaGVzdE9wZW5FeHRyYVdpc3BzRWZmZWN0In1d/f788e5bc05/ChestOpenExtraWispsEffect.png",
-      "source": "poe1",
-      "price": {
-        "discount": 70,
-        "original": 90
-      }
-    },
-    {
-      "english": {
-        "name": "Not the Bees! Chest Extra Effect",
-        "description": "The Not the Bees! Chest Extra Effect causes chests to explode with bees!"
-      },
-      "link": "https://www.pathofexile.com/shop/item/NotTheBeesChestExtraEffect",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9DaGVzdE9wZW5FeHRyYUJlZXNFZmZlY3QifV0/a14382e585/ChestOpenExtraBeesEffect.png",
-      "source": "poe1",
-      "price": {
-        "discount": 70,
-        "original": 95
-      }
-    },
-    {
-      "english": {
-        "name": "Goblin Witchdoctor Skin",
-        "description": "Replaces your character model wtih a Goblin Witchdoctor Skin."
-      },
-      "link": "https://pathofexile2.com/shop/item/goblin-witchdoctor-skin",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9DaGFyYWN0ZXIvR29ibGluU2hhbWFuU2tpbldoaXRlIiwicmVhbG0iOiJwb2UyIn1d/732ff65f29/GoblinShamanSkinWhite.webp",
-      "source": "poe2_variant",
-      "price": {
-        "discount": 70,
-        "original": 90
-      },
-      "twName": "外觀：哥布林巫醫",
-      "twDesc": "將你的角色模組替換為哥布林巫醫。"
-    },
-    {
-      "english": {
-        "name": "Goblin Shaman Skin",
-        "description": "Replaces your character model wtih a Goblin Shaman Skin."
-      },
-      "link": "https://pathofexile2.com/shop/item/goblin-shaman-skin",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9DaGFyYWN0ZXIvR29ibGluU2hhbWFuU2tpbkdyZWVuIiwicmVhbG0iOiJwb2UyIn1d/f54e3091f7/GoblinShamanSkinGreen.webp",
-      "source": "poe2_variant",
-      "price": {
-        "discount": 60,
-        "original": 80
-      },
-      "twName": "外觀：哥布林薩滿",
-      "twDesc": "將你的角色模組替換為哥布林薩滿。"
-    },
-    {
-      "english": {
-        "name": "Ashcaller Boots",
-        "description": "Replaces the appearance of a pair of boots with the Ashcaller Boots."
-      },
-      "link": "https://www.pathofexile.com/shop/item/AshcallerBoots",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9zaG9lcy9Bc2hQbGF0ZUJvb3RzIn1d/3a016f4220/AshPlateBoots.png",
-      "source": "poe1",
-      "price": {
-        "discount": 65,
-        "original": 85
-      }
-    },
-    {
-      "english": {
-        "name": "Snowcaller Boots",
-        "description": "Replaces the appearance of a pair of boots with the Snowcaller Boots."
-      },
-      "link": "https://www.pathofexile.com/shop/item/SnowcallerBoots",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9zaG9lcy9XaW50ZXJQbGF0ZUJvb3RzIn1d/01ca8fe1ec/WinterPlateBoots.png",
-      "source": "poe1",
-      "price": {
-        "discount": 60,
-        "original": 80
-      }
-    },
-    {
-      "english": {
         "name": "Nethermancer Gloves",
         "description": "Replaces the appearance of a pair of gloves with the Nethermancer Gloves."
       },
@@ -8840,32 +8892,6 @@
     },
     {
       "english": {
-        "name": "Eldritch Monarch Boots",
-        "description": "Replaces the appearance of a pair of boots with the Eldritch Monarch Boots."
-      },
-      "link": "https://www.pathofexile.com/shop/item/EldritchMonarchBoots",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9zaG9lcy9FbGRyaXRjaE1vbmFyY2hCb290cyJ9XQ/8fac140ec8/EldritchMonarchBoots.png",
-      "source": "poe1",
-      "price": {
-        "discount": 65,
-        "original": 85
-      }
-    },
-    {
-      "english": {
-        "name": "Eldritch Royalty Boots",
-        "description": "Replaces the appearance of a pair of boots with the Eldritch Royalty Boots."
-      },
-      "link": "https://www.pathofexile.com/shop/item/EldritchRoyaltyBoots",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9zaG9lcy9FbGRyaXRjaFJveWFsdHlCb290cyJ9XQ/b58b2d9ff8/EldritchRoyaltyBoots.png",
-      "source": "poe1",
-      "price": {
-        "discount": 60,
-        "original": 80
-      }
-    },
-    {
-      "english": {
         "name": "Cerulean Crustacean Gloves",
         "description": "Replaces the appearance of a pair of gloves with the Cerulean Crustacean Gloves."
       },
@@ -8884,32 +8910,6 @@
       },
       "link": "https://www.pathofexile.com/shop/item/CoralCrustaceanGloves",
       "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9nbG92ZXMvQ29yYWxDcmFiR2xvdmVzIn1d/6249424d84/CoralCrabGloves.png",
-      "source": "poe1",
-      "price": {
-        "discount": 65,
-        "original": 85
-      }
-    },
-    {
-      "english": {
-        "name": "Cerulean Crustacean Boots",
-        "description": "Replaces the appearance of a pair of boots with the Cerulean Crustacean Boots."
-      },
-      "link": "https://www.pathofexile.com/shop/item/CeruleanCrustaceanBoots",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9zaG9lcy9DZXJ1bGVhbkNyYWJCb290cyJ9XQ/0f4c757589/CeruleanCrabBoots.png",
-      "source": "poe1",
-      "price": {
-        "discount": 60,
-        "original": 80
-      }
-    },
-    {
-      "english": {
-        "name": "Coral Crustacean Boots",
-        "description": "Replaces the appearance of a pair of boots with the Coral Crustacean Boots."
-      },
-      "link": "https://www.pathofexile.com/shop/item/CoralCrustaceanBoots",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9zaG9lcy9Db3JhbENyYWJCb290cyJ9XQ/951178df0f/CoralCrabBoots.png",
       "source": "poe1",
       "price": {
         "discount": 65,
