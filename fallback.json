@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-15 19:21:00",
+  "date": "2026-11-16 07:57:02",
   "items": [
     {
       "english": {
@@ -7974,15 +7974,15 @@
     },
     {
       "english": {
-        "name": "Electroswarm Character Effect",
-        "description": "The Electroswarm Character Effect surrounds your character with floating jellyfish that become charged with electricity over time and funnel that electricity into your character whenever you use a lightning skill."
+        "name": "Void Emperor Electroswarm Character Effect",
+        "description": "The Void Emperor Electroswarm Character Effect surrounds your character with floating jellyfish that become charged with electricity over time and funnel that electricity into your character whenever you use a lightning skill."
       },
-      "link": "https://www.pathofexile.com/shop/item/ElectroswarmCharacterEffect",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9DaGFyYWN0ZXIvRWxlY3Ryb3N3YXJtQ2hhcmFjdGVyRWZmZWN0In1d/af5c33e521/ElectroswarmCharacterEffect.png",
+      "link": "https://www.pathofexile.com/shop/item/VoidEmperorElectroswarmCharacterEffect",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9DaGFyYWN0ZXIvVm9pZEVtcGVyb3JFbGVjdHJvc3dhcm1DaGFyYWN0ZXJFZmZlY3QifV0/506379bda2/VoidEmperorElectroswarmCharacterEffect.png",
       "source": "poe1",
       "price": {
-        "discount": 170,
-        "original": 230
+        "discount": 190,
+        "original": 250
       }
     },
     {
@@ -8013,15 +8013,15 @@
     },
     {
       "english": {
-        "name": "Void Emperor Electroswarm Character Effect",
-        "description": "The Void Emperor Electroswarm Character Effect surrounds your character with floating jellyfish that become charged with electricity over time and funnel that electricity into your character whenever you use a lightning skill."
+        "name": "Electroswarm Character Effect",
+        "description": "The Electroswarm Character Effect surrounds your character with floating jellyfish that become charged with electricity over time and funnel that electricity into your character whenever you use a lightning skill."
       },
-      "link": "https://www.pathofexile.com/shop/item/VoidEmperorElectroswarmCharacterEffect",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9DaGFyYWN0ZXIvVm9pZEVtcGVyb3JFbGVjdHJvc3dhcm1DaGFyYWN0ZXJFZmZlY3QifV0/506379bda2/VoidEmperorElectroswarmCharacterEffect.png",
+      "link": "https://www.pathofexile.com/shop/item/ElectroswarmCharacterEffect",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9DaGFyYWN0ZXIvRWxlY3Ryb3N3YXJtQ2hhcmFjdGVyRWZmZWN0In1d/af5c33e521/ElectroswarmCharacterEffect.png",
       "source": "poe1",
       "price": {
-        "discount": 190,
-        "original": 250
+        "discount": 170,
+        "original": 230
       }
     },
     {
@@ -8322,86 +8322,6 @@
     },
     {
       "english": {
-        "name": "Anchor Drop Rare Finisher Effect",
-        "description": "Imbues a weapon with an Anchor Drop Rare Finisher Effect. It amplifies the deaths of Rare Monsters you kill."
-      },
-      "link": "https://www.pathofexile.com/shop/item/AnchorDropRareFinisherEffect",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vQW5jaG9yRHJvcG9uS2lsbEVmZmVjdCJ9XQ/98b507b2c2/AnchorDroponKillEffect.png",
-      "source": "poe1",
-      "price": {
-        "discount": 110,
-        "original": 145
-      }
-    },
-    {
-      "english": {
-        "name": "Necrotic Flames Rare Finisher Effect",
-        "description": "Imbues a weapon with a Necrotic Flames Rare Finisher Effect to any weapon. It amplifies the deaths of Rare Monsters you kill."
-      },
-      "link": "https://www.pathofexile.com/shop/item/NecroticFlamesRareFinisherEffect",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vTmVjcm90aWNGbGFtZXNSYXJlRmluaXNoZXJFZmZlY3QifV0/f1f86ccf5a/NecroticFlamesRareFinisherEffect.png",
-      "source": "poe1",
-      "price": {
-        "discount": 110,
-        "original": 145
-      }
-    },
-    {
-      "english": {
-        "name": "Immortal Spirit Helmet",
-        "description": "Replaces the appearance of a piece of headgear with the Immortal Spirit Helmet. Its vibrancy changes based on your current percentage of energy shield."
-      },
-      "link": "https://www.pathofexile.com/shop/item/ImmortalSpiritHelmet",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9IYXRzL0ltbW9ydGFsU3Bpcml0SGVsbWV0In1d/755ed0efe0/ImmortalSpiritHelmet.png",
-      "source": "poe1",
-      "price": {
-        "discount": 100,
-        "original": 130
-      }
-    },
-    {
-      "english": {
-        "name": "Immortal Body Helmet",
-        "description": "Replaces the appearance of a piece of headgear with the Immortal Body Helmet. Its vibrancy changes based on your current percentage of life."
-      },
-      "link": "https://pathofexile2.com/shop/item/immortal-body-helmet",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9IYXRzL0ltbW9ydGFsQm9keUhlbG1ldCIsInJlYWxtIjoicG9lMiJ9XQ/3027181839/ImmortalBodyHelmet.webp",
-      "source": "poe2_normal",
-      "price": {
-        "discount": 105,
-        "original": 135
-      },
-      "twName": "頭部外觀：永生祭司",
-      "twDesc": "將你的頭部外觀替換為永生祭司。它的亮度會根據你當前生命的百分比改變。"
-    },
-    {
-      "english": {
-        "name": "Consuming Tentacle Rare Finisher Effect",
-        "description": "Imbues a weapon with a Consuming Tentacle Rare Finisher Effect. It amplifies the deaths of Rare Monsters you kill."
-      },
-      "link": "https://www.pathofexile.com/shop/item/ConsumingTentacleRareFinisherEffect",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vVGVudGFjbGVDb25zdW1lT25LaWxsIn1d/690e3b25f2/TentacleConsumeOnKill.png",
-      "source": "poe1",
-      "price": {
-        "discount": 105,
-        "original": 135
-      }
-    },
-    {
-      "english": {
-        "name": "Pillar of Flame Rare Finisher Effect",
-        "description": "Imbues a weapon with the Pillar of Flame Rare Finisher Effect. It amplifies the deaths of Rare Monsters you kill."
-      },
-      "link": "https://www.pathofexile.com/shop/item/PillarOfFlameRareFinisherEffect",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vUGlsbGFyT2ZGbGFtZU9uS2lsbCJ9XQ/1096731e8f/PillarOfFlameOnKill.png",
-      "source": "poe1",
-      "price": {
-        "discount": 100,
-        "original": 130
-      }
-    },
-    {
-      "english": {
         "name": "Ghoulhunter Back Attachment",
         "description": "Adds the Ghoulhunter Back Attachment to your character."
       },
@@ -8432,28 +8352,41 @@
     },
     {
       "english": {
-        "name": "Ashcaller Helmet",
-        "description": "Replaces the appearance of a piece of headgear with the Ashcaller Helmet."
+        "name": "Anchor Drop Rare Finisher Effect",
+        "description": "Imbues a weapon with an Anchor Drop Rare Finisher Effect. It amplifies the deaths of Rare Monsters you kill."
       },
-      "link": "https://www.pathofexile.com/shop/item/AshcallerHelmet",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9IYXRzL0FzaFBsYXRlSGVsbWV0In1d/40fa575874/AshPlateHelmet.png",
+      "link": "https://www.pathofexile.com/shop/item/AnchorDropRareFinisherEffect",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vQW5jaG9yRHJvcG9uS2lsbEVmZmVjdCJ9XQ/98b507b2c2/AnchorDroponKillEffect.png",
       "source": "poe1",
       "price": {
-        "discount": 105,
-        "original": 135
+        "discount": 110,
+        "original": 145
       }
     },
     {
       "english": {
-        "name": "Snowcaller Helmet",
-        "description": "Replaces the appearance of a piece of headgear with the Snowcaller Helmet."
+        "name": "Necrotic Flames Rare Finisher Effect",
+        "description": "Imbues a weapon with a Necrotic Flames Rare Finisher Effect to any weapon. It amplifies the deaths of Rare Monsters you kill."
       },
-      "link": "https://www.pathofexile.com/shop/item/SnowcallerHelmet",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9IYXRzL1dpbnRlclBsYXRlSGVsbWV0In1d/5a7cea45d1/WinterPlateHelmet.png",
+      "link": "https://www.pathofexile.com/shop/item/NecroticFlamesRareFinisherEffect",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vTmVjcm90aWNGbGFtZXNSYXJlRmluaXNoZXJFZmZlY3QifV0/f1f86ccf5a/NecroticFlamesRareFinisherEffect.png",
       "source": "poe1",
       "price": {
-        "discount": 100,
-        "original": 130
+        "discount": 110,
+        "original": 145
+      }
+    },
+    {
+      "english": {
+        "name": "Consuming Tentacle Rare Finisher Effect",
+        "description": "Imbues a weapon with a Consuming Tentacle Rare Finisher Effect. It amplifies the deaths of Rare Monsters you kill."
+      },
+      "link": "https://www.pathofexile.com/shop/item/ConsumingTentacleRareFinisherEffect",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vVGVudGFjbGVDb25zdW1lT25LaWxsIn1d/690e3b25f2/TentacleConsumeOnKill.png",
+      "source": "poe1",
+      "price": {
+        "discount": 105,
+        "original": 135
       }
     },
     {
@@ -8499,32 +8432,6 @@
     },
     {
       "english": {
-        "name": "Cerulean Crustacean Helmet",
-        "description": "Replaces the appearance of a piece of headgear with the Cerulean Crustacean Helmet."
-      },
-      "link": "https://www.pathofexile.com/shop/item/CeruleanCrustaceanHelmet",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9IYXRzL0NlcnVsZWFuQ3JhYkhlbG1ldCJ9XQ/779efb4db1/CeruleanCrabHelmet.png",
-      "source": "poe1",
-      "price": {
-        "discount": 100,
-        "original": 130
-      }
-    },
-    {
-      "english": {
-        "name": "Coral Crustacean Helmet",
-        "description": "Replaces the appearance of a piece of headgear with the Coral Crustacean Helmet."
-      },
-      "link": "https://www.pathofexile.com/shop/item/CoralCrustaceanHelmet",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9IYXRzL0NvcmFsQ3JhYkhlbG1ldCJ9XQ/3b511caf03/CoralCrabHelmet.png",
-      "source": "poe1",
-      "price": {
-        "discount": 105,
-        "original": 135
-      }
-    },
-    {
-      "english": {
         "name": "Scourge Commander Helmet",
         "description": "Replaces the appearance of a piece of headgear with the Scourge Commander Helmet. Grants an ability to raise your own demon."
       },
@@ -8543,6 +8450,99 @@
       },
       "link": "https://www.pathofexile.com/shop/item/LegionCommanderHelmet",
       "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9IYXRzL0xlZ2lvbkNvbW1hbmRlckhlbG1ldCJ9XQ/0d8acfea40/LegionCommanderHelmet.png",
+      "source": "poe1",
+      "price": {
+        "discount": 105,
+        "original": 135
+      }
+    },
+    {
+      "english": {
+        "name": "Pillar of Flame Rare Finisher Effect",
+        "description": "Imbues a weapon with the Pillar of Flame Rare Finisher Effect. It amplifies the deaths of Rare Monsters you kill."
+      },
+      "link": "https://www.pathofexile.com/shop/item/PillarOfFlameRareFinisherEffect",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vUGlsbGFyT2ZGbGFtZU9uS2lsbCJ9XQ/1096731e8f/PillarOfFlameOnKill.png",
+      "source": "poe1",
+      "price": {
+        "discount": 100,
+        "original": 130
+      }
+    },
+    {
+      "english": {
+        "name": "Ashcaller Helmet",
+        "description": "Replaces the appearance of a piece of headgear with the Ashcaller Helmet."
+      },
+      "link": "https://www.pathofexile.com/shop/item/AshcallerHelmet",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9IYXRzL0FzaFBsYXRlSGVsbWV0In1d/40fa575874/AshPlateHelmet.png",
+      "source": "poe1",
+      "price": {
+        "discount": 105,
+        "original": 135
+      }
+    },
+    {
+      "english": {
+        "name": "Snowcaller Helmet",
+        "description": "Replaces the appearance of a piece of headgear with the Snowcaller Helmet."
+      },
+      "link": "https://www.pathofexile.com/shop/item/SnowcallerHelmet",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9IYXRzL1dpbnRlclBsYXRlSGVsbWV0In1d/5a7cea45d1/WinterPlateHelmet.png",
+      "source": "poe1",
+      "price": {
+        "discount": 100,
+        "original": 130
+      }
+    },
+    {
+      "english": {
+        "name": "Immortal Spirit Helmet",
+        "description": "Replaces the appearance of a piece of headgear with the Immortal Spirit Helmet. Its vibrancy changes based on your current percentage of energy shield."
+      },
+      "link": "https://www.pathofexile.com/shop/item/ImmortalSpiritHelmet",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9IYXRzL0ltbW9ydGFsU3Bpcml0SGVsbWV0In1d/755ed0efe0/ImmortalSpiritHelmet.png",
+      "source": "poe1",
+      "price": {
+        "discount": 100,
+        "original": 130
+      }
+    },
+    {
+      "english": {
+        "name": "Immortal Body Helmet",
+        "description": "Replaces the appearance of a piece of headgear with the Immortal Body Helmet. Its vibrancy changes based on your current percentage of life."
+      },
+      "link": "https://pathofexile2.com/shop/item/immortal-body-helmet",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9IYXRzL0ltbW9ydGFsQm9keUhlbG1ldCIsInJlYWxtIjoicG9lMiJ9XQ/3027181839/ImmortalBodyHelmet.webp",
+      "source": "poe2_normal",
+      "price": {
+        "discount": 105,
+        "original": 135
+      },
+      "twName": "頭部外觀：永生祭司",
+      "twDesc": "將你的頭部外觀替換為永生祭司。它的亮度會根據你當前生命的百分比改變。"
+    },
+    {
+      "english": {
+        "name": "Cerulean Crustacean Helmet",
+        "description": "Replaces the appearance of a piece of headgear with the Cerulean Crustacean Helmet."
+      },
+      "link": "https://www.pathofexile.com/shop/item/CeruleanCrustaceanHelmet",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9IYXRzL0NlcnVsZWFuQ3JhYkhlbG1ldCJ9XQ/779efb4db1/CeruleanCrabHelmet.png",
+      "source": "poe1",
+      "price": {
+        "discount": 100,
+        "original": 130
+      }
+    },
+    {
+      "english": {
+        "name": "Coral Crustacean Helmet",
+        "description": "Replaces the appearance of a piece of headgear with the Coral Crustacean Helmet."
+      },
+      "link": "https://www.pathofexile.com/shop/item/CoralCrustaceanHelmet",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9IYXRzL0NvcmFsQ3JhYkhlbG1ldCJ9XQ/3b511caf03/CoralCrabHelmet.png",
       "source": "poe1",
       "price": {
         "discount": 105,
@@ -8646,18 +8646,100 @@
     },
     {
       "english": {
-        "name": "Nethermancer Boots",
-        "description": "Replaces the appearance of a pair of boots with the Nethermancer Boots."
+        "name": "Goblin Witchdoctor Skin",
+        "description": "Replaces your character model wtih a Goblin Witchdoctor Skin."
       },
-      "link": "https://pathofexile2.com/shop/item/nethermancer-boots",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9zaG9lcy9OZXRoZXJtYW5jZXJBcm1vdXJCb290cyIsInJlYWxtIjoicG9lMiJ9XQ/bbfc071ccb/NethermancerArmourBoots.webp",
+      "link": "https://pathofexile2.com/shop/item/goblin-witchdoctor-skin",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9DaGFyYWN0ZXIvR29ibGluU2hhbWFuU2tpbldoaXRlIiwicmVhbG0iOiJwb2UyIn1d/732ff65f29/GoblinShamanSkinWhite.webp",
+      "source": "poe2_variant",
+      "price": {
+        "discount": 70,
+        "original": 90
+      },
+      "twName": "外觀：哥布林巫醫",
+      "twDesc": "將你的角色模組替換為哥布林巫醫。"
+    },
+    {
+      "english": {
+        "name": "Goblin Shaman Skin",
+        "description": "Replaces your character model wtih a Goblin Shaman Skin."
+      },
+      "link": "https://pathofexile2.com/shop/item/goblin-shaman-skin",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9DaGFyYWN0ZXIvR29ibGluU2hhbWFuU2tpbkdyZWVuIiwicmVhbG0iOiJwb2UyIn1d/f54e3091f7/GoblinShamanSkinGreen.webp",
+      "source": "poe2_variant",
+      "price": {
+        "discount": 60,
+        "original": 80
+      },
+      "twName": "外觀：哥布林薩滿",
+      "twDesc": "將你的角色模組替換為哥布林薩滿。"
+    },
+    {
+      "english": {
+        "name": "Ashcaller Boots",
+        "description": "Replaces the appearance of a pair of boots with the Ashcaller Boots."
+      },
+      "link": "https://www.pathofexile.com/shop/item/AshcallerBoots",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9zaG9lcy9Bc2hQbGF0ZUJvb3RzIn1d/3a016f4220/AshPlateBoots.png",
+      "source": "poe1",
+      "price": {
+        "discount": 65,
+        "original": 85
+      }
+    },
+    {
+      "english": {
+        "name": "Snowcaller Boots",
+        "description": "Replaces the appearance of a pair of boots with the Snowcaller Boots."
+      },
+      "link": "https://www.pathofexile.com/shop/item/SnowcallerBoots",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9zaG9lcy9XaW50ZXJQbGF0ZUJvb3RzIn1d/01ca8fe1ec/WinterPlateBoots.png",
+      "source": "poe1",
+      "price": {
+        "discount": 60,
+        "original": 80
+      }
+    },
+    {
+      "english": {
+        "name": "Nethermancer Gloves",
+        "description": "Replaces the appearance of a pair of gloves with the Nethermancer Gloves."
+      },
+      "link": "https://pathofexile2.com/shop/item/nethermancer-gloves",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9nbG92ZXMvTmV0aGVybWFuY2VyR2xvdmVzIiwicmVhbG0iOiJwb2UyIn1d/3f723e7362/NethermancerGloves.webp",
       "source": "poe2_normal",
       "price": {
         "discount": 60,
         "original": 80
       },
-      "twName": "腳部外觀：幽冥術士",
-      "twDesc": "將你的腳部外觀替換為幽冥術士。"
+      "twName": "手部外觀：幽冥術士",
+      "twDesc": "將你的手部外觀替換為幽冥術士。"
+    },
+    {
+      "english": {
+        "name": "Eldritch Monarch Gloves",
+        "description": "Replaces the appearance of a pair of gloves with the Eldritch Monarch Gloves."
+      },
+      "link": "https://www.pathofexile.com/shop/item/EldritchMonarchGloves",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9nbG92ZXMvRWxkcml0Y2hNb25hcmNoR2xvdmVzIn1d/1c1caf62c4/EldritchMonarchGloves.png",
+      "source": "poe1",
+      "price": {
+        "discount": 65,
+        "original": 85
+      }
+    },
+    {
+      "english": {
+        "name": "Eldritch Royalty Gloves",
+        "description": "Replaces the appearance of a pair of gloves with the Eldritch Royalty Gloves."
+      },
+      "link": "https://www.pathofexile.com/shop/item/EldritchRoyaltyGloves",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9nbG92ZXMvRWxkcml0Y2hSb3lhbHR5R2xvdmVzIn1d/3208062abf/EldritchRoyaltyGloves.png",
+      "source": "poe1",
+      "price": {
+        "discount": 60,
+        "original": 80
+      }
     },
     {
       "english": {
@@ -8713,33 +8795,29 @@
     },
     {
       "english": {
-        "name": "Goblin Witchdoctor Skin",
-        "description": "Replaces your character model wtih a Goblin Witchdoctor Skin."
+        "name": "Scourge Commander Boots",
+        "description": "Replaces the appearance of a pair of boots with the Scourge Commander Boots. Grants an ability to raise your own demon."
       },
-      "link": "https://pathofexile2.com/shop/item/goblin-witchdoctor-skin",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9DaGFyYWN0ZXIvR29ibGluU2hhbWFuU2tpbldoaXRlIiwicmVhbG0iOiJwb2UyIn1d/732ff65f29/GoblinShamanSkinWhite.webp",
-      "source": "poe2_variant",
-      "price": {
-        "discount": 70,
-        "original": 90
-      },
-      "twName": "外觀：哥布林巫醫",
-      "twDesc": "將你的角色模組替換為哥布林巫醫。"
-    },
-    {
-      "english": {
-        "name": "Goblin Shaman Skin",
-        "description": "Replaces your character model wtih a Goblin Shaman Skin."
-      },
-      "link": "https://pathofexile2.com/shop/item/goblin-shaman-skin",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9DaGFyYWN0ZXIvR29ibGluU2hhbWFuU2tpbkdyZWVuIiwicmVhbG0iOiJwb2UyIn1d/f54e3091f7/GoblinShamanSkinGreen.webp",
-      "source": "poe2_variant",
+      "link": "https://www.pathofexile.com/shop/item/ScourgeCommanderBoots",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9zaG9lcy9Cb25lTGVnaW9uQ29tbWFuZGVyQm9vdHMifV0/628e45a3eb/BoneLegionCommanderBoots.png",
+      "source": "poe1",
       "price": {
         "discount": 60,
         "original": 80
+      }
+    },
+    {
+      "english": {
+        "name": "Legion Commander Boots",
+        "description": "Replaces the appearance of a pair of boots with the Legion Commander Boots. Grants an ability to raise your own demon."
       },
-      "twName": "外觀：哥布林薩滿",
-      "twDesc": "將你的角色模組替換為哥布林薩滿。"
+      "link": "https://www.pathofexile.com/shop/item/LegionCommanderBoots",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9zaG9lcy9MZWdpb25Db21tYW5kZXJCb290cyJ9XQ/09bf4d927a/LegionCommanderBoots.png",
+      "source": "poe1",
+      "price": {
+        "discount": 65,
+        "original": 85
+      }
     },
     {
       "english": {
@@ -8761,32 +8839,6 @@
       },
       "link": "https://www.pathofexile.com/shop/item/SnowcallerGloves",
       "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9nbG92ZXMvV2ludGVyUGxhdGVHbG92ZXMifV0/8e9ffee876/WinterPlateGloves.png",
-      "source": "poe1",
-      "price": {
-        "discount": 60,
-        "original": 80
-      }
-    },
-    {
-      "english": {
-        "name": "Ashcaller Boots",
-        "description": "Replaces the appearance of a pair of boots with the Ashcaller Boots."
-      },
-      "link": "https://www.pathofexile.com/shop/item/AshcallerBoots",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9zaG9lcy9Bc2hQbGF0ZUJvb3RzIn1d/3a016f4220/AshPlateBoots.png",
-      "source": "poe1",
-      "price": {
-        "discount": 65,
-        "original": 85
-      }
-    },
-    {
-      "english": {
-        "name": "Snowcaller Boots",
-        "description": "Replaces the appearance of a pair of boots with the Snowcaller Boots."
-      },
-      "link": "https://www.pathofexile.com/shop/item/SnowcallerBoots",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9zaG9lcy9XaW50ZXJQbGF0ZUJvb3RzIn1d/01ca8fe1ec/WinterPlateBoots.png",
       "source": "poe1",
       "price": {
         "discount": 60,
@@ -8851,44 +8903,18 @@
     },
     {
       "english": {
-        "name": "Nethermancer Gloves",
-        "description": "Replaces the appearance of a pair of gloves with the Nethermancer Gloves."
+        "name": "Nethermancer Boots",
+        "description": "Replaces the appearance of a pair of boots with the Nethermancer Boots."
       },
-      "link": "https://pathofexile2.com/shop/item/nethermancer-gloves",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9nbG92ZXMvTmV0aGVybWFuY2VyR2xvdmVzIiwicmVhbG0iOiJwb2UyIn1d/3f723e7362/NethermancerGloves.webp",
+      "link": "https://pathofexile2.com/shop/item/nethermancer-boots",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9zaG9lcy9OZXRoZXJtYW5jZXJBcm1vdXJCb290cyIsInJlYWxtIjoicG9lMiJ9XQ/bbfc071ccb/NethermancerArmourBoots.webp",
       "source": "poe2_normal",
       "price": {
         "discount": 60,
         "original": 80
       },
-      "twName": "手部外觀：幽冥術士",
-      "twDesc": "將你的手部外觀替換為幽冥術士。"
-    },
-    {
-      "english": {
-        "name": "Eldritch Monarch Gloves",
-        "description": "Replaces the appearance of a pair of gloves with the Eldritch Monarch Gloves."
-      },
-      "link": "https://www.pathofexile.com/shop/item/EldritchMonarchGloves",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9nbG92ZXMvRWxkcml0Y2hNb25hcmNoR2xvdmVzIn1d/1c1caf62c4/EldritchMonarchGloves.png",
-      "source": "poe1",
-      "price": {
-        "discount": 65,
-        "original": 85
-      }
-    },
-    {
-      "english": {
-        "name": "Eldritch Royalty Gloves",
-        "description": "Replaces the appearance of a pair of gloves with the Eldritch Royalty Gloves."
-      },
-      "link": "https://www.pathofexile.com/shop/item/EldritchRoyaltyGloves",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9nbG92ZXMvRWxkcml0Y2hSb3lhbHR5R2xvdmVzIn1d/3208062abf/EldritchRoyaltyGloves.png",
-      "source": "poe1",
-      "price": {
-        "discount": 60,
-        "original": 80
-      }
+      "twName": "腳部外觀：幽冥術士",
+      "twDesc": "將你的腳部外觀替換為幽冥術士。"
     },
     {
       "english": {
@@ -8936,32 +8962,6 @@
       },
       "link": "https://www.pathofexile.com/shop/item/LegionCommanderGloves",
       "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9nbG92ZXMvTGVnaW9uQ29tbWFuZGVyR2xvdmVzIn1d/8c68781dc2/LegionCommanderGloves.png",
-      "source": "poe1",
-      "price": {
-        "discount": 65,
-        "original": 85
-      }
-    },
-    {
-      "english": {
-        "name": "Scourge Commander Boots",
-        "description": "Replaces the appearance of a pair of boots with the Scourge Commander Boots. Grants an ability to raise your own demon."
-      },
-      "link": "https://www.pathofexile.com/shop/item/ScourgeCommanderBoots",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9zaG9lcy9Cb25lTGVnaW9uQ29tbWFuZGVyQm9vdHMifV0/628e45a3eb/BoneLegionCommanderBoots.png",
-      "source": "poe1",
-      "price": {
-        "discount": 60,
-        "original": 80
-      }
-    },
-    {
-      "english": {
-        "name": "Legion Commander Boots",
-        "description": "Replaces the appearance of a pair of boots with the Legion Commander Boots. Grants an ability to raise your own demon."
-      },
-      "link": "https://www.pathofexile.com/shop/item/LegionCommanderBoots",
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9zaG9lcy9MZWdpb25Db21tYW5kZXJCb290cyJ9XQ/09bf4d927a/LegionCommanderBoots.png",
       "source": "poe1",
       "price": {
         "discount": 65,
