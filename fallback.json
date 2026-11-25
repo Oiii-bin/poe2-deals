@@ -1,450 +1,6 @@
 {
-  "date": "2026-11-25 09:49:05",
+  "date": "2026-11-25 22:28:27",
   "items": [
-    {
-      "english": {
-        "name": "Alabaster Seraph Pack",
-        "description": "Contains the Alabaster Seraph Body Armour, Helmet, Boots and Glove armour skins (at a discounted price)."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Bcm1vdXJTZXQvU2VyYXBoQWxhYmFzdGVyIn1d/a3290503f5/SeraphAlabaster.png",
-      "link": "https://www.pathofexile.com/shop/item/AlabasterSeraphPack",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 420,
-        "discount": 210
-      },
-      "twName": "白銀神使組合包",
-      "twDesc": "包含了頭部外觀：白銀神使、身體外觀：白銀神使、腳部外觀：白銀神使 和 手部外觀：白銀神使（這是優惠組合）。"
-    },
-    {
-      "english": {
-        "name": "Badge of Mirth",
-        "description": "Replaces the appearance of a shield with the shining Badge of Mirth."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TaGllbGRzL0JhZGdlb2ZtaXJ0aCJ9XQ/4d08b3349c/Badgeofmirth.png",
-      "link": "https://www.pathofexile.com/shop/item/BadgeofMirth",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 180,
-        "discount": 90
-      },
-      "twName": "護盾外觀：歡愉印記",
-      "twDesc": "將你的護盾外觀替換為歡愉印記。"
-    },
-    {
-      "english": {
-        "name": "Elite Armour Pack",
-        "description": "Contains the Elite Body Armour, Elite Helmet, Elite Boots and Elite Gloves armour skins (at a discounted price)."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Bcm1vdXJTZXQvRWxpdGVBcm1vdXIifV0/0ea6e103a3/EliteArmour.png",
-      "link": "https://www.pathofexile.com/shop/item/EliteArmourPack",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 320,
-        "discount": 160
-      },
-      "twName": "菁英神使組合包",
-      "twDesc": "包含了頭部外觀：菁英神使、身體外觀：菁英神使、腳部外觀：菁英神使 和 手部外觀：菁英神使（這是優惠組合）。"
-    },
-    {
-      "english": {
-        "name": "Obsidian Seraph Pack",
-        "description": "Contains the Obsidian Seraph Body Armour, Helmet, Boots and Glove armour skins (at a discounted price)."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Bcm1vdXJTZXQvU2VyYXBoT2JzaWRpYW4ifV0/d7c8ac6884/SeraphObsidian.png",
-      "link": "https://www.pathofexile.com/shop/item/ObsidianSeraphPack",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 420,
-        "discount": 210
-      },
-      "twName": "黑岩神使組合包",
-      "twDesc": "包含了頭部外觀：黑岩神使、身體外觀：黑岩神使、腳部外觀：黑岩神使 和 手部外觀：黑岩神使（這是優惠組合）。"
-    },
-    {
-      "english": {
-        "name": "Seraph Pack",
-        "description": "Contains the Seraph Body Armour, Seraph Helmet, Seraph Boots and Seraph Gloves armour skins (at a discounted price)."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Bcm1vdXJTZXQvU2VyYXBoQXJtb3VyIn1d/6559dcb01d/SeraphArmour.png",
-      "link": "https://www.pathofexile.com/shop/item/SeraphPack",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 400,
-        "discount": 200
-      },
-      "twName": "聖權神使組合包",
-      "twDesc": "包含了頭部外觀：聖權神使、身體外觀：聖權神使、腳部外觀：聖權神使 和 手部外觀：聖權神使（這是優惠組合）。"
-    },
-    {
-      "english": {
-        "name": "Victorious Wings",
-        "description": "Imbues a piece of headgear with a pair of golden, luminous wings."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9IYXRzL0dvbGRlbmdsb3d3aW5nIn1d/2ac9bc1bf0/Goldenglowwing.png",
-      "link": "https://www.pathofexile.com/shop/item/VictoriousWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 70,
-        "discount": 35
-      },
-      "twName": "頭部特效：勝利之翼",
-      "twDesc": "在你的頭部外觀加上一對勝利之翼。"
-    },
-    {
-      "english": {
-        "name": "Seraph Spectral Throw Effect",
-        "description": "Replaces the standard effect on a Spectral Throw skill gem with a whirling, golden wing."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9ib29tZXJhbmcifV0/25f425920b/boomerang.png",
-      "link": "https://www.pathofexile.com/shop/item/SeraphSpectralThrowEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 95,
-        "discount": 50
-      },
-      "twName": "靈體投擲．聖權",
-      "twDesc": "將技能「靈體投擲」的特效替換成迴旋的金黃色翅膀。"
-    },
-    {
-      "english": {
-        "name": "Seraph Sword",
-        "description": "Replaces the appearance of a One Hand Sword, Mace or Axe with the Seraph Sword."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vU2VyYXBoU3dvcmQifV0/9bbba0f6e2/SeraphSword.png",
-      "link": "https://www.pathofexile.com/shop/item/SeraphSword",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 180,
-        "discount": 95
-      },
-      "twName": "武器外觀：聖權神使",
-      "twDesc": "將你的單手劍、單手斧、單手錘或權杖外觀替換為聖權神使之刃。"
-    },
-    {
-      "english": {
-        "name": "Seraph Weapon Effect",
-        "description": "Imbues a weapon with the shining Seraph glow."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vd2VhcG9uX3NlcmFwaCJ9XQ/5be53ee79d/weapon_seraph.png",
-      "link": "https://www.pathofexile.com/shop/item/SeraphWeaponEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 220,
-        "discount": 120
-      },
-      "twName": "武器特效：聖權神使",
-      "twDesc": "為你的武器注入聖權之力，使其被閃耀聖權光芒所環繞。"
-    },
-    {
-      "english": {
-        "name": "Seraph Spirit Wings",
-        "description": "Adds the Seraph Spirit Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9TZXJhcGhTcGlyaXRXaW5ncyJ9XQ/28c9a0c4b2/SeraphSpiritWings.png",
-      "link": "https://www.pathofexile.com/shop/item/SeraphSpiritWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 320,
-        "discount": 180
-      },
-      "twName": "背飾：幻靈神使之翼",
-      "twDesc": "在你的背後附加一個幻靈神使之翼。"
-    },
-    {
-      "english": {
-        "name": "Radiant Weapon Effect",
-        "description": "Imbues a weapon with the power of the sun, making it glow with shards of bursting sunlight."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vd2VhcG9uX3llbGxvd3N1biJ9XQ/e45eb9ea5a/weapon_yellowsun.png",
-      "link": "https://www.pathofexile.com/shop/item/RadiantWeaponEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 155,
-        "discount": 90
-      },
-      "twName": "武器特效：光采聖記",
-      "twDesc": "為你的武器注入太陽之力，使其綻放神聖光芒。"
-    },
-    {
-      "english": {
-        "name": "Seraph Dagger",
-        "description": "Replaces the appearance of a Dagger or Wand with the Seraph Dagger."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vU2VyYXBoRGFnZ2VyIn1d/d0a5710e32/SeraphDagger.png",
-      "link": "https://www.pathofexile.com/shop/item/SeraphDagger",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 110,
-        "discount": 65
-      }
-    },
-    {
-      "english": {
-        "name": "Radiant Axe",
-        "description": "Replaces the appearance of a One Hand Axe, Sword, Mace, Dagger or Wand with the Radiant Axe."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vUmFkaWFudEF4ZSJ9XQ/662dca3209/RadiantAxe.png",
-      "link": "https://www.pathofexile.com/shop/item/RadiantAxe",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 150,
-        "discount": 90
-      },
-      "twName": "武器外觀：日耀之斧",
-      "twDesc": "將你的單手劍、單手斧、單手錘、權杖、法杖、或匕首外觀替換為日耀之斧。"
-    },
-    {
-      "english": {
-        "name": "Seraph Bow",
-        "description": "Replaces the appearance of a bow with the Seraph Bow."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vc2VyYXBoYm93In1d/3ef4499106/seraphbow.png",
-      "link": "https://www.pathofexile.com/shop/item/SeraphBow",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 150,
-        "discount": 90
-      },
-      "twName": "武器外觀：聖權戰弓",
-      "twDesc": " 將你的弓箭外觀替換為聖權戰弓。"
-    },
-    {
-      "english": {
-        "name": "Seraph Wings",
-        "description": "Adds the ornate Seraph Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9TZXJhcGhXaW5nIn1d/5937228081/SeraphWing.png",
-      "link": "https://www.pathofexile.com/shop/item/SeraphWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 300,
-        "discount": 185
-      },
-      "twName": "背飾：聖權神使",
-      "twDesc": "在你的背後附加一對聖潔天使之翼。"
-    },
-    {
-      "english": {
-        "name": "Radiant Armour Pack",
-        "description": "Contains the Radiant Body Armour, Helmet, Boots and Gloves armour skins (at a discounted price)."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Bcm1vdXJTZXQvUmFkaWFudEFybW91ciJ9XQ/c550374e4d/RadiantArmour.png",
-      "link": "https://www.pathofexile.com/shop/item/RadiantArmourPack",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 420,
-        "discount": 260
-      }
-    },
-    {
-      "english": {
-        "name": "Gold Hooded Cloak",
-        "description": "Adds a Gold Hooded Cloak to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9ZZWxsb3dIb29kZWRDbG9hayJ9XQ/f849182058/YellowHoodedCloak.png",
-      "link": "https://www.pathofexile.com/shop/item/GoldHoodedCloak",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 150,
-        "discount": 95
-      },
-      "twName": "背飾：壕金兜風",
-      "twDesc": "在你的背後附加壕金兜風。"
-    },
-    {
-      "english": {
-        "name": "Adder's Claw",
-        "description": "Replaces the appearance of a Claw or Dagger with the Adder's Claw."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vQWRkZXJzQ2xhd1NraW4ifV0/c0f0299263/AddersClawSkin.png",
-      "link": "https://www.pathofexile.com/shop/item/AddersClaw",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 160,
-        "discount": 110
-      },
-      "twName": "武器外觀：鴛鴦勾環爪",
-      "twDesc": "將你的爪或匕首外觀替換為鴛鴦勾環爪。"
-    },
-    {
-      "english": {
-        "name": "Ivory Arc of Courage",
-        "description": "Replaces the appearance of a bow with the Ivory Arc of Courage."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vSXZvcnlBcmNPZkNvdXJhZ2VTa2luIn1d/22ff98b6e7/IvoryArcOfCourageSkin.png",
-      "link": "https://www.pathofexile.com/shop/item/IvoryArcofCourage",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 180,
-        "discount": 130
-      },
-      "twName": "武器外觀：象印之勇",
-      "twDesc": " 將你的弓箭外觀替換為象印之勇。"
-    },
-    {
-      "english": {
-        "name": "Pure Light Weapon Effect",
-        "description": "Imbues a weapon with a pure light effect."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vd2VhcG9uX3B1cmVsaWdodCJ9XQ/915c5c8f01/weapon_purelight.png",
-      "link": "https://www.pathofexile.com/shop/item/PureLightWeaponEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 180,
-        "discount": 130
-      },
-      "twName": "武器特效：淨光",
-      "twDesc": "為你的武器注入淨光，使其被聖光所環繞。"
-    },
-    {
-      "english": {
-        "name": "Divine Blink and Mirror Arrow Effect",
-        "description": "Replaces the standard effect on a Blink or Mirror Arrow skill gem with a divine glow."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaGl0ZUJsaW5rQXJyb3cifV0/2b7054a24c/WhiteBlinkArrow.png",
-      "link": "https://www.pathofexile.com/shop/item/DivineBlinkandMirrorArrowEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 110,
-        "discount": 80
-      },
-      "twName": "魅影閃現射擊．皎白",
-      "twDesc": "你的魅影射擊和閃現射擊技能充滿了皎白特效。"
-    },
-    {
-      "english": {
-        "name": "Divine Lightning Arrow Effect",
-        "description": "Replaces the standard effect on a Lightning Arrow gem with a divine version."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9EaXZpbmVMaWdodG5pbmdBcnJvd0VmZmVjdCJ9XQ/8d93ecb40a/DivineLightningArrowEffect.png",
-      "link": "https://www.pathofexile.com/shop/item/DivineLightningArrowEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 130,
-        "discount": 95
-      },
-      "twName": "閃電箭矢．聖光",
-      "twDesc": "將技能「閃電箭矢」的特效替換為聖光。"
-    },
-    {
-      "english": {
-        "name": "Divine Molten Shell Effect",
-        "description": "Replaces the standard effect on a Molten Shell gem with a divine version."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9EaXZpbmVNb2x0ZW5TaGVsbEVmZmVjdCJ9XQ/1d6d4f4b93/DivineMoltenShellEffect.png",
-      "link": "https://www.pathofexile.com/shop/item/DivineMoltenShellEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 130,
-        "discount": 95
-      },
-      "twName": "熔岩護盾．聖光",
-      "twDesc": "將技能「熔岩護盾」的特效替換為聖光。"
-    },
-    {
-      "english": {
-        "name": "Seraph Battle Wings",
-        "description": "Adds the Seraph Battle Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9TZXJhcGhCYXR0bGVXaW5ncyJ9XQ/38fb424471/SeraphBattleWings.png",
-      "link": "https://www.pathofexile.com/shop/item/SeraphBattleWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 335,
-        "discount": 245
-      },
-      "twName": "背飾：聖權戰翼",
-      "twDesc": "在你的背後附加一個聖權戰翼。"
-    },
-    {
-      "english": {
-        "name": "Golden Angel Portal Effect",
-        "description": "Replaces the standard effect on portals you create with the Golden Angel Portal Effect."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Qb3J0YWxzL0dvbGRlbkFuZ2VsUG9ydGFsIn1d/c99f5a297d/GoldenAngelPortal.png",
-      "link": "https://www.pathofexile.com/shop/item/GoldenAngelPortalEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 150,
-        "discount": 110
-      },
-      "twName": "時空之門．紅門金使",
-      "twDesc": "將你所開啟傳送門替換為紅門金使的時空之門。"
-    },
-    {
-      "english": {
-        "name": "Sentinel Portal Effect",
-        "description": "Replaces the standard effect on portals you create with the Sentinel Portal Effect."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Qb3J0YWxzL1NlbnRpbmVsUG9ydGFsIn1d/48c04ab25b/SentinelPortal.png",
-      "link": "https://www.pathofexile.com/shop/item/SentinelPortalEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 150,
-        "discount": 110
-      },
-      "twName": "時空之門．哨兵之捷",
-      "twDesc": "將你所開啟傳送門替換為哨兵之捷的時空之門。"
-    },
-    {
-      "english": {
-        "name": "Seraph Portal Effect",
-        "description": "Replaces the standard effect on portals you create with the Seraph Portal Effect."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Qb3J0YWxzL1NlcmFwaFBvcnRhbCJ9XQ/9c8a260bf2/SeraphPortal.png",
-      "link": "https://www.pathofexile.com/shop/item/SeraphPortalEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 150,
-        "discount": 110
-      },
-      "twName": "時空之門．聖權神使",
-      "twDesc": "將你所開啟傳送門替換為聖權神使的時空之門。"
-    },
-    {
-      "english": {
-        "name": "Temple Portal Effect",
-        "description": "Replaces the standard effect on portals you create with the Temple Portal Effect."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Qb3J0YWxzL1RlbXBsZVBvcnRhbEVmZmVjdCJ9XQ/b9455787d1/TemplePortalEffect.png",
-      "link": "https://www.pathofexile.com/shop/item/TemplePortalEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 150,
-        "discount": 110
-      },
-      "twName": "時空之門．聖殿祭祀",
-      "twDesc": "將你所開啟的傳送門替換為聖殿祭祀的時空之門。"
-    },
     {
       "english": {
         "name": "Toad Idol of Chaos Hideout Decoration",
@@ -464,38 +20,6 @@
     },
     {
       "english": {
-        "name": "Pure Light Wings",
-        "description": "Adds the Pure Light Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9QdXJlTGlnaHRXaW5ncyJ9XQ/b23df5ddc1/PureLightWings.png",
-      "link": "https://www.pathofexile.com/shop/item/PureLightWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 320,
-        "discount": 235
-      },
-      "twName": "背飾：淨光羽翼",
-      "twDesc": "在你的背後附加淨光羽翼。"
-    },
-    {
-      "english": {
-        "name": "Radiant Character Effect",
-        "description": "Adds the Radiant Character Effect to your character."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9DaGFyYWN0ZXIvUmFkaWFudENoYXJhY3RlckVmZmVjdCJ9XQ/2af2dcede0/RadiantCharacterEffect.png",
-      "link": "https://www.pathofexile.com/shop/item/RadiantCharacterEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 190,
-        "discount": 140
-      },
-      "twName": "角色特效：光采聖記",
-      "twDesc": "為你的角色添加光采聖記特效。"
-    },
-    {
-      "english": {
         "name": "Radiant Lightning Bolt Effect",
         "description": "Replaces the standard effect on a Lighting Bolt gem with a radiant version."
       },
@@ -510,308 +34,6 @@
       "specialEnd": "2026-11-26T00:00:00+00:00",
       "twName": "雷彈．光采聖記",
       "twDesc": "你的雷彈特效替換為光采聖記。"
-    },
-    {
-      "english": {
-        "name": "Radiant Sword",
-        "description": "Replaces the appearance of a Two Hand Sword, Axe or Mace with the Radiant Sword"
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vUmFkaWFudFdlYXBvblNraW4ifV0/d86a9c7e32/RadiantWeaponSkin.png",
-      "link": "https://www.pathofexile.com/shop/item/RadiantSword",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 190,
-        "discount": 140
-      }
-    },
-    {
-      "english": {
-        "name": "Bleached Demon King Armour Pack",
-        "description": "Contains the Bleached Demon King Body Armour, Helmet, Boots and Gloves armour skins (at a discounted price)."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Bcm1vdXJTZXQvQm9uZUFybW91ciJ9XQ/fd827736b3/BoneArmour.png",
-      "link": "https://www.pathofexile.com/shop/item/BleachedDemonKingArmourPack",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 420,
-        "discount": 310
-      },
-      "twName": "鏽白領主組合包",
-      "twDesc": "包含了身體外觀：鏽白領主、頭部外觀：鏽白領主、腳部外觀：鏽白領主，和手部外觀：鏽白領主（這是優惠組合）。"
-    },
-    {
-      "english": {
-        "name": "Divine Arcane Wings",
-        "description": "Adds the Divine Arcane Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9EaXZpbmVBcmNhbmVXaW5ncyJ9XQ/30a874ec73/DivineArcaneWings.png",
-      "link": "https://www.pathofexile.com/shop/item/DivineArcaneWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 210,
-        "discount": 155
-      },
-      "twName": "背飾：神聖奧術之翼",
-      "twDesc": "在你的背後附加神聖奧術之翼。"
-    },
-    {
-      "english": {
-        "name": "Golden Character Effect",
-        "description": "Adds the Golden Character Effect to your character."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9DaGFyYWN0ZXIvR29sZGVuQ2hhcmFjdGVyRWZmZWN0In1d/ed012e61d3/GoldenCharacterEffect.png",
-      "link": "https://www.pathofexile.com/shop/item/GoldenCharacterEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 210,
-        "discount": 155
-      },
-      "twName": "角色特效：金碧輝煌",
-      "twDesc": "為你的角色添加金碧輝煌。"
-    },
-    {
-      "english": {
-        "name": "Manticore Shield",
-        "description": "Replaces the appearance of a shield with the Manticore Shield."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TaGllbGRzL01hbnRpY29yZVNoaWVsZCJ9XQ/a2ebc0b74c/ManticoreShield.png",
-      "link": "https://www.pathofexile.com/shop/item/ManticoreShield",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 210,
-        "discount": 155
-      },
-      "twName": "護盾外觀：獅身幻獸",
-      "twDesc": "將你的護盾外觀替換為獅身幻獸。"
-    },
-    {
-      "english": {
-        "name": "Pure Light Armour Pack",
-        "description": "Contains the Pure Light Body Armour, Helmet, Boots and Gloves armour skins (at a discounted price)."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Bcm1vdXJTZXQvUHVyZUxpZ2h0QXJtb3VyIn1d/a4ad80c549/PureLightArmour.png",
-      "link": "https://www.pathofexile.com/shop/item/PureLightArmourPack",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 420,
-        "discount": 310
-      },
-      "twName": "淨光組合包",
-      "twDesc": "包含了身體外觀：淨光、頭部外觀：淨光、腳部外觀：淨光以、手部外觀：淨光（這是優惠組合）。"
-    },
-    {
-      "english": {
-        "name": "Pure Light Character Effect",
-        "description": "Adds the Pure Light Character effect to your character."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9DaGFyYWN0ZXIvUHVyZUxpZ2h0RWZmZWN0In1d/a758df71c7/PureLightEffect.png",
-      "link": "https://www.pathofexile.com/shop/item/PureLightCharacterEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 210,
-        "discount": 155
-      },
-      "twName": "角色特效：淨光",
-      "twDesc": "為你的角色添加淨光特效。"
-    },
-    {
-      "english": {
-        "name": "Temple Armour Pack",
-        "description": "Contains the Temple Body Armour, Gloves, Boots and Helmet armour skins (at a discounted price)."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Bcm1vdXJTZXQvVGVtcGxlQXJtb3VyU2V0In1d/1296cc46a4/TempleArmourSet.png",
-      "link": "https://www.pathofexile.com/shop/item/TempleArmourPack",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 420,
-        "discount": 310
-      },
-      "twName": "聖殿祭祀組合包",
-      "twDesc": "包含了身體外觀：聖殿祭祀、頭部外觀：聖殿祭祀、腳部外觀：聖殿祭祀和手部外觀：聖殿祭祀（這是優惠組合）。"
-    },
-    {
-      "english": {
-        "name": "Temple Character Effect",
-        "description": "Adds the Temple Character Effect to your character."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9DaGFyYWN0ZXIvVGVtcGxlQ2hhcmFjdGVyRWZmZWN0In1d/fafc0a35be/TempleCharacterEffect.png",
-      "link": "https://www.pathofexile.com/shop/item/TempleCharacterEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 210,
-        "discount": 155
-      },
-      "twName": "角色特效：聖殿祭祀",
-      "twDesc": "為你的角色添加聖殿祭祀。"
-    },
-    {
-      "english": {
-        "name": "Zenith Armour Pack",
-        "description": "Contains the Zenith Body Armour, Helmet, Boots and Gloves armour skins (at a discounted price)."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Bcm1vdXJTZXQvWmVuaXRoQXJtb3VyIn1d/7cd0902aea/ZenithArmour.png",
-      "link": "https://www.pathofexile.com/shop/item/ZenithArmourPack",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 420,
-        "discount": 310
-      },
-      "twName": "極盛之尊組合包",
-      "twDesc": "包含了身體外觀：極盛之尊、頭部外觀：極盛之尊、腳部外觀：極盛之尊和手部外觀：極盛之尊（這是優惠組合）。"
-    },
-    {
-      "english": {
-        "name": "Zenith Back Attachment",
-        "description": "Adds the Zenith Back Attachment to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9aZW5pdGhCYWNrQXR0YWNobWVudCJ9XQ/e9e82d0379/ZenithBackAttachment.png",
-      "link": "https://www.pathofexile.com/shop/item/ZenithBackAttachment",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 210,
-        "discount": 155
-      },
-      "twName": "背飾：極盛之尊",
-      "twDesc": "在你的背後附加一個極盛之尊。"
-    },
-    {
-      "english": {
-        "name": "Zenith Character Effect",
-        "description": "Adds the Zenith Character Effect to your character."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9DaGFyYWN0ZXIvWmVuaXRoQ2hhcmFjdGVyRWZmZWN0In1d/d1ea6a17a2/ZenithCharacterEffect.png",
-      "link": "https://www.pathofexile.com/shop/item/ZenithCharacterEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 210,
-        "discount": 155
-      },
-      "twName": "角色特效：極盛之尊",
-      "twDesc": "為你的角色添加極盛之尊特效。"
-    },
-    {
-      "english": {
-        "name": "Divine Sigil of Power Effect",
-        "description": "Replaces the standard effect on a Sigil of Power gem with a divine version."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9EaXZpbmVTaWdpbE9mUG93ZXJFZmZlY3QifV0/83e62d48ae/DivineSigilOfPowerEffect.png",
-      "link": "https://www.pathofexile.com/shop/item/DivineSigilofPowerEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 115,
-        "discount": 85
-      },
-      "twName": "咒符之力．聖能",
-      "twDesc": "你的咒符之力特效替換為聖能。"
-    },
-    {
-      "english": {
-        "name": "Pure Light Cloak",
-        "description": "Adds the Pure Light Cloak to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9QdXJlTGlnaHRDYXBlIn1d/3811a20651/PureLightCape.png",
-      "link": "https://www.pathofexile.com/shop/item/PureLightCloak",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 230,
-        "discount": 170
-      },
-      "twName": "背飾：淨光披風",
-      "twDesc": "在你的背後附加淨光披風。"
-    },
-    {
-      "english": {
-        "name": "Seraph Banner Back Attachment",
-        "description": "Adds the Seraph Banner Back Attachment to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9TZXJhcGhCYW5uZXJCYWNrQXR0YWNobWVudCJ9XQ/16c65451a4/SeraphBannerBackAttachment.png",
-      "link": "https://www.pathofexile.com/shop/item/SeraphBannerBackAttachment",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 230,
-        "discount": 170
-      },
-      "twName": "背飾：聖權旗幟",
-      "twDesc": "在你的背後附加聖權旗幟。"
-    },
-    {
-      "english": {
-        "name": "Celestial Emperor Wings",
-        "description": "Adds the Celestial Emperor Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9DZWxlc3RpYWxFbXBlcm9yV2luZ3MifV0/d689581c85/CelestialEmperorWings.png",
-      "link": "https://www.pathofexile.com/shop/item/CelestialEmperorWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 250,
-        "discount": 185
-      },
-      "twName": "背飾：眾星帝王之翼",
-      "twDesc": "在你的背後附加至眾星帝王之翼。"
-    },
-    {
-      "english": {
-        "name": "Seraph Character Effect",
-        "description": "Adds the Seraph Character Effect to your character."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9DaGFyYWN0ZXIvU2VyYXBoQ2hhcmFjdGVyRWZmZWN0In1d/c39fe39607/SeraphCharacterEffect.png",
-      "link": "https://www.pathofexile.com/shop/item/SeraphCharacterEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 250,
-        "discount": 185
-      },
-      "twName": "角色特效：聖權神使",
-      "twDesc": "為你的角色添加聖權神使特效。"
-    },
-    {
-      "english": {
-        "name": "Sphinx Wings",
-        "description": "Adds the Sphinx Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9TcGhpbnhXaW5ncyJ9XQ/3d5059b0e5/SphinxWings.png",
-      "link": "https://www.pathofexile.com/shop/item/SphinxWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 310,
-        "discount": 230
-      },
-      "twName": "背飾：獅身人面之翼",
-      "twDesc": "在你的背後附加獅身人面之翼。"
-    },
-    {
-      "english": {
-        "name": "Temple Wings",
-        "description": "Adds the Temple Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9UZW1wbGVXaW5ncyJ9XQ/2ef39ac45e/TempleWings.png",
-      "link": "https://www.pathofexile.com/shop/item/TempleWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 310,
-        "discount": 230
-      },
-      "twName": "背飾：聖殿祭祀之翼",
-      "twDesc": "在你的背後附加聖殿祭祀之翼。"
     },
     {
       "english": {
@@ -866,38 +88,6 @@
     },
     {
       "english": {
-        "name": "Divine Infernal Axe",
-        "description": "Replaces the appearance of a Two Hand Axe or Two Hand Mace with the Divine Infernal Axe."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vRGl2aW5lSW5mZXJuYWxBeGVTa2luIn1d/7b0cb65134/DivineInfernalAxeSkin.png",
-      "link": "https://www.pathofexile.com/shop/item/DivineInfernalAxe",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 200,
-        "discount": 150
-      },
-      "twName": "武器外觀：神聖煉獄魔斧",
-      "twDesc": "將你的雙手斧或雙手錘外觀替換為神聖煉獄魔斧。"
-    },
-    {
-      "english": {
-        "name": "Divine Stygian Armour Pack",
-        "description": "Contains the Divine Stygian Body Armour, Gloves, Boots and Helmet armour skins (at a discounted price)."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Bcm1vdXJTZXQvRGl2aW5lU3R5Z2lhbkFybW91clNldCJ9XQ/a01df46573/DivineStygianArmourSet.png",
-      "link": "https://www.pathofexile.com/shop/item/DivineStygianArmourPack",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 420,
-        "discount": 315
-      },
-      "twName": "神聖冥河組合包",
-      "twDesc": "包含了身體外觀：神聖冥河、頭部外觀：神聖冥河、腳部外觀：神聖冥河和手部外觀：神聖冥河（這是優惠組合）。"
-    },
-    {
-      "english": {
         "name": "Ghoulhunter Armour Pack",
         "description": "Contains the Ghoulhunter Helmet, Boots, Gloves and Body Armour (at a discounted price)."
       },
@@ -949,70 +139,6 @@
     },
     {
       "english": {
-        "name": "Merchant Armour Pack",
-        "description": "Contains the Merchant Body Armour, Gloves, Boots and Helmet armour skins (at a discounted price)."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Bcm1vdXJTZXQvTWVyY2hhbnRBcm1vdXIifV0/7fcfeb4a25/MerchantArmour.png",
-      "link": "https://www.pathofexile.com/shop/item/MerchantArmourPack",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 420,
-        "discount": 315
-      },
-      "twName": "大盤商組合包",
-      "twDesc": "包含了身體外觀：大盤商、頭部外觀：大盤商、腳部外觀：大盤商和手部外觀：大盤商（這是優惠組合）。"
-    },
-    {
-      "english": {
-        "name": "Merchant Aura Effect",
-        "description": "Replaces the standard effect on an Aura gem with a merchant version."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9BdXJhcy9NZXJjaGFudEF1cmFFZmZlY3QifV0/30e2e35930/MerchantAuraEffect.png",
-      "link": "https://www.pathofexile.com/shop/item/MerchantAuraEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 120,
-        "discount": 90
-      },
-      "twName": "光環效果．大盤商",
-      "twDesc": "你的光環特效替換為大盤商。"
-    },
-    {
-      "english": {
-        "name": "Merchant Cloak",
-        "description": "Adds the Merchant Cloak to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9NZXJjaGFudEJhY2tBdHRhY2htZW50In1d/79abcae09b/MerchantBackAttachment.png",
-      "link": "https://www.pathofexile.com/shop/item/MerchantCloak",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 180,
-        "discount": 135
-      },
-      "twName": "背飾：大盤商披風",
-      "twDesc": "在你的背後附加大盤商披風。"
-    },
-    {
-      "english": {
-        "name": "Merchant Weapon",
-        "description": "Replaces the appearance of a Dagger, Wand, Claw, Sword, One Hand Axe or One Hand Mace with the Merchant Weapon."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vTWVyY2hhbnRXZWFwb25Ta2luIn1d/6d93c2ccf6/MerchantWeaponSkin.png",
-      "link": "https://www.pathofexile.com/shop/item/MerchantWeapon",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 200,
-        "discount": 150
-      },
-      "twName": "武器外觀：大盤商",
-      "twDesc": "將你的匕首、法杖、爪、劍、單手斧或單手錘外觀替換為大盤商。"
-    },
-    {
-      "english": {
         "name": "Plummeting Chaos Rare Finisher Effect",
         "description": "Imbues a weapon with the Plummeting Chaos Rare Finisher Effect. It amplifies the deaths of Rare Monsters you kill."
       },
@@ -1027,22 +153,6 @@
       "specialEnd": "2026-11-26T00:00:00+00:00",
       "twName": "稀有終結特效：墮落混沌",
       "twDesc": "為你的武器注入稀有終結特效：墮落混沌。會增幅你擊殺稀有怪物的死亡效果。"
-    },
-    {
-      "english": {
-        "name": "Pure Light Shield",
-        "description": "Replaces the appearance of a shield with the Pure Light Shield."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TaGllbGRzL1B1cmVMaWdodFNoaWVsZCJ9XQ/be0f687c50/PureLightShield.png",
-      "link": "https://www.pathofexile.com/shop/item/PureLightShield",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 180,
-        "discount": 135
-      },
-      "twName": "護盾外觀：淨光",
-      "twDesc": "將你的護盾外觀替換為淨光。"
     },
     {
       "english": {
@@ -1077,134 +187,6 @@
       "specialEnd": "2026-11-26T00:00:00+00:00",
       "twName": "龍捲風．光采聖記",
       "twDesc": "將技能「龍捲風」的特效替換為光采聖記。"
-    },
-    {
-      "english": {
-        "name": "Seraph Grace Wings",
-        "description": "Adds the Seraph Grace Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9TZXJhcGhHcmFjZVdpbmdzIn1d/eba7aac58d/SeraphGraceWings.png",
-      "link": "https://www.pathofexile.com/shop/item/SeraphGraceWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 320,
-        "discount": 240
-      },
-      "twName": "背飾：典雅聖權羽翼",
-      "twDesc": "在你的背後附加一個典雅聖權羽翼。"
-    },
-    {
-      "english": {
-        "name": "Sunprism Cloak",
-        "description": "Adds the Sunprism Cloak to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9TdW5QcmlzbUNsb2FrIn1d/5d4f56cf95/SunPrismCloak.png",
-      "link": "https://www.pathofexile.com/shop/item/SunprismCloak",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 220,
-        "discount": 165
-      },
-      "twName": "背飾：烈陽稜石披風",
-      "twDesc": "在你的背後附加烈陽稜石披風。"
-    },
-    {
-      "english": {
-        "name": "Sunprism Shield",
-        "description": "Replaces the appearance of a shield with the Sunprism Shield."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TaGllbGRzL1N1bnByaXNtU2hpZWxkIn1d/10bfb9ee52/SunprismShield.png",
-      "link": "https://www.pathofexile.com/shop/item/SunprismShield",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 180,
-        "discount": 135
-      },
-      "twName": "護盾外觀：烈陽稜石",
-      "twDesc": "將你的護盾外觀替換為烈陽稜石。"
-    },
-    {
-      "english": {
-        "name": "Sunprism Weapon",
-        "description": "Replaces the appearance of any equipped Sword, Axe, Mace or Staff to the Sunprism Weapon."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vU3VucHJpc21XZWFwb24ifV0/b24507498f/SunprismWeapon.png",
-      "link": "https://www.pathofexile.com/shop/item/SunprismWeapon",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 180,
-        "discount": 135
-      },
-      "twName": "武器外觀：烈陽稜劍",
-      "twDesc": "將你的劍、斧、錘或長杖外觀替換為烈陽稜劍。"
-    },
-    {
-      "english": {
-        "name": "Sunprism Wings",
-        "description": "Adds the Sunprism Wings to your body armour."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9TdW5wcmlzbVdpbmdzIn1d/8be21ce5f9/SunprismWings.png",
-      "link": "https://www.pathofexile.com/shop/item/SunprismWings",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 320,
-        "discount": 240
-      },
-      "twName": "背飾：烈陽稜石之翼",
-      "twDesc": "在你的背後附加烈陽稜石之翼。"
-    },
-    {
-      "english": {
-        "name": "Temple Lancing Steel Effect",
-        "description": "Replaces the standard effect on a Lancing Steel gem with a temple version."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9UZW1wbGVMYW5jaW5nU3RlZWwifV0/570e8e112e/TempleLancingSteel.png",
-      "link": "https://www.pathofexile.com/shop/item/TempleLancingSteelEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 120,
-        "discount": 90
-      },
-      "twName": "鋼之突刺．聖殿祭祀",
-      "twDesc": "你的鋼之突刺特效替換為聖殿祭祀。"
-    },
-    {
-      "english": {
-        "name": "Temple Weapon",
-        "description": "Replaces the appearance of a Sword, Axe, Two Hand Mace or Staff with the Temple Weapon."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vVGVtcGxlV2VhcG9uU2tpbiJ9XQ/6a0f2b2250/TempleWeaponSkin.png",
-      "link": "https://www.pathofexile.com/shop/item/TempleWeapon",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 180,
-        "discount": 135
-      },
-      "twName": "武器外觀：聖殿祭祀",
-      "twDesc": "將你的劍、斧、雙手錘或長杖外觀替換為聖殿祭祀。"
-    },
-    {
-      "english": {
-        "name": "Temple Weapon Effect",
-        "description": "Imbues a weapon with the Temple Weapon Effect."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vd2VhcG9uX1RlbXBsZVdlYXBvbkVmZmVjdCJ9XQ/724c199387/weapon_TempleWeaponEffect.png",
-      "link": "https://www.pathofexile.com/shop/item/TempleWeaponEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 180,
-        "discount": 135
-      },
-      "twName": "武器特效：聖殿祭祀",
-      "twDesc": "為你的武器注入聖殿祭祀。"
     },
     {
       "english": {
@@ -1412,38 +394,6 @@
     },
     {
       "english": {
-        "name": "Zenith Shield",
-        "description": "Replaces the appearance of a shield with the Zenith Shield."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TaGllbGRzL1doaXRlTGFjcXVlcmVkU2hpZWxkIn1d/3406eb0cb5/WhiteLacqueredShield.png",
-      "link": "https://www.pathofexile.com/shop/item/ZenithShield",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 180,
-        "discount": 135
-      },
-      "twName": "護盾外觀：極盛之尊",
-      "twDesc": "將你的護盾外觀替換為極盛之尊。"
-    },
-    {
-      "english": {
-        "name": "Zenith Weapon",
-        "description": "Replaces the appearance of any equipped Sword, Axe, Mace or Staff to the Zenith Weapon."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XZWFwb24vV2hpdGVMYWNxdWVyZWRTd29yZCJ9XQ/723d86e029/WhiteLacqueredSword.png",
-      "link": "https://www.pathofexile.com/shop/item/ZenithWeapon",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 180,
-        "discount": 135
-      },
-      "twName": "武器外觀：極盛之尊",
-      "twDesc": "將你的劍、斧、錘、權杖或長杖外觀替換為極盛之尊。"
-    },
-    {
-      "english": {
         "name": "Gold Timekeeper's Map Device",
         "description": "Adds a Gold Timekeeper's Map Device decoration to your personal Hideout. This map device tracks how long you've been in an area."
       },
@@ -1512,22 +462,6 @@
     },
     {
       "english": {
-        "name": "Sunprism Alchemist's Mark Effect",
-        "description": "Replaces the standard effect on an Alchemist's Mark gem with a sunprism version."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TdW5wcmlzbUFsY2hlbWlzdHNNYXJrU2tpbGxFZmZlY3QifV0/8ec04e5e0e/SunprismAlchemistsMarkSkillEffect.png",
-      "link": "https://www.pathofexile.com/shop/item/SunprismAlchemistsMarkEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 145,
-        "discount": 110
-      },
-      "twName": "煉金術士印記．烈陽稜石",
-      "twDesc": "將技能「煉金術士印記」的特效替換為烈陽稜石。"
-    },
-    {
-      "english": {
         "name": "Bronze Timekeeper's Map Device",
         "description": "Adds a Bronze Timekeeper's Map Device decoration to your personal Hideout. This map device tracks how long you've been in an area."
       },
@@ -1559,38 +493,6 @@
       "specialEnd": "2026-11-26T00:00:00+00:00",
       "twName": "地圖裝置：時間旅人．銅 (公會)",
       "twDesc": "為你的公會增添此裝飾物。"
-    },
-    {
-      "english": {
-        "name": "Bone Aura Character Effect",
-        "description": "Adds the Bone Aura Character effect to your character."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9BdXJhcy9Cb25lQXVyYSJ9XQ/eceec8b43f/BoneAura.png",
-      "link": "https://www.pathofexile.com/shop/item/BoneAuraCharacterEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 125,
-        "discount": 95
-      },
-      "twName": "角色特效：骸骨領域",
-      "twDesc": "為你的角色添加骸骨領域特效。"
-    },
-    {
-      "english": {
-        "name": "Sunprism Herald Effect",
-        "description": "Replaces the standard effect on a Herald gem with a sunprism version."
-      },
-      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9TdW5wcmlzbUhlcmFsZCJ9XQ/1d23ec223a/SunprismHerald.png",
-      "link": "https://www.pathofexile.com/shop/item/SunprismHeraldEffect",
-      "source": "poe1",
-      "kind": "discount",
-      "price": {
-        "original": 125,
-        "discount": 95
-      },
-      "twName": "捷光環．烈陽稜石",
-      "twDesc": "你的捷光環技能充滿了烈陽稜石效果。"
     },
     {
       "english": {
@@ -4164,6 +3066,58 @@
       "price": {
         "discount": 190,
         "original": 250
+      }
+    },
+    {
+      "english": {
+        "name": "Celestial Emperor Wings",
+        "description": "Adds the Celestial Emperor Wings to your body armour."
+      },
+      "link": "https://www.pathofexile.com/shop/item/CelestialEmperorWings",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9DZWxlc3RpYWxFbXBlcm9yV2luZ3MifV0/d689581c85/CelestialEmperorWings.png",
+      "source": "poe1",
+      "price": {
+        "discount": 185,
+        "original": 250
+      }
+    },
+    {
+      "english": {
+        "name": "Sunprism Cloak",
+        "description": "Adds the Sunprism Cloak to your body armour."
+      },
+      "link": "https://www.pathofexile.com/shop/item/SunprismCloak",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9TdW5QcmlzbUNsb2FrIn1d/5d4f56cf95/SunPrismCloak.png",
+      "source": "poe1",
+      "price": {
+        "discount": 165,
+        "original": 220
+      }
+    },
+    {
+      "english": {
+        "name": "Sunprism Wings",
+        "description": "Adds the Sunprism Wings to your body armour."
+      },
+      "link": "https://www.pathofexile.com/shop/item/SunprismWings",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9TdW5wcmlzbVdpbmdzIn1d/8be21ce5f9/SunprismWings.png",
+      "source": "poe1",
+      "price": {
+        "discount": 240,
+        "original": 320
+      }
+    },
+    {
+      "english": {
+        "name": "Seraph Banner Back Attachment",
+        "description": "Adds the Seraph Banner Back Attachment to your body armour."
+      },
+      "link": "https://www.pathofexile.com/shop/item/SeraphBannerBackAttachment",
+      "image": "https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9XaW5ncy9TZXJhcGhCYW5uZXJCYWNrQXR0YWNobWVudCJ9XQ/16c65451a4/SeraphBannerBackAttachment.png",
+      "source": "poe1",
+      "price": {
+        "discount": 170,
+        "original": 230
       }
     },
     {
